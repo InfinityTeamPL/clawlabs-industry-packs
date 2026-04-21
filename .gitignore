@@ -1,0 +1,33 @@
+# Backups (per klient, mogą zawierać dane kadrowe konkretnych firm)
+backups/
+*/backups/
+
+# Ewentualne pliki robocze / notatki osobiste
+notes.local.md
+*.local.md
+TODO.local.md
+
+# Scratch / temp
+scratch/
+tmp/
+*.tmp
+*.bak
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env i sekrety (nawet jeśli repo prywatne)
+.env
+.env.local
+.env.*.local
+
+# Snapshotowe metadane do ClawLabs
+snapshots.local.json
