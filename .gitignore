@@ -31,3 +31,42 @@ desktop.ini
 
 # Snapshotowe metadane do ClawLabs
 snapshots.local.json
+
+# ── DUŻE PLIKI / DATA — nie commitujemy do GitHuba ──────────────
+# Agent nie czyta tych plików. PDF-y są źródłem dla pipeline'u
+# (build_kb.py konwertuje do MD chunków), CSV/XLSX z dane.gov.pl też
+# są surowymi datasetami pre-processed do MD w kb/. Trzymamy lokalnie
+# u dewelopera (do rebuild) ale nie pchamy do GitHuba.
+
+# Surowe dataset z dane.gov.pl / GUS / ZUS (~GB rozmiarów)
+*/data/raw/
+*/data/*.csv
+*/data/*.xlsx
+*/data/*.zip
+*/data/*.7z
+*/data/*.rar
+
+# Manifesty pipeline'u (pre-fetch metadata, regenerable)
+*/data/manifest.json
+*/data/skipped.json
+
+# Ekstrakcje archive (post-extract markery)
+*/data/.*.extracted
+
+# PDF/dokumenty źródłowe w KB — agent czyta tylko MD chunki obok
+# Zostaje:  kb/.../<name>/_overview.md + chunk_NN.md
+# Pomija:   kb/.../<name>.pdf  (źródło, regenerable z ISAP/api.sejm.gov.pl)
+*/kb/**/*.pdf
+*/kb/**/*.csv
+*/kb/**/*.xlsx
+*/kb/**/*.zip
+*/kb/**/*.docx
+*/kb/**/*.doc
+
+# Node modules (jeśli ktoś npm install w paczkach)
+node_modules/
+*/node_modules/
+
+# FTS / SQLite indexy generowane lokalnie
+*/.fts_index.db
+*/_index.sqlite
