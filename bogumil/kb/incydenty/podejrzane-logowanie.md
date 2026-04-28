@@ -45,7 +45,7 @@ Bogumił zadaje je zanim cokolwiek zrobi:
 5. **Skontaktuj się z hostingiem** — home.pl, LH.pl, nazwa.pl mają dział bezpieczeństwa, często pomogą przy skanowaniu
 6. **Przywróć z backupu** jeśli dostępny i serwer był mocno skompromitowany
 
-Bogumił przez desktop app (jeśli klient ma serwer na Windows) może sprawdzić logi zdarzeń.
+Bogumił przez desktop app (jeśli klient ma komputer/serwer z Windows i zainstalowane ClawLabs Office) może sprawdzić logi zdarzeń.
 
 ---
 

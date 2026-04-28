@@ -6,7 +6,7 @@
 2. **Po incydencie** — podejrzane logowanie, wirus, coś dziwnego
 3. **Na zgłoszenie klienta** — „komputer działa wolno", „coś jest nie tak", „dziwne okienka"
 
-> **Wymagania:** PowerShell 5.1+ — standard na Windows 10/11.
+> **Wymagania:** PowerShell 5.1+ (standard na Windows 10/11) **uruchomiony jako Administrator** — komendy 3 i 4 (Event Log Security) bez elevacji zwracają błąd dostępu.
 
 ---
 
