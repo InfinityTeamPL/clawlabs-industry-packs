@@ -120,10 +120,14 @@ Pracownik może pisemnie wyrazić zgodę na dodatkowe potrącenia (np. składka 
 ### Pierwsze 33 dni choroby w roku (14 dni dla > 50 lat) — art. 92 KP
 - **Wypłaca pracodawca**
 - **80% wynagrodzenia** (standardowo)
-- **100%** w przypadku:
-  - Wypadek przy pracy / choroba zawodowa
+- **100%** TYLKO w przypadku (art. 92 § 1 pkt 1–3 KP):
+  - Wypadek przy pracy / choroba zawodowa, wypadek w drodze do/z pracy
   - Choroba w czasie ciąży
-  - Poddanie się badaniom dla kandydatów na dawców komórek / narządów
+  - Poddanie się badaniom / zabiegowi dla kandydatów na dawców komórek, tkanek, narządów
+
+> ⚠️ **ANTY-HALUCYNACJA:** 100% wynagrodzenia chorobowego **NIE przysługuje** osobom 50+ ani wychowującym dziecko do lat 8 — to częsty mit. Wiek > 50 lat zmienia tylko **okres finansowany przez pracodawcę** (14 zamiast 33 dni), stawka nadal **80%**. Poza trzema wyjątkami wyżej zawsze 80%.
+
+> 📐 **Podstawa chorobowego = wynagrodzenie po odjęciu 13,71%** (składki pracownika). Przy stałej pensji 6000 zł: podstawa = 6000 − 822,60 = **5177,40 zł**; dzienna = 5177,40/30 = 172,58 zł; 80% × 10 dni ≈ **1381 zł** (NIE 1600 zł — pełny przykład: `wynagrodzenia/przyklady-wyliczen.md`).
 
 ### Od 34. dnia (15. dla > 50 lat)
 - **Wypłaca ZUS** — zasiłek chorobowy
