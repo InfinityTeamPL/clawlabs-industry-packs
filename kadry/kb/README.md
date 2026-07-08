@@ -68,13 +68,14 @@ kadry/
 
 - Gotowe listy płac ani wyliczenia podatku — to robi księgowa
 - Specyfika branż regulowanych (medycyna, transport, budownictwo) — to dodatkowe bazy per-klient
-- Orzecznictwo — za krótko żyjemy. Janina szuka w LEX/Legalis tylko gdy klient wyraźnie prosi
+- Kompletna baza orzecznictwa — mamy WYBRANE, zweryfikowane tezy SN dla najczęstszych sporów w `orzecznictwo/` (sygnatury sprawdzone w saos.org.pl/sn.pl) + `interpretacje/jak-korzystac.md` (ZUS/KIS/PIP, szare strefy). Poza tym zakresem Janina szuka w LEX/SAOS i NIE zmyśla sygnatur
 - Prawo pracy państw obcych — Janina pracuje na polskim prawie; dla obcokrajowców w PL tak, ale dla Polaków za granicą kieruje do lokalnych specjalistów
 
 ## Status wypełnienia (8.07.2026)
 
 - [x] **Audyt aktualności 8.07.2026** — 8 zmian prawa obowiązujących w 2025/2026 wgranych: reforma PIP (473), jawność etap I (807), staż art. 302¹ (1423), e-wnioski/ekwiwalent (25), układy zbiorowe (1661), L4/ZUS (26), minimalna (1242), cudzoziemcy (621) + wpisy anty-halucynacyjne (luka płacowa ~2027, oskładkowanie zleceń porzucone)
 - [x] **Pełny audyt KB 8.07.2026 (11 agentów) + naprawy** — poprawki P0/P1: terminy odwołania 21 dni (art. 264 KP), współczynnik ekwiwalentu 20,92, limit 30-krotności 282 600, kwoty wolne od potrąceń netto, PPK 1,5%, świadectwo pracy (pola 2023), RODO zakaz pytania o zarobki, BHP instruktaż 3h + kontrola trzeźwości, mobbing (status noweli), niedziele handlowe 2026. Nowe notatki: kontrola trzeźwości, sygnaliści, ustawa o rynku pracy, uzupełniający urlop macierzyński (wcześniaki), świadczenie rodzicielskie, zasiłki ZUS 2026 + zasiłek pogrzebowy 7000 zł, przykłady wyliczeń, ZFŚS, PFRON, kary porządkowe, zwolnienia grupowe, odpowiedzialność materialna/zakaz konkurencji. Nowe akty: 1871 (wcześniaki), 620 (rynek pracy), 718 (pogrzebowy), 570 (zwolnienia grupowe)
+- [x] **Baza orzecznictwa SN + interpretacji (differentiator vs LEX/INFORLEX)** — `orzecznictwo/` (41 zweryfikowanych tez SN: ustalenie stosunku pracy/B2B, wypowiedzenie/utrata zaufania, art. 52, czas pracy/nadgodziny, mobbing, odpowiedzialność/zakaz konkurencji — każda sygnatura sprawdzona w saos.org.pl/sn.pl, 2 odrzucone przy weryfikacji) + `interpretacje/jak-korzystac.md` (jak korzystać z interpretacji ZUS/KIS/PIP + typowe szare strefy)
 
 ## Status wypełnienia (21.04.2026)
 
