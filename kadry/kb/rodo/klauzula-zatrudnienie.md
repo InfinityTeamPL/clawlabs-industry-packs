@@ -40,7 +40,7 @@ Podstawowy zakres (art. 22¹ KP):
 - adres zamieszkania i korespondencji
 - dane kontaktowe
 - wykształcenie
-- przebieg dotychczasowego zatrudnienia
+- przebieg dotychczasowego zatrudnienia (na etapie rekrutacji **bez informacji o wynagrodzeniu** — art. 22¹ § 1 pkt 6 KP, od 24.12.2025)
 - PESEL (dla celów ZUS, PIT)
 - numer rachunku bankowego
 - dane osób upoważnionych do odbioru wynagrodzenia / kontaktu awaryjnego (za zgodą tych osób)

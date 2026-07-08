@@ -1,189 +1,94 @@
 ---
 act_eli: DU/2025/620
-chunk: 55/63
+chunk: 55/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 55/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 55/62
 
-Art. 379. W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepeł-
-nosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165, 1494 i 1961) wprowadza się następujące zmiany: 
-1) w art. 2 pkt 2 otrzymuje brzmienie: 
-„2) osobie niepełnosprawnej bezrobotnej lub niepełnosprawnej poszukującej pracy – oznacza to osobę niepełno-
-sprawną bezrobotną lub niep ełnosprawną poszukującą pracy w  rozumieniu przepisów ustawy z  dnia 20 marca 
-2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”; 
-2) w art. 11 ust. 1 i 2 otrzymują brzmienie: 
-„1. Osoba niepełnosprawna zarejestrowana w  powiatowym urzędzie pra cy jako bezrobotna albo poszukująca 
-pracy niepozostająca w  zatrudnieniu ma prawo korzystać z  form pomocy na zasadach określonych w  ustawie z dnia 
-20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwanej dalej „ustawą o rynku pracy”. 
-2. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako poszukująca pracy niepozostająca 
-w zatrudnieniu może również korzystać na zasadach takich jak bezrobotni z następujących form pomocy określonych 
-w ustawie o rynku pracy: 
-1) szkoleń, a także sfinansowania potwierdzenia nabycia wiedzy i umiejętności oraz uzyskania dokumentów potwier-
-dzających nabycie wiedzy i umiejętności, o których mowa w art. 99, art. 101 i art. 102 ustawy o rynku pracy; 
-2) bonu na kształcenie ustawiczne, o którym mowa w art. 107 ustawy o rynku pracy; 
+Art. 390. W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83) wprowadza się następujące zmiany:
+1) w art. 1 w ust. 2 pkt 5 otrzymuje brzmienie: „5) długotrwale bezrobotnych w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),”;
+2) w art. 2 pkt 8 i 9 otrzymują brzmienie: „8) zatrudnieniu wspieranym – oznacza to udzielanie wsparcia o charakterze doradczym i finansowym osobie, o której mowa w art. 1, w utrzymaniu aktywności zawodowej umożliwiającej podjęcie zatrudnienia, prac społecznie użytecznych w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, założenie lub przystąpienie do spółdzielni socjalnej lub podjęcie działalności gospodarczej; 9) zasiłku dla bezrobotnych – oznacza to zasiłek, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+3) w art. 9a ust. 1 i 2 otrzymują brzmienie: „1. Centrum może realizować działania w zakresie reintegracji społecznej bezrobotnych służące kształtowaniu
+aktywnej postawy w życiu społecznym i zawodowym, o których mowa w art. 200 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+2. Realizacja działań, o których mowa w ust. 1, oraz ich finansowanie odbywa się, zgodnie z umową, o której mowa w art. 200 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+4) w art. 13:
+a) w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Zakończenie realizacji programu następuje w okresie do 6 miesięcy po dniu, w którym uczestnik objęty programem podjął zatrudnienie lub inną pracę zarobkową w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, założył lub przystąpił do spółdzielni socjalnej lub podjął działalność gospodarczą, albo w dniu, w którym upłynął okres uczestnictwa w zajęciach w Centrum, o którym mowa w art. 15.”,
+b) ust. 5a otrzymuje brzmienie: „5a. Po zakończeniu uczestnictwa w zajęciach w Centrum kierownik Centrum wydaje uczestnikowi za-
+świadczenie potwierdzające uczestnictwo w zajęciach i umiejętności nabyte w ramach reintegracji zawodowej i społecznej, a dodatkowo w przypadku osób, o których mowa w art. 1 ust. 2 pkt 5, przekazuje zaświadczenie do powiatowego urzędu pracy.”;
+5) w art. 15b w ust. 1:
+a) pkt 1 otrzymuje brzmienie: „1) prac społecznie użytecznych na zasadach określonych w przepisach o rynku pracy i służbach zatrudnienia;”,
+b) pkt 3 otrzymuje brzmienie: „3) rzecznictwa, poradnictwa zawodowego, psychologicznego i społecznego dla osób realizujących prace społecznie użyteczne w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, podejmujących zatrudnienie, działalność gospodarczą, zakładających lub przystępujących do spółdzielni socjalnej.”;
+6) w art. 16 ust. 6 otrzymuje brzmienie: „6. W przypadku podjęcia działalności, o której mowa w ust. 1a, przysługują uprawnienia, o których mowa
+w przepisach o rynku pracy i służbach zatrudnienia.”;
 
-  
-Dziennik Ustaw – 160 – Poz. 620 
- 
- 
-3) stażu, o którym mowa w art. 114 i art. 119 ustawy o rynku pracy; 
-4) prac interwencyjnych, o których mowa w art. 135 ustawy o rynku pracy; 
-5) badań lekarskich lub psychologicznych, o których mowa w art. 205 ust. 1 ustawy o rynku pracy; 
-6) zwrotu kosztów przejazdu, o których mowa w art. 206 ust. 1, 3 i 4 ustawy o rynku pracy; 
-7) zwrotu kosztów zakwaterowania, o których mowa w art. 206 ust. 2 ustawy o rynku pracy; 
-8) bonu na zasiedlenie, o którym mowa w art. 208 ustawy o rynku pracy; 
-9) robót publicznych, o których mowa w art. 136 ustawy o rynku pracy.”; 
-3) w art. 35a w ust. 1 pkt 6a otrzymuje brzmienie: 
-„6a) finansowanie z  Funduszu wydatków na formy pomocy określone w  ustawie o  rynku pracy, w  odniesieniu 
-do osób niepełnosprawnych zarejestrowanych jako poszukujące pracy niepozostające w zatrudnieniu;”. 
-Art. 380. W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.  U. z 2025 r. poz. 350) 
-wprowadza się następujące zmiany: 
-1) w art. 4 w pkt 2 uchyla się lit. ł2; 
-2) w art. 6 w ust. 1: 
-a) pkt 9 otrzymuje brzmienie: 
-„9) osobami pobierającymi zasiłek dla bezrobotnych, świadczenie integracyjne lub stypendium w okresie odbywa-
-nia szkolenia, stażu lub uczestnictwa w zleconych przez starostę działaniach w zakresie reintegracji społecznej, 
-na które zostały skierowane przez powiatowy urząd pracy, zwanymi dalej „bezrobotnymi”;”, 
-b) uchyla się pkt 9b, 
-c) po pkt 9b dodaje się pkt 9c w brzmieniu: 
-„9c) osobami niepełnosprawnymi zarejestrowanymi w powiatowym urzędzie pracy jako poszukujące pracy nie-
-pozostające w zatrudnieniu pobierającymi stypendium na podstawie ustawy z dnia 20 marca 2025 r. o rynku 
-pracy i służbach zatrudnienia (Dz. U. poz. 620) w okresie odbywania szkolenia lub stażu, na które zostały 
-skierowane przez powiatowy urząd pracy;”; 
-3) w art. 9 ust. 6a otrzymuje brzmienie: 
-„6a. Osoby, o których mowa w art. 6 ust. 1 pkt 9, 9a, 9c, 11 i 12, obowiązkowo podlegają ubezpieczeniom emery-
-talnemu i rentowym, jeżeli nie mają innych tytułów rodzących obowiązek ubezpieczeń społecznych.”; 
-4) w art. 13: 
-a) uchyla się pkt 9b, 
-b) po pkt 9b dodaje się pkt 9c w brzmieniu: 
-„9c) osoby, o których mowa w art. 6 ust. 1 pkt 9c – od dnia nabycia prawa do stypendium do dnia utraty prawa 
-do niego;”; 
-5) w art. 16: 
-a) ust. 1e otrzymuje brzmienie: 
-„1e. W przypadku stwierdzenia nielegalnego zatrudnienia  w rozumieniu art.  2 pkt 14 lit. a ustawy z  dnia 
-20 marca 2025 r. o rynku pracy i służbach zatrudnienia lub zaniżenia podstawy wymiaru składek pracowników, 
-składki na ubezpieczenia emerytalne, rentowe i  chorobowe od wynagrodzenia z tytułu nielegalnego zatrudnienia 
-oraz od części nieujawnionego wynagrodzenia nie obciążają ubezpieczonego i  opłacane są w całości z własnych 
-środków przez płatnika składek.”, 
-b) uchyla się ust. 9b, 
-c) po ust. 9b dodaje się ust. 9c w brzmieniu: 
-„9c. Składki na ubezpieczenia emerytalne i  rentowe osób, o których mowa w art. 6 ust. 1 pkt 9c, finansują 
-w całości powiatowe urzędy pracy z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych.”; 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 161 – Poz. 620 
- 
- 
-6) w art. 17 ust. 1 otrzymuje brzmienie: 
-„1. Składki na ubezpieczenia emerytalne, rentowe, wypadkowe oraz chorobowe za  ubezpieczonych, o których 
-mowa w art. 16 ust. 1–3, 5, 6, 9, 9a, 9c i  10–12a, obliczają, rozliczają i  przekazują co miesiąc do Zakładu w  całości 
-płatnicy składek.”; 
-7) w art. 18 w ust. 4: 
-a) uchyla się pkt 9, 
-b) po pkt 9 dodaje się pkt 9a: 
-„9a) osób, o których mowa w art. 6 ust. 1 pkt 9c – stanowi kwota stypendium,”; 
-8) w art. 36 ust. 2 otrzymuje brzmienie: 
-„2. Obowiązek zgłoszenia do ubezpieczeń społecznych osób określonych w  art. 6 ust. 1 pkt 1–4, 6–9a, 9c, 11, 
-12, 19–23, ust. 2, 2a i  2d, duchownych będących członkami zakonów lub klaszt orów oraz osób współpracujących, 
-o których mowa w art. 8 ust. 11, należy do płatnika składek.”; 
-9) w art. 50: 
-a) w ust. 14 część wspólna otrzymuje brzmienie: 
-„– w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.”, 
-b) w ust. 14a część wspólna otrzymuje brzmienie: 
-„– w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.”, 
-c) ust. 15 otrzymuje brzmienie: 
-„15. Zakład udostępnia powiatowym urzędom pracy i wojewódzkim urzędom pracy, w postaci elektronicznej, 
-wykaz obejmujący dane osób ubezpieczonych, wymienionych w  art. 6 ust. 1 pkt 9, 9a i  9c, które w  poprzednim 
-miesiącu zostały zgłoszone do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego, także z innych tytułów – 
-w terminie do 10 dnia roboczego następnego miesiąca.”, 
-d) w ust. 16 pkt 4 i 5 otrzymują brzmienie: 
-„4) datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego z  innego tytułu niż 
-wymienione w art. 6 ust. 1 pkt 9, 9a i 9c; 
-5) datę wyrejestrowania z  ubezpieczeń społecznych lub z  ubezpieczenia zdrowotnego z  innego tytułu niż 
-wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;”. 
-10) w art. 98 w ust. 1 wyrazy „podlega karze grzywny do 5000 złotych” zastępuje się wyrazami „podlega karze grzywny 
-do 46 000 złotych”. 
-Art. 381. W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów 
-osiąganych przez osoby fizyczne (Dz. U. z 2024 r. poz. 776, 863 i 1593) w art. 25 w ust. 6 w pkt 2 lit. g otrzymuje brzmienie: 
-„g) łącznie nie więcej niż trzech zatrudnionych bezrobotnych – zarejestrowanych w urzędzie pracy, przy czym okres 
-zarejestrowania w urzędzie pracy bezrobotnego musi trwać co najmniej 6  miesięcy w okresie bezpośrednio po-
-przedzającym jego zatrudnienie.”. 
-Art. 382. W ustawie z  dnia 9  listopada 2000  r. o  repatriacji (Dz.  U. z  2022 r. poz.  1105) w  art. 27 ust. 5 otrzymuje 
-brzmienie: 
-„5. W przypadku zawarcia przez starostę umowy, o której mowa w ust. 1, w okresie jej obowiązywania nie sto-
-suje się form pomocy określonych w  ustawie z dnia 20 marca 2025 r. o rynku pracy i  służbach zatrudnienia (Dz. U. 
-poz. 620).”. 
-Art. 383. W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2023 r. poz. 1095) w art. 28 w ust. 3 zdanie 
-pierwsze otrzymuje brzmienie: 
-„Okres pobierania świadczenia pieniężnego, o  którym mowa w  ust. 1, wlicza się do  okresów pracy wymaganych do 
-nabycia lub zachowania uprawnień pracowniczych oraz do okresów składkowych w  rozumieniu przepisów o emery-
-turach i rentach z Funduszu Ubezpieczeń Społecznych – na takich warunkach, na jakich wlicza się okres pobierania 
-zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”. 
+– 164 –
 
-  
-Dziennik Ustaw – 162 – Poz. 620 
- 
- 
-Art. 384. W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. 
-poz. 977 i 1544) w art. 17 § 2 otrzymuje brzmienie: 
-„§ 2. W sprawach o wykroczenia przeciwko prawom pracownika określonych w  Kodeksie pracy, w  sprawach 
-o wykroczenia określonych w  art. 27–27b ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych 
-(Dz. U. z 2025 r. poz. 236), w sprawach o wykroczenia określonych w art. 465 ust. 1a ustawy z dnia 12 grudnia 2013 r. 
-o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619), w sprawach o wykroczenia określonych 
-w art. 27–28b ustawy z dnia 10  czerwca 2016 r. o  delegowaniu pracowników w  ramach świadczenia usług (Dz.  U. 
-z 2024 r. poz. 73), w sprawach o wykroczenie określone w art. 8e ustawy z dnia 10 października 2002 r. o minimalnym 
-wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), w sprawach o wykroczenia określonych w art. 10 ustawy z dnia 
-10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w  niektóre inne dni (Dz.  U. z 2025 r. poz. 301), 
-w sprawach o wykroczenia określonych w art. 362–365 i art. 367 ustawy z dnia 20 marca 2025 r. o rynku pracy i służ-
-bach zatrudnienia (Dz. U. poz. 620), w sprawach o wykroczenia określonych w art. 84 ustawy z dnia 20 marca 2025 r. 
-o warunkach dopuszczalności po wierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz.  U. 
-poz. 621), a także w sprawach o inne wykroczenia związane z  wykonywaniem pracy zarobkowej, jeżeli ustawa  tak 
-stanowi, oskarżycielem publicznym jest inspektor pracy.”. 
-Art. 385. W ustawie z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu 
-dla rynku pracy (Dz. U. z 2021 r. poz. 239) wprowadza się następujące zmiany: 
-1) w art. 37 ust. 5 otrzymuje brzmienie: 
-„5. Finansowanie z  Funduszu Pracy świadczeń, o  których mowa w  ust. 4, odbywa się jak dla poszukujących 
-pracy, o których mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. 
-poz. 620).”; 
-2) w art. 40 ust. 4 otrzymuje brzmienie: 
-„4. Finansowanie z Funduszu Pracy kosztów, o których mowa w ust. 3, może odbywać się przez okres i  w wy-
-sokości przewidzianych w przepisach o rynku pracy i służbach zatrudnienia, z tym że finansowanie części wynagro-
-dzeń i składek na ubezpieczenia społeczne jest dokonywane na zasadach określonych dla prac interwencyjnych.”. 
-Art. 386. W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób 
-zawodowych (Dz. U. z 2025 r. poz. 257) wprowadza się następujące zmiany: 
-1) w art. 3 w ust. 3 pkt 4 otrzymuje brzmienie: 
-„4) odbywania szkolenia, stażu, przygotowania zawodowego dorosłych lub  uczestnictwa w działaniach w zakresie 
-reintegracji społecznej przez osobę pobierającą stypendium w okresie odbywania tego szkolenia, stażu, przygo-
-towania zawodowego dorosłych lub uczestnictwa w działaniach w zakresie reintegracji społecznej na podstawie 
-skierowania wydanego przez powiatowy urząd pracy lub przez inny podmiot kierujący;”; 
-2) w art. 5 w ust. 1 pkt 4 otrzymuje brzmienie: 
-„4) pracodawca, u którego osoba pobierająca stypendium odbywa staż lub szkolenie, przygotowanie zawodowe do-
-rosłych, lub jednostka, w której osoba pobierająca stypendium odbywa szkolenie lub uczestniczy w działaniach 
-w zakresie reintegracji społecznej – w stosunku do osoby po bierającej stypendium w  okresie odbywania tego 
-stażu, szkolenia, przygotowania zawodowego dorosłych lub uczestnictwa w  działaniach w zakresie reintegracji 
-społecznej na podstawie skierowania wydanego przez powiatowy urząd pracy lub przez inny podmiot kierujący;”; 
-3) w art. 9 w ust. 4 pkt 3 otrzymuje brzmienie: 
-„3) kwota otrzymanego za ten miesiąc stypendium – dla ubezpieczonych będących osobami pobierającymi stypendium 
-w okresie odbywania szkolenia, stażu, przygotowania zawodowego dorosłych lub uczestnictwa  w działaniach 
-w zakresie reintegracji społecznej, na które zostały skierowane przez powiatowy urząd pracy lub inny podmiot 
-kierujący”. 
-Art. 387. W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych po-
-wstałych w szczególnych okolicznościach (Dz. U. z 2025 r. poz. 173) w art. 2 w ust. 1 pkt 14 otrzymuje brzmienie: 
-„14) przy wykonywaniu przez bezrobotnego prac społecznie użytecznych, o  których mowa w art. 142 ustawy z dnia 
-20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”. 
+Poz. 620
 
-  
-Dziennik Ustaw – 163 – Poz. 620 
- 
- 
-Art. 388. W ustawie z  dnia 23  listopada 2002 r. o  restrukturyzacji zobowiązań koncesyjnych operatorów stacjonar-
-nych publicznych sieci telefonicznych (Dz. U. z 2020 r. poz. 1700) w art. 7 w ust. 2: 
-1) uchyla się pkt 3; 
-2) w pkt 5 uchyla się lit. a. 
-Art. 389. W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz.  U. z 2024 r. poz. 423) w art. 6 
-w ust. 3 pkt 5 otrzymuje brzmienie: 
-„5) odbyła staż, o  którym mowa w  art. 114 i art. 119 ustawy z  dnia 20 marca 2025 r. o rynku pracy i  służbach za-
-trudnienia (Dz. U. poz. 620), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rol-
-niczej.”.
+7) w art. 18:
+a) w ust. 2 pkt 6 otrzymuje brzmienie: „6) staże, o których mowa w art. 114 i art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”,
+b) ust. 7 i 8 otrzymują brzmienie: „7. Klub integracji społecznej może realizować działania w zakresie reintegracji społecznej bezrobotnych
+służące kształtowaniu aktywnej postawy w życiu społecznym i zawodowym, o których mowa w art. 200 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+8. Realizacja działań, o których mowa w ust. 7, oraz ich finansowanie odbywa się zgodnie z umową, o której mowa w art. 200 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”.
+Art. 391. W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
+1) w art. 17c ust. 6 otrzymuje brzmienie: „6. W razie urodzenia dziecka przez kobietę pobierającą zasiłek dla bezrobotnych w okresie, o którym mowa
+w art. 225 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub w ciągu 30 dni po jego zakończeniu, lub w okresie przedłużenia zasiłku dla bezrobotnych na podstawie art. 225 ust. 2 tej ustawy, świadczenie rodzicielskie przysługuje jednemu z rodziców w wysokości różnicy między kwotą świadczenia rodzicielskiego a kwotą pobieranego przez kobietę zasiłku dla bezrobotnych pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych.”;
+2) w art. 23 w ust. 10 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) ministrowi właściwemu do spraw pracy – w celu weryfikacji danych dotyczących osób ubiegających się o status bezrobotnego lub zasiłek dla bezrobotnych.”.
+Art. 392. W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572) wprowadza się następujące zmiany:
+1) w art. 6 pkt 11 otrzymuje brzmienie: „11) osoba zatrudniona – osobę pozostającą w zatrudnieniu w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) lub prowadzącą działalność gospodarczą w rozumieniu przepisów dotyczących działalności gospodarczej;”;
+2) w art. 8 w ust. 4:
+a) pkt 5 otrzymuje brzmienie: „5) świadczenia przysługującego bezrobotnemu na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia z tytułu wykonywania prac społecznie użytecznych;”,
+b) w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22 w brzmieniu: „22) świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619).”;
+3) w art. 11 ust. 2 otrzymuje brzmienie: „2. Podstawę do ograniczenia wysokości lub rozmiaru świadczenia, odmowy przyznania świadczenia, uchylenia
+decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej mogą stanowić: 1) brak współdziałania osoby lub rodziny z pracownikiem socjalnym lub asystentem rodziny, o którym mowa
+w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, w rozwiązywaniu trudnej sytuacji życiowej; 2) odmowa zawarcia kontraktu socjalnego lub niedotrzymywanie jego postanowień; 3) z własnej winy niepodjęcie lub przerwanie realizacji formy pomocy, lub odmowa bez uzasadnionej przyczyny
+propozycji prac społecznie użytecznych, w przypadkach określonych w art. 65 ust. 1 pkt 2 i 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia; 4) nieuzasadniona odmowa podjęcia leczenia odwykowego w zakładzie lecznictwa odwykowego przez osobę uzależnioną.”;
+
+Dziennik Ustaw
+
+– 165 –
+
+Poz. 620
+
+4) w art. 17 w ust. 2 pkt 5 otrzymuje brzmienie:
+„5) współpraca z powiatowym urzędem pracy w zakresie upowszechniania ofert pracy oraz informacji o wolnych miejscach pracy, upowszechniania informacji o usługach poradnictwa zawodowego i o szkoleniach.”;
+5) w art. 23a w ust. 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+„7) minister właściwy do spraw pracy – w celu weryfikacji danych dotyczących osób ubiegających się o status bezrobotnego lub zasiłek dla bezrobotnych.”;
+6) w art. 43 ust. 7 otrzymuje brzmienie:
+„7. Podstawą odmowy przyznania albo ograniczenia rozmiarów pomocy na ekonomiczne usamodzielnienie może być uchylanie się przez osobę lub rodzinę ubiegającą się o pomoc od poddania się przeszkoleniu zawodowemu.”;
+7) w art. 105 ust. 2 otrzymuje brzmienie:
+„2. Udostępnienie informacji gromadzonych przez publiczne służby zatrudnienia, które mają znaczenie dla rozstrzygnięcia o przyznaniu lub wysokości świadczeń z pomocy społecznej odbywa się na zasadach określonych w art. 51 ust. 4 pkt 12 i ust. 5 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+8) w art. 107 w ust. 5b pkt 13 otrzymuje brzmienie:
+„13) decyzji starosty o przyznaniu lub odmowie przyznania statusu bezrobotnego, utracie statusu bezrobotnego, o przyznaniu, odmowie przyznania, wstrzymaniu, wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku dla bezrobotnych, stypendium, dodatku aktywizacyjnego albo oświadczenia o pozostawaniu bezrobotnym lub poszukującym pracy;”;
+9) w art. 108 ust. 2 otrzymuje brzmienie:
+„2. W przypadku bezrobotnych podpisanie kontraktu socjalnego, w ramach którego są realizowane działania na rzecz wzmocnienia aktywności bezrobotnego, może być dokonywane na podstawie skierowania powiatowego urzędu pracy na zasadach określonych w art. 198 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”.
+Art. 393. W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2025 r. poz. 421) wprowadza się następujące zmiany:
+1) w art. 2:
+a) w ust. 1:
+– pkt 2 otrzymuje brzmienie:
+„2) do dnia rozwiązania stosunku pracy lub stosunku służbowego z przyczyn dotyczących zakładu pracy, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), w którym była zatrudniona przez okres nie krótszy niż 6 miesięcy, ukończyła co najmniej 55 lat – kobieta oraz 60 lat – mężczyzna oraz posiada okres uprawniający do emerytury, wynoszący co najmniej 30 lat dla kobiet i 35 lat dla mężczyzn, lub”,
+– pkt 4a i 5 otrzymują brzmienie:
+„4a) zarejestrowała się we właściwym powiatowym urzędzie pracy w ciągu 60 dni od dnia ustania prawa do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619 i 620), lub zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246), pobieranych nieprzerwanie przez okres co najmniej 365 dni, i do dnia, w którym ustało prawo do świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub zasiłku dla opiekuna, ukończyła co najmniej 55 lat – kobieta oraz 60 lat – mężczyzna i osiągnęła okres uprawniający do emerytury, wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, lub
+5) do dnia rozwiązania stosunku pracy z przyczyn dotyczących zakładu pracy, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, w którym była zatrudniona przez okres nie krótszy niż 6 miesięcy, posiada okres uprawniający do emerytury, wynoszący co najmniej 35 lat dla kobiet i 40 lat dla mężczyzn, lub”,
+
+Dziennik Ustaw
+
+– 166 –
+
+Poz. 620
+
+b) ust. 3 otrzymuje brzmienie:
+„3. Świadczenie przedemerytalne przysługuje osobie określonej w ust. 1 po upływie co najmniej 180 dni pobierania zasiłku dla bezrobotnych, o którym mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, jeżeli osoba ta spełnia łącznie następujące warunki:
+1) nadal jest zarejestrowana jako bezrobotny;
+2) złoży wniosek o przyznanie świadczenia przedemerytalnego w terminie nieprzekraczającym 30 dni od dnia wydania przez powiatowy urząd pracy dokumentu poświadczającego 180-dniowy okres pobierania zasiłku dla bezrobotnych.”,
+c) w ust. 4 wyrazy „ust. 3 pkt 3” zastępuje się wyrazami „ust. 3 pkt 2”,
+d) ust. 5 otrzymuje brzmienie:
+„5. Do okresu 180 dni pobierania zasiłku dla bezrobotnych, o którym mowa w ust. 3, wlicza się:
+1) okresy, za które, zgodnie z art. 220 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, prawo do tego zasiłku dla bezrobotnych nie przysługiwało;
+2) okresy zatrudnienia lub innej pracy zarobkowej, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, albo zatrudnienia w ramach prac interwencyjnych lub robót publicznych podjętego w tym okresie; w przypadku gdy zatrudnienie lub inna praca zarobkowa ustanie po upływie 180-dniowego okresu, o którym mowa w ust. 3 pkt 2, prawo do świadczenia przedemerytalnego przysługuje, jeżeli wniosek o przyznanie tego świadczenia zostanie złożony w terminie nieprzekraczającym 30 dni od dnia ustania zatrudnienia lub innej pracy zarobkowej, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, albo zatrudnienia w ramach prac interwencyjnych lub robót publicznych.”;
+2) w art. 7 ust. 4 otrzymuje brzmienie:
+„4. W przypadku osoby, o której mowa w art. 2 ust. 1 pkt 4a, do wniosku dołącza się również zaświadczenie właściwego organu potwierdzające nieprzerwane pobieranie przez okres co najmniej 365 dni świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, lub zasiłku dla opiekuna, utratę prawa do nich, a także datę ustania tego prawa.”.

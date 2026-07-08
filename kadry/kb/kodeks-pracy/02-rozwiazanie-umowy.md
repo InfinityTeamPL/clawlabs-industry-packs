@@ -49,7 +49,7 @@ _Art. 30-67 KP. Stan: 2026._
 ### Wypowiedzenie przez PRACODAWCĘ — wymogi (art. 30 § 3-5 KP)
 - **Forma pisemna** (oświadczenie woli)
 - **Przyczyna** wypowiedzenia — OBOWIĄZKOWA przy umowie na czas nieokreślony i określony (od 2023) — konkretna, rzeczywista, zrozumiała
-- **Pouczenie** o prawie do odwołania do sądu pracy (7 dni)
+- **Pouczenie** o prawie do odwołania do sądu pracy — **21 dni** (art. 264 § 1 KP; termin jednolity od 1.01.2017)
 - **Konsultacja ze związkami zawodowymi** jeśli pracownik jest członkiem (art. 38 KP)
 
 ### Wypowiedzenie przez PRACOWNIKA
@@ -78,7 +78,7 @@ Pracodawca może rozwiązać bez wypowiedzenia tylko w 3 przypadkach:
 - **1 miesiąc** od momentu gdy pracodawca dowiedział się o okolicznościach
 - **Konsultacja ze związkiem** przed wręczeniem (jeśli dotyczy)
 
-**Forma:** pisemna, z podaniem przyczyny i pouczeniem o odwołaniu do sądu (14 dni).
+**Forma:** pisemna, z podaniem przyczyny i pouczeniem o odwołaniu do sądu — **21 dni** (art. 264 § 2 KP; termin jednolity od 1.01.2017, wcześniej 14 dni).
 
 ### Z winy PRACODAWCY (art. 55 § 1¹ KP)
 Pracownik może rozwiązać UoP bez wypowiedzenia jeśli:
@@ -120,7 +120,7 @@ Obowiązek pracodawcy zatrudniającego **≥ 20 pracowników** przy zwolnieniach
 ## Co wydać pracownikowi po rozwiązaniu (art. 97 KP)
 
 1. **Świadectwo pracy** — **niezwłocznie**, najpóźniej w ciągu **7 dni** (zmiana od 2023). Jeśli wysłane pocztą — 7 dni od wysłania. Wzór: `wzory-umow/swiadectwo-pracy.md`
-2. **Rozliczenie urlopu** — ekwiwalent za niewykorzystany urlop (termin do 25 maja — zmiana 2026!)
+2. **Rozliczenie urlopu** — ekwiwalent za niewykorzystany urlop; termin: wypłata wynagrodzenia, a gdy ta przypada przed rozwiązaniem umowy — 10 dni od ustania zatrudnienia (art. 171 §4–5 KP, od 27.01.2026)
 3. **PIT-11** — do końca lutego roku następnego
 4. **Zwrot rzeczy pracodawcy** — laptop, telefon, klucze (checklist: `checklisty/offboarding.md`)
 

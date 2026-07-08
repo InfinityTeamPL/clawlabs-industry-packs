@@ -52,8 +52,9 @@ w szczególności:
 
 2. Wynagrodzenie i ekwiwalent zostaną wypłacone w terminie:
    - Wynagrodzenie: w standardowym terminie wypłaty
-   - Ekwiwalent urlopowy: do 25 maja / w terminie 10 dni po ustaniu
-     zatrudnienia (zgodnie z przepisami obowiązującymi w 2026)
+   - Ekwiwalent urlopowy: w terminie wypłaty wynagrodzenia (art. 85 KP),
+     a jeśli ten przypada przed dniem rozwiązania umowy — w terminie 10 dni
+     od ustania zatrudnienia (art. 171 §4–5 KP, od 27.01.2026)
 
 3. Pracownik zwróci Pracodawcy do dnia [DATA]:
    - Telefon służbowy (model: [MODEL])

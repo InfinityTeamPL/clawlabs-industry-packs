@@ -103,7 +103,7 @@ Lekarz medycyny pracy wydaje jeden z 3 rodzajów orzeczeń:
 ### Praca biurowa (monitor >4h/dzień)
 - **Okresowe:** zwykle co **3-5 lat** dla dorosłych zdrowych
 - **Dla > 50 lat:** może być co 2 lata
-- **Dodatkowe wymogi:** badanie okulistyczne co **5 lat** (osoby >40 r.ż. — co 3 lata)
+- **Badanie okulistyczne:** w ramach profilaktycznej opieki zdrowotnej — częstotliwość **wyznacza lekarz medycyny pracy** w orzeczeniu (brak sztywnego ustawowego „co 5 lat"); pracodawca zapewnia okulary korygujące, jeśli badania wykażą taką potrzebę
 
 ### Praca fizyczna (magazyn, produkcja)
 - **Zależnie od czynników** — hałas, pyły, obciążenia → 1-3 lata

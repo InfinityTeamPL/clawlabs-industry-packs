@@ -1,178 +1,116 @@
 ---
 act_eli: DU/2025/620
-chunk: 48/63
+chunk: 48/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 48/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 48/62
 
-Art. 332. 1. Wniosek o udzielenie akredytacji zawiera: 
-1) oznaczenie podmiotu z podaniem pełnej nazwy podmiotu, a w przypadku gdy wniosek składa przedsiębiorca jako: 
-a) osoba fizyczna prowadząca działalność gospodarczą – imię (imiona) i nazwisko oraz nazwę firmy, 
-b) wspólnik spółki cywilnej – imiona i nazwiska, nazwę firmy lub nazwę wspólników; 
-2) adres, pod którym podmiot prowadzi działalność na terytorium Rzeczypospolitej Polskiej ora z poza tym terytorium, 
-o ile taki przypadek występuje, wraz z podaniem formy organizacyjnej prowadzenia działalności poza tym terytorium; 
-3) adres, pod którym podmiot będzie prowadził pośrednictwo pracy w  ramach sieci EURES wraz z  planowanym zakre-
-sem działań i usług do realizacji w  ramach tego pośrednictwa pod tym adresem, z  podaniem nazwy gminy, powiatu, 
-województwa i kraju, o ile dysponuje lokalem pod tym adresem; 
-4) oznaczenie formy prawnej prowadzonej działalności; 
-5) numer identyfikacji podatkowej (NIP) – o ile podmiot taki numer posiada; 
-6) numer w Krajowym Rejestrze Sądowym albo informację o wpisie do CEIDG – o ile podmiot posiada; 
-7) adres elektroniczny i inne dane teleadresowe; 
-8) informację o wpisie do rejestru agencji zatrudnienia – o ile podmiot taki wpis posiada; 
-9) kategorię akredytacji, o którą podmiot wnioskuje; 
-10) planowany przez podmiot zakres działań i usług do realizacji w pośrednictwie pracy w ramach sieci EURES; 
-11) uzasadnienie, że podmiot nie może prowadzić wszystkich działań, o  których mowa w art. 86 ust. 2, w przypadku gdy 
-podmiot ubiega się o udzielenie akredytacji w kategorii partnera EURES; 
-12) informację o  posiadanych przez podmiot systemach teleinformatycznych umożliwiających realizację pośrednictwa 
-pracy w ramach sieci EURES zgodnie z przepisami Unii Europejskiej w zakresie sieci EURES; 
-13) adres strony internetowej podmiotu oraz informacje o zakresie tematycznym tej strony i jej funkcjonalnościach; 
-14) informację o posiadaniu lub nieposiadaniu elektronicznej bazy z ofertami pracy oraz elektronicznej bazy danych osób, 
-które poszukują pracy wraz z zakresem danych i informacji występujących w tych bazach; 
-15) opis doświadczenia podmiotu w  realizacji pośrednictwa do pracy za granicą lub  kierowania cudzoziemców do pracy 
-na terytorium Rzeczypospolitej Polskiej oraz w informowaniu lub doradztwie dotyczącym warunków życia i  pracy 
-związanych ze swobodnym przepływem pracowników w Unii Europejskiej, z uwzględnieniem internetowych i poza-
-internetowych kanałów komunikacji z  bezrobotnymi, poszukującymi pracy, osobami zarejestrowanymi i  pracodaw-
-cami, w tym świadczonych usług elektronicznych; 
-16) informację o stanie zatrudnienia w podmiocie na dzień złożenia wniosku o udzielenie akredytacji, w tym o przewidy-
-wanej liczbie osób do realizacji pośrednictwa pracy w ramach sieci EURES oraz innych działań wynikających z reali-
-zacji umowy akredytacyjnej, a także informację o znajomości języków obcych przez te osoby; 
-17) informację o opłatach pobieranych przez podmiot od pracodawców za realizację pośrednictwa pracy; 
-18) informację o pozbawieniu akredytacji, w przypadku gdy podmiot posiadał ją w przeszłości; 
-19) inne informacje, które podmiot chciałby dodatkowo podać. 
-2. W przypadku gdy podmiot ubiega się o akredytację w kategorii partnera EURES, może on nie podawać we wniosku 
-o udzielenie akredytacji informacji o: 
-1) posiadanej elektronicznej bazie z ofertami pracy, w przypadku gdy podmiot nie zamierza podczas realizacji pośrednictwa 
-pracy w ramach sieci EURES udostępniać oferty pracy, zgodnie z przepisami Unii Europejskiej w zakresie sieci EURES; 
-2) posiadanej elektronicznej bazie danych osób, które poszukują pracy, w przypadku gdy podmiot nie zamierza podczas 
-realizacji pośrednictwa pracy w ramach sieci EURES udostępniać danych osób, które poszukują pracy, zgodnie z prze-
-pisami Unii Europejskiej w zakresie sieci EURES; 
-3) doświadczeniu, o którym mowa w art. 331 ust. 3 pkt 6 i 7, w przypadku gdy podmiot ubiegający się o udzielenie akredy-
-tacji nie zamierza prowadzić wszystkich działań, o których mowa w art. 86 ust. 2 pkt 3. 
+Art. 335. 1. Rejestr podmiotów akredytowanych prowadzi minister właściwy do spraw pracy.
+2. Rejestr podmiotów akredytowanych jest jawny i zawiera dane, o których mowa w art. 332 ust. 1 pkt 1–10 i 13, oraz datę dokonania wpisu.
+3. Rejestr podmiotów akredytowanych jest prowadzony w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 5.
+4. Minister właściwy do spraw pracy dokonuje z urzędu w formie czynności materialno-technicznej:
+1) wpisu do rejestru podmiotów akredytowanych niezwłocznie po rozpoczęciu obowiązywania umowy akredytacyjnej;
+2) zmiany wpisu do rejestru podmiotów akredytowanych niezwłocznie po rozpoczęciu obowiązywania zmiany kategorii akredytacji na podstawie zmian dokonanych w umowie akredytacyjnej;
+3) wykreślenia podmiotu pozbawionego akredytacji z rejestru podmiotów akredytowanych niezwłocznie po rozwiązaniu lub wygaśnięciu umowy akredytacyjnej;
+4) sprostowania wpisu do rejestru podmiotów akredytowanych zawierającego błędy pisarskie oraz oczywiste omyłki.
+Art. 336. 1. Pozbawienie akredytacji następuje po:
+1) rozwiązaniu umowy akredytacyjnej w trybie wypowiedzenia przez ministra właściwego do spraw pracy lub podmiot akredytowany albo
+2) wygaśnięciu umowy akredytacyjnej po zakończeniu okresu, na jaki została zawarta.
+2. Minister właściwy do spraw pracy wypowiada umowę akredytacyjną, w przypadku gdy podmiot akredytowany:
+1) przestał spełniać kryteria akredytacyjne, o których mowa w art. 331 ust. 3 pkt 1–5 albo ust. 4 pkt 3–7, lub
+2) naruszył przepisy ustawy lub umowy akredytacyjnej i nie usunął tych naruszeń w wyznaczonym przez ministra właściwego do spraw pracy lub wojewodę terminie, o ile naruszenia te były możliwe do usunięcia.
+3. Okoliczności, o których mowa w ust. 2, stwierdza minister właściwy do spraw pracy lub wojewoda.
+4. Minister właściwy do spraw pracy stwierdza okoliczności, o których mowa w ust. 2, w szczególności na podstawie powiadomienia otrzymanego od:
+1) wojewody w sprawie naruszenia ustawy lub umowy akredytacyjnej przez podmiot akredytowany;
+2) marszałka województwa w sprawie wykreślenia z rejestru agencji zatrudnienia podmiotu akredytowanego lub naruszenia przez ten podmiot ustawy w zakresie przestrzegania warunków prowadzenia agencji zatrudnienia.
+5. Wojewoda stwierdza okoliczności, o których mowa w ust. 2, w szczególności w wyniku kontroli przeprowadzonej na podstawie art. 30 ust. 1 pkt 2 lub na podstawie powiadomienia otrzymanego od:
+1) marszałka województwa w sprawie wykreślenia z rejestru agencji zatrudnienia podmiotu akredytowanego lub naruszenia przez ten podmiot ustawy w zakresie przestrzegania warunków prowadzenia agencji zatrudnienia, stwierdzonego w wyniku kontroli przeprowadzonej na podstawie art. 326 ust. 1, lub powiadomienia otrzymanego od okręgowego inspektora pracy;
 
-  
-Dziennik Ustaw – 138 – Poz. 620 
- 
- 
-3. Wniosek o udzielenie akredytacji składany jest w postaci elektronicznej i zawiera dane w ustalonym formacie elektro-
-nicznym. 
-4. Wniosek o udzielenie akredytacji składany jest z  wykorzystaniem systemu teleinformatycznego, o  którym mowa 
-w art. 26 ust. 1 pkt 5, po zastosowaniu zapewnionych w systemie sposobów potwierdzenia pochodzenia oraz  integralności 
-przesłanych danych. 
-5. Podmiot ubiegający się o udzielenie akredytacji dołącza do wniosku o jej udzielenie oświadczenie potwierdzające: 
-1) spełnianie kryteriów akredytacyjnych, o których mowa w art. 331 ust. 3 pkt 2; 
-2) nieprowadzenie w stosunku do podmiotu postępowania, które może skutkować wykreśleniem z rejestru agencji zatrud-
-nienia na podstawie art. 315 ust. 1; 
-3) znajomość przepisów art. 86, art. 91 i rozdziału 2 w dziale IX oraz przepisów Unii Europejskiej w  zakresie realizacji 
-działań sieci EURES; 
-4) posiadanie zasobów finansowych umożliwiających realizację działań sieci EURES wynikających z ustawy oraz prze-
-pisów Unii Europejskiej w zakresie sieci EURES; 
-5) kompletność danych zawartych we wniosku o udzielenie akredytacji oraz ich zgodność z prawdą. 
-6. Oświadczenie, o którym mowa w ust. 5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych 
-oświadczeń. Podmiot skład ający oświadczenie jest obowiązany do zawarcia w  nim klauzuli następującej treści: „Jestem 
-świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o od-
-powiedzialności karnej za składanie fałszywych oświadczeń. 
-7. Oświadczenie, o którym mowa w ust. 5, składają osoby reprezentujące podmiot ubiegający się o udzielenie akredy-
-tacji i osoby zarządzające tym podmiotem. 
-8. Minister właściwy do spraw pracy odmawia, w  drodze decyzji, udzielenia akredytacji, w  przypadku gdy podmiot 
-ubiegający się o udzielenie akredytacji: 
-1) w kategorii członka EURES – nie spełnia kryteriów akredytacyjnych, o których mowa w art. 331 ust. 3; 
-2) w kategorii partnera EURES – nie spełnia kryteriów akredytacyjnych, o których mowa w art. 331 ust. 4; 
-3) nie przedstawi we wniosku o udzielenie akredytacji danych i informacji niezbędnych do oceny: 
-a) spełniania przez ten podmiot kryteriów akredytacyjnych, o których mowa w art. 331 ust. 3 i 4, 
-b) możliwości realizacji przez ten podmiot zobowiązań wynikających z umowy akredytacyjnej; 
-4) nie złoży oświadczenia, o którym mowa w ust. 5; 
-5) odmówi zawarcia umowy akredytacyjnej. 
-Art. 333. 1. Minister właściwy do spraw pracy zawiera umowę akredytacyjną z podmiotem spełniającym kryteria akredyta-
-cyjne, o których mowa w art. 331 ust. 3 albo 4. 
-2. Umowa akredytacyjna zawiera w szczególności: 
-1) informację o udzielonej kategorii akredytacji; 
-2) zakres zobowiązań podmiotu, któremu udziela się akredytacji, w związku z realizacją działań sieci EURES wynikają-
-cych z ustawy oraz przepisów Unii Europejskiej w zakresie sieci EURES, w tym związanych z planowaniem, realizacją, 
-monitorowaniem i sprawozdawczością; 
-3) rodzaj działań określonych w art. 86 ust. 2, do realizacji których zobowiązuje się podmiot, któremu udziela się akredytacji; 
-4) zobowiązanie podmiotu, któremu udziela się akredytacji, do: 
-a) współpracy z organami zatrudnienia przy realizacji działań sieci EURES z  uwzględnieniem konieczności zacho-
-wania równowagi na krajowym rynku pracy, 
-b) udziału, przy wykorzystaniu systemów teleinformatycznych, o których mowa w art. 26 ust. 1, oraz zgodnie z tech-
-nicznymi normami i formatami określonymi w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/589 
-z dnia 13 kwietnia 2016 r. w sprawie europejskiej sieci służb zatrudnienia (EURES), dostępu pracowników do 
-usług w zakresie mobilności i dalszej integracji rynków pracy oraz zmiany rozporządzeń (UE) nr 492/2011 i (UE) 
-nr 1296/2013, w systemie wymiany informacji oraz udostępniania ofert pracy lub danych bezrobotnych, poszuku-
-jących pracy lub osób niezarejestrowanych, które poszukują pracy, 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 139 – Poz. 620 
- 
- 
-c) realizacji pośrednictwa pracy w ramach sieci EURES we współpracy wyłącznie z  podmiotami uprawnionymi do 
-realizacji działań tej sieci z państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, 
-d) niepobierania opłat od bezrobotnych, poszukujących pracy i  osób niezarejestrowanych za pośrednictwo pracy 
-w ramach sieci EURES, 
-e) zapewnienia odpowiednio wykwalifikowanych i przeszkolonych osób do realizacji pośrednictwa pracy w ramach 
-sieci EURES oraz pozostałych działań związanych z  realizacją zobowiązań wynikających z umowy akredytacyj-
-nej, z których co najmniej jedna posiada znajomość języka angielskiego w  stopniu wystarczającym do wykony-
-wania zadań, 
-f) zapewnienia dostępu do informacji o realizacji pośrednictwa pracy w ramach sieci EURES na stronie internetowej 
-podmiotu, któremu jest udzielana akredytacja, oraz za pośrednictwem innych sposobów przepływu informacji sto-
-sowanych przez ten podmiot, 
-g) używania akronimu oraz znaku towarowego EURES wyłącznie podczas realizacji pośrednictwa pracy w  ramach 
-sieci EURES, 
-h) umieszczania w dokumentach, ogłoszeniach i ofertach pracy związanych z realizacją pośrednictwa pracy w ramach 
-sieci EURES numeru wpisu do rejestru podmiotów akredytowanych, 
-i) informowania ministra właściwego do spraw pracy o zmianie formy prawnej lub oznaczenia podmiotu lub zmianie 
-adresu jego siedziby, w terminie 14 dni od dnia ich powstania, 
-j) informowania ministra właściwego do spraw pracy o zaprzestaniu spełniania kryteriów akredytacyjnych, o których 
-mowa w art. 331 ust. 3 pkt 1–5 albo ust. 4 pkt 3–7, w terminie 14 dni od dnia zaprzestania ich spełniania, 
-k) informowania ministra właściwego do spraw pracy o planowanych zmianach w zakresie rodzaju działań do realizacji 
-w pośrednictwie pracy w  ramach sieci EURES, o  których mowa w  art. 86 ust. 2, w terminie co najmniej 30 dni 
-przed dniem wdrożenia planowanych przez podmiot zmian; 
-5) sposoby realizacji pośrednictwa pracy w ramach sieci EURES, w tym zakres danych, które należy zawrzeć w zgłosze-
-niach ofert pracy; 
-6) informację o wysokości opłat pobieranych od pracodawców przez podmiot, któremu jest udzielana akredytacja, za reali-
-zację pośrednictwa pracy w ramach sieci EURES; 
-7) okres, na jaki umowa akredytacyjna zostaje zawarta; 
-8) datę, od której obowiązuje umowa akredytacyjna. 
-3. W przypadku gdy podmiot, który ubiegał się o udzielenie akredytacji w kategorii partnera EURES: 
-1) wybrał do realizacji rodzaje działań, o  których mowa w  art. 86 ust. 2 pkt 1 lub 2  – umowa akredytacyjna zawiera 
-zobowiązanie, o którym mowa w ust. 2 pkt 4 lit. b; 
-2) nie wybrał do realizacji rodzajów działań, o których mowa w art. 86 ust. 2 pkt 1 lub 2 – umowa akredytacyjna nie za-
-wiera zobowiązania, o którym mowa w ust. 2 pkt 4 lit. b. 
-4. Akredytacja jest udzielana na czas określony z możliwością jej przedłużenia na czas nieokreślony. 
-5. Przedłużenie akredytacji na czas nieokreślony jest możliwe pod warunkiem niestwierdzenia przez ministra właści-
-wego do spraw pracy uchybień związanych z realizacją przez podmiot, któremu udzielono akredytacji, zadań określonych 
-w ustawie, umowie akredytacyjnej oraz przepisach Unii Europejskiej z  zakresu sieci EURES obowiązujących w  okresie 
-pozostawania w mocy umowy akredytacyjnej na czas określony. 
-6. Minister właściwy do spraw pracy udziela podmiotowi akredytacji z  dniem wskazanym w umowie akredytacyjnej 
-jako dzień, od którego umowa obowiązuje. 
-7. Zmiana formy prawnej lub oznaczenia podmiotu lub adresu jego siedziby nie skutkuje pozbawieniem podmiotu 
-akredytacji. 
-8. W przypadku gdy podmiot, któremu udzielono akredytacji, chce zmienić kategorię akredytacji w trakcie obowiązy-
-wania umowy akredytacyjnej z: 
-1) kategorii członka EURES na kategorię partnera EURES, konieczna jest odpowiednia zmiana umowy akredytacyjnej; 
-2) kategorii partnera EURES na kategorię członka EURES, konieczna jest pozytywna weryfikacja przez ministra właści-
-wego do spraw pracy spełniania przez podmiot, któremu udzielono akredytacji w kategorii partnera EURES, kryteriów 
-akredytacji obowiązujących w kategorii członka EURES, określonych w art. 331 ust. 3, a następnie odpowiednia zmiana 
-umowy akredytacyjnej. 
+– 141 –
 
-  
-Dziennik Ustaw – 140 – Poz. 620 
- 
- 
-Art. 334. 1. Minister właściwy do spraw pracy niezwłocznie po zawarciu umowy akredytacyjnej udostępnia jej treść 
-wojewodzie właściwemu ze względu na siedzibę podmiotu akredytowanego. 
-2. Minister właściwy do spraw pracy może pozyskać: 
-1) z systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych, za pośrednictwem systemu teleinformatycznego, 
-o którym mowa w  art. 26 ust. 1 pkt 1 i  10, dane,  o których mowa w  art. 50 ust. 14a ustawy z  dnia 13  października 
-1998 r. o systemie ubezpieczeń społecznych, w celu ustalenia, czy podmiot ubiegający się o udzielenie akredytacji oraz 
-podmiot akredytowany, mają zaległości z tytułu niepłacenia składek na ubezpieczenia społeczne, ubezpieczenie zdro-
-wotne, Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz 
-Emerytur Pomostowych, o ile był obowiązany do ich opłacania; 
-2) od organów Krajowej Administracji Skarbowej,  informacje o zaległościach podatkowych podmiotu ubiegającego się 
-o udzielenie akredytacji oraz podmiotu akredytowanego, w  celu ustalenia okoliczności, o  których mowa w  art. 307 
-ust. 1 pkt 1; 
-3) z systemu teleinformatycznego Kasy Rolniczego Ubezpieczenia S połecznego informacje o  zaległościach podmiotu 
-ubiegającego się o udzielenie akredytacji oraz podmiotu akredytowanego, z tytułu niepłacenia składek na ubezpiecze-
-nie społeczne rolników lub na ubezpieczenie zdrowotne, w  celu ustalenia okoliczności, o  których mowa w art. 307 
-ust. 1 pkt 2.
+Poz. 620
+
+2) okręgowego inspektora pracy w sprawie naruszenia ustawy przez podmiot akredytowany w zakresie:
+a) opłacania składek na Fundusz Pracy,
+b) dokonania wpisu do rejestru agencji zatrudnienia działalności, której prowadzenie jest uzależnione od uzyskania wpisu do tego rejestru,
+c) prowadzenia działalności przez podmioty, o których mowa w art. 306 ust. 1, oraz podmioty prowadzące działalność, o której mowa w art. 306 ust. 2, zgodnie z warunkami określonymi w art. 319, art. 321 i art. 325.
+6. Wojewoda powiadamia niezwłocznie ministra właściwego do spraw pracy o naruszeniach, o których mowa w ust. 4 pkt 1.
+7. Marszałek województwa powiadamia niezwłocznie ministra właściwego do spraw pracy o wykreśleniu z rejestru agencji zatrudnienia podmiotu akredytowanego oraz o naruszeniach, o których mowa w ust. 4 pkt 2, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 5.
+
+Rozdział 3 Kierowanie cudzoziemców do zatrudnienia lub innej pracy zarobkowej przez agencje zatrudnienia
+na terytorium Rzeczypospolitej Polskiej
+Art. 337. 1. Agencja zatrudnienia w ramach świadczonej usługi kierowania cudzoziemców do zatrudnienia lub innej pracy zarobkowej do podmiotów prowadzących działalność na terytorium Rzeczypospolitej Polskiej może kierować cudzoziemców wyłącznie bezpośrednio do tych podmiotów.
+2. Skierowanie cudzoziemca przez agencję zatrudnienia do podmiotu, o którym mowa w ust. 1, powierzającego wykonanie zatrudnienia lub inną pracę zarobkową cudzoziemcowi, odbywa się na podstawie pisemnej umowy zawartej między agencją zatrudnienia a tym cudzoziemcem.
+3. Umowa, o której mowa w ust. 2, określa w szczególności:
+1) podmiot powierzający wykonanie zatrudnienia lub innej pracy zarobkowej i jego siedzibę;
+2) okres zatrudnienia lub wykonywania innej pracy zarobkowej;
+3) rodzaj umowy oraz warunki zatrudnienia lub innej pracy zarobkowej i wynagrodzenia, a także przysługujące cudzoziemcowi kierowanemu do zatrudnienia lub innej pracy zarobkowej świadczenia socjalne;
+4) warunki ubezpieczeń społecznych, jakimi cudzoziemiec będzie objęty;
+5) obowiązki i uprawnienia agencji zatrudnienia oraz cudzoziemca kierowanego do zatrudnienia lub innej pracy zarobkowej;
+6) zakres odpowiedzialności cywilnej stron w przypadku niewykonania lub nienależytego wykonania umowy zawartej między agencją zatrudnienia a cudzoziemcem kierowanym do zatrudnienia lub innej pracy zarobkowej.
+4. Agencja zatrudnienia przedstawia cudzoziemcowi kierowanemu do zatrudnienia lub innej pracy zarobkowej przed podpisaniem umowy, o której mowa w ust. 2, jej pisemne tłumaczenie na język dla niego zrozumiały.
+5. Agencja zatrudnienia informuje na piśmie:
+1) cudzoziemca kierowanego do zatrudnienia lub innej pracy zarobkowej, w języku dla niego zrozumiałym, o zasadach dotyczących wjazdu, pobytu i pracy cudzoziemców na terytorium Rzeczypospolitej Polskiej;
+2) podmiot, do którego agencja zatrudnienia kieruje cudzoziemców do zatrudnienia lub innej pracy zarobkowej, o zasadach dotyczących wjazdu, pobytu i pracy cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o obowiązkach, o których mowa w art. 17–19 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
+6. Agencja zatrudnienia prowadzi w formie pisemnej, w postaci papierowej albo elektronicznej wykaz:
+1) podmiotów, do których są kierowani cudzoziemcy do zatrudnienia lub innej pracy zarobkowej, zawierający w szczególności oznaczenie podmiotu i określenie adresu jego siedziby;
+2) cudzoziemców kierowanych do zatrudnienia lub innej pracy zarobkowej, zawierający imię (imiona) i nazwisko, obywatelstwo i datę urodzenia cudzoziemca oraz oznaczenie podmiotu, do którego skierowano cudzoziemca do pracy, i określenie jego siedziby oraz okresy zatrudnienia lub innej pracy zarobkowej.
+
+Dziennik Ustaw
+
+– 142 –
+
+Poz. 620
+
+Rozdział 4 Podejmowanie pracy za granicą u pracodawców zagranicznych
+Art. 338. 1. Podejmowanie pracy za granicą następuje w drodze bezpośrednich uzgodnień dokonywanych przez osoby podejmujące pracę z pracodawcami zagranicznymi lub za pośrednictwem publicznych służb zatrudnienia, a także agencji zatrudnienia wyłącznie w ramach świadczonej usługi kierowania osób do pracy za granicą u pracodawców zagranicznych.
+2. Kierowanie osób do pracy za granicą u pracodawców zagranicznych za pośrednictwem agencji zatrudnienia odbywa się wyłącznie bezpośrednio do pracodawcy zagranicznego na podstawie pisemnej umowy zawieranej przez te agencje z osobami kierowanymi przed ich skierowaniem do pracy.
+3. Umowa, o której mowa w ust. 2, określa w szczególności:
+1) oznaczenie pracodawcy zagranicznego i jego siedzibę;
+2) miejsce pracy, a w przypadku braku stałego lub głównego miejsca pracy określenie regionu lub kraju, na obszarze którego pracownik będzie wykonywał pracę;
+3) okres pracy;
+4) rodzaj umowy;
+5) warunki pracy, w tym właściwe dla danego stanowiska pracy długość typowego dnia lub tygodnia pracy oraz maksymalny dobowy wymiar pracy;
+6) warunki wynagradzania;
+7) walutę, w której wynagrodzenie ma być wypłacane;
+8) świadczenia pieniężne lub w naturze, związane z pracą za granicą, w przypadku gdy ma to zastosowanie;
+9) przysługujące osobie kierowanej do pracy świadczenia socjalne;
+10) warunki ubezpieczenia społecznego;
+11) warunki ubezpieczenia od następstw nieszczęśliwych wypadków i chorób tropikalnych, jeśli dotyczy;
+12) warunki repatriacji pracownika, w przypadku gdy ma to zastosowanie;
+13) dane do kontaktu z przedstawicielami agencji zatrudnienia w okresie pracy za granicą, zawierające numer telefonu lub adres do doręczeń elektronicznych, a także dni i przedziały godzinowe, kiedy możliwy jest taki kontakt;
+14) obowiązki i uprawnienia stron;
+15) zakres odpowiedzialności cywilnej stron w przypadku niewykonania lub nienależytego wykonania umowy zawartej między agencją zatrudnienia a osobą kierowaną, w tym stronę pokrywającą koszty dojazdu i powrotu osoby skierowanej do pracy w przypadku niewywiązania się pracodawcy zagranicznego z warunków umowy oraz tryb dochodzenia związanych z tym roszczeń;
+16) kwoty należne agencji zatrudnienia z tytułu faktycznie poniesionych kosztów związanych ze skierowaniem do pracy za granicą, poniesione na:
+a) dojazd i powrót osoby skierowanej,
+b) wydanie wizy,
+c) badania lekarskie,
+d) tłumaczenia dokumentów;
+17) informację o trybie i warunkach dopuszczania cudzoziemców do rynku pracy w państwie wykonywania pracy.
+4. Agencja zatrudnienia przedstawia osobie kierowanej do pracy za granicą u pracodawcy zagranicznego, przed podpisaniem umowy, o której mowa w ust. 2, jej pisemne tłumaczenie na język dla niego zrozumiały.
+5. Agencja zatrudnienia zawiera z pracodawcą zagranicznym, do którego zamierza kierować osoby do pracy za granicą, pisemną umowę określającą w szczególności:
+1) liczbę miejsc pracy;
+2) okres pracy;
+
+Dziennik Ustaw
+
+– 143 –
+
+Poz. 620
+
+3) rodzaj oraz warunki pracy, zasady wynagradzania, a także przysługujące osobom podejmującym pracę świadczenia socjalne;
+4) zakres odpowiedzialności cywilnej stron w przypadku niewykonania lub nienależytego wykonania umowy zawartej między pracownikiem a pracodawcą, w tym stronę pokrywającą koszty dojazdu i powrotu osoby skierowanej do pracy w razie niewywiązania się pracodawcy zagranicznego z warunków umowy, oraz tryb dochodzenia związanych z tym roszczeń.
+6. Agencja zatrudnienia prowadzi w formie pisemnej, w postaci papierowej oraz elektronicznej wykaz:
+1) podmiotów, do których są kierowane osoby do pracy za granicą, zawierający w szczególności oznaczenie podmiotu i określenie adresu jego siedziby oraz nazwę państwa pochodzenia podmiotu;
+2) osób kierowanych do pracy za granicą, zawierający imię (imiona) i nazwisko, adres zamieszkania osoby oraz w szczególności oznaczenie podmiotu i określenie adresu siedziby podmiotu, do którego skierowano osobę do pracy za granicą, nazwę państwa pochodzenia podmiotu oraz okresy pracy.
+7. Agencja zatrudnienia ma obowiązek:
+1) przechowywać umowy, o których mowa w ust. 2, oraz umowy zawierane z pracodawcami zagranicznymi, o których mowa w ust. 5, przez okres obowiązywania umowy oraz przez 5 lat po upływie tego okresu;
+2) poinformować na piśmie osobę kierowaną do pracy za granicą o przysługujących jej uprawnieniach, o których mowa w art. 339;
+3) przestrzegać międzynarodowych umów, porozumień i programów dotyczących zatrudnienia wiążących Rzeczpospolitą Polską oraz obowiązujących w państwie zatrudnienia przepisów o zatrudnieniu oraz przepisów regulujących działalność agencji zatrudnienia.
+8. Przepisy ust. 1–7 mają zastosowanie do wykonywania przez osoby kierowane do innej pracy zarobkowej za granicą powierzanej przez zagraniczne osoby fizyczne.
+9. Kierowanie osoby za granicę do podmiotu zagranicznego w celu nabywania umiejętności praktycznych, odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową następuje na podstawie umowy, o której mowa w ust. 2.
+Art. 339. Udokumentowane okresy zatrudnienia przebyte za granicą u pracodawcy zagranicznego są zaliczane do okresów pracy w Rzeczypospolitej Polskiej w zakresie uprawnień pracowniczych.

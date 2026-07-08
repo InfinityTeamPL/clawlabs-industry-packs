@@ -1,6 +1,6 @@
 # Mobbing i dyskryminacja — KP art. 11³-11⁹, 94³, 183¹-183⁷
 
-_Stan: 2026. Projekt nowelizacji zaostrzającej w pracach — śledzić!_
+_Stan: 2026-07-08. Nowelę antymobbingową Sejm uchwalił 19.06.2026, jest w Senacie — JESZCZE NIE OBOWIĄZUJE (wejście ~6 mies. po ogłoszeniu w Dz.U.). Poniżej opisano PRAWO OBOWIĄZUJĄCE; nadchodzące zmiany w ramce na końcu sekcji roszczeń._
 
 ## Mobbing — definicja (art. 94³ § 2 KP)
 
@@ -54,9 +54,10 @@ Sąd bada czy pracodawca:
 
 ### 1. Zadośćuczynienie pieniężne
 - **Za rozstrój zdrowia** wywołany mobbingiem
-- **Wysokość:** ustala sąd; **obecnie BRAK minimum** w przepisach (tylko "odpowiednia" suma)
-- **Projektowana zmiana 2026:** min. **6-krotność minimalnego wynagrodzenia** (~28 836 zł w 2026) — ŚLEDZIĆ status ustawy
+- **Wysokość:** ustala sąd; **obecnie (stan obowiązujący) BRAK minimum** w przepisach (tylko „odpowiednia" suma)
 - Nie wymaga rozwiązania umowy
+
+> 📌 **Nadchodząca nowela antymobbingowa (uchwalona przez Sejm 19.06.2026, w Senacie — jeszcze NIE obowiązuje).** Po wejściu w życie (ok. 6 mies. vacatio legis) wprowadzi: (1) **uproszczoną definicję mobbingu — bez wymogu wykazania celu/zamiaru sprawcy** (łatwiej dochodzić roszczeń), (2) **minimalne odszkodowanie/zadośćuczynienie nie niższe niż 6× minimalne wynagrodzenie** (6 × 4 806 = **28 836 zł** w 2026), nie tylko za rozstrój zdrowia, (3) **obowiązek określenia standardów i procedur antymobbingowych** w regulaminie pracy lub obwieszczeniu + działania prewencyjne i wsparcie ofiar. Janino: do dnia wejścia w życie NIE prezentuj tych zasad jako obowiązujących — śledź podpis Prezydenta i publikację w Dz.U.
 
 ### 2. Rozwiązanie umowy bez wypowiedzenia (art. 55 § 1¹)
 - Pracownik może rozwiązać UoP przez pracodawcę z winy pracodawcy

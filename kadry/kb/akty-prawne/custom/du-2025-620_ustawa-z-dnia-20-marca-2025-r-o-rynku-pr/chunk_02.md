@@ -1,139 +1,53 @@
 ---
 act_eli: DU/2025/620
-chunk: 2/63
+chunk: 2/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 2/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 2/62
 
-Art. 1. 1. Ustawa określa zadania państwa w  zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku 
-pracy. 
-2. Zadania państwa w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy są realizowane w celu: 
-1) pełnego i produktywnego zatrudnienia; 
-2) rozwoju zasobów ludzkich; 
-3) wzmacniania integracji i solidarności społecznej; 
-4) zwiększania mobilności na rynku pracy. 
- 
-2) służy stosowaniu:  
-a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/589 z dnia 13 kwietnia 2016 r. w sprawie europejskiej sieci służb 
-zatrudnienia (EURES), dostępu pracowników do usług w  zakresie mobilności i dalszej integracji rynków pracy oraz zmiany 
-rozporządzeń (UE) nr 492/2011 i (UE) nr 1296/2013 (Dz. Urz. UE L 107 z 22.04.2016, str. 1, Dz. Urz. UE L 186 z 11.07.2019, 
-str. 21 oraz Dz. Urz. UE L 231 z 30.06.2021, str. 21),  
-b) rozporządzenia Parlamentu Europejskiego i  Rady (WE) nr  987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania 
-rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, 
-str. 1, Dz.  Urz. UE  L 54 z  24.02.2018, str.  18, Dz.  Urz. UE  L 344 z  29.12.2010, str.  1, Dz.  Urz. UE  L 338 z  22.12.2010, 
-str. 35, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, 
-str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.3.2017, str. 13 oraz Dz. Urz. UE C 170 z 06.05.2021, str. 4). 
-2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 
-1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 16 września 
-1982 r. o  pracownikach urzędów państw owych, ustawę z  dnia 20  grudnia 1990  r. o  ubezpieczeniu społecznym rolników, ustawę 
-z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 7 września 1991 r. o systemie oświaty, ustawę 
-z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z  dnia 15 lutego 1992 r. o po-
-datku dochodowym od osób prawnych, ustawę z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest, ustawę 
-z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z  dnia 13 paź-
-dziernika 1998 r. o systemie ubezpieczeń społecznych, ustawę z  dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym 
-od niektórych przychodów osiąganych przez osoby fizyczn e, ustawę z  dnia 9 listopada 2000 r. o repatriacji, ustawę z  dnia 27 lipca 
-2001 r. o kuratorach sądowych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 
-30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy, ustawę z  dnia 30 paź-
-dziernika 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i  chorób zawodowych, ustawę z  dnia 30 października 
-2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, ustawę z dnia 23 listo-
-pada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych, ustawę z  dnia 
-11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, ustawę z dnia 28 listo-
-pada 2003 r. o świadczeniach rodzinnych, ustawę z  dnia 12 marca 2004 r. o pomocy społecznej, ustawę z  dnia 30 kwietnia 2004 r. 
-o świadczeniach przedemerytalnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków 
-publicznych, ustawę z dnia 21 kwietnia 2005 r. o opłatach abonamentowych, ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjal-
-nych, ustawę z  dnia 13  lipca 2006  r. o  ochronie ros zczeń pracowniczych w  razie niewypłacalności pracodawcy, ustawę z  dnia 
-13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, 
-ustawę z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, 
-ustawę z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu 
-stoczniowego, ustawę z dnia 19 czerwca 2009 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, 
-które utraciły pracę, ustawę z dnia 17 lipca 2009 r. o praktykach absolwenckich, ustawę z dnia 25 czerwca 2010 r. o sporcie, ustawę 
-z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania, ustawę z dnia 4 lutego 
-2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 16 września 
-2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 11 października 2013 r. o szczególnych 
-rozwiązaniach związanych z ochroną miejsc pracy, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 21 października 
-2016 r. o  umowie koncesji na roboty b udowlane lub usługi, ustawę z  dnia 14  grudnia 2016  r. – Prawo oświatowe, ustawę z  dnia 
-20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełnia-
-jącym, ustawę z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, ustawę z dnia 11 września 
-2019 r. – Prawo zamówień publicznych, ustawę z  dnia 11 września 2019 r. o pracy na statkach rybackich, ustawę z  dnia 11 marca 
-2022 r. o obronie Ojczyzny, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na tery-
-torium tego państwa, ustawę z dnia 5 sierpnia 2022 r. o ekonomii społecznej, ustawę z dnia 16 listopada 2022 r. o systemie teleinfor-
-matycznym do obsługi niektórych umów or az uchyla się ustawę z  dnia 20 kwietnia 2004 r. o promocji zatrudnienia i  instytucjach 
-rynku pracy. 
+Art. 1. 1. Ustawa określa zadania państwa w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy.
+2. Zadania państwa w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy są realizowane w celu: 1) pełnego i produktywnego zatrudnienia; 2) rozwoju zasobów ludzkich; 3) wzmacniania integracji i solidarności społecznej; 4) zwiększania mobilności na rynku pracy.
 
-  
-Dziennik Ustaw – 3 – Poz. 620 
- 
- 
-3. Ustawa ma zastosowanie do: 
-1) obywateli polskich poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej 
-Polskiej oraz pracę za granicą u pracodawców zagranicznych; 
-2) cudzoziemców poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej 
-Polskiej: 
-a) obywateli państw członkowskich Unii Europejskiej, 
-b) obywateli państw Europejskiego Obszaru Gospodarczego nienależących do Unii Europejskiej, 
-c) obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, którzy mogą korzystać 
-ze swobody przepływu osób na podstawie umów zawartych przez te państwa z  Unią Europejską i jej państwami 
-członkowskimi, 
-d) obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d 
-Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Euro-
-pejskiej Wspólnoty Energii Atomowej (Dz.  Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.3)), oraz członków ich 
-rodzin, o których mowa w art. 10 ust. 1 lit. e i f tej umowy, 
-e) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt stały, 
-f) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, 
-g) posiadających w Rzeczypospolitej Polskiej status uchodźcy, 
-h) którym udzielono ochrony uzupełniającej w Rzeczypospolitej Polskiej, 
-i) posiadających w Rzeczypospolitej Polskiej zgodę na pobyt ze względów humanitarnych lub zgodę na pobyt tolero-
-wany, 
-j) korzystających w Rzeczypospolitej Polskiej z ochrony czasowej, 
-k) będących stronami postępowania w sprawie udzielenia ochrony międzynarodowej, którzy posiadają zaświadczenie 
-wydane na podstawie art. 35 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium 
-Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389 i 619), 
-l) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, 
-o których mowa w  art. 127, art. 137a lub art. 186 ust. 1 pkt 3 ustawy z  dnia 12 grudnia 2013 r. o cudzoziemcach 
-(Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619), 
-m) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, 
-o których mowa w  art. 144, art.  151 ust. 1, art.  151b ust.  1, art.  159 ust. 1, art.  160, art.  161, art.  161b ust.  1, 
-art. 176, art. 186 ust. 1 pkt 1, 2, 4, 5 i 7 lub art. 187 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiada-
-jących wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów 
-magisterskich albo kształcenia się w  szkole doktorskiej, z  adnotacją „student”, lub  wizę krajową w  celu prowa-
-dzenia badań naukowych lub prac rozwojowych, 
-n) posiadających zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1 albo 1a, albo art. 126 ust. 1 ustawy 
-z dnia 12 grudnia 2013 r. o cudzoziemcach, albo wizę wydaną w celu wykonywania pracy na terytorium Rzeczy-
-pospolitej Polskiej, 
-o) posiadających w Rzeczypospolitej Polskiej wizę wydaną w  celu, o którym mowa w  art. 60 ust. 1 pkt 5a ustawy 
-z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy 
-z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach 
-ruchu bezwizowego w  związku z  wnioskiem wpisanym do ewidencji wniosków w  sprawie pracy sezonowej, 
-o której mowa w  art. 73 ust. 2 ustawy z  dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy 
-cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), 
-p) posiadających w Rzeczypospolitej Polskiej wizę wydaną w  celu, o którym mowa w  art. 60 ust. 1 pkt 23 ustawy 
-z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, 
-o których mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; 
- 
-3) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, 
-Dz. Urz. UE  L 443 z  30.12.2020, str.  3, Dz.  Urz. UE  L 43 z  24.02.2022, str.  84, Dz.  Urz. UE  L 131 z  05.05.2022, str.  9, Dz.  Urz. 
-UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 109, Dz. Urz. UE L 2023/2471 z 07.11.2023, str. 1 oraz Dz. Urz. 
-UE L 2024/2134 z 07.08.2024.  
+2) służy stosowaniu: a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/589 z dnia 13 kwietnia 2016 r. w sprawie europejskiej sieci służb zatrudnienia (EURES), dostępu pracowników do usług w zakresie mobilności i dalszej integracji rynków pracy oraz zmiany rozporządzeń (UE) nr 492/2011 i (UE) nr 1296/2013 (Dz. Urz. UE L 107 z 22.04.2016, str. 1, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 231 z 30.06.2021, str. 21), b) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, Dz. Urz. UE L 54 z 24.02.2018, str. 18, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.3.2017, str. 13 oraz Dz. Urz. UE C 170 z 06.05.2021, str. 4).
+2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 27 lipca 2001 r. o kuratorach sądowych, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, ustawę z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 21 kwietnia 2005 r. o opłatach abonamentowych, ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych, ustawę z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego, ustawę z dnia 19 czerwca 2009 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę, ustawę z dnia 17 lipca 2009 r. o praktykach absolwenckich, ustawę z dnia 25 czerwca 2010 r. o sporcie, ustawę z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania, ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, ustawę z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych, ustawę z dnia 11 września 2019 r. o pracy na statkach rybackich, ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawę z dnia 5 sierpnia 2022 r. o ekonomii społecznej, ustawę z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów oraz uchyla się ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
-  
-Dziennik Ustaw – 4 – Poz. 620 
- 
- 
-3) cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o  którym mowa w  pkt 2 
-lit. a–c, jako członkowie rodziny w  rozumieniu art. 2 pkt 4 ustawy z  dnia 14 lipca 2006 r. o wjeździe na terytorium 
-Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z  tego terytorium obywateli państw członkowskich Unii Europej-
-skiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688 oraz z 2025 r. poz. 619); 
-4) cudzoziemców – członków rodzin cudzoziemców, o których mowa w pkt 2 lit. g–j; 
-5) cudzoziemców – członków rodzin obywateli polskich, którzy uzyskali zezwolenie na  pobyt czasowy na terytorium 
-Rzeczypospolitej Polskiej albo po złożeniu wniosku o  udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt 
-stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej przebywają na terytorium Rzeczypospolitej 
-Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach 
-lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udziele-
-nie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku 
-o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długotermino-
-wego Unii Europejskiej posiadali zezwolenie na pobyt czasowy; 
-6) cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej obywatelowi polskiemu jako członek rodziny 
-w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie 
-oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
+Dziennik Ustaw
+
+–3–
+
+Poz. 620
+
+3. Ustawa ma zastosowanie do:
+1) obywateli polskich poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej Polskiej oraz pracę za granicą u pracodawców zagranicznych;
+2) cudzoziemców poszukujących i podejmujących zatrudnienie lub inną pracę zarobkową na terytorium Rzeczypospolitej Polskiej:
+a) obywateli państw członkowskich Unii Europejskiej,
+b) obywateli państw Europejskiego Obszaru Gospodarczego nienależących do Unii Europejskiej,
+c) obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, którzy mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez te państwa z Unią Europejską i jej państwami członkowskimi,
+d) obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.3)), oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. e i f tej umowy,
+e) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt stały,
+f) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej,
+g) posiadających w Rzeczypospolitej Polskiej status uchodźcy,
+h) którym udzielono ochrony uzupełniającej w Rzeczypospolitej Polskiej,
+i) posiadających w Rzeczypospolitej Polskiej zgodę na pobyt ze względów humanitarnych lub zgodę na pobyt tolerowany,
+j) korzystających w Rzeczypospolitej Polskiej z ochrony czasowej,
+k) będących stronami postępowania w sprawie udzielenia ochrony międzynarodowej, którzy posiadają zaświadczenie wydane na podstawie art. 35 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389 i 619),
+l) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 127, art. 137a lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619),
+m) posiadających w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 144, art. 151 ust. 1, art. 151b ust. 1, art. 159 ust. 1, art. 160, art. 161, art. 161b ust. 1, art. 176, art. 186 ust. 1 pkt 1, 2, 4, 5 i 7 lub art. 187 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, lub wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych,
+n) posiadających zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1 albo 1a, albo art. 126 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo wizę wydaną w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej,
+o) posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego w związku z wnioskiem wpisanym do ewidencji wniosków w sprawie pracy sezonowej, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621),
+p) posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 23 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+
+3) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84, Dz. Urz. UE L 131 z 05.05.2022, str. 9, Dz. Urz. UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 109, Dz. Urz. UE L 2023/2471 z 07.11.2023, str. 1 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
+
+Dziennik Ustaw
+
+–4–
+
+Poz. 620
+
+3) cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 2 lit. a–c, jako członkowie rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688 oraz z 2025 r. poz. 619);
+4) cudzoziemców – członków rodzin cudzoziemców, o których mowa w pkt 2 lit. g–j;
+5) cudzoziemców – członków rodzin obywateli polskich, którzy uzyskali zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej albo po złożeniu wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej przebywają na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej posiadali zezwolenie na pobyt czasowy;
+6) cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej obywatelowi polskiemu jako członek rodziny w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.

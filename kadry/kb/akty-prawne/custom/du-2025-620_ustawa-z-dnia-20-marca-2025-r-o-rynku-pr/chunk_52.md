@@ -1,193 +1,105 @@
 ---
 act_eli: DU/2025/620
-chunk: 52/63
+chunk: 52/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 52/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 52/62
 
-Art. 351. 1. Komendant Główny OHP, wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia i wychowania 
-OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP odpowiednio do realizowanych zadań wynikających z ustawy 
-jako administratorzy danych osobowych przetwarzają dane osobowe osób fizycznych ubiegających się o  wsparcie lub ko-
-rzystających ze wsparcia OHP, w  celu realizacji zadań ustawowych, w  tym weryfikacji uprawnień i  danych, zapewnienia 
-pomocy określonej w ustawie, prowadzenia postępowań kontrolnych, realizacji obowiązków sprawozdawczych i obowiąz-
-ków w zakresie statystyki publicznej oraz określania planów dalszych działań. Dla celów sprawozdawczych, statystycznych 
-oraz w celu określenia planów dalszych działań dane przetwarzane przez Komendanta Głównego OHP, wojewódzkich komen-
-dantów OHP, dyrektorów centrów kształcenia i wychowania OHP oraz dyrektorów ośrodków szkolenia zawodowego OHP 
-w systemach teleinformatycznych podlegają pseudonimizacji lub anonimizacji. 
-2. W celu realizacji zadań wynikających z  ustawy wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia 
-i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP są administratorami danych osobowych osób 
-ubiegających się o  wsparcie lub  korzystających ze wsparcia OHP. Wojewódzcy komendanci OHP, dyrektorzy centrów 
-kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP odpowiednio do realizowanych za-
-dań wynikających z ustawy jako administratorzy danych osobowych gromadzą informacje lub dokumenty w  sprawie form 
-pomocy i wsparcia określonych w ustawie w formie dokumentów elektronicznych oraz dok umentów papierowych lub ich 
-odwzorowań cyfrowych. 
-3. Wojewódzki komendant OHP oraz dyrektor centrum kształcenia i  wychowania OHP jako administratorzy danych 
-przetwarzają następujące dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP: 
-1) imię (imiona) i nazwisko; 
-2) obywatelstwo albo obywatelstwa; 
-3) numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, rodzaj, serię i  numer dokumentu potwierdzają-
-cego tożsamość; 
-4) adres do doręczeń i adres zamieszkania; 
-5) wykształcenie; 
+Art. 357. 1. Minister właściwy do spraw pracy może przeprowadzać w publicznych służbach zatrudnienia, OHP oraz innych podmiotach kontrole w zakresie realizacji zadań wynikających z ustawy lub wydatkowania środków Funduszu Pracy.
+2. Do kontroli, o której mowa w ust. 1, przepisy rozdziałów 1 i 2, z wyjątkiem art. 48, oraz rozdziałów 3 i 4 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio.
+Art. 358. 1. Wojewoda lub minister właściwy do spraw pracy, w wyniku przeprowadzonych kontroli, o których mowa w art. 355 ust. 1 i art. 357 ust. 1, mogą przekazać jednostce kontrolowanej zalecenia pokontrolne.
+2. Jednostka kontrolowana może, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych, zgłosić do nich pisemne umotywowane zastrzeżenia.
+3. Wojewoda lub minister właściwy do spraw pracy, w terminie 14 dni od dnia otrzymania zastrzeżeń przedstawiają stanowisko w sprawie ich uwzględnienia.
+4. W przypadku nieuwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska wojewody lub ministra właściwego do spraw pracy, o którym mowa w ust. 3, powiadamia wojewodę lub ministra właściwego do spraw pracy o realizacji zaleceń pokontrolnych.
+5. W przypadku uwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska wojewody lub ministra właściwego do spraw pracy, o którym mowa w ust. 3, powiadamia wojewodę lub ministra właściwego do spraw pracy o realizacji zaleceń pokontrolnych, mając na uwadze zmiany wynikające z uwzględnionych zastrzeżeń.
+6. W przypadku stwierdzenia istotnych nieprawidłowości w realizacji zadań ustawowych, w szczególności w zakresie stosowania form pomocy przez urzędy pracy, wojewoda lub minister właściwy do spraw pracy niezależnie od przysługujących mu innych środków, zawiadamiają o stwierdzonych nieprawidłowościach marszałka województwa lub starostę.
+7. W przypadku, o którym mowa w ust. 6, marszałek województwa lub starosta powiadamiają ministra właściwego do spraw pracy lub wojewodę o podjętych czynnościach w terminie 30 dni od dnia otrzymania zawiadomienia o stwierdzonych nieprawidłowościach.
+Art. 359. 1. Kto nie realizuje zaleceń pokontrolnych wojewody lub ministra właściwego do spraw pracy, o których mowa w art. 358 ust. 1, podlega karze pieniężnej w wysokości do 2-krotnej wysokości przeciętnego wynagrodzenia.
+2. Karę pieniężną wymierza wojewoda lub minister właściwy do spraw pracy w drodze decyzji administracyjnej, biorąc pod uwagę rozmiar, stopień i społeczną szkodliwość stwierdzonych nieprawidłowości.
+3. Od kary pieniężnej nieuiszczonej w terminie pobiera się odsetki za zwłokę w wysokości określonej jak dla zaległości podatkowych.
+4. Egzekucja kary pieniężnej wraz z odsetkami, o których mowa w ust. 3, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+Art. 360. 1. Starosta może przeprowadzać kontrolę przyznanej formy pomocy w zakresie prawidłowości realizacji zawartej umowy i wydatkowania środków zgodnie z przeznaczeniem.
+2. Do kontroli, o której mowa w ust. 1, przepisy rozdziałów 1 i 2, z wyjątkiem art. 48, oraz rozdziałów 3 i 4 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio.
+3. Starosta w wyniku przeprowadzonej kontroli, o której mowa w ust. 1, może przekazać jednostce kontrolowanej zalecenia pokontrolne.
+4. Jednostka kontrolowana może, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych, zgłosić do nich pisemne umotywowane zastrzeżenia.
+5. Starosta w terminie 14 dni od dnia otrzymania zastrzeżeń przedstawia stanowisko w sprawie ich uwzględnienia.
+6. W przypadku nieuwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska starosty, o którym mowa w ust. 5, powiadamia starostę o realizacji zaleceń pokontrolnych.
+7. W przypadku uwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska starosty, o którym mowa w ust. 5, powiadamia starostę o realizacji zaleceń pokontrolnych, mając na uwadze zmiany wynikające z uwzględnionych zastrzeżeń.
 
-  
-Dziennik Ustaw – 150 – Poz. 620 
- 
- 
-6) ukończone szkoły i szkolenia; 
-7) szkoła, klasa i rodzaj oddziału, gdzie odbywa lub odbywała się ostatnio nauka; 
-8) pracodawca, u którego odbywa się lub odbywało się ostatnio, lub zostało ukończone przygotowanie zawodowe młodo-
-cianych pracowników w formie: 
-a) przyuczenia do wykonywania określonej pracy, 
-b) nauki zawodu; 
-9) zawody wyuczone, zawody wykonywane, kwalifikacje cząstkowe w rozumieniu art. 2 pkt 9 ustawy z dnia 22 grudnia 
-2015 r. o Zintegrowanym Systemie Kwalifikacji oraz zawód, w którym osoba ta chciałaby pracować; 
-10) poziom znajomości języków obcych; 
-11) posiadane uprawnienia zawodowe; 
-12) rodzaj i stopień niepełnosprawności, jeżeli dotyczy; 
-13) okresy zatrudnienia z podaniem nazwy pracodawcy, zajmowanego stanowiska pracy, wymiaru czasu pracy i podstawy 
-wykonywania pracy; 
-14) kierunki szkoleń, którymi osoba jest zainteresowana, oraz możliwości podejmowania pracy; 
-15) informacja o oświadczeniu o wyrażeniu zgody lub jej braku na przetwarzanie danych osobowych wraz z ich zakresem 
-na podstawie przepisów Unii Europejskiej o sieci EURES; 
-16) numer rachunku płatniczego, jeżeli posiada; 
-17) adres elektroniczny i numer telefonu osoby, jeżeli posiada; 
-18) informacje o liczbie, rodzaju, zakresie i wartości, o ile możliwe jest jej ustalenie, pomocy udzielonej tej osobie przez 
-OHP oraz jej przyjęciu albo odmowie jej przyjęcia; 
-19) informacje o pomocy udzielonej przez: 
-a) publiczne służby zatrudnienia w zakresie określonym w ustawie przekazywane przez ministra właściwego do spraw 
-pracy lub te służby, 
-b) jednostki organizacyjne pomocy społecznej w zakresie danych o przynależności do rodziny o dochodach nieprze-
-kraczających dochodu uprawniającego do świadczeń z pomocy społecznej w rozumieniu ustawy z dnia 12 marca 
-2004 r. o pomocy społecznej, 
-c) jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej w zakresie danych o przebywaniu w pieczy 
-zastępczej lub opuszczaniu pieczy zastępczej, określonym w  przepisach o wspieraniu rodziny i  systemie pieczy 
-zastępczej, przekazywane przez ministra właściwego do spraw rodziny lub te jednostki; 
-20) informacje gmin, podmiotów prowadzących szkoły lub organów systemu oświaty o nierealizowaniu obowiązku szkol-
-nego lub obowiązku nauki w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. 
-4. Dyrektor ośrodka szkolenia zawodowego OHP jako administrator danych przetwarza następujące dane osobowe 
-osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP: 
-1) imię (imiona) i nazwisko; 
-2) numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, rodzaj, serię i  numer dokumentu potwierdzają-
-cego tożsamość; 
-3) adres do doręczeń i adres zamieszkania; 
-4) wykształcenie; 
-5) adres elektroniczny i numer telefonu, jeżeli je posiadają. 
-5. Wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szko-
-lenia zawodowego OHP, udostępniają Komendantowi Głównemu OHP dane, o  których mowa w ust. 3 i 4, w zakresie nie-
-zbędnym do realizacji zadań, o których mowa w art. 342 ust. 2 pkt 1, 3, 5, 6 i 9. 
-6. Wojewódzcy komendanci OHP oraz dyrektorzy centrów kształcenia i wychowania OHP jako administratorzy danych 
-udostępniają dyrektorowi ośrodka szkolenia z awodowego OHP dane osobowe, o  których mowa w  ust. 3, w zakresie nie-
-zbędnym do realizacji zadań, o których mowa w art. 342 ust. 2 pkt 5. 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 151 – Poz. 620 
- 
- 
-7. Dane osobowe przetwarzane przez OHP, o  których mowa w  ust. 3 i  4, podlegają zabezpieczeniom polegającym 
-co najmniej na: 
-1) dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane 
-przez administratora danych; 
-2) pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności. 
-8. Spełnienie zabezpieczeń, o których mowa w ust. 7, zapewniają w przypadku pracowników: 
-1) Komendy Głównej OHP – Komendant Główny OHP; 
-2) wojewódzkiej komendy OHP – wojewódzki komendant OHP; 
-3) centrum kształcenia i wychowania OHP – dyrektor centrum kształcenia i wychowania OHP; 
-4) ośrodka szkolenia zawodowego OHP – dyrektor ośrodka szkolenia zawodowego OHP. 
-9. Dane osobowe mogą być przetwarzane przez podmioty, o których mowa w ust. 8, które zapewniają niezbędne środki 
-techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzanych danych osobowych oraz środki określone 
-w art. 32 rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2016/679 z  dnia 27 kwietnia 2016 r. w sprawie ochrony 
-osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz 
-uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), w tym: 
-1) posiadają możliwość identyfikacji osoby uzyskującej informacje oraz zakresu, daty i celu ich uzyskania; 
-2) posiadają zabezpieczenia uniemożliwiające wykorzystanie informacji niezgodnie z celem ich uzyskania; 
-3) zapewniają, że dostęp do danych osobowych jest nadzorowany i rejestrowany zgodnie z przepisami o ochronie danych 
-osobowych. 
-10. Dane osobowe osób fizycznych, o których mowa w ust. 3 i 4, są przetwarzane przez OHP przez okres 10 lat, licząc 
-od końca roku kalendarzowego, w którym zakończono ubieganie się o wsparcie lub udzielanie wsparcia. 
-11. Jeżeli w okresie, o którym mowa w ust. 10, zostanie wytoczone powództwo lub  zostanie wszczęte postępowanie, 
-okres przetwarzania, o którym mowa w ust. 10, przedłuża się do czasu prawomocnego zakończenia tego postępowania. 
-12. Na wniosek Komendanta Głównego OHP, wojewódzkiego komendanta OHP, dyrektora centrum kształcenia i wy-
-chowania OHP oraz dyrektora ośrodka szkolenia zawodowego OHP, w celu zapewnienia dostępu do informacji niezbędnych 
-do prawidłowej realizacji zadań OHP, udostępniane są nieodpłatnie następujące kategorie danych, w  tym dane osobowe 
-młodzieży, przetwarzane przez: 
-1) ministra właściwego do spraw pracy i publiczne służby zatrudnienia – dane osób fizycznych, o których mowa w ust. 3, 
-w zakresie określonym w ust. 3 pkt 1–6, 12–15, 17 i pkt 19 lit. a; 
-2) ministra właściwego do spraw zabezpieczenia społecznego – dane osób fizycznych, o  których mowa w ust. 3, w za-
-kresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b; 
-3) Państwową Inspekcję Pracy – informacje o realizacji zadań, o  których mowa w  art. 10 ust. 1 pkt 1 i 4 ustawy z  dnia 
-13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, oraz  kontroli przestrzegania przepisów o  delegowaniu pracowni-
-ków w ramach świadczenia usług; 
-4) jednostki organizacyjne pomocy społecznej – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym 
-w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b; 
-5) jednostki organizacyjne wspierania rodziny i  systemu pieczy zastępczej – dane osób fizycznych, o  których mowa 
-w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. c; 
-6) gminy, podmioty prowadzące szkoły lub organy systemu oświaty – dane osób fizycznych, o których mowa w ust. 3, 
-w zakresie określonym w ust. 3 pkt 1, 3, 4, 6, 7 i 20; 
-7) Zakład Ubezpieczeń Społecznych – dane określone w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie 
-ubezpieczeń społecznych. 
-13. W celu realizacji przez OHP zadań, o których mowa w art. 342 ust. 2 pkt 4, 5 i 7, gmina lub podmiot prowadzący 
-szkoły obowiązani są przekazać do właściwej ze względu na teren działalności wojewódzkiej komendy OHP informacje 
-o młodzieży nierealizującej obowiązku szkolnego lub obowiąz ku nauki, w  zakresie określonym w  art. 35 ustawy z  dnia 
-14 grudnia 2016 r. – Prawo oświatowe. 
+– 154 –
 
-  
-Dziennik Ustaw – 152 – Poz. 620 
- 
- 
-14. Komendant Główny OHP, wojewódzki komendant OHP, dyrektor centrum kształcenia i  wychowania OHP oraz 
-dyrektor ośrodka szkolenia zawodowego OHP udostępniają na wniosek, w  niezbędnym zakresie, przetwarzane dane oso-
-bowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP: 
-1) ministrowi właściwemu do spraw pracy w celu realizacji jego zadań, o których mowa w art. 25 ust. 1, dane osób fizycz-
-nych, w zakresie określonym w ust. 3 pkt 1, 3, 15, 18 i pkt 19 lit. c; 
-2) dyrektorowi WUP w celu realizacji zadań, o których mowa w art. 32 ust. 1 pkt 1–14, 20–22, 27 i 31, w tym weryfikacji 
-prawa do świadczeń i udzielania pomocy, w zakresie określonym w ust. 3 pkt 1, 3, 15 i 18; 
-3) dyrektorowi PUP w  celu realizacji zadań, o  których mowa w  art. 38 ust. 1, w tym weryfikacji prawa do świadczeń 
-i udzielania pomocy określonej w ustawie, w zakresie określonym w ust. 3 pkt 1, 3, 15, 18 i pkt 19 lit. c. 
-15. Dane, o których mowa w ust. 14, są udostępniane na wniosek podmiotów, o  których mowa w  ust. 14, dotyczący 
-określonej osoby fizycznej. 
-16. W przypadku wniosków składanych z  wykorzystaniem systemów teleinformatycznych przepis ust.  15 stosuje się 
-wobec podmiotów, o których mowa w ust. 14, jeżeli spełniają łącznie następujące warunki: 
-1) posiadają możliwość identyfikacji osoby uzyskującej informacje oraz zakresu, daty i celu ich uzyskania; 
-2) posiadają zabezpieczenia, szczególnie środki techniczne i  organizacyjne uniemożliwiające wykorzystanie informacji 
-niezgodnie z celem ich uzyskania; 
-3) zapewniają, że dostęp do danych osobowych jest nadzorowany i rejestrowany zgodnie z przepisami o ochronie danych 
-osobowych; 
-4) zapewniają, że przetwarzanie – udostępnianie danych osobowych odbywa się zgodnie z przepisami o ochronie danych 
-osobowych. 
-Art. 352. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe zadania OHP w zakresie 
-kształcenia i wychowania oraz zatrudnienia i przeciwdziałania marginalizacji i wykluczeniu społecznemu młodzieży, struk-
-turę i zadania wojewódzkich komend OHP, centrów kształcenia i wychowania OHP, ośrodków szkolenia zawodowego OHP 
-oraz zadania kierowników wskazanych jednostek, mając na względzie zapewnienie efek tywności i skuteczności realizacji 
-zadań przez OHP. 
-Art. 353. 1. Komendant Główny OHP może przeprowadzać w jednostkach OHP kontrole w zakresie realizacji zadań 
-wynikających z ustawy, wydatkowania środków Funduszu Pracy oraz innych przepisów prawa. 
-2. Do kontroli, o której mowa w ust. 1: 
-1) przepisy rozdziałów 1 i 2, z wyjątkiem art. 48, oraz rozdziałów 3 i 4 ustawy z dnia 15 lipca 2011 r. o kontroli w admini-
-stracji rządowej stosuje się odpowiednio; 
-2) przepisy art. 348 ust. 8 stosuje się. 
-DZIAŁ XI 
-Nadzór i kontrola 
-Art. 354. Wojewoda sprawuje nadzór, o którym mowa w art. 30 ust. 1, w szczególności przez: 
-1) badanie dokumentów i danych, niezbędnych do sprawowania nadzoru; 
-2) wykonywanie niezbędnych do celów nadzoru odpisów, wyciągów z dokumentów lub kserokopii oraz zestawień i obliczeń 
-sporządzonych na podstawie dokumentów; 
-3) przeprowadzanie oględzin obiektów i pomieszczeń oraz obserwację przebiegu czynności objętych nadzorem; 
-4) żądanie od pracowników jednostki kontrolowanej udzielania informacji w formie ustnej i pisemnej w związku z czyn-
-nościami nadzorczymi; 
-5) wzywanie i przesłuchiwanie świadków; 
-6) zwracanie się o wydanie opinii przez biegłych i specjalistów z zakresu rynku pracy. 
-Art. 355. 1. Wojewoda może przeprowadzać kontrolę w jednostkach kontrolowanych. 
-2. Do kontroli, o  której mowa w  ust. 1, przepisy rozdziałów 1 i  2, z wyjątkiem art. 48, oraz rozdziałów 3 i  4 ustawy 
-z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio. 
+Poz. 620
 
-  
-Dziennik Ustaw – 153 – Poz. 620 
- 
- 
-Art. 356. Wojewoda przekazuje ministrowi właściwemu do spraw pracy w  terminie do dnia 31 stycznia informację 
-o realizacji w roku poprzednim nadzoru, o którym mowa w art. 30 ust. 1, oraz kontroli, o której mowa w art. 355 ust. 1, wraz 
-z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem 
-lub kontrolą.
+8. Kto nie realizuje zaleceń pokontrolnych starosty, o których mowa w ust. 3, podlega karze pieniężnej w wysokości do 2-krotnej wysokości przeciętnego wynagrodzenia.
+9. Karę pieniężną wymierza starosta w drodze decyzji administracyjnej, biorąc pod uwagę rozmiar, stopień i społeczną szkodliwość stwierdzonych nieprawidłowości.
+10. Od kary pieniężnej nieuiszczonej w terminie pobiera się odsetki za zwłokę w wysokości określonej jak dla zaległości podatkowych.
+11. Egzekucja kary pieniężnej wraz z odsetkami, o których mowa w ust. 10, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+12. Starosta przekazuje wojewodzie w terminie do dnia 31 stycznia informację o realizacji w roku poprzednim kontroli, o której mowa w ust. 1, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą.
+13. Wojewoda przekazuje ministrowi właściwemu do spraw pracy w terminie do dnia 28 lutego informację o realizacji w roku poprzednim kontroli, o której mowa w ust. 1, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą.
+Art. 361. 1. Minister właściwy do spraw pracy może zlecić wybranemu podmiotowi przeprowadzenie operacyjnego audytu zewnętrznego w zakresie gospodarowania środkami Funduszu Pracy.
+2. Operacyjny audyt zewnętrzny przeprowadza podmiot niezależny od PUP, posiadający odpowiednie kwalifikacje i doświadczenie z zakresu audytu lub dysponujący osobami uprawnionymi do przeprowadzenia audytu.
+3. Audytor zewnętrzny ma prawo wglądu do dokumentów związanych z przeprowadzanym audytem, w tym zawartych na informatycznych nośnikach danych, oraz do wykonywania z nich kopii, odpisów, wyciągów, zestawień lub wydruków.
+4. PUP, w których przeprowadzany jest operacyjny audyt, są obowiązane na żądanie audytora zewnętrznego udzielać informacji i wyjaśnień oraz potwierdzać zgodność z oryginałem kopii dokumentów, ich odpisów, wyciągów, zestawień i wydruków.
+5. Z przeprowadzonego operacyjnego audytu zewnętrznego jest sporządzane sprawozdanie zawierające opis ustalonego stanu faktycznego oraz jego ocenę, a także zalecenia lub wnioski dotyczące usunięcia nieprawidłowości lub usprawnienia funkcjonowania PUP.
+6. Sprawozdanie z przeprowadzonego operacyjnego audytu zewnętrznego stanowi podstawę wystąpienia przez ministra właściwego do spraw pracy do zarządu powiatu z wnioskiem o opracowanie programu naprawczego.
+
+DZIAŁ XII Przepisy karne
+Art. 362. 1. Kto, bez wymaganego wpisu do rejestru agencji zatrudnienia prowadzi agencję zatrudnienia, świadcząc usługi w zakresie pracy tymczasowej lub pośrednictwa pracy,
+podlega karze grzywny od 3000 zł do 100 000 zł.
+2. Tej samej karze podlega, kto, świadcząc usługi w zakresie pracy tymczasowej lub pośrednictwa pracy, nie spełnia warunku, o którym mowa w art. 305 ust. 3.
+3. Kto, świadcząc usługi, o których mowa w art. 305 ust. 2 lub art. 306, pobiera od osoby, dla której poszukuje zatrudnienia lub innej pracy zarobkowej, oraz osoby zatrudnionej lub niebędącej pracownikiem agencji pracy tymczasowej lub której udziela pomocy w wyborze lub zmianie zawodu, miejsca pracy, kierunku kształcenia lub szkolenia, a także w planowaniu rozwoju zawodowego, dodatkowe opłaty inne niż wymienione w art. 338 ust. 3 pkt 16,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+4. Tej samej karze podlega, kto, świadcząc usługi, o których mowa w art. 305 ust. 2 lub art. 306, nie przestrzega zakazu dyskryminacji ze względu na płeć, wiek, niepełnosprawność, rasę, religię, pochodzenie etniczne, narodowość, orientację seksualną, przekonania polityczne, światopogląd lub ze względu na przynależność związkową.
+5. Kto, świadcząc usługę, o której mowa w art. 305 ust. 2 pkt 1 lit. a, nie kieruje osoby do pracy za granicą bezpośrednio do pracodawcy zagranicznego lub bezpośrednio do zagranicznej osoby fizycznej powierzającej jej inną pracę zarobkową, lub nie zawiera z tą osobą pisemnej umowy, o której mowa w art. 338 ust. 2, lub zawiera tę umowę niezgodnie z warunkami określonymi w art. 338 ust. 3 lub nie prowadzi wykazów, o których mowa w art. 338 ust. 6, lub nie przedstawia pisemnego tłumaczenia umowy, o którym mowa w art. 338 ust. 4,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+
+Dziennik Ustaw
+
+– 155 –
+
+Poz. 620
+
+6. Kto, świadcząc usługę, o której mowa w art. 305 ust. 2 pkt 1 lit. a, nie zawiera z pracodawcą zagranicznym pisemnej umowy, o której mowa w art. 338 ust. 5, lub zawiera tę umowę niezgodnie z warunkami określonymi w art. 338 ust. 5,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+7. Kto, świadcząc usługę, o której mowa w art. 305 ust. 2 pkt 1 lit. b:
+1) nie kieruje cudzoziemca do zatrudnienia lub innej pracy zarobkowej bezpośrednio do podmiotów prowadzących działalność na terytorium Rzeczypospolitej Polskiej lub
+2) nie zawiera z cudzoziemcem umowy, o której mowa w art. 337 ust. 2, lub
+3) zawiera z cudzoziemcem umowę niezgodnie z warunkami określonymi w art. 337 ust. 3, lub
+4) nie przedstawia cudzoziemcowi pisemnego tłumaczenia umowy, o którym mowa w art. 337 ust. 4, lub
+5) nie przedstawia cudzoziemcowi lub podmiotowi, do którego agencja zatrudnienia kieruje cudzoziemców do zatrudnienia lub innej pracy zarobkowej, pisemnej informacji, o której mowa w art. 337 ust. 5, lub
+6) nie prowadzi wykazów, o których mowa w art. 337 ust. 6
+– podlega karze grzywny od 3000 zł do 30 000 zł.
+Art. 363. Kto, od osoby kierowanej do podmiotu w celu nabywania umiejętności praktycznych, w szczególności odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, pobiera dodatkowe opłaty inne niż wymienione w art. 338 ust. 3 pkt 16,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+Art. 364. Kto, kierując osobę za granicę do podmiotu zagranicznego w celu nabywania umiejętności praktycznych, odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, nie zawiera z tą osobą umowy, o której mowa w art. 338 ust. 2 i 3,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+Art. 365. Kto, świadcząc usługi, o których mowa w art. 305 ust. 2 lub art. 306 ust. 2, osobie podejmującej za granicą pracę, pracę tymczasową oraz osobie kierowanej za granicę w celu nabywania umiejętności praktycznych, w formie odbycia praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, nie przedstawia pisemnej informacji, o której mowa w art. 321 ust. 1 pkt 2, lub przedstawia informację niezgodną ze stanem faktycznym,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+Art. 366. 1. Kto:
+1) nie dopełnia obowiązku opłacania składek na Fundusz Pracy lub nie opłaca ich w przewidzianym przepisami terminie,
+2) nie zgłasza wymaganych danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy lub udziela w tym zakresie nieprawdziwych wyjaśnień albo odmawia ich udzielenia
+– podlega karze grzywny do 46 000 zł.
+2. Sprawca nie podlega karze, jeżeli przed dniem rozpoczęcia kontroli w podmiocie kontrolowanym zaległe składki na Fundusz Pracy zostały opłacone w wymaganej wysokości.
+Art. 367. Kto, ze względu na płeć, wiek, rasę, pochodzenie etniczne, narodowość, religię, światopogląd, niepełnosprawność, orientację seksualną, przekonania polityczne, przynależność związkową lub do organizacji pracodawców, odmawia zatrudnienia kandydata na wolnym miejscu zatrudnienia lub miejscu przygotowania zawodowego,
+podlega karze grzywny od 3000 zł do 30 000 zł.
+Art. 368. 1. Środki z tytułu orzeczonych i wyegzekwowanych kar grzywien, o których mowa w art. 362–367, stanowią przychód Funduszu Pracy.
+2. Orzeczone i wyegzekwowane kary grzywien, o których mowa w art. 362–367, sądy przekazują bezpośrednio właściwym ze względu na siedzibę lub miejsce zamieszkania ukaranego PUP na wyodrębniony rachunek bankowy PUP albo samorządu powiatu, w trybie i terminach określonych w przepisach dotyczących sposobu wykonywania budżetu państwa.
+3. Orzekanie w sprawach o czyny, o których mowa w art. 362–367, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620).
+
+Dziennik Ustaw
+
+– 156 –
+
+Poz. 620
+
+DZIAŁ XIII Zmiany w przepisach
+Art. 369. W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841) w art. 833 § 11 otrzymuje brzmienie:
+„§ 11. Przepisy art. 87 i art. 871 Kodeksu pracy stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
+Art. 370. W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132) w art. 9 § 11 otrzymuje brzmienie:
+„§ 11. Przepis § 1 stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
+Art. 371. W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871) w art. 70c w ust. 11 pkt 2 otrzymuje brzmienie:
+„2) ze środków Krajowego Funduszu Szkoleniowego, o którym mowa w art. 125 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), na zasadach dotyczących kursów, lub”.

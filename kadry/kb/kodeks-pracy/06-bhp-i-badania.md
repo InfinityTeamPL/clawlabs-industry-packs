@@ -28,8 +28,12 @@ _Stan: 2026. Pełne teksty rozporządzeń na ISAP i podatki.gov.pl._
 - **Nie może zostać dopuszczony do pracy** (art. 229 § 4 KP)
 - Absencja z tego powodu może być usprawiedliwiona nieobecnością bez prawa do wynagrodzenia lub skierowana do pracy zastępczej
 
-### Wyjątek — zwolnienie z badań wstępnych (od 2015)
-Jeżeli osoba była zatrudniona u innego pracodawcy w **ciągu 30 dni**, na **podobnym stanowisku** z takimi samymi czynnikami szkodliwymi, i ma **ważne orzeczenie lekarskie** — pracodawca MOŻE zrezygnować z nowego badania wstępnego (art. 229 § 1¹).
+### Wyjątek — zwolnienie z badań wstępnych (art. 229 § 1¹)
+Badaniom wstępnym NIE podlega osoba przyjmowana do pracy w ciągu **30 dni od rozwiązania/wygaśnięcia poprzedniego stosunku pracy** (30 dni liczy się od USTANIA poprzedniego zatrudnienia), gdy:
+- **u tego samego pracodawcy** na to samo/analogiczne stanowisko, albo
+- **u innego pracodawcy** na stanowisko o takich samych warunkach — jeśli przedstawi aktualne orzeczenie lekarskie, a pracodawca stwierdzi zgodność warunków opisanych w skierowaniu.
+
+⚠️ **Zwolnienie NIE dotyczy osób przyjmowanych do prac szczególnie niebezpiecznych** (art. 229 § 1²) — tu badanie wstępne jest zawsze obowiązkowe.
 
 ---
 
@@ -38,8 +42,8 @@ Jeżeli osoba była zatrudniona u innego pracodawcy w **ciągu 30 dni**, na **po
 ### Rodzaje (rozp. MPiPS z 27.07.2004 ws. szkolenia w dziedzinie BHP)
 
 #### a) Szkolenie wstępne — **przed dopuszczeniem do pracy**
-- **Instruktaż ogólny** — od 2h (prowadzi służba BHP, pracodawca, osoba wyznaczona)
-- **Instruktaż stanowiskowy** — od 8h dla prac fizycznych, od 2h dla prac umysłowych (prowadzi przełożony)
+- **Instruktaż ogólny** — min. **3 godziny lekcyjne** (po 45 min); prowadzi służba BHP, pracodawca lub osoba wyznaczona
+- **Instruktaż stanowiskowy** — min. 8 h dla prac robotniczych/z czynnikami szkodliwymi, min. 2 h dla stanowisk administracyjno-biurowych (prowadzi przełożony)
 
 **Dokumenty:** karta szkolenia wstępnego (2 egzemplarze — 1 do akt osobowych, 1 dla pracownika)
 
@@ -116,6 +120,7 @@ Zdarzenie nagłe, wywołane przyczyną zewnętrzną, powodujące uraz lub śmier
 | Wielkość firmy | Obowiązki |
 |----------------|-----------|
 | **< 10 pracowników** | Pracodawca może pełnić obowiązki BHP sam (po odpowiednim szkoleniu) |
+| **do 50 pracowników, kategoria ryzyka ≤ 3** | Pracodawca też może pełnić zadania służby BHP sam (art. 237¹¹ § 1 KP) |
 | **10-100 pracowników** | Ewentualnie pracodawca + zewnętrzny specjalista BHP (na umowę) |
 | **100-600 pracowników** | Wymagana służba BHP — **min. 1 etat** |
 | **> 600 pracowników** | Co najmniej **1 etat na 600** pracowników |

@@ -1,0 +1,107 @@
+---
+dataset_id: 544
+file: slowniki_bir1_2018.xlsx
+file_size_mb: 0.27
+institution: "Główny Urząd Statystyczny"
+data_date: 2025-01-02
+freshness: fresh
+source_url: https://api.stat.gov.pl
+---
+
+# slowniki_bir1_2018.xlsx
+
+_(z datasetu: Dostęp do danych rejestrowych REGON poprzez usługę sieciową – interfejsy API)_
+
+**Rozmiar:** 0.27 MB
+**Arkusze:** 3
+
+### Arkusz: podstawowa forma prawna
+
+Kolumn: 5, wierszy: ~4
+
+**Schemat:**
+- ``
+- `Symbol`
+- `Nazwa`
+- `DataOd`
+- `DataDo`
+
+**Sample 3 wierszy:**
+
+|  | Symbol | Nazwa | DataOd | DataDo |
+|---|---|---|---|---|
+|  | 1 | OSOBA PRAWNA | 1998-01-01 00:00:00.000 | NULL |
+|  | 2 | JEDNOSTKA ORGANIZACYJNA NIEMAJ | 1998-01-01 00:00:00.000 | NULL |
+|  | 9 | OSOBA FIZYCZNA PROWADZĄCA DZIA | 1998-01-01 00:00:00.000 | NULL |
+
+### Arkusz: szczegolna forma prawna
+
+Kolumn: 5, wierszy: ~161
+
+**Schemat:**
+- ``
+- `Symbol`
+- `Nazwa`
+- `DataOd`
+- `DataDo`
+
+**Sample 30 wierszy:**
+
+|  | Symbol | Nazwa | DataOd | DataDo |
+|---|---|---|---|---|
+|  | 01 | ORGANY WŁADZY,ADMINISTRACJI RZ | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 02 | ORGANY KONTROLI PAŃSTWOWEJ I O | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 03 | WSPÓLNOTY SAMORZĄDOWE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 06 | SĄDY I TRYBUNAŁY | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 09 | SKARB PAŃSTWA | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 14 | EUROPEJSKIE ZGRUPOWANIA INTERE | 2008-10-03 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 15 | SPÓŁKI PARTNERSKIE | 2001-01-25 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 16 | SPÓŁKI AKCYJNE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 17 | SPÓŁKI Z OGRANICZONĄ ODPOWIEDZ | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 18 | SPÓŁKI JAWNE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 19 | SPÓŁKI CYWILNE PROWADZĄCE DZIA | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 20 | SPÓŁKI KOMANDYTOWE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 21 | SPÓŁKI KOMANDYTOWO - AKCYJNE | 2001-01-25 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 22 | SPÓŁKI EUROPEJSKIE | 2008-10-03 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 23 | SPÓŁKI PRZEWIDZIANE W PRZEPISA | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 24 | PRZEDSIĘBIORSTWA PAŃSTWOWE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 25 | PRZEDSIĘBIORSTWA KOMUNALNE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 26 | TOWARZYSTWA UBEZPIECZEŃ WZAJEM | 2008-10-03 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 28 | PAŃSTWOWE JEDNOSTKI ORGANIZACY | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 29 | GMINNE SAMORZĄDOWE JEDNOSTKI O | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 30 | POWIATOWE SAMORZĄDOWE JEDNOSTK | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 31 | WOJEWÓDZKIE SAMORZĄDOWE JEDNOS | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 32 | INSTYTUCJE GOSPODARKI BUDŻETOW | 2010-06-18 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 34 | TOWARZYSTWA REASEKURACJI WZAJE | 2010-06-18 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 35 | GŁÓWNE ODDZIAŁY ZAGRANICZNYCH  | 2010-06-18 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 40 | SPÓŁDZIELNIE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 42 | SPÓŁDZIELNIE EUROPEJSKIE | 2008-10-03 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 44 | UCZELNIE | 2008-10-03 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 46 | SAMODZIELNE PUBLICZNE ZAKŁADY  | 2008-10-03 00:00:00.000 | 2014-11-30 00:00:00.000 |
+|  | 48 | FUNDACJE | 1998-01-01 00:00:00.000 | 2014-11-30 00:00:00.000 |
+
+### Arkusz: forma finansowania
+
+Kolumn: 5, wierszy: ~7
+
+**Schemat:**
+- ``
+- `Symbol`
+- `Nazwa`
+- `DataOd`
+- `DataDo`
+
+**Sample 6 wierszy:**
+
+|  | Symbol | Nazwa | DataOd | DataDo |
+|---|---|---|---|---|
+|  | 0 | JEDNOSTKA LOKALNA NIE BILANSUJ | 1998-01-01 00:00:00.000 | NULL |
+|  | 1 | JEDNOSTKA SAMOFINANSUJĄCA NIE  | 2014-11-08 00:00:00.000 | NULL |
+|  | 2 | JEDNOSTKA BUDŻETOWA | 1998-01-01 00:00:00.000 | NULL |
+|  | 3 | SAMORZĄDOWY ZAKŁAD BUDŻETOWY | 2014-11-08 00:00:00.000 | NULL |
+|  | 4 | GOSPODARSTWO POMOCNICZE JEDNOS | 1998-01-01 00:00:00.000 | 2010-12-31 00:00:00.000 |
+|  | 5 | JEDNOSTKA LOKALNA SAMODZIELNIE | 1998-01-01 00:00:00.000 | NULL |
+
+
+---
+_Plik źródłowy: `data/raw/544/slowniki_bir1_2018.xlsx` (0.27 MB) · Pobrane z https://api.stat.gov.pl_

@@ -1,6 +1,6 @@
 # Świadectwo pracy — wzór
 
-_Art. 97 KP. Wzór urzędowy: rozporządzenie MRPiPS z 30.12.2016, załącznik._
+_Stan: 2026-07-08. Art. 97 KP. Wzór urzędowy: rozporządzenie MRPiPS z 30.12.2016 (t.j. Dz.U. 2020 poz. 1862) ze zm. — aktualny wzór wg rozporządzenia z 11.05.2023 (Dz.U. 2023 poz. 912, obowiązuje od 23.05.2023: doszły pola o sile wyższej, urlopie opiekuńczym i okazjonalnej pracy zdalnej)._
 
 ## Obowiązek wydania
 
@@ -78,6 +78,17 @@ Pieczęć pracodawcy                                 [Miejscowość, data]
       [LICZBA DNI]
    
    e) Urlop ojcowski — [LICZBA DNI/TYGODNI]
+   
+   f) Urlop rodzicielski — [LICZBA TYGODNI] (w okresie: [od-do])
+   
+   g) Zwolnienie od pracy z powodu siły wyższej — [LICZBA DNI / GODZIN]
+      wykorzystane w roku ustania (art. 148¹ KP; max 2 dni / 16 h rocznie)
+   
+   h) Urlop opiekuńczy — [LICZBA DNI]
+      (art. 173¹ KP; max 5 dni rocznie)
+   
+   i) Okazjonalna praca zdalna — [LICZBA DNI]
+      wykorzystane w roku ustania (art. 67³³ KP; max 24 dni rocznie)
 
 6. Wynagrodzenie wypłacane w okresie zatrudnienia:
    - W roku ustania zatrudnienia (2026): wynagrodzenie brutto [KWOTA]
@@ -122,12 +133,15 @@ Pieczęć pracodawcy
 4. Tryb i podstawa rozwiązania stosunku pracy
 5. Okres korzystania z urlopu wypoczynkowego (wykorzystany w roku ustania zatrudnienia)
 6. Wykorzystanie urlopu bezpłatnego
-7. Wykorzystanie urlopu wychowawczego
+7. Wykorzystanie urlopu wychowawczego i **rodzicielskiego**
 8. Dni, w których pracownik nie świadczył pracy z powodu choroby (zasiłek chorobowy)
 9. Wykorzystanie urlopu ojcowskiego
 10. Zwolnienia na dziecko do 14 lat (art. 188 KP)
-11. Okres składkowy do celów emerytalnych
-12. Informacje o zajęciu wynagrodzenia
+11. **Zwolnienie z powodu siły wyższej** (art. 148¹ KP) — dni/godziny wykorzystane w roku ustania *(pole obowiązkowe od 23.05.2023)*
+12. **Urlop opiekuńczy** (art. 173¹ KP) — liczba dni *(pole obowiązkowe od 23.05.2023)*
+13. **Okazjonalna praca zdalna** (art. 67³³ KP) — liczba dni wykorzystanych w roku ustania *(pole obowiązkowe od 23.05.2023)*
+14. Okres składkowy do celów emerytalnych
+15. Informacje o zajęciu wynagrodzenia
 
 ---
 
@@ -183,5 +197,6 @@ Jeśli po wydaniu świadectwa wystąpiły okoliczności wymagające uzupełnieni
 
 ## Źródła
 - [Kodeks Pracy art. 97, 99](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141)
-- [Rozporządzenie MRPiPS z 30.12.2016 — wzór świadectwa](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002292)
+- [Rozporządzenie ws. świadectwa pracy — t.j. Dz.U. 2020 poz. 1862](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001862)
+- [Rozporządzenie z 11.05.2023 — nowy wzór od 23.05.2023 (Dz.U. 2023 poz. 912)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000912)
 - [PIP — świadectwo pracy](https://www.pip.gov.pl/pl/porady-prawne/swiadectwo-pracy)

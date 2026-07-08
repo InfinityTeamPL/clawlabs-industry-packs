@@ -1,6 +1,6 @@
 # Wymiar i naliczanie urlopu wypoczynkowego
 
-_KP art. 152-173. Szczegóły techniczne dla Janiny._
+_Stan: 2026-07-08. KP art. 152-173. Szczegóły techniczne dla Janiny._
 
 ## Wymiar bazowy
 
@@ -17,7 +17,7 @@ _KP art. 152-173. Szczegóły techniczne dla Janiny._
    - Średnia ogólnokształcąca: 4 lata
    - Szkoła policealna: 6 lat
    - Szkoła wyższa: 8 lat
-3. **Nowe od 2026** (sektor prywatny od 1.05.2026): zlecenia, JDG, praca za granicą — udokumentowane
+3. **Nowe od 2026** (art. 302¹ KP; sektor prywatny od 1.05.2026): zlecenia, JDG, praca za granicą — udokumentowane (o dzieło NIE) — szczegóły: `kodeks-pracy/09-staz-pracy-2026.md`
 
 ---
 
@@ -45,7 +45,7 @@ Janek zaczyna pierwszą pracę 2 stycznia, wymiar 20 dni:
 
 ### Sytuacja 3: Rozwiązanie w trakcie roku
 - **Ekwiwalent** za niewykorzystany urlop — proporcjonalnie
-- Zmiana 2026: wypłata **do 25 maja** (10 dni po ustaniu zatrudnienia)
+- Termin wypłaty (art. 171 § 4-5 KP, od 27.01.2026 — Dz.U. 2026 poz. 25): **w normalnym terminie wypłaty wynagrodzenia** (art. 85 KP); jeśli firmowy termin wypłaty przypadł **przed dniem rozwiązania umowy** → **10 dni od dnia rozwiązania/wygaśnięcia** stosunku pracy (dzień wolny → dzień poprzedzający). Uwaga: krążąca w starych notatkach data „do 25 maja" to błąd — takiej daty nie ma w przepisach. Szczegóły: `kodeks-pracy/10-e-wnioski-ekwiwalent-2026.md`
 
 ### Sytuacja 4: Niepełny etat
 - **Wymiar proporcjonalny** do wymiaru
@@ -158,15 +158,17 @@ Pracownik otrzymuje **wynagrodzenie jak za pracę**.
 ```
 stawka dzienna = podstawa miesięczna / współczynnik
 
-gdzie współczynnik 2026 = (365 - 52 soboty - 52 niedziele - 13 świąt) / 12
-                        = 248 / 12 ≈ 20,83 dnia roboczych
+gdzie współczynnik 2026 = [365 - 52 niedziele - 52 wolne soboty - 10 świąt (poza niedzielami)] / 12
+                        = 251 / 12 = 20,92 dnia (pełny etat)
 ```
+
+**Współczynnik ustala się co roku** z liczby dni roboczych danego roku. W 2026 tylko **10** świąt ustawowych wypada w dni inne niż niedziela (4 z 14 świąt przypadają w niedziele). Współczynnik dla niepełnych etatów: 1/2 = 10,46; 3/4 = 15,69; 1/3 = 6,97; 1/4 = 5,23.
 
 **Przykład:**
 - Pracownik z pensją 5 000 zł brutto + średnią z premii 500 zł = **podstawa 5 500 zł**
 - Niewykorzystany urlop: 10 dni
-- Stawka dzienna: 5 500 / 20,83 = **264,03 zł**
-- Ekwiwalent: 10 × 264,03 = **2 640,30 zł brutto**
+- Stawka dzienna: 5 500 / 20,92 = **262,91 zł**
+- Ekwiwalent: 10 × 262,91 = **2 629,10 zł brutto**
 
 **Janino, uwaga:** to szacunek. Dokładne wyliczenie — księgowa / dział płac, zgodnie z rozp. MPiPS z 8.01.1997.
 

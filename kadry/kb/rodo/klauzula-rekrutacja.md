@@ -45,7 +45,9 @@ Od kandydata można żądać:
 - dane kontaktowe (do wyboru kandydata)
 - wykształcenie
 - kwalifikacje zawodowe
-- przebieg dotychczasowego zatrudnienia
+- przebieg dotychczasowego zatrudnienia — **z wyłączeniem informacji o wynagrodzeniu w obecnym i poprzednich stosunkach pracy** (art. 22¹ § 1 pkt 6 KP, od 24.12.2025)
+
+⚠️ **Zakaz pytania o dotychczasowe zarobki (od 24.12.2025, Dz.U. 2025 poz. 807):** pracodawca NIE może żądać ani pytać kandydata, ile zarabia obecnie lub zarabiał w poprzedniej pracy. Odwrotnie — to pracodawca ma obowiązek podać kandydatowi proponowane wynagrodzenie/widełki (art. 18³ᶜᵃ KP). Szczegóły: `kodeks-pracy/08-jawnosc-plac-2026.md`.
 
 **Dodatkowe dane** (np. zdjęcie, stan cywilny, adres) przetwarzamy tylko jeśli Pani/Pan dobrowolnie je udostępnił/a.
 

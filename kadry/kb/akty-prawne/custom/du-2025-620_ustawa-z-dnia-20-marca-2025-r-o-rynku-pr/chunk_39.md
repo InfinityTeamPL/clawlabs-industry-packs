@@ -1,177 +1,91 @@
 ---
 act_eli: DU/2025/620
-chunk: 39/63
+chunk: 39/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 39/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 39/62
 
-Art. 253. 1. W przypadku przyznania bezrobotnemu albo poszukującemu pracy prawa do emerytury, świadczenia 
-przedemerytalnego, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, zasiłku macierzyńskiego, zasiłku 
-w wysokości zasiłku macierzyńskiego, zasiłku chorobowego, świadczenia rehabilitacyjnego lub renty rodzinnej w wysokości 
-przekraczającej połowę minimalnego wynagrodzenia za pracę za okres, za który pobierał zasiłek, stypendium, dodatek aktywi-
-zacyjny albo inne świadczenie pieniężne z  tytułu pozostawania bez pracy, pobrane z  tego tytułu kwoty w  wysokości 
-uwzględniającej zaliczkę na podatek dochodowy od osób f izycznych i składkę na ubezpieczenie zdrowotne zalicza się na 
-poczet przyznanego przez organ rentowy świadczenia. Kwoty te traktuje się jak świadczenia wypłacane w kwocie zaliczko-
-wej w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 
-2. Kwota zaliczona na poczet przyznanego świadczenia, o której mowa w ust. 1, nie może być wyższa niż ustalona za 
-poszczególne miesiące okresu, o  którym mowa w ust. 1, kwota emerytury, świadczenia przedemerytalnego, renty z  tytułu 
-niezdolności do pracy, renty szkoleniowej, renty socjalnej, zasiłku macierzyńskiego, zasiłku w  wysokości zasiłku macie-
-rzyńskiego, zasiłku chorobowego, świadczenia rehabilitacyjnego lub renty rodzinnej. 
-3. Organ rentowy przekazuje kwotę zaliczoną na poczet przyznanego świ adczenia, o której mowa w ust. 1, na wyod-
-rębniony rachunek bankowy PUP albo samorządu powiatu, który wypłacił zasiłek, stypendium, dodatek aktywizacyjny albo 
-inne świadczenie pieniężne z tytułu pozostawania bez pracy. 
+Art. 264. Przedsiębiorcy Polskiego Związku Głuchych i Polskiego Związku Niewidomych oraz Związku Ociemniałych Żołnierzy Rzeczypospolitej Polskiej, Towarzystwo Opieki nad Ociemniałymi Stowarzyszenie oraz zakłady aktywności zawodowej nie opłacają obowiązkowych składek na Fundusz Pracy za zatrudnionych pracowników o znacznym lub umiarkowanym stopniu niepełnosprawności.
+Art. 265. 1. Obowiązkowe składki na Fundusz Pracy opłaca się za okres trwania obowiązkowych ubezpieczeń emerytalnego i rentowych w trybie i na zasadach przewidzianych dla składek na ubezpieczenia społeczne.
+2. Poboru obowiązkowych składek na Fundusz Pracy dokonuje Zakład Ubezpieczeń Społecznych.
+3. Koszty poboru obowiązkowych składek na Fundusz Pracy obciążają ten Fundusz i są potrącane przez Zakład Ubezpieczeń Społecznych w wysokości 0,5 % kwoty pobranych składek.
+4. Obowiązkowe składki na Fundusz Pracy, pomniejszone o koszty poboru tych składek, Zakład Ubezpieczeń Społecznych przekazuje na rachunek bankowy dysponenta Funduszu Pracy niezwłocznie, nie później jednak niż w terminie 3 dni roboczych od dnia ich rozliczenia.
+5. W razie nieopłacenia obowiązkowych składek na Fundusz Pracy lub opłacenia ich w zaniżonej wysokości Zakład Ubezpieczeń Społecznych może wymierzyć podmiotowi lub osobie, o których mowa w art. 259 ust. 1, dodatkową opłatę do wysokości 100 % nieopłaconych składek.
+6. Od obowiązkowych składek na Fundusz Pracy nieopłaconych w terminie Zakład Ubezpieczeń Społecznych pobiera odsetki za zwłokę w wysokości i na zasadach, o których mowa w art. 23 i art. 31 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+7. Obowiązkowe składki na Fundusz Pracy, należności z tytułu dodatkowej opłaty, o której mowa w ust. 5, i należności z tytułu odsetek za zwłokę, o których mowa w ust. 6, nieopłacone w terminie podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji lub egzekucji sądowej.
+8. Pobraną dodatkową opłatę, o której mowa w ust. 5, oraz pobrane odsetki za zwłokę, o których mowa w ust. 6, Zakład Ubezpieczeń Społecznych przekazuje na rachunek bankowy dysponenta Funduszu Pracy w terminie określonym w ust. 4.
+9. W przypadku nieprzekazania w terminie określonym w ust. 4 obowiązkowych składek na Fundusz Pracy, dodatkowej opłaty, o której mowa w ust. 5, oraz pobranych odsetek za zwłokę, o których mowa w ust. 6, na rachunek bankowy dysponenta Funduszu Pracy należne są od Zakładu Ubezpieczeń Społecznych odsetki ustawowe za opóźnienie.
 
-  
-Dziennik Ustaw – 111 – Poz. 620 
- 
- 
-4. W przypadku przyznania bezrobotnemu  prawa do emerytury, świadczenia przedemerytalnego, renty z  tytułu nie-
-zdolności do pracy, renty szkoleniowej, renty socjalnej, zasiłku macierzyńskiego, zasiłku w  wysokości zasiłku macierzyń-
-skiego, zasiłku chorobowego, świadczenia rehabilitacyjnego, renty rodzinnej w wysokości przekraczającej połowę minimal-
-nego wynagrodzenia za pracę, świadczenia pieniężnego przysługującego członkom rodziny funkcjonariuszy lub żołnierzy 
-zawodowych albo prawa do renty inwalidzkiej przyznawanej na podstawie ustawy z  dnia 18 lutego 1994 r. o zaopatrzeniu 
-emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu 
-Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszał-
-kowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno -Skarbowej i Służby Więziennej oraz ich 
-rodzin lub ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin na okres, 
-w którym był bezrobotny, pozbawie nie statusu bezrobotnego i  prawa do zasiłku, następuje za okres, za który przyznano 
-emeryturę, świadczenie przedemerytalne, rentę z  tytułu niezdolności do pracy, rentę szkoleniową, rentę socjalną, zasiłek 
-macierzyński, zasiłek w wysokości zasiłku macierzyńskiego, zasiłek chorobowy, świadczenie rehabilitacyjne, rentę rodzinną 
-w wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę, świadczenie pieniężne przysługujące członkom 
-rodziny funkcjonariuszy lub żołnierzy zawodowych albo prawo do renty inwalidzkiej przyznawanej na podstawie ustawy 
-z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji 
-Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży 
-Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno -Skarbowej 
-i Służby Więziennej oraz ich rodzin lub ustawy z  dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodo-
-wych oraz ich rodzin. 
-Art. 254. Kwoty zasiłków, stypendiów i  innych świadczeń z  tytułu bezrobocia finansowanych z  Funduszu Pracy za 
-należny okres zaokrągla się w górę do 10 groszy. 
-Art. 255. Prezes Głównego Urzędu Statystycznego, w  terminie do dnia 31  grudnia każdego roku, ogłasza, w  drodze 
-obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przeciętną stopę bezrobocia w kraju 
-oraz na obszarze powiatów według stanu na dzień 30 czerwca danego roku. 
-Art. 256. 1. Osoby podejmujące pracę za granicą u pracodawcy zagranicznego w państwie niewymienionym w art. 1 
-ust. 3 pkt 2 lit. a–d mogą opłacać składkę na Fundusz Pracy pod warunkiem zawiadomienia na piśmie PUP właściwego 
-ze względu na ostatnie miejsce zamieszkania w Rzeczypospolitej Polskiej o przystąpieniu do opłacania tych składek. 
-2. Wysokość składki, o której mowa w ust. 1, wynosi 9,75 % przeciętnego wynagrodzenia za każdy miesiąc zatrudnienia. 
-3. Składki na Fundusz Pracy nie mogą być opłacane za okres wsteczny. 
-4. Opłacone składki na Fundusz Pracy nie podlegają zwrotowi, chyba że zostały wpłacone w wyższej od obowiązującej 
-za dany okres wysokości. 
-5. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, tryb opłacania składek na Fundusz Pracy przez 
-osoby, o których mowa w ust. 1, uwzględniając ich dobrowolny charakter oraz brak możliwości ich opłacania za okresy 
-wsteczne. 
-DZIAŁ VIII 
-Fundusz Pracy 
-Rozdział 1 
-Przepisy ogólne 
-Art. 257. 1. Fundusz Pracy jest państwowym funduszem celowym. 
-2. Dysponentem Funduszu Pracy jest minister właściwy do spraw pracy. 
-Rozdział 2 
-Przychody Funduszu Pracy 
-Art. 258. Przychodami Funduszu Pracy są: 
-1) składki na Fundusz Pracy, o których mowa w ustawie; 
-2) dotacje z budżetu państwa; 
-3) środki pochodzące z budżetu Unii Europejskiej na finansowani e w szczególności projektów EFS+, działań z  zakresu 
-udziału w  sieci EURES oraz innych działań publicznych służb zatrudnienia prefinansowanych lub realizowanych 
-z wkładem ze środków Funduszu Pracy; 
+Rozdział 4 Finansowanie z Funduszu Pracy świadczeń obligatoryjnych i form pomocy
+Art. 266. Minister właściwy do spraw pracy przekazuje samorządom powiatów, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na wypłatę następujących świadczeń obligatoryjnych:
+1) zasiłków oraz należnych od tych zasiłków składek na ubezpieczenia emerytalne i rentowe, o których mowa w art. 242 ust. 1,
+2) dodatków aktywizacyjnych, o których mowa w art. 233 ust. 1,
+3) świadczeń integracyjnych przyznawanych na podstawie przepisów ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym oraz składek na ubezpieczenia społeczne od tych świadczeń
+– do wysokości faktycznych potrzeb.
+Art. 267. 1. Minister właściwy do spraw pracy przekazuje samorządom powiatów, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na finansowanie w roku budżetowym kosztów realizacji form pomocy, o których mowa w art. 300 ust. 2, do wysokości kwot środków ustalonych zgodnie z ust. 2–8.
+2. Z kwoty środków ujętych w planie finansowym Funduszu Pracy na finansowanie form pomocy dla samorządów powiatów wyodrębnia się rezerwę Funduszu Pracy pozostającą w dyspozycji ministra właściwego do spraw pracy, stanowiącą 20 % tej kwoty środków.
+3. Minister właściwy do spraw pracy może przeznaczyć środki rezerwy, o której mowa w ust. 2, w szczególności na zwiększanie w ciągu roku kwot środków dla samorządów powiatów na finansowanie w roku budżetowym kosztów realizacji form pomocy, w tym w związku z rejestracją bezrobotnego lub poszukującego pracy, o której mowa w art. 55 ust. 2, w PUP właściwym ze względu na miejsce zamieszkania.
 
-  
-Dziennik Ustaw – 112 – Poz. 620 
- 
- 
-4) odsetki od środków Funduszu Pracy, w szczególności od: 
-a) środków pozostających na rachunkach bankowych dysponenta Funduszu Pracy oraz samorządów województw, 
-samorządów powiatów, OHP i wojewodów, 
-b) środków pozostających na wyodrębnionych rachunkach bankowych jednostek organizacyjnych realizujących zada-
-nia finansowane ze środków Funduszu Pracy, 
-c) wolnych środków przekazanych w zarządzanie zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych; 
-5) środki z tytułu spłaty rat i odsetek od pożyczek udzielonych z Funduszu Pracy; 
-6) środki ze sprzedaży akcji i udziałów, o których mowa w art. 56 ust. 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji 
-i niektórych uprawnieniach pracowników (Dz. U. z 2024 r. poz. 1198 i 1925); 
-7) środki z tytułu spłaty pożyczek udzielonych osobom fizycznym pode jmującym działalność gospodarczą ze środków 
-przekazanych do Banku Gospodarstwa Krajowego na podstawie art. 56 ust. 3 ustawy z dnia 30 sierpnia 1996 r. o komer-
-cjalizacji i niektórych uprawnieniach pracowników; 
-8) środki wycofywane z Banku Gospodarstwa Krajowego zgodnie z umową, o której mowa w art. 295 ust. 2; 
-9) środki z tytułu kar pieniężnych, grzywien oraz innych opłat i wpłat, o których mowa w ustawie; 
-10) środki przekazywane do Funduszu Pracy na podstawie art. 19 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjal-
-nych; 
-11) środki z tytułu zwrotu równowartości podatku od towarów i  usług dokonywanego w  przypadkach, o których mowa 
-w ustawie; 
-12) środki, o których mowa w art. 83 ust. 1 pkt 2 i 3 oraz art. 105 ust. 2 pkt 4 ustawy z dnia 4 października 2018 r. o pracow-
-niczych planach kapitałowych (Dz. U. z 2024 r. poz. 427); 
-13) inne wpływy. 
-Rozdział 3 
-Składka na Fundusz Pracy 
-Art. 259. 1. Obowiązkowe składki na Fundusz Pracy, ustalone od kwot stanowiących podstawę wymiaru składek na 
-ubezpieczenia emerytalne i rentowe bez stosowania ograniczenia, o którym mowa w art. 19 ust. 1 ustawy z dnia 13 paździer-
-nika 1998 r. o systemie ubezpieczeń społecznych, wynoszących w  przeliczeniu na okres miesiąca co najmniej minimalne 
-wynagrodzenie za pracę, opłacają: 
-1) pracodawcy oraz inne jednostki organizacyjne za: 
-a) osoby pozostające w stosunku pracy lub stosunku służbowym, 
-b) osoby wykonujące pracę na podstawie umowy o pracę nakładczą, 
-c) osoby wykonujące pracę na podstawie umowy agencyjnej lub umowy zlecenia albo  innej umowy o świadczenie 
-usług, do której zgodnie z  przepisami ustawy z  dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy 
-dotyczące zlecenia, oraz za osoby z nimi współpracujące, z wyłączeniem osób świadczących pracę na podstawie 
-umowy uaktywniającej, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, 
-d) osoby wykonujące pracę w okresie odbywania kary pozbawienia wolności lub tymczasowego aresztowania, 
-e) osoby pobierające stypendia sportowe, 
-f) osoby otrzymujące świadczenie socjalne przysługujące na urlopie energetycznym lub urlopie górniczym, 
-g) żołnierzy zawodowych oraz funkcjonariuszy niespełniających warunków do nabycia prawa do emerytury lub renty 
-inwalidzkiej określonych w  przepisach o  zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin 
-oraz przepisach o  zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, 
-Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Anty-
-korupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, 
-Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, za których, po zwolnieniu ze służby lub rozwiązaniu 
-stosunku pracy, odprowadzono składkę na ubezpieczenia emerytalne i rentowe od uposażenia lub wynagrodzenia 
-wypłaconego w okresie służby lub stosunku pracy na podstawie odrębnych przepisów, 
-h) funkcjonariuszy, którzy w chwili zwolnienia ze służby spełniają jedynie warunki do nabycia prawa do policyjnej 
-renty inwalidzkiej, w przypadku przekazania składek na ubezpieczenia emerytalne i rentowe, 
-i) członków rad nadzorczych wynagradzanych z tytułu pełnienia tej funkcji; 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 113 – Poz. 620 
- 
- 
-2) rolnicze spółdzielnie produkcyjne, spółdzielnie kółek rolniczych lub spółdzielnie usług rolniczych – za swoich członków; 
-3) Kancelaria Prezydenta Rzeczypospolitej Polskiej – za małżonka Prezydenta Rzeczypospolitej Polskiej; 
-4) inne niż wymienione w pkt 1–3 osoby podlegające ubezpieczeniom emerytalnemu i rentowym lub zaopatrzeniu emery-
-talnemu, z wyjątkiem: 
-a) duchownych, 
-b) osób pobierających na podstawie ustawy z  dnia 28  listopada 2003  r. o świadczeniach rodzinnych świadczenie 
-pielęgnacyjne lub specjalny zasiłek opiekuńczy, 
-c) osób pobierających na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów 
-zasiłek dla opiekuna, 
-d) osób podlegających ubezpieczeniu społecznemu rolników, 
-e) żołnierzy niezawodowych w służbie czynnej, 
-f) osób odbywających zastępcze formy służby wojskowej, 
-g) osób przebywających na urlopach wychowawczych oraz pobierających zasiłek macierzyński, 
-h) osób świadczących pracę na podstawie umowy uaktywniającej, o  której mowa w  art. 50 ustawy z  dnia 4 lutego 
-2011 r. o opiece nad dziećmi w wieku do lat 3, 
-i) osób sprawujących osobistą opiekę nad dzieckiem, o których mowa w art. 6a ust. 1 ustawy z dnia 13 października 
-1998 r. o systemie ubezpieczeń społecznych, 
-j) osób pobierających zasiłek lub inne świadczenie finansowane z Funduszu Pracy, 
-k) osób otrzymujących stypendium doktoranckie, 
-l) pobierających stypendium słuchaczy Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej 
-Polskiej Lecha Kaczyńskiego, 
-m) osób pobierających świadczenie szkoleniowe, o którym mowa w art. 217 ust. 6, 
-n) osób niepodejmujących zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielenia wsparcia oso-
-bie pobierającej świadczenie wspierające, o których mowa w art. 6c ust. 1 ustawy z dnia 13 października 1998 r. 
-o systemie ubezpieczeń społecznych, 
-o) osób zwolnionych z opłacania składek na własne obowiązkowe ubezpieczenia emerytalne i rentowe, za wskazany 
-jeden miesiąc kalendarzowy w  danym roku kalendarzowym, o  których mowa w  art. 17a ust.  1 ustawy z  dnia 
-13 października 1998 r. o systemie ubezpieczeń społecznych. 
-2. W przypadku gdy kwoty, o  których mowa w  ust. 1, pochodzą z  różnych źródeł, obowiązek opłacania składek na 
-Fundusz Pracy powstaje wtedy, gdy łączna kwota stanowiąca podstawę wymiaru składek, ustalona zgodnie z ust. 1, wynosi 
-co najmniej minimalne wynagrodzenie za pracę. 
-3. Osoba, do której ma zastosowanie przepis ust. 2, składa stosowne oświadczenie każdemu pracodawcy lub w tereno-
-wej jednostce organizacyjnej Zakładu Ubezpieczeń Społecznych, jeżeli sama opłaca składki na ubezpieczenia społeczne. 
-Art. 260. Wysokość obowiązkowej składki na Fundusz Pracy określa ustawa budżetowa. 
-Art. 261. Obowiązkowe składki na Fundusz Pracy opłaca się za osoby wymienione w art. 259 ust. 1, które nie osiągnęły 
-wieku wynoszącego co najmniej 55 lat w przypadku kobiet i co najmniej 60 lat w przypadku mężczyzn. 
-Art. 262. 1. Pracodawcy nie opłacają obowiązkowych składek na Fundusz Pracy przez okres 12 miesięcy, począwszy 
-od pierwszego miesiąca po zawarciu umowy o pracę, za osoby zatrudnione, które ukończyły 50. rok życia i w okresie 30 dni 
-przed dniem zatrudnienia pozostawały w ewidencji bezrobotnych PUP. 
-2. Pracodawcy nie opłacają obowiązkowych składek na Fundusz Pracy przez okres 12 miesięcy, począwszy od pierw-
-szego miesiąca po zawarciu umowy o pracę, za skierowanych przez PUP zatrudnionych bezrobotnych, którzy nie ukończyli 
-30. roku życia.
+– 115 –
+
+Poz. 620
+
+4. Kwota środków wynikająca z planu finansowego Funduszu Pracy na finansowanie form pomocy dla samorządów powiatów oraz kwota środków przeznaczonych na realizację projektów EFS+, o której mowa w art. 270 ust. 1 i 2, pomniejszona o rezerwę, o której mowa w ust. 2, jest dzielona między województwa przez ministra właściwego do spraw pracy według algorytmu.
+5. Marszałek województwa może przeznaczyć w ramach kwoty środków Funduszu Pracy ustalonej na finansowanie form pomocy dla samorządów powiatów w województwie nie więcej niż 5 % tej kwoty na finansowanie realizacji programów regionalnych, o których mowa w art. 210.
+6. Kwota środków ustalona dla województwa zgodnie z ust. 4 jest dzielona między samorządy powiatów przez zarząd województwa według kryteriów określonych przez sejmik województwa.
+7. Sejmik województwa określając kryteria, o których mowa w ust. 6, bierze pod uwagę w szczególności:
+1) kwotę środków Funduszu Pracy ustaloną dla samorządu powiatu na realizację projektów EFS+;
+2) liczbę bezrobotnych zarejestrowanych w powiecie;
+3) stopę bezrobocia;
+4) strukturę bezrobocia, w tym liczbę zarejestrowanych długotrwale bezrobotnych oraz bezrobotnych powyżej 50. roku życia.
+8. Marszałek województwa informuje ministra właściwego do spraw pracy o kwotach środków wynikających z dokonanego podziału, o którym mowa w ust. 6, dla samorządów powiatów, w tym środków przeznaczonych na realizację projektów EFS+ w podziale na środki pochodzące z budżetu Unii Europejskiej i środki krajowe.
+9. Minister właściwy do spraw pracy na podstawie informacji, o której mowa w ust. 8, zawiadamia starostów o ustalonych na rok budżetowy kwotach środków Funduszu Pracy na finansowanie form pomocy, w tym na realizację projektów EFS+.
+Art. 268. Wyboru form pomocy dla bezrobotnych i innych uprawnionych osób, w ramach kwoty środków Funduszu Pracy ustalonej dla samorządu powiatu zgodnie z art. 267 ust. 7, dokonuje starosta po zasięgnięciu opinii powiatowej rady rynku pracy.
+Art. 269. Starosta może zawierać umowy, porozumienia i udzielać zleceń dotyczących realizacji form pomocy dla bezrobotnych i poszukujących pracy, powodujących powstawanie zobowiązań przechodzących na rok następny do wysokości 30 % kwoty środków Funduszu Pracy ustalonej na dany rok budżetowy, o której mowa w art. 267 ust. 9. Zobowiązania te obciążają kwotę środków Funduszu Pracy ustaloną na rok następny.
+Art. 270. 1. Podstawę wydatkowania środków Funduszu Pracy na finansowanie w województwie projektów EFS+ w ramach programów, o których mowa w przepisach o zasadach prowadzenia polityki rozwoju i w przepisach o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, stanowi umowa zawarta między zarządem województwa a ministrem właściwym do spraw rozwoju regionalnego, po uprzednim uzgodnieniu treści umowy oraz wysokości środków Funduszu Pracy przeznaczonych na finansowanie tych projektów, w poszczególnych latach realizacji tych programów, z ministrem właściwym do spraw pracy.
+2. Jeżeli łączna wysokość kwot środków Funduszu Pracy z przeznaczeniem na realizację projektów EFS+, ustalonych zgodnie z ust. 1, różni się od kwoty środków Funduszu Pracy określonej na ten cel w planie finansowym Funduszu Pracy na dany rok, minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego odpowiednio zmienia wysokość tych kwot tak, aby ich łączna wysokość odpowiadała kwocie określonej w planie finansowym Funduszu Pracy na dany rok.
+3. Umowy o dofinansowanie projektów EFS+ zawierane w województwie powodujące powstawanie zobowiązań przechodzących na rok następny i kolejny mogą być zawierane do wysokości kwot ustalonych dla województwa zgodnie z ust. 1 i 2.
+Art. 271. 1. WUP i PUP mogą realizować projekty ze środków innych niż środki Funduszu Pracy, w szczególności projekty finansowane z udziałem środków Europejskiego Funduszu Społecznego Plus, inne niż projekty EFS+. W ramach tych projektów zadania mogą być realizowane w zakresie i celu określonym w art. 1 ust. 2.
+2. Jeżeli w projektach, o których mowa w ust. 1, są realizowane formy pomocy wskazane w ustawie, są one realizowane w sposób i na zasadach określonych w ustawie.
+3. Środki Funduszu Pracy, będące w dyspozycji WUP i PUP, mogą stanowić wkład własny na realizację projektów, o których mowa w ust. 1. W ramach wkładu własnego finansowane są formy pomocy określone w art. 300 ust. 2 oraz zadania fakultatywne WUP i PUP określone w art. 300 ust. 3 pkt 4, 6, 8–12, 15–17, 19 i 27–30.
+Art. 272. 1. Minister właściwy do spraw pracy ustala na dany rok budżetowy limit środków Funduszu Pracy przeznaczonych na finansowanie refundacji, o której mowa w art. 348 ust. 1.
+2. Środki Funduszu Pracy przekazywane są na wyodrębniony rachunek bankowy OHP w transzach według składanego zapotrzebowania.
+
+Dziennik Ustaw
+
+– 116 –
+
+Poz. 620
+
+Rozdział 5 Finansowanie zadań fakultatywnych oraz wynagrodzeń pracowników z Funduszu Pracy
+Art. 273. 1. Minister właściwy do spraw pracy ustala kwoty środków na finansowanie w roku budżetowym zadań fakultatywnych dla samorządów powiatów, samorządów województw, wojewodów oraz OHP.
+2. Minister właściwy do spraw pracy z kwoty środków wynikającej z planu finansowego Funduszu Pracy na finansowanie w roku budżetowym zadań fakultatywnych, wyodrębnia kwotę środków na finansowanie przez ministra zadań określonych w art. 300 ust. 3 w zakresie nieprzewidzianym do realizacji przez samorządy powiatów, samorządy województw, wojewodów i OHP.
+3. Z kwoty środków wynikającej z planu finansowego Funduszu Pracy na finansowanie zadań fakultatywnych wyodrębnia się rezerwę Funduszu Pracy pozostającą w dyspozycji ministra właściwego do spraw pracy, stanowiącą 5 % tej kwoty.
+Art. 274. 1. Minister właściwy do spraw pracy przekazuje samorządom powiatów, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na finansowanie w roku budżetowym zadań fakultatywnych do wysokości kwot środków ustalonych zgodnie z ust. 2–5.
+2. Kwota środków Funduszu Pracy ustalona na finansowanie zadań fakultatywnych dla samorządów powiatów jest dzielona między województwa przez ministra właściwego do spraw pracy według algorytmu.
+3. Kwoty środków dla województw ustalone zgodnie z ust. 2 są dzielone między samorządy powiatów przez zarząd województwa według kryteriów określonych przez sejmik województwa.
+4. Sejmik województwa określając kryteria, o których mowa w ust. 3, bierze pod uwagę w szczególności:
+1) kwotę środków Funduszu Pracy ustaloną dla samorządu powiatu na realizację form pomocy;
+2) liczbę bezrobotnych zarejestrowanych w powiecie;
+3) stopę bezrobocia;
+4) strukturę bezrobocia;
+5) kwotę środków Funduszu Pracy wydatkowaną w roku ubiegłym przez samorząd powiatu na zadania fakultatywne.
+5. Marszałek województwa informuje ministra właściwego do spraw pracy o kwotach środków wynikających z dokonanego podziału, o którym mowa w ust. 3.
+6. Minister właściwy do spraw pracy na podstawie informacji, o której mowa w ust. 5, zawiadamia starostów o ustalonych na rok budżetowy kwotach środków Funduszu Pracy na finansowanie zadań fakultatywnych.
+Art. 275. 1. Minister właściwy do spraw pracy przekazuje samorządom województw, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na finansowanie w roku budżetowym zadań fakultatywnych do wysokości kwot środków ustalonych zgodnie z ust. 2.
+2. Kwota środków Funduszu Pracy ustalona na finansowanie zadań fakultatywnych dla samorządów województw jest dzielona między województwa przez ministra właściwego do spraw pracy według algorytmu.
+3. Minister właściwy do spraw pracy zawiadamia marszałków województw o ustalonych na rok budżetowy kwotach środków Funduszu Pracy na finansowanie zadań fakultatywnych dla samorządów województw.
+Art. 276. 1. Minister właściwy do spraw pracy przekazuje OHP, na wyodrębniony rachunek bankowy, środki Funduszu Pracy na finansowanie w roku budżetowym zadań fakultatywnych do wysokości kwot środków ustalonych na dany rok budżetowy.
+2. Minister właściwy do spraw pracy przekazuje urzędom wojewódzkim, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na finansowanie w roku budżetowym zadań fakultatywnych do wysokości kwot środków ustalonych na dany rok budżetowy.
+3. Minister właściwy do spraw pracy z kwoty środków, o której mowa w art. 273 ust. 2, może na wniosek marszałka województwa, wojewody lub starosty przyznać dodatkową kwotę środków na finansowanie kosztów wprowadzania, rozwijania i eksploatacji systemów teleinformatycznych służących realizacji zadań wynikających z ustawy.
+4. Minister właściwy do spraw pracy zawiadamia Komendanta Głównego OHP oraz wojewodę o ustalonych na rok budżetowy kwotach środków Funduszu Pracy na finansowanie zadań fakultatywnych.
+
+Dziennik Ustaw
+
+– 117 –
+
+Poz. 620

@@ -1,16 +1,19 @@
 # Płaca minimalna 2026
 
-_Stan: rok 2026. Kwoty ustalone rozporządzeniem RM z 2025 r._
+_Stan: 2026-07-08. Podstawa: rozporządzenie Rady Ministrów z 11.09.2025 r. (Dz.U. 2025 poz. 1242, ELI DU/2025/1242), obowiązuje od 1.01.2026._
 
 ## Kluczowe kwoty 2026
 
 ### Minimalne wynagrodzenie za pracę (UoP)
-- **4 806 zł brutto** miesięcznie (pełny etat)
+- **4 806 zł brutto** miesięcznie (pełny etat) — § 1 rozporządzenia
 - **~3 605 zł netto** "na rękę" (przybliżenie dla standardowego pracownika bez dzieci, bez PPK)
-- Podstawa: rozporządzenie RM z 2025 r. w sprawie wysokości minimalnego wynagrodzenia za pracę w 2026
+- Podstawa: **rozporządzenie Rady Ministrów z 11.09.2025 r. w sprawie wysokości minimalnego wynagrodzenia za pracę oraz wysokości minimalnej stawki godzinowej w 2026 r.** (Dz.U. 2025 poz. 1242, ELI DU/2025/1242) — tekst lokalnie: `akty-prawne/custom/du-2025-1242_*/chunk_01.md`
+
+### Jedna stawka na CAŁY rok 2026
+**W 2026 r. obowiązuje jedna kwota od 1 stycznia do 31 grudnia — nie ma drugiej podwyżki od lipca.** Rozporządzenie ustala wyłącznie stawki od 1.01.2026 (§ 1 i § 2). Dwie podwyżki w roku (styczeń + lipiec) zdarzają się tylko, gdy prognozowana inflacja na dany rok wynosi co najmniej 5% — w 2026 ten warunek nie zaszedł. Janino: jeśli klient pyta o „podwyżkę minimalnej od lipca 2026" — nie ma takiej.
 
 ### Minimalna stawka godzinowa (zlecenie / świadczenie usług)
-- **31,40 zł brutto** za godzinę
+- **31,40 zł brutto** za godzinę (§ 2 rozporządzenia) — również od 1.01.2026, bez zmiany w trakcie roku
 - **~25,36 zł netto** (przybliżenie)
 - Dotyczy umów zlecenia i innych umów o świadczenie usług, do których stosuje się przepisy o zleceniu (KC art. 734 i następne, poprzez art. 750)
 
@@ -80,7 +83,7 @@ Zleceniobiorca i zleceniodawca muszą prowadzić **ewidencję liczby godzin** wy
 - Liczby dzieci (ulga prorodzinna)
 - Miejsca pracy (podwyższone koszty uzyskania dla dojeżdżających)
 - PIT-2 / PIT-0 (kwota wolna)
-- Uczestnictwa w PPK (–2% od netto pracownika + 2% od pracodawcy)
+- Uczestnictwa w PPK (–2% wynagrodzenia brutto pracownika + 1,5% od pracodawcy — wpłaty podstawowe; pracownik zarabiający < 5 767,20 zł może obniżyć swoją wpłatę do 0,5%)
 - Innych potrąceń (komornik, alimenty, PZU grupowe)
 
 ### Szybki skrót "z grubsza" netto dla 4 806 zł brutto
@@ -140,21 +143,23 @@ Dla nadgodzin +100% (niedziela, święto, noc): 28,61 × 2 = **57,22 zł/h brutt
 
 ## Zmiana 2026 — inne limity powiązane
 
-### Diety i ryczałty (zarządzenie MF — aktualizacja)
-- **Krajowa dieta dzienna:** [sprawdzić aktualne rozporządzenie 2026]
-- **Dieta zagraniczna:** [sprawdzić]
-- **Ryczałt za nocleg:** [sprawdzić]
-- **Ryczałt za 1 km prywatnym autem:** [sprawdzić — może ulec zmianie]
+### Diety i ryczałty (podróże służbowe, 2026)
+- **Krajowa dieta dzienna:** 45 zł/dobę (bez zmiany od 2023)
+- **Ryczałt za 1 km — kilometrówka:** 1,15 zł (samochód > 900 cm³), 0,89 zł (≤ 900 cm³)
+- Szczegóły i stawki zagraniczne: rozp. MRPiPS ws. podróży służbowych — potwierdzaj na dzień użycia
 
 ### Składki ZUS przedsiębiorców (2026)
-- **Składki mały ZUS + / pełne** — aktualizacja co roku
-- **Limit 30-krotności** składek ZUS — ~220 000 zł (2026, do weryfikacji)
-- **Składka zdrowotna** — zależy od formy opodatkowania (ryczałt / skala / liniowy)
+- **Pełny ZUS** — podstawa społeczna **5 652,00 zł** (60% prognozowanego przeciętnego 9 420 zł)
+- **Preferencyjny ZUS** (pierwsze 24 mies.) — podstawa **1 441,80 zł** (30% płacy min.)
+- **Mały ZUS+** — dla przychodu ≤ **120 000 zł**/rok, podstawa 1 441,80–5 652,00 zł
+- **Ulga na start** (pierwsze 6 mies.) — tylko składka zdrowotna
+- **Limit 30-krotności** (roczna podstawa emerytalno-rentowa): **282 600 zł** (30 × 9 420 zł)
+- **Składka zdrowotna** — min. **432,54 zł** (9% × 4 806 zł, od 1.02.2026 podstawa wraca do 100% płacy min.); ryczałt/liniowy — wg przychodu/dochodu. Szczegóły: `wynagrodzenia/zasilki-zus-2026.md`
 
-**Janino, nie cytuj z pamięci — sprawdź na zus.pl lub podatki.gov.pl za każdym razem.**
+**Janino, kwoty ZUS zmieniają się co roku — przy kluczowych sprawach potwierdź na zus.pl.**
 
 ## Źródła
-- [Rozporządzenie RM ws. płacy minimalnej 2026](https://dziennikustaw.gov.pl) — wyszukać
+- [Rozporządzenie RM z 11.09.2025 ws. minimalnego wynagrodzenia i minimalnej stawki godzinowej w 2026 r. (Dz.U. 2025 poz. 1242)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001242) — tekst lokalnie: `akty-prawne/custom/du-2025-1242_*/chunk_01.md`
 - [Ustawa o minimalnym wynagrodzeniu za pracę](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001679)
 - [Infor.pl — płaca minimalna 2026](https://www.infor.pl/twoje-pieniadze/zarobki/7484898,placa-minimalna-i-stawka-godzinowa-na-2026-rok-zatwierdzone-oto-wyliczenia-brutto-i-netto-sprawdz-ile-dostaniesz-na-reke.html)
 - [PIP Gdańsk — minimalne wynagrodzenie 2026](https://gdansk.pip.gov.pl/aktualnosci/od-stycznia-2026-r-wynagrodzenie-minimalne-w-gore)

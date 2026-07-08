@@ -72,11 +72,14 @@ Opłaca składki sam. W 2026:
 6. **Zaliczki pieniężne udzielone pracownikowi** (max. 50%)
 7. **Kary pieniężne** za naruszenia porządku i dyscypliny pracy (max. 10%, tylko kara za zdarzenie)
 
-### Chronione minimum
-Pracownikowi po wszystkich potrąceniach musi pozostać:
-- **100% minimalnego wynagrodzenia** (czyli 4 806 zł brutto w 2026) — przy potrąceniach niealimentacyjnych
-- **50% minimalnego wynagrodzenia** — przy alimentach
-- **Pełne wynagrodzenie minus 60%** — ogólna górna granica potrąceń (z wyjątkiem alimentów)
+### Chronione minimum (kwota wolna od potrąceń — liczona od minimalnego wynagrodzenia NETTO, nie brutto!)
+Pracownikowi po potrąceniach musi pozostać kwota wolna, którą liczy się od **minimalnego wynagrodzenia netto** (2026: ≈ **3 605,85 zł** przy pełnym etacie, podstawowych KUP i złożonym PIT-2):
+- **100% minimalnego wynagrodzenia netto** (≈ 3 605,85 zł) — przy potrąceniach niealimentacyjnych na mocy tytułów wykonawczych
+- **75%** — przy zaliczkach pieniężnych udzielonych pracownikowi
+- **90%** — przy karach pieniężnych z art. 108 KP
+- ⚠️ **Przy ALIMENTACH kwota wolna NIE obowiązuje** — komornik może zająć do **60%** wynagrodzenia netto niezależnie od jego wysokości (art. 87¹ § 1 a contrario)
+
+**Górne granice potrąceń:** niealimentacyjne — max **50%** wynagrodzenia; alimentacyjne — max **60%**. Kwota wolna zmniejsza się proporcjonalnie przy niepełnym etacie. Przykłady wyliczeń: `wynagrodzenia/przyklady-wyliczen.md`
 
 ### Potrącenia z ZGODĄ pracownika
 Pracownik może pisemnie wyrazić zgodę na dodatkowe potrącenia (np. składka związkowa, karta Multisport, PPK, spłata pożyczki zakładowej). Zgoda musi być **dobrowolna i świadoma**.
@@ -85,9 +88,12 @@ Pracownik może pisemnie wyrazić zgodę na dodatkowe potrącenia (np. składka 
 
 ## Ulgi podatkowe w PIT (2026)
 
-### Kwota wolna od podatku
-- **30 000 zł rocznie** (2 500 zł miesięcznie wolne od podatku)
-- Pracownik składa **PIT-2** u pracodawcy — wtedy zaliczki miesięczne są pomniejszone o 300 zł
+### Skala podatkowa 2026
+- **Kwota wolna od podatku: 30 000 zł** rocznie (2 500 zł miesięcznie)
+- **I próg 12%** — podstawa do **120 000 zł** rocznie
+- **II próg 32%** — od nadwyżki ponad 120 000 zł
+- **Kwota zmniejszająca podatek: 3 600 zł/rok** (300 zł/mies. przy złożonym **PIT-2**)
+- **Danina solidarnościowa 4%** — od dochodu ponad 1 mln zł/rok
 
 ### Ulga dla młodych (< 26 lat)
 - **PIT-0** — pełne zwolnienie z podatku PIT do limitu rocznego (85 528 zł)
@@ -135,7 +141,7 @@ Pracownik może pisemnie wyrazić zgodę na dodatkowe potrącenia (np. składka 
 - Pracownik otrzymuje **wynagrodzenie jak za czas pracy**
 - Oblicza się ze składników: podstawa + stałe dodatki
 - **Ekwiwalent** — proporcjonalnie, ze składników zmiennych z ostatnich 3 miesięcy
-- Zmiana 2026: ekwiwalent wypłacony **do 25 maja** (10 dni po ustaniu zatrudnienia)
+- Zmiana 2026 (art. 171 §4–5 KP, od 27.01.2026): ekwiwalent płatny **w terminie wypłaty wynagrodzenia**, a gdy ten przypada przed rozwiązaniem umowy — **w ciągu 10 dni od ustania zatrudnienia**
 
 ---
 
@@ -163,7 +169,7 @@ Pracodawca jest płatnikiem — ZUS zwraca.
 - Przy stałej współpracy — często miesięcznie
 
 ### Ekwiwalent urlopowy
-- **Do 25 maja** (lub 10 dni po ustaniu zatrudnienia — zmiana 2026)
+- **W terminie wypłaty wynagrodzenia** (art. 85 KP); jeśli termin wypłaty przypada przed dniem rozwiązania umowy — **10 dni od ustania zatrudnienia** (art. 171 §4–5 KP, od 27.01.2026)
 
 ### Odprawa
 - Termin z umowy / regulaminu lub ustawy — najczęściej w dniu rozwiązania umowy lub niezwłocznie po

@@ -1,6 +1,6 @@
 # Baza wiedzy Janiny Kadrowej
 
-_Stan: 2026-04-21. Rok 2026._
+_Stan: 2026-07-08. Rok 2026._
 
 ## Co to jest
 
@@ -11,14 +11,31 @@ Robocza baza wiedzy dla agentki AI **Janina Kadrowa**. Pliki ładowane są do `m
 ```
 kadry/
 ├── README.md                      # ten plik
-├── aktualizacje-2026.md           # co się zmieniło w 2026 i co dalej śledzimy
+├── aktualizacje-2026.md           # co się zmieniło w 2026 i co dalej śledzimy (CZYTAJ PIERWSZE)
+├── kalendarz-2026.md              # święta, wymiar czasu pracy, terminy kadrowe
+├── reforma-pip-2026.md            # PIP przekształca B2B w etat (od 8.07.2026)
+├── l4-kontrole-zus-2026.md        # nowe zasady L4 i kontroli ZUS (od 13.04.2026)
+├── kontrola-pip-checklist.md      # jak przygotować się do kontroli PIP
+├── cudzoziemcy-zatrudnienie.md    # zatrudnianie cudzoziemców (nowa ustawa od 1.06.2025)
+├── rynek-pracy-sluzby-zatrudnienia-2025.md  # nowa ustawa od 1.06.2025 (promocja zatrudnienia UCHYLONA)
+├── zfss.md                        # Zakładowy Fundusz Świadczeń Socjalnych (odpis 2026, kryterium socjalne)
+├── niepelnosprawni-pfron.md       # zatrudnianie osób niepełnosprawnych, SODiR, wpłaty PFRON
+├── odpowiedzialnosc-zakaz-konkurencji.md  # odpowiedzialność materialna + zakaz konkurencji
+├── slownik-skrotow.md             # skróty kadrowe
 ├── kodeks-pracy/                  # KP — działy, kluczowe artykuły, praktyka
+│   ├── 08-jawnosc-plac-2026.md    #   etap I obowiązuje od 24.12.2025; luka płacowa ~2027
+│   ├── 09-staz-pracy-2026.md      #   art. 302¹ KP — JDG/zlecenia w stażu
+│   ├── 10-e-wnioski-ekwiwalent-2026.md  # e-wnioski + art. 171 §4 KP (od 27.01.2026)
+│   ├── 11-uklady-zbiorowe-2025.md #   dział XI KP UCHYLONY → odrębna ustawa
+│   └── 12-ochrona-sygnalistow.md  #   ustawa o sygnalistach (Dz.U. 2024 poz. 928, od 25.09.2024)
+├── procedury/                     # kary-porzadkowe.md, zwolnienia-grupowe.md
 ├── rodo/                          # RODO dla HR — podstawy prawne + klauzule
 ├── wzory-umow/                    # szablony umów i pism kadrowych
-├── wynagrodzenia/                 # płaca minimalna, składki, potrącenia
-├── bhp/                           # szkolenia, badania, wypadki
+├── wynagrodzenia/                 # płaca minimalna, składki, potrącenia; zasilki-zus-2026, przyklady-wyliczen, oskladkowanie-zlecen-fakty
+├── bhp/                           # szkolenia, badania, wypadki, kontrola-trzezwosci
 ├── urlopy/                        # wymiar, naliczanie, rodzaje
-└── checklisty/                    # onboarding/offboarding/rekrutacja/audyt
+├── checklisty/                    # onboarding/offboarding/rekrutacja/audyt
+└── akty-prawne/custom/            # pełne teksty ustaw (chunki + _overview.md z regułą IN_FORCE)
 ```
 
 ## Źródła (używamy tylko oficjalnych)
@@ -53,6 +70,11 @@ kadry/
 - Specyfika branż regulowanych (medycyna, transport, budownictwo) — to dodatkowe bazy per-klient
 - Orzecznictwo — za krótko żyjemy. Janina szuka w LEX/Legalis tylko gdy klient wyraźnie prosi
 - Prawo pracy państw obcych — Janina pracuje na polskim prawie; dla obcokrajowców w PL tak, ale dla Polaków za granicą kieruje do lokalnych specjalistów
+
+## Status wypełnienia (8.07.2026)
+
+- [x] **Audyt aktualności 8.07.2026** — 8 zmian prawa obowiązujących w 2025/2026 wgranych: reforma PIP (473), jawność etap I (807), staż art. 302¹ (1423), e-wnioski/ekwiwalent (25), układy zbiorowe (1661), L4/ZUS (26), minimalna (1242), cudzoziemcy (621) + wpisy anty-halucynacyjne (luka płacowa ~2027, oskładkowanie zleceń porzucone)
+- [x] **Pełny audyt KB 8.07.2026 (11 agentów) + naprawy** — poprawki P0/P1: terminy odwołania 21 dni (art. 264 KP), współczynnik ekwiwalentu 20,92, limit 30-krotności 282 600, kwoty wolne od potrąceń netto, PPK 1,5%, świadectwo pracy (pola 2023), RODO zakaz pytania o zarobki, BHP instruktaż 3h + kontrola trzeźwości, mobbing (status noweli), niedziele handlowe 2026. Nowe notatki: kontrola trzeźwości, sygnaliści, ustawa o rynku pracy, uzupełniający urlop macierzyński (wcześniaki), świadczenie rodzicielskie, zasiłki ZUS 2026 + zasiłek pogrzebowy 7000 zł, przykłady wyliczeń, ZFŚS, PFRON, kary porządkowe, zwolnienia grupowe, odpowiedzialność materialna/zakaz konkurencji. Nowe akty: 1871 (wcześniaki), 620 (rynek pracy), 718 (pogrzebowy), 570 (zwolnienia grupowe)
 
 ## Status wypełnienia (21.04.2026)
 

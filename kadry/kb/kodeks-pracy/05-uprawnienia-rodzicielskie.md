@@ -1,6 +1,6 @@
 # Uprawnienia rodzicielskie — KP dział VIII (art. 175-189¹)
 
-_Stan: 2026. Po nowelizacji work-life balance (2023)._
+_Stan: 2026-07-08. Po nowelizacji work-life balance (2023) + uzupełniający urlop macierzyński (wcześniaki / hospitalizacja) od 19.03.2025._
 
 ## Urlop macierzyński (art. 180-1831 KP)
 
@@ -18,11 +18,57 @@ _Stan: 2026. Po nowelizacji work-life balance (2023)._
 - Po 14 tyg. matka może wrócić do pracy, a pozostałą część przejmuje ojciec dziecka (lub inny ubezpieczony opiekun)
 
 ### Świadczenie
-**Zasiłek macierzyński 100% podstawy** (jeśli wniosek pełny w jednym bloku) lub **81,5%** jeśli łączy się z urlopem rodzicielskim od razu.
+Za sam urlop macierzyński — **zasiłek macierzyński 100% podstawy**. Wysokość za **cały** okres (macierzyński + rodzicielski) zależy od tego, czy matka złoży „długi” (łączny) wniosek w ciągu 21 dni po porodzie — pełne rozpisanie w sekcji **„Wysokość zasiłku macierzyńskiego — warianty A i B”** niżej.
 
 ### Złożenie wniosku
 - **Nie później niż 21 dni przed rozpoczęciem** (gdy rozpoczyna się po porodzie)
-- Przy połączeniu od razu z rodzicielskim — w jednym wniosku, wtedy wypłata 81,5%
+- „Długi” (łączny) wniosek o macierzyński + rodzicielski od razu — składany w ciągu **21 dni po porodzie**; skutkuje uśrednioną wypłatą **81,5%** za cały okres (wariant B niżej)
+
+---
+
+## Uzupełniający urlop macierzyński — wcześniaki / hospitalizacja (art. 180² KP, od 19.03.2025)
+
+**Nowość od 19 marca 2025 r.** — ustawa z 6.12.2024 (Dz.U. 2024 poz. 1871) dodała do KP **art. 180²** (w tekście ustawy zapisany jako „art. 1802”). Rodzic dziecka, które po porodzie trafiło do szpitala, dostaje **dodatkowy** urlop — wydłuża realny czas z dzieckiem po jego wyjściu ze szpitala. Udzielany **bezpośrednio po urlopie macierzyńskim**, przed rodzicielskim.
+
+> ⚠️ **Uwaga na numerację:** to **art. 180²** (indeks górny „2”), nie art. 180¹ — art. 180¹ dotyczy rezygnacji z części urlopu macierzyńskiego.
+
+### Komu i w jakim wymiarze
+Wymiar: **1 tydzień urlopu za każdy tydzień pobytu dziecka w szpitalu** (niepełny tydzień zaokrągla się w górę), w granicach:
+
+| Sytuacja dziecka | Warunek | Maks. wymiar | Liczony okres pobytu |
+|---|---|---|---|
+| Skrajny wcześniak | urodzone **< 28. tygodnia ciąży** LUB masa **≤ 1000 g** | **do 15 tygodni** | pobyt do upływu 15. tyg. po porodzie |
+| Wcześniak | **28.–37. tydzień ciąży** i masa **> 1000 g** | **do 8 tygodni** | pobyt do upływu 8. tyg. po porodzie |
+| Dziecko donoszone (> 37. tyg.) | pobyt w szpitalu **min. 2 kolejne dni**, przy czym pierwszy dzień przypada między **5. a 28. dniem** po porodzie | **do 8 tygodni** | pobyt od 5. dnia do upływu 8. tyg. po porodzie |
+
+- Przy **ciąży mnogiej**: uwzględnia się dziecko o **najniższej masie** i **najdłużej hospitalizowane**.
+- Przysługuje też przy **adopcji** (art. 183 § 3¹ KP), jeśli pobyt w szpitalu był po przyjęciu dziecka na wychowanie.
+
+### Zasady
+- **Zasiłek 100% podstawy** (jak za urlop macierzyński — art. 184 KP odsyła do ustawy zasiłkowej).
+- Udzielany **jednorazowo, bezpośrednio po urlopie macierzyńskim** (przed rozpoczęciem rodzicielskiego).
+- **Wniosek** (papierowy lub elektroniczny) — najpóźniej na **21 dni przed zakończeniem urlopu macierzyńskiego**; pracodawca **musi** go uwzględnić. Osoby korzystające z urlopu w dniu wejścia noweli w życie mogły złożyć wniosek najpóźniej w ostatnim dniu macierzyńskiego (przepis przejściowy).
+- Do wniosku dołącza się **zaświadczenie ze szpitala** o okresie pobytu i okolicznościach urodzenia dziecka.
+- Objęty **ochroną przed wypowiedzeniem** na równi z macierzyńskim (art. 177 KP — zakaz od dnia złożenia wniosku, tu z wyprzedzeniem 21 dni).
+
+---
+
+## Wysokość zasiłku macierzyńskiego — warianty A i B
+
+Zasiłek za okres urlopu **macierzyńskiego + rodzicielskiego** liczy się **dwoma sposobami** — decyduje moment i zakres wniosku:
+
+**WARIANT A — wnioski składane osobno (bez łącznego wniosku po porodzie):**
+- urlop **macierzyński** — **100%** podstawy,
+- urlop **rodzicielski** — **70%** podstawy.
+
+**WARIANT B — „długi” (łączny) wniosek o macierzyński + rodzicielski złożony w ciągu 21 dni po porodzie:**
+- **cały** okres (macierzyński + rodzicielski) — jednolite, uśrednione **81,5%** podstawy.
+
+**❗ Wyjątek działający ZAWSZE:** nieprzenoszalna **9-tygodniowa część drugiego rodzica (ojca)** w urlopie rodzicielskim jest płatna **70%** podstawy — **niezależnie od wariantu**, także przy 81,5%. Uśrednienie do 81,5% tej części nie obejmuje.
+
+**Jak wybrać:** wariant B (81,5% ciągiem) daje więcej za rodzicielski (81,5% zamiast 70%), ale mniej za sam macierzyński (81,5% zamiast 100%). Przy pełnym wykorzystaniu macierzyński + rodzicielski łączna kwota w wariancie B zwykle wychodzi wyższa; ostateczny wynik zależy od długości obu urlopów.
+
+> Wcześniejsze sformułowanie „100% jeśli wniosek pełny w jednym bloku” było **mylące** i zostało usunięte — złożenie łącznego wniosku daje **81,5%**, nie 100%.
 
 ---
 
@@ -44,8 +90,10 @@ _Stan: 2026. Po nowelizacji work-life balance (2023)._
 - Max. **5 części** w tym okresie (żadne ograniczenie że ma być ciągły)
 - **Praca równolegle** z urlopem rodzicielskim — dozwolona w wymiarze do **1/2 etatu** (urlop proporcjonalnie wydłużony)
 
-### Świadczenie
-- **70% podstawy** za czas urlopu rodzicielskiego
+### Świadczenie (zależne od wariantu wniosku — patrz sekcja niżej)
+- **WARIANT A** (bez „długiego” wniosku): urlop rodzicielski płatny **70% podstawy**.
+- **WARIANT B** („długi” wniosek w ciągu 21 dni po porodzie): cały okres macierzyński + rodzicielski uśredniony do **81,5%** — **ale** nieprzenoszalne **9 tyg. drugiego rodzica ZAWSZE 70%**.
+- Pełne rozpisanie → sekcja **„Wysokość zasiłku macierzyńskiego — warianty A i B”** wyżej.
 
 ---
 
@@ -126,6 +174,27 @@ _Stan: 2026. Po nowelizacji work-life balance (2023)._
 
 ---
 
+## Świadczenie rodzicielskie („kosiniakowe”) — spoza KP
+
+**To NIE jest świadczenie z Kodeksu pracy.** Wynika z **ustawy o świadczeniach rodzinnych (art. 17c)**, a nie z KP — jest dla osób, które **nie mają prawa do zasiłku macierzyńskiego**.
+
+- **Kwota: 1000 zł/mies.** — stała, **nieopodatkowana**, niezależna od dochodu.
+- **Dla kogo:** osoby nieuprawnione do zasiłku macierzyńskiego — **studenci, bezrobotni, osoby na umowach cywilnoprawnych bez ubezpieczenia chorobowego**, a także rolnicy i osoby na JDG bez chorobowego.
+- **Okres wypłaty** (wg liczby dzieci z jednego porodu):
+
+| Liczba dzieci | Okres |
+|---|---|
+| **1 dziecko** | **52 tygodnie** |
+| 2 (bliźnięta) | **65 tygodni** |
+| 3 | **67 tygodni** |
+| 4 | **69 tygodni** |
+| 5+ | **71 tygodni** |
+
+- **Wniosek: w ciągu 3 miesięcy od urodzenia** dziecka — wtedy świadczenie należne od dnia porodu; wniosek złożony później — od miesiąca złożenia.
+- Wypłaca **gmina / MOPS / GOPS** (nie ZUS, nie pracodawca). Rola Janiny: **poinformować** pracownika lub współpracownika bez prawa do zasiłku, że taka ścieżka istnieje.
+
+---
+
 ## Cheat sheet Janiny: co kiedy komu
 
 | Sytuacja | Co robi Janina |
@@ -133,13 +202,19 @@ _Stan: 2026. Po nowelizacji work-life balance (2023)._
 | Pracownica zgłasza ciążę | ochrona od dnia 1, przenieś z prac szkodliwych, zero nadgodzin/nocy |
 | Zbliża się poród (termin 6 tyg.) | wniosek o urlop macierzyński 21 dni przed |
 | Po porodzie | 14 tyg. obowiązkowe matki, potem może ojciec |
+| Wcześniak / dziecko w szpitalu po porodzie | uzupełniający urlop macierzyński (art. 180²): +1 tydz. za każdy tydz. hospitalizacji, do 8 lub 15 tyg., 100%; wniosek 21 dni przed końcem macierzyńskiego |
 | Po macierzyńskim | rodzicielski 41/43 tyg. + obowiązkowe 9 tyg. drugiego rodzica |
+| Wybór stawki zasiłku (100/70 vs 81,5) | wariant B (81,5% ciągiem) tylko przy „długim” wniosku w 21 dni po porodzie; 9 tyg. ojca zawsze 70% |
+| Rodzic bez prawa do zasiłku macierzyńskiego (student, umowa cywilnoprawna) | skieruj po „kosiniakowe” 1000 zł/mies. w gminie — spoza KP, wniosek w 3 mies. |
 | Ojciec zgłasza chęć urlopu ojcowskiego | 2 tyg., zgłoszenie 7 dni wcześniej, 100% pensji |
 | Dziecko < 4 lat | brak nadgodzin/nocy bez zgody, elastyczna organizacja |
 | Zbliża się dzień powrotu z macierzyńskiego | pracownica wybiera plan urlopowy sama (art. 163 § 3) |
 | Opieka nad starszym rodzicem, 3 dni | urlop opiekuńczy (5 dni bezpłatnych) lub siła wyższa (2 dni/50%) |
 
 ## Źródła
-- [Kodeks Pracy — dział VIII](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141)
+- [Kodeks Pracy — dział VIII](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) — tekst jednolity w bazie: `akty-prawne/custom/du-2025-277_*`
+- [Ustawa z 6.12.2024 (uzupełniający urlop macierzyński), Dz.U. 2024 poz. 1871](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2024+1871) — art. 180² KP; tekst w bazie: `akty-prawne/custom/du-2024-1871_*` (wejście w życie 19.03.2025)
 - [ZUS — zasiłki rodzicielskie](https://www.zus.pl/baza-wiedzy/swiadczenia/zasilki/zasilek-macierzynski)
+- [ZUS — zmiany w zasiłkach od 26.04.2023 (81,5% / 70%)](https://www.zus.pl/-/zmiany-w-zasi%C5%82kach-od-26-kwietnia-2023-roku)
+- [gov.pl — świadczenie rodzicielskie („kosiniakowe”)](https://www.gov.pl/web/rodzina/wiadczenie-rodzicielskie) — ustawa o świadczeniach rodzinnych, art. 17c
 - [Dyrektywa work-life balance 2019/1158](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32019L1158)

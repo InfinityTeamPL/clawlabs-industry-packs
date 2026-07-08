@@ -1,119 +1,89 @@
 ---
 act_eli: DU/2025/620
-chunk: 58/63
+chunk: 58/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 58/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 58/62
 
-Art. 401. W ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) w art. 73 w ust. 3 zdanie 
-pierwsze otrzymuje brzmienie: 
-„Okres pobierania świadczenia pieniężnego, o  którym mowa w  ust. 1, wlicza się do okresów pracy wymaganych do 
-nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów o emerytu-
-rach i rentach z Funduszu Ubezpieczeń Społecznych – na takich warunkach, na jakich wlicza się okres pobierania 
-zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”. 
+Art. 409. W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717) wprowadza się następujące zmiany:
+1) w art. 7a ust. 10d otrzymuje brzmienie:
+„10d. Marszałek województwa oraz upoważnione przez niego osoby przetwarzają dane osobowe pracodawców zawarte we wniosku, o którym mowa w ust. 6, i dane osobowe pracowników, o których mowa w ust. 1, w zakresie wynikającym z ust. 7. Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 1 i 7 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanej dalej „ustawą o rynku pracy”.”;
 
-  
-Dziennik Ustaw – 170 – Poz. 620 
- 
- 
-Art. 402. W ustawie z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w  podmiotach o szczególnym zna-
-czeniu dla polskiego przemysłu stoczniowego (Dz. U. z 2020 r. poz. 1696) w art. 123: 
-1) ust. 1 otrzymuje brzmienie: 
-„1. Pracownicy stoczni, w okresie trwania stosunku pracy po wszczęciu postępowania kompensacyjnego oraz po 
-rozwiązaniu lub wygaśnięciu tego stosunku pracy, są objęci, przez okres 6  miesięcy, programem, o którym mowa 
-w art. 217 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanym dalej 
-„programem zwolnień monitorowanych”, o ile nie podejmą w tym okresie zatrudnienia lub innej pracy zarobkowej lub 
-działalności gospodarczej.”; 
-2) w ust. 3 zdanie drugie otrzymuje brzmienie: 
-„Działania te obejmują w szczególności udzielanie pomocy w zakresie usług pośrednictwa pracy, poradnictwa zawo-
-dowego, szkoleń, organizacji staży, przyznania środków na podjęcie działalności gospodarczej, doradztwa w zakresie 
-podejmowania i prowadzenia działalności gospodarczej, refundacji podmiotom prowadzącym działalność gospodarczą 
-kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o  których mowa w ust. 1, skierowa-
-nych na to stanowisko przez Agencję.”; 
-3) ust. 12 otrzymuje brzmienie: 
-„12. W przypadku powierzenia realizacji działań w ramach programu zwolnień monitorowanych powiatowemu 
-urzędowi pracy, szkolenia, staże, przyznanie środków na podjęcie działalności gospoda rczej, refundacja podmiotom 
-prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, 
-o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję, są realizowane na zasadach ustalonych dla 
-bezrobotnych i poszukujących pracy, określonych w  ustawie, o której mowa w  ust. 1. W okresie 6 miesięcy od dnia 
-rozwiązania lub wygaśnięcia stosunku pracy, uczestnikom szkoleń i staży organizowanych przez urząd pracy nie przy-
-sługują stypendia, o których mowa w ustawie wymienionej w ust. 1.”. 
-Art. 403. W ustawie z  dnia 19  czerwca 2009 r. o  pomocy państwa w  spłacie niektórych kredytów mieszkaniowych 
-udzielonych osobom, które utraciły pracę (Dz. U. z 2016 r. poz. 734) w art. 17 w ust. 3 zdanie drugie otrzymuje brzmienie: 
-„Przepisy art. 247 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) stosuje się 
-odpowiednio.”. 
-Art. 404. W ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244) wprowadza się 
-następujące zmiany: 
-1) w art. 5: 
-a) po ust. 4 dodaje się ust. 4a w brzmieniu: 
-„4a. W przypadku niepełnoletniego praktykanta, który ukończył szkołę ponadpodstawową i spełnia obowią-
-zek nauki przez uczęszczanie na praktykę zgodnie  z art. 36 ust. 12 ustawy z  dnia 14  grudnia 2016  r. – Prawo 
-oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm.18)), umowa może być zawarta na okres nie dłuższy niż do ukoń-
-czenia przez niego 18. roku życia.”, 
-b) ust. 5 otrzymuje brzmienie: 
-„5. Zawarcie kolejnej umowy między praktykantem a  tym samym podmiotem przyjmującym na praktykę 
-jest możliwe tylko na łączny okres, o którym mowa w ust. 4, a w przypadku: 
-1) praktykanta, o którym mowa w  ust. 4a, który nie ukończył 18. roku życia – na okres nie dłuższy niż do 
-ukończenia 18. roku życia; 
-2) praktykanta, o którym mowa w ust. 4a, który ukończył 18. rok życia – na okres, o którym mowa w ust. 4.”; 
-2) w art. 7 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: 
-„2. W przypadku praktykanta, o  którym mowa w  art. 5 ust. 4a, podmiot przyjmujący na praktykę wystawia na 
-piśmie zaświadczenie o rodzaju wykonywanej pracy i umiejętnościach nabytych w czasie odbywania praktyki zawie-
-rające informację o liczbie godzin praktyki zrealizowanej w poszczególnych miesiącach.”; 
-3) po art. 7 dodaje się art. 7a w brzmieniu: 
-„Art. 7a. 1. Podmiotowi przyjmującemu na praktykę będącemu pracodawcą, który zawarł umowę z  praktykan-
-tem, o którym mowa w art. 5 ust. 4a, przysługuje dofinansowanie kosztów praktyki w wysokości 250 zł za każdy pełny 
-miesiąc praktyki, jeżeli praktyka została zrealizowana w wymiarze co najmniej 120 godzin miesięcznie. 
- 
-18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz. 854, 1562, 1635 i  1933 oraz z  2025 r. 
-poz. 619 i 620. 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 171 – Poz. 620 
- 
- 
-2. Dofinansowanie, o którym mowa w ust. 1, przyznaje wójt (burmistrz, prezydent miasta) właściwy ze względu 
-na miejsce zamieszkania praktykanta, w drodze decyzji, po stwierdzeniu spełnienia warunków określonych w ust. 1. 
-3. Dofinansowanie, o  którym mowa w  ust. 1, jest przyznawane na wniosek pracodawcy złożony w  terminie 
-3 miesięcy od dnia ukończenia praktyki przez praktykanta. 
-4. Do wniosku, o którym mowa w ust. 3, dołącza się: 
-1) kopię umowy; 
-2) kopię zaświadczenia, o którym mowa w art. 7 ust. 2. 
-5. Dofinansowanie, o którym mowa w ust. 1, jest finansowane ze środków Funduszu Pracy. 
-6. Środki, o których mowa w ust. 5, są przekazywane na wyodrębniony rachunek bankowy urzędu wojewódz-
-kiego. 
-7. Wojewoda otrzymane środki na dofinansowanie, o  którym mowa w  ust. 1, przekazuje na wyodrębniony 
-rachunek bankowy gminy. 
-8. Dofinansowanie, o  którym mowa w  ust. 1, udzielane podmiotowi prowadzącemu działalność gospodarczą 
-w rozumieniu art. 2 pkt 17 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicz-
-nej (Dz. U. z 2025 r. poz. 468), stanowi pomoc de minimis lub pomoc de minimis w rolnictwie udzielaną w zakresie 
-i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ra-
-mach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie.”. 
-Art. 405. W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28) w art. 33 
-w ust. 1 zdanie pierwsze otrzymuje brzmienie: 
-„Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1, art. 32a ust. 1, art. 32b 
-ust. 1 oraz art. 32c ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. 
-o systemie ubezpieczeń społecznych (Dz.  U. z 2025 r. poz. 350 i 620), a okres ich pobierania  zalicza się do okresu 
-zatrudnienia w rozumieniu przepisów ustawy z  dnia 20 marca 2025 r. o rynku pracy i  służbach zatrudnienia (Dz.  U. 
-poz. 620) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.”. 
-Art. 406. W ustawie z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego 
-traktowania (Dz. U. z 2024 r. poz. 1175 i 1871) wprowadza się następujące zmiany: 
-1) w art. 4 w pkt 4 lit. a otrzymuje brzmienie: 
-„a) form pomocy określonych w  ustawie z  dnia 20 marca 2025  r. o rynku pracy i  służbach zatrudnienia (Dz.  U. 
-poz. 620) oferowanych przez publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia i insty-
-tucje szkoleniowe, oraz form pomocy oferowanych przez inne podmioty działające na rzecz zatrudnienia, rozwoju 
-zasobów ludzkich i przeciwdziałania bezrobociu,”; 
-2) w art. 8 w ust. 1 pkt 4 otrzymuje brzmienie: 
-„4) dostępu i warunków korzystania z form pomocy określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy 
-i służbach zatrudnienia oferowanych przez publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje 
-zatrudnienia i instytucje szkoleniowe oraz form pomocy oferowanych przez inne podmioty działają ce na rzecz 
-zatrudnienia, rozwoju zasobów ludzkich i przeciwdziałania bezrobociu.”. 
-Art. 407. W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w  wieku do lat 3  (Dz. U. z 2024 r. poz. 338, 743 
-i 858) w art. 51 w ust. 5 uchyla się pkt 1. 
-Art. 408. W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450) w art. 5 w ust. 4 część 
-wspólna otrzymuje brzmienie: 
-„– mogą wykonywać swój zawód w zakładzie leczniczym także na podstawie umowy zawartej przez podmiot leczni-
-czy prowadzący ten zakład z  agencją zatrudnienia, o której mowa w art. 305 ustawy z dnia 20 marca 2025 r. o rynku 
-pracy i służbach zatrudnienia (Dz. U. poz. 620).”.
+– 172 –
+
+Poz. 620
+
+2) w art. 17 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie:
+„Pożyczka edukacyjna, o której mowa w art. 111 ustawy o rynku pracy, może zostać umorzona w całości lub w części wraz odsetkami, jeżeli na skutek powodzi:”;
+3) w art. 18 ust. 1–2a otrzymują brzmienie:
+„1. Przyznane środki na podjęcie działalności gospodarczej, o których mowa w art. 147 ustawy o rynku pracy, środki na założenie lub przystąpienie do spółdzielni socjalnej, o których mowa w art. 161 ustawy o rynku pracy, refundacje kosztów wyposażenia lub doposażenia stanowisk pracy, o których mowa w art. 154 ust. 1–3 ustawy o rynku pracy, środki na utworzenie stanowiska pracy oraz finansowanie kosztów wynagrodzenia, o których mowa w art. 167 ustawy o rynku pracy, mogą zostać umorzone w całości lub w części wraz z odsetkami, jeżeli miejsca pracy uległy zniszczeniu na skutek powodzi.
+2. Osobom, którym umorzono środki przyznane na podjęcie działalności gospodarczej lub na założenie lub przystąpienie do spółdzielni socjalnej, w związku z utratą miejsca pracy na skutek powodzi, przysługuje prawo ponownego złożenia wniosku o przyznanie środków na podjęcie działalności gospodarczej oraz założenie lub przystąpienie do spółdzielni socjalnej.
+2a. Do wniosku, o którym mowa w ust. 2, nie stosuje się warunku niewykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej i niepozostawania w okresie zawieszenia wykonywania działalności gospodarczej w okresie ostatnich 12 miesięcy.”;
+4) w art. 18a ust. 1–4 otrzymują brzmienie:
+„1. Pożyczki, o których mowa w art. 172 ust. 3–5 ustawy o rynku pracy, mogą zostać umorzone w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli stanowiska pracy utworzone dzięki pożyczce uległy zniszczeniu na skutek powodzi.
+2. Pożyczki, o których mowa w art. 172 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy o rynku pracy, mogą zostać umorzone w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli działalność gospodarcza prowadzona na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 na skutek powodzi nie może być kontynuowana lub jeżeli możliwość jej prowadzenia uległa istotnemu ograniczeniu, w szczególności gdy:
+1) lokal, w którym prowadzona była działalność gospodarcza, uległ całkowitemu lub częściowemu zniszczeniu lub
+2) towary podlegające sprzedaży w ramach prowadzonej działalności uległy całkowitemu lub częściowemu zniszczeniu, lub
+3) środki trwałe zakupione ze środków pochodzących z pożyczki uległy całkowitemu lub częściowemu zniszczeniu.
+3. Wniosek o umorzenie pożyczki, o którym mowa w ust. 1 lub 2, pożyczkobiorca składa do pośrednika finansowego, o którym mowa w art. 173 ust. 1 ustawy o rynku pracy, w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
+4. Minister właściwy do spraw pracy dokonuje umorzenia, o którym mowa w ust. 1 i 2, w zakresie pożyczek, o których mowa w art. 172 ust. 3–5 ustawy o rynku pracy, oraz pożyczek, o których mowa w art. 172 ust. 1 pkt 1 tej ustawy, udzielonych ze środków Funduszu Pracy, na podstawie wniosków o umorzenie pożyczki. Wnioski o umorzenie pożyczek podlegają zaopiniowaniu przez pośredników finansowych i Bank Gospodarstwa Krajowego.”;
+5) art. 18b otrzymuje brzmienie:
+„Art. 18b. Zawiesza się terminy i okresy, o których mowa w art. 165 ust. 1 pkt 3, art. 166 ust. 4, art. 169 ust. 4 pkt 3 i 4, ust. 5 pkt 2 oraz ust. 10 ustawy o rynku pracy, w stosunku do osób, które otrzymały z Funduszu Pracy środki na założenie lub przystąpienie do spółdzielni socjalnej oraz utraciły zatrudnienie w wyniku wystąpienia powodzi, oraz do spółdzielni socjalnych i przedsiębiorstw społecznych, poszkodowanych w wyniku wystąpienia powodzi, posiadających siedzibę lub prowadzących działalność na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, na okres wskazany w tych przepisach. Starosta weryfikuje przesłanki, o których mowa w umowie, nie biorąc pod uwagę okresu zawieszenia.”;
+6) w art. 19:
+a) ust. 1 i 2 otrzymują brzmienie:
+„1. Starosta, na wniosek poszkodowanego bezrobotnego, przyznaje prawo do świadczenia w wysokości zasiłku dla bezrobotnych, o której mowa w art. 224 ust. 1 pkt 1 ustawy o rynku pracy, finansowanego z Funduszu Pracy, za okres poprzedzający dzień zarejestrowania się poszkodowanego bezrobotnego w powiatowym urzędzie pracy, przypadający w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, nie dłuższy jednak niż 30 dni, jeżeli opóźnienie w rejestracji było spowodowane powodzią, a poszkodowany bezrobotny spełnia warunki określone w art. 218 ustawy o rynku pracy.
+
+Dziennik Ustaw
+
+– 173 –
+
+Poz. 620
+
+2. W przypadku gdy świadczenie, o którym mowa w ust. 1, przysługuje bezrobotnemu za okres krótszy niż 30 dni, jest wypłacane w kwocie 1/30 wysokości zasiłku dla bezrobotnych, o której mowa w art. 224 ust. 1 pkt 1 ustawy o rynku pracy, za każdy dzień przysługiwania.”,
+b) ust. 4 otrzymuje brzmienie:
+„4. Poszkodowanym bezrobotnym, którzy utracili prawo do zasiłku dla bezrobotnych w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2 z powodu upływu okresu jego pobierania, przysługuje od dnia określonego w przepisach wydanych na podstawie art. 1 ust. 2 prawo do zasiłku dla bezrobotnych przez okres 30 dni w wysokości zasiłku otrzymywanego w ostatnim miesiącu przysługiwania prawa, pod warunkiem niezaistnienia zawartych w ustawie o rynku pracy ustawowych przyczyn utraty statusu bezrobotnego.”,
+c) uchyla się ust. 5;
+7) w art. 20 ust. 1 otrzymuje brzmienie:
+„1. Starosta może, w trybie określonym dla prac interwencyjnych, o których mowa w przepisach ustawy o rynku pracy, biorąc pod uwagę zakres i skalę zniszczeń u pracodawcy spowodowanych powodzią oraz możliwości utrzymania przez pracodawcę miejsc pracy, dokonywać ze środków Funduszu Pracy zwrotu, przez okres do 12 miesięcy, poniesionych przez pracodawcę kosztów na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne z tytułu zatrudnienia skierowanych bezrobotnych zamieszkałych na obszarze gmin lub miejscowości określonych w przepisach wydanych na podstawie art. 1 ust. 2, w wysokości nieprzekraczającej miesięcznie iloczynu dwukrotnego minimalnego wynagrodzenia za pracę i liczby zatrudnionych bezrobotnych w przeliczeniu na pełny wymiar czasu pracy, pod warunkiem że pracodawca nie zmniejszy w tym okresie liczby zatrudnionych pracowników w stosunku do stanu na dzień podpisania umowy o refundację – jednak nie dłużej niż do dnia 31 grudnia roku następującego po roku, w którym wystąpiła powódź.”;
+8) w art. 21:
+a) w ust. 1 zdanie pierwsze otrzymuje brzmienie:
+„Starosta może, w trybie określonym dla prac interwencyjnych, o których mowa w przepisach ustawy o rynku pracy, biorąc pod uwagę zakres i skalę zniszczeń u pracodawcy spowodowanych powodzią oraz możliwości utrzymania przez pracodawcę miejsc pracy, dokonywać ze środków Funduszu Pracy zwrotu, przez okres do 12 miesięcy, poniesionych przez pracodawcę, którego zakład został zniszczony na skutek powodzi, kosztów na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne zatrudnianych pracowników, w wysokości nieprzekraczającej miesięcznie iloczynu dwukrotnego minimalnego wynagrodzenia za pracę i liczby zatrudnionych pracowników, w przeliczeniu na pełny wymiar czasu pracy, pod warunkiem że pracodawca nie zmniejszy w tym okresie liczby zatrudnionych pracowników w stosunku do stanu na dzień podpisania umowy o refundację – jednak nie dłużej niż do dnia 31 grudnia roku następującego po roku, w którym wystąpiła powódź.”,
+b) ust. 4 otrzymuje brzmienie:
+„4. Do organizowania prac, o których mowa w ust. 2, stosuje się odpowiednio przepisy o robotach publicznych, o których mowa w ustawie o rynku pracy, z wyłączeniem zasad udzielania pomocy publicznej.”;
+9) w art. 23 w ust. 9b zdanie drugie otrzymuje brzmienie:
+„Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 1 i 7 ustawy o rynku pracy.”;
+10) w art. 33 ust. 2 otrzymuje brzmienie:
+„2. Świadczeń uzyskanych w związku z powodzią nie wlicza się do przychodu w rozumieniu ustawy o rynku pracy, od wysokości którego uzależniona jest możliwość uzyskania statusu bezrobotnego.”.
+Art. 410. W ustawie z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2025 r. poz. 5) wprowadza się następujące zmiany:
+1) w art. 3 w ust. 2 pkt 1 otrzymuje brzmienie:
+„1) na wyposażenie lub doposażenie stanowiska pracy dla skierowanego bezrobotnego ze środków Funduszu Pracy w okresie obowiązywania umowy o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 156 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub”;
+
+Dziennik Ustaw
+
+– 174 –
+
+Poz. 620
+
+2) w art. 5:
+a) w ust. 1 pkt 1 otrzymuje brzmienie:
+„1) finansowane ze środków Funduszu świadczenie na częściowe zaspokojenie wynagrodzenia za czas przestoju ekonomicznego, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubezpieczenia społeczne należnych od pracownika, w wysokości proporcjonalnej do przestoju ekonomicznego, z uwzględnieniem wymiaru czasu pracy pracownika,”,
+b) w ust. 2 pkt 1 otrzymuje brzmienie:
+„1) finansowane ze środków Funduszu świadczenie na częściowe zrekompensowanie wynagrodzenia z tytułu obniżenia wymiaru czasu pracy, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubezpieczenia społeczne, należnych od pracownika, w wysokości proporcjonalnej do obniżonego wymiaru czasu pracy pracownika, z uwzględnieniem wymiaru czasu pracy pracownika przed jego obniżeniem,”;
+3) w art. 28 ust. 4 otrzymuje brzmienie:
+„4. Rada Ministrów nie wydaje rozporządzenia, o którym mowa w ust. 3, jeżeli jego wydanie ograniczyłoby wykonywanie bieżących zadań w zakresie ochrony roszczeń pracowniczych finansowanych z Funduszu oraz w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy finansowanych z Funduszu Pracy.”.
+Art. 411. W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257) wprowadza się następujące zmiany:
+1) w art. 16 ust. 3 otrzymuje brzmienie:
+„3. Pośrednictwo pracy prowadzą agencje zatrudnienia, o których mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanej dalej „ustawą o rynku pracy”, oraz powiatowe urzędy pracy.”;
+2) w art. 19 ust. 4 otrzymuje brzmienie:
+„4. Agencja zatrudnienia przyjmuje od armatora ofertę pracy na statku, jeżeli oferta nie dyskryminuje kandydatów do pracy i nie narusza zasady, o której mowa w art. 83 ust. 11 ustawy o rynku pracy, sprawdza, czy wśród osób zainteresowanych podjęciem pracy na statku są kandydaci spełniający wymagania armatora określone w tej ofercie oraz informuje armatora, czy może skierować do niego odpowiednich kandydatów do pracy na statku, a w przypadku ich braku może poinformować o innych agencjach zatrudnienia prowadzących pośrednictwo pracy.”;
+3) w art. 22 ust. 1 otrzymuje brzmienie:
+„1. W przypadku pośrednictwa pracy dla osób poszukujących pracy na statku o obcej przynależności agencja zatrudnienia zawiera z:
+1) osobą zainteresowaną podjęciem pracy na statku pisemną umowę, spełniającą wymagania określone w art. 338 ust. 3 ustawy o rynku pracy;
+2) armatorem, do którego zamierza kierować osoby do pracy, pisemną umowę, spełniającą wymagania określone w art. 338 ust. 5 ustawy o rynku pracy.”.
+Art. 412. W ustawie z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140) w art. 34 pkt 2 i 3 otrzymują brzmienie:
+„2) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+3) osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.

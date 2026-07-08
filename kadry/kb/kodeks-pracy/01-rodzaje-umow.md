@@ -28,10 +28,13 @@ _Stan: 2026. Zawsze sprawdzaj aktualny tekst w ISAP._
 - W trakcie zatrudnienia — bez ograniczeń kosztowych
 - Po ustaniu — wymaga **odszkodowania min. 25%** wynagrodzenia za okres odpowiadający zakazowi
 
-### Okres próbny — szczegóły (art. 25 § 2 KP)
+### Okres próbny — szczegóły (art. 25 § 2–3 KP, po nowelizacji z 26.04.2023)
 - **1 miesiąc** — jeśli planowana umowa na czas określony < 6 mies.
 - **2 miesiące** — jeśli planowana umowa na czas określony 6-12 mies.
 - **3 miesiące** — standardowo (w tym przed umową na czas nieokreślony)
+- Okres próbny **wydłuża się** o czas urlopu i innej usprawiedliwionej nieobecności pracownika (§ 2²)
+- Strony mogą **jednokrotnie wydłużyć** próbę o max 1 miesiąc, gdy uzasadnia to rodzaj pracy (§ 2¹)
+- **Ponowna umowa próbna z tym samym pracownikiem — tylko do innego rodzaju pracy** (§ 3)
 
 ---
 

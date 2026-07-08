@@ -6,7 +6,7 @@ _Rozp. MPiPS z 27.07.2004 ws. szkolenia w dziedzinie BHP._
 
 ### Instruktaż ogólny
 - **Przed dopuszczeniem do pracy** (najpóźniej w dniu 1.)
-- **Min. 2h**
+- **Min. 3 godziny lekcyjne** (po 45 min)
 - **Prowadzi:** pracownik służby BHP, pracodawca (po ukończeniu odpowiedniego szkolenia), osoba wyznaczona
 
 ### Instruktaż stanowiskowy

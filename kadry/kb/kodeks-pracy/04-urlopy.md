@@ -75,13 +75,13 @@ Pracownik nabywa prawo do urlopu **po każdym przepracowanym miesiącu** — **1
 
 **Wysokość:** proporcjonalnie do dni niewykorzystanego urlopu × dzienna stawka wynagrodzenia (obliczana wg rozporządzenia MPiPS z 8.01.1997).
 
-**Termin wypłaty (zmiana 2026!):** Do **25 maja** — 10 dni po ustaniu zatrudnienia.
+**Termin wypłaty (zmiana od 27.01.2026, art. 171 §4–5 KP, Dz.U. 2026 poz. 25):** w terminie wypłaty wynagrodzenia (art. 85 KP); jeśli ten przypada przed dniem rozwiązania umowy — **w ciągu 10 dni od ustania zatrudnienia**. Szczegóły: `kodeks-pracy/10-e-wnioski-ekwiwalent-2026.md`
 
 ### Wzór uproszczony dziennej stawki ekwiwalentu
 ```
 stawka dzienna = (wynagrodzenie miesięczne zmienne z 3 mies.) / współczynnik
 ```
-gdzie **współczynnik 2026** = (365 - 52 sob - 52 nd - 13 świąt) / 12 ≈ **20,83** dni roboczych/miesiąc
+gdzie **współczynnik 2026** = [365 - 52 nd - 52 wolne soboty - 10 świąt (poza niedzielami)] / 12 = 251/12 = **20,92** (pełny etat; niepełne: 1/2=10,46, 3/4=15,69). Szczegóły i przykład: `urlopy/wymiar-i-naliczanie.md`
 
 **Janino:** dokładne wyliczenie zawsze zostawiaj księgowej — składniki zmienne, premie, nadgodziny mają różne zasady uśredniania.
 
@@ -89,7 +89,7 @@ gdzie **współczynnik 2026** = (365 - 52 sob - 52 nd - 13 świąt) / 12 ≈ **2
 
 ## Urlop bezpłatny (art. 174 KP)
 
-- **Na pisemny wniosek pracownika**
+- **Na wniosek pracownika w postaci papierowej lub elektronicznej** (od 27.01.2026, art. 174 § 1 KP — wcześniej wymagana forma pisemna; zob. `kodeks-pracy/10-e-wnioski-ekwiwalent-2026.md`)
 - Pracodawca **może** udzielić — nie jest zobowiązany
 - **Nie wliczany do stażu pracy** (z wyjątkami — np. urlop bezpłatny na wykonywanie innej pracy u innego pracodawcy < 3 miesiące — wlicza się)
 - Pracodawca może zakończyć wcześniej jeśli urlop > 3 mies. i wystąpią ważne przyczyny (art. 174 § 3)

@@ -143,15 +143,19 @@ _Janina przy wchodzeniu do nowego klienta lub raz w roku — systematyczny przeg
 - [ ] **Dodatki** — nocne, nadgodziny, święta — wypłacane
 - [ ] **Wynagrodzenie chorobowe** (pracodawca przez pierwsze 33/14 dni)
 
-### Jawność płac (przygotowanie do 7.06.2026!)
-- [ ] **Widełki w ogłoszeniach** rekrutacyjnych — wdrożone
+### Jawność płac — etap I OBOWIĄZUJE od 24.12.2025 (Dz.U. 2025 poz. 807)
+- [ ] **Informacja o wynagrodzeniu dla kandydata** (widełki/kwota — w ogłoszeniu, przed rozmową albo najpóźniej przed nawiązaniem stosunku pracy) — wdrożona
+- [ ] **Zakaz pytania kandydata o historię wynagrodzeń** — usunięte z formularzy/scenariuszy rozmów
+- [ ] **Neutralne płciowo ogłoszenia** — sprawdzone
+
+### Jawność płac — etap II (projekt UC127, ~2027 — JESZCZE NIE OBOWIĄZUJE, przygotowanie opcjonalne)
 - [ ] **Taksonomia stanowisk** — prace o takiej samej wartości
 - [ ] **Procedura odpowiedzi** na zapytania pracowników o wynagrodzenia średnie
 - [ ] **Analiza luki płacowej K/M** — przygotowana
 
 ### Terminy
 - [ ] **Wypłaty** — zgodnie z terminem w regulaminie, nie później niż 10. dnia mies.
-- [ ] **Ekwiwalent urlopowy** — do 25 maja / 10 dni po ustaniu (zmiana 2026)
+- [ ] **Ekwiwalent urlopowy** — termin wypłaty wynagrodzenia / 10 dni po ustaniu (art. 171 §4–5 KP, od 27.01.2026)
 
 ---
 

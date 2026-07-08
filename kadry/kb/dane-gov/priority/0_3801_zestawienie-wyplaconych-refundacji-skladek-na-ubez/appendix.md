@@ -1,0 +1,56 @@
+---
+dataset_id: 3801
+type: appendix
+---
+
+# Pominięte pliki w datasetcie 3801
+
+W datasetcie jest 51 plików, w KB pokazane szczegółowo top 5 (po rozmiarze).
+Pozostałe pliki (do bezpośredniego użycia z `data/raw/{ds_id}/`):
+
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2025-Ikw2026_OSOBY_stan_31032026.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIIkw2024-IIIkw2025_KWOTY_stan_31102025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2025-Ikw2026_OSOBY_stan_28022026.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIIkw2024-IIkw2025_KWOTY_stan_30092025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IVkw2024-IVkw2025_OSOBY_stan_31012026.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IVkw2024-IVkw2025_OSOBY_stan_31122025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IVkw2024-IVkw2025_OSOBY_stan_30112025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIIkw2024-IIkw2025_KWOTY_stan_31082025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIIkw2024-IIIkw2025_OSOBY_stan_31102025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIkw2024-IIkw2025_KWOTY_stan_31072025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIkw2024-IIkw2025_KWOTY_stan_30062025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIIkw2024-IIIkw2025_OSOBY_stan_30092025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIkw2024-IIkw2025_KWOTY_stan_31052025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_Ikw2024-Ikw2025_KWOTY_stan_30042025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIIkw2024-IIIkw2025_OSOBY_stan_31082025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_Ikw2024-Ikw2025_KWOTY_stan_31032025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIkw2024-IIkw2025_OSOBY_stan_31072025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIkw2024-IIkw2025_OSOBY_stan_30062025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_Ikw2024-Ikw2025_KWOTY_stan_28022025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIkw2024-IIkw2025_OSOBY_stan_31052025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2024-Ikw2025_OSOBY_stan_30042025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IVkw2023-IVkw2024_KWOTY_stan_31012025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IVkw2023-IVkw2024_KWOTY_stan_31122024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2024-Ikw2025_OSOBY_stan_31032025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIIkw2023-IIIkw2024_KWOTY_stan_31082024_ZMIvPl2.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIIkw2023-IIIkw2024_KWOTY_stan_30092024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIIkw2023-IIIkw2024_KWOTY_stan_31102024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIkw2023-IIkw2024_KWOTY_stan_31072024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IVkw2023-IVkw2024_KWOTY_stan_30112024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIkw2023-IIkw2024_KWOTY_stan_30062024_jjYr6Tu.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_IIkw2023-IIkw2024_KWOTY_stan_31052024_J6IE5zf.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_Ikw2023-Ikw2024_KWOTY_stan_31032024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_Ikw2023-Ikw2024_KWOTY_stan_30042024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2024-Ikw2025_OSOBY_stan_28022025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IVkw2023-IVkw2024_OSOBY_stan_31012025.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IVkw2023-IVkw2024_OSOBY_stan_31122024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIkw2023-IIkw2024_OSOBY_stan_31072024_oxla3j5.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIIkw2023-IIIkw2024_OSOBY_stan_31082024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIIkw2023-IIIkw2024_OSOBY_stan_30092024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IVkw2023-IVkw2024_OSOBY_stan_30112024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIIkw2023-IIIkw2024_OSOBY_stan_31102024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_IIkw2023-IIkw2024_OSOBY_stan_30062024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2023-Ikw2024_OSOBY.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2023-Ikw2024_OSOBY_stan_31032024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4f_WYPLATY_refundacja_KRUS_Ikw2023-Ikw2024_OSOBY_stan_30042024.xlsx` (0.0 MB, .xlsx)
+- `Ad.2_-_Tab._4e_WYPLATY_refundacja_KRUS_Ikw2023-Ikw2024_KWOTY_cTmMXgS.xlsx` (0.0 MB, .xlsx)

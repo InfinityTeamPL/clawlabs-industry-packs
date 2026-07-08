@@ -88,7 +88,7 @@ _Od decyzji / wypowiedzenia do 30 dni po ustaniu zatrudnienia._
 
 ## Faza 4: Po ustaniu zatrudnienia
 
-### Rozliczenia (do 25 maja 2026 / 10 dni po ustaniu)
+### Rozliczenia (ekwiwalent: termin wypłaty wynagrodzenia albo 10 dni po ustaniu — art. 171 §4–5 KP)
 - [ ] **Wynagrodzenie** za przepracowany okres — w normalnym terminie
 - [ ] **Ekwiwalent urlopowy** — obliczony i wypłacony
 - [ ] **Odprawa** (jeśli przysługuje — ustawa o zwolnieniach grupowych)
@@ -157,7 +157,7 @@ _Od decyzji / wypowiedzenia do 30 dni po ustaniu zatrudnienia._
 | Zadanie | Termin |
 |---------|--------|
 | Świadectwo pracy | **7 dni** |
-| Ekwiwalent urlopowy | **10 dni** po ustaniu / do 25 maja |
+| Ekwiwalent urlopowy | termin wypłaty wynagrodzenia; jeśli minął przed rozwiązaniem — **10 dni** po ustaniu (art. 171 §4–5 KP) |
 | Wypłata ostatniego wynagrodzenia | Standardowy termin (do 10. dnia mies.) |
 | Wyrejestrowanie ZUS (ZWUA) | **7 dni** |
 | Archiwizacja akt | Bezpośrednio po offboardingu |

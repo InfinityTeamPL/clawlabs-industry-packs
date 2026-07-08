@@ -1,174 +1,103 @@
 ---
 act_eli: DU/2025/620
-chunk: 59/63
+chunk: 59/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 59/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 59/62
 
-Art. 409. W ustawie z  dnia 16  września 2011  r. o  szczególnych rozwią zaniach związanych z  usuwaniem skutków 
-powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717) wprowadza się następujące zmiany: 
-1) w art. 7a ust. 10d otrzymuje brzmienie: 
-„10d. Marszałek województwa oraz upoważnione przez niego osoby przetwarzają dane osob owe pracodawców 
-zawarte we wniosku, o  którym mowa w  ust. 6, i dane osobowe pracowników, o  których mowa w  ust. 1, w zakresie 
-wynikającym z ust. 7. Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym 
-mowa w art. 26 ust. 1 pkt 1 i 7 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), 
-zwanej dalej „ustawą o rynku pracy”.”; 
+Art. 413. W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
+1) w art. 36:
+a) ust. 12 otrzymuje brzmienie:
+„12. Uczeń, który ukończył szkołę ponadpodstawową przed ukończeniem 18. roku życia, może również spełniać obowiązek nauki przez uczęszczanie do uczelni, na kwalifikacyjny kurs zawodowy albo na praktykę absolwencką, o której mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244 oraz z 2025 r. poz. 620).”,
 
-  
-Dziennik Ustaw – 172 – Poz. 620 
- 
- 
-2) w art. 17 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: 
-„Pożyczka edukacyjna, o której mowa w art. 111 ustawy o rynku pracy, może zostać umorzona w całości lub w części 
-wraz odsetkami, jeżeli na skutek powodzi:”; 
-3) w art. 18 ust. 1–2a otrzymują brzmienie: 
-„1. Przyznane środki na podjęcie działalności gospodarczej, o  których mowa w art. 147 ustawy o rynku pracy, 
-środki na założenie lub przystąpienie do spółdzielni socjalnej, o których mowa w art. 161 ustawy o rynku pracy, refun-
-dacje kosztów wyposażenia lub doposażenia stanowisk pracy, o  których mowa w  art. 154 ust. 1–3 ustawy o  rynku 
-pracy, środki na utworzenie stanowiska pracy oraz finansowanie kosztów wynagrodzenia, o których mowa w art. 167 
-ustawy o rynku pracy, mogą zostać umorzone w  całości lub w  części wraz z  odsetkami, jeżeli miejsca pracy uległy 
-zniszczeniu na skutek powodzi. 
-2. Osobom, którym umorzono środki przyznane na podjęcie działalności gospodarczej lub na założenie lub przy-
-stąpienie do spółdzielni socjalnej, w związku z utratą miejsca pracy na skutek powodzi, przysługuje prawo ponownego 
-złożenia wniosku o  przyznanie środków na podjęc ie działalności gospodarczej oraz założenie lub  przystąpienie do 
-spółdzielni socjalnej. 
-2a. Do wniosku, o którym mowa w ust. 2, nie stosuje się warunku niewykonywania działalności gospodarczej na 
-terytorium Rzeczypospolitej Polskiej i  niepozostawania w okresie zawieszenia wykonywania działalności gospodar-
-czej w okresie ostatnich 12 miesięcy.”; 
-4) w art. 18a ust. 1–4 otrzymują brzmienie: 
-„1. Pożyczki, o których mowa w  art. 172 ust. 3–5 ustawy o  rynku pracy, mogą zostać umorzone w  całości lub 
-w części wraz z  odsetkami na wniosek pożyczkobiorcy, jeżeli stanowiska pracy utworzone dzięki pożyczce uległy 
-zniszczeniu na skutek powodzi. 
-2. Pożyczki, o których mowa w art. 172 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy o rynku pracy, mogą zostać umorzone 
-w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli działalność gospodarcza prowadzona na 
-terenie obszaru wskazanego w przepisach wydanych na podstawie art.  1 ust. 2 na skutek powodzi nie może być kon-
-tynuowana lub jeżeli możliwość jej prowadzenia uległa istotnemu ograniczeniu, w szczególności gdy: 
-1) lokal, w którym prowadzona była działalność gospodarcza, uległ całkowitemu lub częściowemu zniszczeniu lub 
-2) towary podlegające sprzedaży w ramach prowadzonej działalności uległy całkowitemu lub częściowemu znisz-
-czeniu, lub 
-3) środki trwałe zakupione ze środków pochodzących z pożyczki uległy całkowitemu lub częściowemu zniszczeniu. 
-3. Wniosek o umorzenie pożyczki, o którym mowa w ust. 1 lub 2, pożyczkobiorca składa do pośrednika finan-
-sowego, o którym mowa w  art. 173 ust. 1 ustawy o  rynku pracy, w  terminie określonym w  przepisach wydanych na 
-podstawie art. 1 ust. 2. 
-4. Minister właściwy do spraw pracy dokonuje umorzenia, o  którym mowa w  ust. 1 i 2, w zakresie pożyczek, 
-o których mowa w  art. 172 ust. 3–5 ustawy o  rynku pracy, oraz pożyczek, o  których mowa w art. 172 ust. 1 pkt 1 tej 
-ustawy, udzielonych ze środków Funduszu Pracy, na podstawie wniosków o umorzenie pożyczki. Wnioski o umorze-
-nie pożyczek podlegają zaopiniowaniu przez pośredników finansowych i Bank Gospodarstwa Krajowego.”; 
-5) art. 18b otrzymuje brzmienie: 
-„Art. 18b. Zawiesza się terminy i  okresy, o których mowa w  art. 165 ust. 1 pkt 3, art. 166 ust. 4, art. 169 ust. 4 
-pkt 3 i 4, ust. 5 pkt 2 oraz ust. 10 ustawy o rynku pracy, w stosunku do osób, które otrzymały z Funduszu Pracy środki 
-na założenie lub przystąpienie do spółdzielni socjalnej oraz utraciły zatrudnienie w wyniku wystąpienia powodzi, oraz 
-do spółdzielni socjalnych i  przedsiębiorstw społecznych, poszkodowanych w wyniku wystąpienia powodzi, po siada-
-jących siedzibę lub prowadzących działalność na terenie gmin wskazanych w  przepisach wydanych na podstawie 
-art. 1 ust. 2, na okres wskazany w  tych przepisach. Starosta weryfikuje przesłanki, o  których mowa w  umowie, nie 
-biorąc pod uwagę okresu zawieszenia.”; 
-6) w art. 19: 
-a) ust. 1 i 2 otrzymują brzmienie: 
-„1. Starosta, na wniosek poszkodowanego bezrobotnego, przyznaje prawo do świadczenia w wysokości za-
-siłku dla bezrobotnych, o  której mowa w  art. 224 ust. 1 pkt 1 ustawy o  rynku pracy, finansowanego z  Funduszu 
-Pracy, za okres poprzedzający dzień zarejestrowania się poszkodowanego bezrobotnego w powiatowym urzędzie 
-pracy, przypadający w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, nie dłuższy jednak 
-niż 30 dni, jeżeli opóźnienie w rejestracji było spowodowane powodzią, a poszkodowany bezrobotny spełnia warunki 
-określone w art. 218 ustawy o rynku pracy. 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 173 – Poz. 620 
- 
- 
-2. W przypadku gdy świadczenie, o którym mowa w ust. 1, przysługuje bezrobotnemu za okres krótszy niż 
-30 dni, jest wypłacane w kwocie 1/30 wysokości zasiłku dla bezrobotnych, o której mowa w art. 224 ust. 1 pkt 1 
-ustawy o rynku pracy, za każdy dzień przysługiwania.”, 
-b) ust. 4 otrzymuje brzmienie: 
-„4. Poszkodowanym bezrobotnym, którzy utracili prawo do zasiłku dla  bezrobotnych w terminie określo-
-nym w przepisach wydanych na podstawie art. 1 ust. 2 z powodu upływu okresu jego pobierania, przysługuje od 
-dnia określonego w przepisach wydanych na podstawie art. 1 ust. 2 prawo do zasiłku dla bezrobotnych przez okres 
-30 dni w wysokości zasiłku otrzymywanego w ostatnim miesiącu przysługiwania prawa, pod warunkiem niezaist-
-nienia zawartych w ustawie o rynku pracy ustawowych przyczyn utraty statusu bezrobotnego.”, 
-c) uchyla się ust. 5; 
-7) w art. 20 ust. 1 otrzymuje brzmienie: 
-„1. Starosta może, w trybie określonym dla prac interwencyjnych, o których mowa w przepisach ustawy o rynku 
-pracy, biorąc pod uwagę zakres i skalę zniszczeń u pracodawcy spowodowanych powodzią oraz możliwości utrzyma-
-nia przez pracodawcę miejsc pracy, dokonywać ze środk ów Funduszu Pracy zwrotu, przez okres do 12  miesięcy, po-
-niesionych przez pracodawcę kosztów na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne z  tytułu 
-zatrudnienia skierowanych bezrobotnych zamieszkałych na obszarze gmin lub miejscowości określonych w przepisach 
-wydanych na podstawie art. 1 ust. 2, w wysokości nieprzekraczającej miesięcznie iloczynu dwukrotnego minimalnego 
-wynagrodzenia za pracę i liczby zatrudnionych bezrobotnych w przeliczeniu na pełny wymiar czasu pracy, pod warun-
-kiem że pracodawca nie zmniejszy w  tym okresie liczby zatrudnionych pracowników w  stosunku do stanu na dzień 
-podpisania umowy o  refundację – jednak nie dłużej niż do dnia 31  grudnia roku następującego po roku, w  którym 
-wystąpiła powódź.”; 
-8) w art. 21: 
-a) w ust. 1 zdanie pierwsze otrzymuje brzmienie: 
-„Starosta może, w trybie określonym dla prac interwencyjnych, o których mowa w przepisach ustawy o rynku pracy, 
-biorąc pod uwagę zakres i skalę zniszczeń u pracodawcy spowodowanych powodzią oraz możliwości utrzymania 
-przez pracodawcę miejsc pracy, dokonywać ze środków Funduszu Pracy zwrotu, przez okres do 12 miesięcy, po-
-niesionych przez pracodawcę, którego zakład został zniszczony na skutek powodzi, kosztów na wynagrodzenia, 
-nagrody oraz składki na  ubezpieczenia społeczne zatrudnianych pracowników, w  wysokości nieprzekraczającej 
-miesięcznie iloczynu dwukrotnego minimalnego wynagrodzenia za pracę i  liczby zatrudnionych pracowników, 
-w przeliczeniu na pełny wymiar czasu pracy, pod warunkiem że pracodawca nie zmniejszy w  tym okresie liczby 
-zatrudnionych pracowników w stosunku do stanu na dzień podpisania umowy o refundację – jednak nie dłużej niż 
-do dnia 31 grudnia roku następującego po roku, w którym wystąpiła powódź.”, 
-b) ust. 4 otrzymuje brzmienie: 
-„4. Do organizowania prac, o których mowa w ust. 2, stosuje się odpowiednio przepisy o robotach publicz-
-nych, o których mowa w ustawie o rynku pracy, z wyłączeniem zasad udzielania pomocy publicznej.”; 
-9) w art. 23 w ust. 9b zdanie drugie otrzymuje brzmienie: 
-„Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 
-pkt 1 i 7 ustawy o rynku pracy.”; 
-10) w art. 33 ust. 2 otrzymuje brzmienie: 
-„2. Świadczeń uzyskanych w  związku z powodzią nie wlicza się do przychodu w rozumieniu ustawy o  rynku 
-pracy, od wysokości którego uzależniona jest możliwość uzyskania statusu bezrobotnego.”. 
-Art. 410. W ustawie z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy 
-(Dz. U. z 2025 r. poz. 5) wprowadza się następujące zmiany: 
-1) w art. 3 w ust. 2 pkt 1 otrzymuje brzmienie: 
-„1) na wyposażenie lub doposażenie stanowiska pracy dla skierowanego bezrobotnego ze środków Funduszu Pracy 
-w okresie obowiązywania umowy o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której 
-mowa w art. 156 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), 
-lub”; 
+– 175 –
 
-  
-Dziennik Ustaw – 174 – Poz. 620 
- 
- 
-2) w art. 5: 
-a) w ust. 1 pkt 1 otrzymuje brzmienie: 
-„1) finansowane ze środków Funduszu świadczenie na częściowe zaspokojenie wynagrodzenia za czas przestoju 
-ekonomicznego, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 
-2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubezpieczenia społeczne 
-należnych od pracownika, w  wysokości proporcjonalnej do przestoju ekonomicznego, z  uwzględnieniem 
-wymiaru czasu pracy pracownika,”, 
-b) w ust. 2 pkt 1 otrzymuje brzmienie: 
-„1) finansowane ze środków Funduszu świadczenie na częściowe zrekompensowanie wynagrodzenia z tytułu 
-obniżenia wymiaru czasu pracy, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy 
-z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubez-
-pieczenia społeczne, należnych od pracownika, w wysokości proporcjonalnej do obniżonego wymiaru czasu 
-pracy pracownika, z uwzględnieniem wymiaru czasu pracy pracownika przed jego obniżeniem,”; 
-3) w art. 28 ust. 4 otrzymuje brzmienie: 
-„4. Rada Ministrów nie wydaje rozporządzenia, o którym mowa w ust. 3, jeżeli jego wydanie ograniczyłoby wy-
-konywanie bieżących zadań w zakresie ochrony roszczeń pracowniczych finansowanych z Funduszu oraz w zakresie 
-aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy finansowanych z Funduszu Pracy.”. 
-Art. 411. W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257) wprowadza się następujące 
-zmiany: 
-1) w art. 16 ust. 3 otrzymuje brzmienie: 
-„3. Pośrednictwo pracy prowadzą agencje zatrudnienia, o  których mow a w  ustawie z  dnia 20  marca 2025  r. 
-o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanej dalej „ustawą o rynku pracy”, oraz powiatowe urzędy 
-pracy.”; 
-2) w art. 19 ust. 4 otrzymuje brzmienie: 
-„4. Agencja zatrudnienia przyjmuje od armatora ofertę pracy na statku, jeżeli oferta nie dyskryminuje kandyda-
-tów do pracy i  nie narusza zasady, o  której mowa w art. 83 ust. 11 ustawy o rynku pracy, sprawdza, czy wśród osób 
-zainteresowanych podjęciem pracy na statku są kandydaci spełniający wymagania armator a określone w  tej ofercie 
-oraz informuje armatora, czy może skierować do niego odpowiednich kandydatów do pracy na statku, a w przypadku 
-ich braku może poinformować o innych agencjach zatrudnienia prowadzących pośrednictwo pracy.”; 
-3) w art. 22 ust. 1 otrzymuje brzmienie: 
-„1. W przypadku pośrednictwa pracy dla osób poszukujących pracy na statku o  obcej przynależności agencja 
-zatrudnienia zawiera z: 
-1) osobą zainteresowaną podjęciem pracy na statku pisemną umowę, spełniającą wymagania określone w  art. 338 
-ust. 3 ustawy o rynku pracy; 
-2) armatorem, do którego zamierza kierować osoby do pracy, pisemną umowę, spełniającą wymagania określone 
-w art. 338 ust. 5 ustawy o rynku pracy.”. 
-Art. 412. W ustawie z  dnia 21  października 2016  r. o  umowie koncesji na roboty bu dowlane lub usługi (Dz.  U. 
-z 2023 r. poz. 140) w art. 34 pkt 2 i 3 otrzymują brzmienie: 
-„2) bezrobotnych w  rozumieniu ustawy z  dnia 20  marca 2025  r. o rynku pracy i  służbach zatrudnienia (Dz.  U. 
-poz. 620), 
-3) osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w ro-
-zumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.
+Poz. 620
+
+b) ust. 15 otrzymuje brzmienie:
+„15. Dyrektorzy publicznych i niepublicznych szkół ponadpodstawowych, pracodawcy, o których mowa w ust. 9 pkt 2, osoby kierujące podmiotami prowadzącymi kwalifikacyjne kursy zawodowe lub podmioty przyjmujące na praktykę absolwencką, są obowiązani powiadomić wójta gminy (burmistrza, prezydenta miasta), na terenie której mieszka absolwent szkoły podstawowej, który nie ukończył 18 lat, o przyjęciu go do szkoły albo w celu przygotowania zawodowego albo na kwalifikacyjny kurs zawodowy albo na praktykę absolwencką, w terminie 14 dni od dnia przyjęcia absolwenta, oraz informować tego wójta (burmistrza, prezydenta miasta) o zmianach w spełnianiu obowiązku nauki przez absolwenta szkoły podstawowej, w terminie 14 dni od dnia powstania tych zmian.”;
+2) w art. 45 w ust. 11 w pkt 3 lit. d otrzymuje brzmienie:
+„d) pozytywną opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),”;
+3) w art. 68 w ust. 7 pkt 1 otrzymuje brzmienie:
+„1) uzyskaniu opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, oraz”;
+4) w art. 117 w ust. 2 pkt 3 otrzymuje brzmienie:
+„3) publiczne służby zatrudnienia i Ochotnicze Hufce Pracy, prowadzące działalność edukacyjno-szkoleniową, a także agencje zatrudnienia, instytucje szkoleniowe, organizacje pracodawców oraz związki zawodowe, o których mowa w art. 1 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, prowadzące działalność edukacyjno-szkoleniową i posiadające akredytację, o której mowa w art. 118;”;
+5) w art. 118 w ust. 8a zdanie pierwsze otrzymuje brzmienie:
+„Akredytację na kształcenie ustawiczne prowadzone w formie kwalifikacyjnego kursu zawodowego mogą uzyskać podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2, a także publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia, instytucje szkoleniowe, organizacje pracodawców oraz związki zawodowe, o których mowa w art. 1 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, prowadzące działalność edukacyjno-szkoleniową, które prowadziły kwalifikacyjne kursy zawodowe lub prowadziły, na podstawie odrębnych przepisów, edukację pozaszkolną w zakresie zawodu lub zawodów odpowiadających zawodowi lub zawodom określonym w klasyfikacji zawodów szkolnictwa branżowego, przez okres co najmniej 3 lat.”;
+6) w art. 168 ust. 5a otrzymuje brzmienie:
+„5a. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, prowadząca kształcenie zawodowe, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+7) w art. 178 w ust. 3 w pkt 3 lit. d otrzymuje brzmienie:
+„d) opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.
+Art. 414. W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619) w art. 49 ust. 4 otrzymuje brzmienie:
+„4. W uczelni może działać akademickie biuro karier, do którego zadań należy w szczególności:
+1) dostarczanie studentom i absolwentom studiów informacji o rynku pracy i możliwościach podnoszenia kwalifikacji zawodowych;
+2) zbieranie, klasyfikowanie i udostępnianie ofert pracy, staży i praktyk;
+3) prowadzenie bazy danych studentów i absolwentów uczelni zainteresowanych znalezieniem pracy;
+4) pomoc pracodawcom w pozyskiwaniu odpowiednich kandydatów na wolne miejsca pracy oraz staże zawodowe;
+5) pomoc w aktywnym poszukiwaniu pracy.”.
+
+Dziennik Ustaw
+
+– 176 –
+
+Poz. 620
+
+Art. 415. W ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) w art. 2 pkt 3 otrzymuje brzmienie:
+„3) emeryturach i rentach – oznacza to emerytury, renty rodzinne, renty inwalidzkie oraz renty z tytułu niezdolności do pracy, w tym renty szkoleniowe, określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, o prokuraturze oraz o Sądzie Najwyższym, renty szkoleniowe i renty z tytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, renty z tytułu niezdolności do pracy określone w przepisach o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, emerytury pomostowe określone w przepisach o emeryturach pomostowych, nauczycielskie świadczenia kompensacyjne określone w przepisach o nauczycielskich świadczeniach kompensacyjnych, zasiłki przedemerytalne i świadczenia przedemerytalne określone w przepisach o świadczeniach przedemerytalnych, renty socjalne określone w przepisach o rencie socjalnej, a także renty strukturalne określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz okresowe emerytury kapitałowe określone w przepisach o emeryturach kapitałowych;”.
+Art. 416. W ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) w art. 2 w ust. 2 pkt 11 otrzymuje brzmienie:
+„11) ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
+Art. 417. W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) wprowadza się następujące zmiany:
+1) w art. 94 w ust. 1 pkt 2 i 3 otrzymują brzmienie:
+„2) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+3) osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”;
+2) w art. 96 w ust. 2 w pkt 2 lit. a i b otrzymują brzmienie:
+„a) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+b) osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.
+Art. 418. W ustawie z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz. 1330) w art. 2 pkt 1 otrzymuje brzmienie:
+„1) agencja zatrudnienia – agencję zatrudnienia, o której mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
+Art. 419. W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.19)) wprowadza się następujące zmiany:
+1) w art. 313 ust. 6 otrzymuje brzmienie:
+„6. Stosowanie przepisów ust. 1–3 nie powoduje utraty uprawnień bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”;
+2) w art. 314:
+a) ust. 2 otrzymuje brzmienie:
+„2. Dowódca jednostki wojskowej, na wniosek żołnierza, zawiadamia na piśmie właściwy powiatowy urząd pracy o terminie zwolnienia żołnierza z czynnej służby wojskowej nie później niż na 30 dni przed tym terminem.”,
+
+19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39.
+
+Dziennik Ustaw
+
+– 177 –
+
+Poz. 620
+
+b) ust. 4 otrzymuje brzmienie: „4. Na podstawie informacji zawartych w zawiadomieniu, o którym mowa w ust. 2, powiatowy urząd pracy
+przedstawia żołnierzowi zwolnionemu z czynnej służby wojskowej propozycje odpowiedniego zatrudnienia, wykonywania prac interwencyjnych, robót publicznych lub szkolenia – na zasadzie pierwszeństwa.”,
+c) w ust. 5 zdanie drugie otrzymuje brzmienie: „Osoby te zawiadamiają właściwy powiatowy urząd pracy o zwolnieniu z odbywania tej służby na 30 dni przed terminem jej zakończenia.”;
+3) w art. 322 część wspólna otrzymuje brzmienie: „– uwzględniając klasyfikację zawodów i specjalności na potrzeby rynku pracy określoną w przepisach wydanych na podstawie art. 29 ust. 3 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz konieczność zagwarantowania równości stron umowy oraz zapewnienia sprawności postępowania w zakresie wypłacania ekwiwalentu.”.
+Art. 420. W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337) wprowadza się następujące zmiany:
+1) art. 221 otrzymuje brzmienie:
+„Art. 221. 1. Obywatel Ukrainy, który przebywa legalnie na terytorium Rzeczypospolitej Polskiej lub jego pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 2 ust. 1, może zarejestrować się oraz zostać uznany jako bezrobotny albo poszukujący pracy, o którym mowa w art. 2 pkt 1 albo 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia. Do obywateli Ukrainy, o których mowa w zdaniu pierwszym, nie stosuje się warunku określonego w art. 2 pkt 1 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+2. W przypadku, o którym mowa w ust. 1, przepisy działu VI ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia stosuje się odpowiednio.”;
+2) uchyla się art. 22i;
+3) w art. 24 ust. 1 otrzymuje brzmienie: „1. Ochotnicze Hufce Pracy mogą realizować zadania, o których mowa w ustawie z dnia 20 marca 2025 r.
+o rynku pracy i służbach zatrudnienia, na rzecz obywateli Ukrainy, którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej lub których pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 2 ust. 1, i którzy ukończyli 15 lat i nie ukończyli 25 lat.”.
+Art. 421. W ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113 i 1635) wprowadza się następujące zmiany:
+1) w art. 2:
+a) w pkt 6 lit. a–c otrzymują brzmienie: „a) bezrobotnego, o którym mowa w art. 2 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), b) długotrwale bezrobotnego, o którym mowa w art. 2 pkt 4 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, c) poszukującego pracy, o którym mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, bez zatrudnienia: – w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub – niewykonującego innej pracy zarobkowej, o której mowa w art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”,
+b) pkt 10 otrzymuje brzmienie: „10) zatrudnieniu – należy przez to rozumieć zatrudnienie, o którym mowa w art. 2 pkt 51 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+2) w art. 22 w ust. 2 pkt 1 otrzymuje brzmienie: „1) Funduszu Pracy na zasadach określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;”.
+
+Dziennik Ustaw
+
+– 178 –
+
+Poz. 620
+
+Art. 422. W ustawie z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów (Dz. U. z 2024 r. poz. 1661) w art. 2 ust. 2 otrzymuje brzmienie:
+„2. Dostęp do Systemu następuje za pośrednictwem systemu teleinformatycznego umożliwiającego wnoszenie wniosków w postaci elektronicznej do publicznych służb zatrudnienia, o którym mowa w art. 26 ust. 1 pkt 7 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub systemu Punktu Informacji dla Przedsiębiorcy, o którym mowa w art. 51 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841), po uwierzytelnieniu.”.
+
+DZIAŁ XIV Przepisy epizodyczne, przejściowe, dostosowujące i końcowe

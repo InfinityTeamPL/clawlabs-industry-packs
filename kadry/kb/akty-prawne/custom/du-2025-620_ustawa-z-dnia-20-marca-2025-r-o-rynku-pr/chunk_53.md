@@ -1,178 +1,91 @@
 ---
 act_eli: DU/2025/620
-chunk: 53/63
+chunk: 53/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 53/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 53/62
 
-Art. 357. 1. Minister właściwy do spraw pracy może przeprowadzać w publicznych służbach zatrudnienia, OHP oraz 
-innych podmiotach kontrole w zakresie realizacji zadań wynikających z ustawy lub wydatkowania środków Funduszu Pracy. 
-2. Do kontroli, o  której mowa w  ust. 1, przepisy rozdziałów 1 i  2, z wyjątkiem art. 48, oraz rozdziałów 3 i  4 ustawy 
-z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio. 
-Art. 358. 1. Wojewoda lub minister właściwy do spraw pracy, w wyniku przeprowadzonych kontroli, o których mowa 
-w art. 355 ust. 1 i art. 357 ust. 1, mogą przekazać jednostce kontrolowanej zalecenia pokontrolne. 
-2. Jednostka kontrolowana może, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych, zgłosić do nich pisemne 
-umotywowane zastrzeżenia. 
-3. Wojewoda lub minister właściwy do spraw pracy, w  terminie 14 dni od dnia otrzymania zastrzeżeń przedstawiają 
-stanowisko w sprawie ich uwzględnienia. 
-4. W przypadku nieuwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska 
-wojewody lub ministra właściwego do spraw pracy, o  którym mowa w ust. 3, powiadamia wojewodę lub ministra właści-
-wego do spraw pracy o realizacji zaleceń pokontrolnych. 
-5. W przypadku uwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska 
-wojewody lub ministra właściwego do spraw pracy, o którym mowa w ust. 3, powiadamia wojewodę lub ministra właściwego 
-do spraw pracy o realizacji zaleceń pokontrolnych, mając na uwadze zmiany wynikające z uwzględnionych zastrzeżeń. 
-6. W przypadku stwierdzenia istotnych nieprawidłowości w realizacji zadań ustawowych, w szczególności w zakresie 
-stosowania form pomocy przez urzędy pracy, wojewoda lub minister właściwy do spraw pracy niezależnie od przysługują-
-cych mu innych środków, zawiadamiają o stwierdzonych nieprawidłowościach marszałka województwa lub starostę. 
-7. W przypadku, o którym mowa w ust. 6, marszałek województwa lub starosta powiadamiają ministra właściwego do 
-spraw pracy lub wojewodę o podjętych czynnościach w terminie 30 dni od dnia otrzymania zawiadomienia o stwierdzonych 
-nieprawidłowościach. 
-Art. 359. 1. Kto nie realizuje zaleceń pokontrolnych wojewody lub ministra właśc iwego do spraw pracy, o  których 
-mowa w art. 358 ust. 1, podlega karze pieniężnej w wysokości do 2-krotnej wysokości przeciętnego wynagrodzenia. 
-2. Karę pieniężną wymierza wojewoda lub minister właściwy do spraw pracy w drodze decyzji administracyjnej, biorąc 
-pod uwagę rozmiar, stopień i społeczną szkodliwość stwierdzonych nieprawidłowości. 
-3. Od kary pieniężnej nieuiszczonej w terminie pobiera się odsetki za zwłokę w wysokości określonej jak dla zaległości 
-podatkowych. 
-4. Egzekucja kary pieniężnej wraz z odsetkami, o których mowa w ust. 3, następuje w trybie przepisów o postępowaniu 
-egzekucyjnym w administracji. 
-Art. 360. 1. Starosta może przeprowadzać kontrolę przyznanej formy pomocy w zakresie prawidłowości realizacji za-
-wartej umowy i wydatkowania środków zgodnie z przeznaczeniem. 
-2. Do kontroli, o  której mowa w  ust. 1, przepisy rozdziałów 1 i  2, z wyjątkiem art. 48, oraz rozdziałów 3 i  4 ustawy 
-z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio. 
-3. Starosta w wyniku przeprowadzonej kontroli, o której mowa w ust. 1, może przekazać jednostce kontrolowanej za-
-lecenia pokontrolne. 
-4. Jednostka kontrolowana może, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych, zgłosić do nich pisemne 
-umotywowane zastrzeżenia. 
-5. Starosta w terminie 14 dni od dnia otrzymania zastrzeżeń przedstawia stanowisko w sprawie ich uwzględnienia. 
-6. W przypadku nieuwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowi-
-ska starosty, o którym mowa w ust. 5, powiadamia starostę o realizacji zaleceń pokontrolnych. 
-7. W przypadku uwzględnienia zastrzeżeń jednostka kontrolowana, w terminie 30 dni od dnia otrzymania stanowiska 
-starosty, o którym mowa w ust. 5, powiadamia starostę o realizacji zaleceń pokontrolnych, mając na uwadze zmiany wyni-
-kające z uwzględnionych zastrzeżeń. 
+Art. 372. W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39) wprowadza się następujące zmiany:
+1) w art. 131 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674) – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”;
+2) w art. 27 w ust. 1 wyrazy „o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin” zastępuje się wyrazami „ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”.
+Art. 373. W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197) wprowadza się następujące zmiany:
+1) w art. 5c w ust. 1:
+a) pkt 1 otrzymuje brzmienie: „1) pobierania świadczenia integracyjnego lub stypendium w okresie odbywania szkolenia lub stażu, lub uczestnictwa w zleconych przez starostę działaniach w zakresie reintegracji społecznej, o których mowa w art. 6 ust. 1 pkt 9 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na które został skierowany przez powiatowy urząd pracy,”,
+b) uchyla się pkt 3,
+c) po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) pobierania stypendium na podstawie art. 234 lub art. 235 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) w okresie odbywania szkolenia lub stażu, o którym mowa w art. 6 ust. 1 pkt 9c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na które został skierowany przez powiatowy urząd pracy,”;
+2) w art. 6 w pkt 10c wyrazy „przepisów o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych”;
+3) w art. 37 w ust. 4 pkt 4 otrzymuje brzmienie: „4) systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”.
 
-  
-Dziennik Ustaw – 154 – Poz. 620 
- 
- 
-8. Kto nie realizuje zaleceń pokontrolnych starosty, o  których mowa w ust. 3, podlega karze pieniężnej w  wysokości 
-do 2-krotnej wysokości przeciętnego wynagrodzenia. 
-9. Karę pieniężną wymierza starosta w drodze decyzji administracyjnej, biorąc pod uwagę rozmiar, stopień i społeczną 
-szkodliwość stwierdzonych nieprawidłowości. 
-10. Od kary pieniężnej nieuiszczonej w terminie pobiera się odsetki za zwłokę w wysokości określonej jak dla zaległości 
-podatkowych. 
-11. Egzekucja kary pieniężnej wraz z odsetkami, o których mowa w ust. 10, następuje w trybie przepisów o postępo-
-waniu egzekucyjnym w administracji. 
-12. Starosta przekazuje wojewodzie w  terminie do dnia 31  stycznia informację o  realizacji w roku poprzednim kon-
-troli, o której mowa w ust. 1, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i for-
-malnej zadań objętych nadzorem lub kontrolą. 
-13. Wojewoda przekazuje ministrowi właściwemu do spraw pracy w terminie do dnia 28 lutego informację o realizacji 
-w roku poprzednim kontroli, o której mowa w ust. 1, wraz z wynikami i oceną, zawierającą w szczególności ocenę popraw-
-ności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą. 
-Art. 361. 1. Minister właściwy do spraw pracy może zlecić wybranemu podmiotowi przeprowadzenie operacyjnego 
-audytu zewnętrznego w zakresie gospodarowania środkami Funduszu Pracy. 
-2. Operacyjny audyt zewnętrzny przeprowadza podmiot niezależny od PUP, posiadający odpowiedni e kwalifikacje 
-i doświadczenie z zakresu audytu lub dysponujący osobami uprawnionymi do przeprowadzenia audytu. 
-3. Audytor zewnętrzny ma prawo wglądu do dokumentów związanych z przeprowadzanym audytem, w tym zawartych 
-na informatycznych nośnikach danych, oraz do wykonywania z nich kopii, odpisów, wyciągów, zestawień lub wydruków. 
-4. PUP, w których przeprowadzany jest operacyjny audyt, są obowiązane na żądanie audytora zewnętrznego udzielać 
-informacji i  wyjaśnień oraz  potwierdzać zgodność z  oryginałem kopii dokumentów, ich odpisów, wyciągów, zestawień 
-i wydruków. 
-5. Z przeprowadzonego operacyjnego audytu zewnętrznego jest sporządzane sprawozdanie zawierające opis ustalo-
-nego stanu faktycznego oraz jego ocenę, a  także zalecenia lub wnioski dotyczące usunięcia n ieprawidłowości lub uspraw-
-nienia funkcjonowania PUP. 
-6. Sprawozdanie z przeprowadzonego operacyjnego audytu zewnętrznego stanowi podstawę wystąpienia przez ministra 
-właściwego do spraw pracy do zarządu powiatu z wnioskiem o opracowanie programu naprawczego. 
-DZIAŁ XII 
-Przepisy karne 
-Art. 362. 1. Kto, bez wymaganego wpisu do rejestru agencji zatrudnienia prowadzi agencję zatrudnienia, świadcząc 
-usługi w zakresie pracy tymczasowej lub pośrednictwa pracy, 
-podlega karze grzywny od 3000 zł do 100 000 zł. 
-2. Tej samej karze podlega, kto, świadcząc usługi w  zakresie pracy tymczasowej lub pośrednictwa pracy, nie spełnia 
-warunku, o którym mowa w art. 305 ust. 3. 
-3. Kto, świadcząc usługi, o których mowa w art. 305 ust. 2 lub art. 306, pobiera od osoby, dla której poszukuje zatrud-
-nienia lub innej pracy zarobkowej, oraz osoby zatrudnionej lub niebędącej pracownikiem agencji pracy tymczasowej lub 
-której udziela pomocy w wyborze lub zmianie zawodu, miejsca pracy, kierunku kształcenia lub szkolenia, a także w plano-
-waniu rozwoju zawodowego, dodatkowe opłaty inne niż wymienione w art. 338 ust. 3 pkt 16, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
-4. Tej samej karze podlega, kto, świadcząc usługi, o których mowa w art. 305 ust. 2 lub art. 306, nie przestrzega zakazu 
-dyskryminacji ze względu na płeć, wiek, niepełnosprawność, rasę, religię, pochodzenie etniczne, narodowość, orientację 
-seksualną, przekonania polityczne, światopogląd lub ze względu na przynależność związkową. 
-5. Kto, świadcząc usługę, o której mowa w art. 305 ust. 2 pkt 1 lit. a, nie kieruje osoby do pracy za granicą bezpośred-
-nio do pracodawcy zagranicznego lub bezpośrednio do  zagranicznej osoby fizycznej powierzającej jej inną pracę zarob-
-kową, lub nie zawiera z tą osobą pisemnej umowy, o której mowa w art. 338 ust. 2, lub zawiera tę umowę niezgodnie z wa-
-runkami określonymi w  art. 338 ust. 3 lub nie prowadzi wykazów, o  których mowa w  art. 338 ust. 6, lub nie przedstawia 
-pisemnego tłumaczenia umowy, o którym mowa w art. 338 ust. 4, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 155 – Poz. 620 
- 
- 
-6. Kto, świadcząc usługę, o której mowa w art. 305 ust. 2 pkt 1 lit. a, nie zawiera z pracodawcą zagranicznym pisemnej 
-umowy, o której mowa w art. 338 ust. 5, lub zawiera tę umowę niezgodnie z warunkami określonymi w art. 338 ust. 5, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
-7. Kto, świadcząc usługę, o której mowa w art. 305 ust. 2 pkt 1 lit. b: 
-1) nie kieruje cudzoziemca do zatrudnienia lub innej pracy zarobkowej bezpośrednio do podmiotów prowadzących działal-
-ność na terytorium Rzeczypospolitej Polskiej lub 
-2) nie zawiera z cudzoziemcem umowy, o której mowa w art. 337 ust. 2, lub 
-3) zawiera z cudzoziemcem umowę niezgodnie z warunkami określonymi w art. 337 ust. 3, lub 
-4) nie przedstawia cudzoziemcowi pisemnego tłumaczenia umowy, o którym mowa w art. 337 ust. 4, lub 
-5) nie przedstawia cudzoziemcowi lub podmiotowi, do którego agencja zatrudnienia kieruje cudzoziemców do zatrudnienia 
-lub innej pracy zarobkowej, pisemnej informacji, o której mowa w art. 337 ust. 5, lub 
-6) nie prowadzi wykazów, o których mowa w art. 337 ust. 6 
-– podlega karze grzywny od 3000 zł do 30 000 zł. 
-Art. 363. Kto, od osoby kierowanej do podmiotu w celu nabywania umiejętności praktycznych, w szczególności odbycia 
-praktyki absolwenckiej, praktyki l ub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, pobiera 
-dodatkowe opłaty inne niż wymienione w art. 338 ust. 3 pkt 16, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
-Art. 364. Kto, kierując osobę za granicę do podmiotu zagraniczneg o w celu nabywania umiejętności praktycznych, 
-odbycia praktyki absolwenckiej, praktyki lub  stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, 
-nie zawiera z tą osobą umowy, o której mowa w art. 338 ust. 2 i 3, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
-Art. 365. Kto, świadcząc usługi, o których mowa w art. 305 ust. 2 lub art. 306 ust. 2, osobie podejmującej za granicą 
-pracę, pracę tymczasową oraz osobie kierowanej za granicę w celu nabywania umiejętności praktycznych, w formie odbycia 
-praktyki absolwenckiej, praktyki lub stażu zawodowego, niebędących zatrudnieniem lub inną pracą zarobkową, nie przed-
-stawia pisemnej informacji, o której mowa w art. 321 ust. 1 pkt 2, lub przedstawia informację niezgodną ze stanem faktycznym, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
-Art. 366. 1. Kto: 
-1) nie dopełnia obowiązku opłacania składek na Fundusz Pracy lub nie opłaca ich w przewidzianym przepisami terminie, 
-2) nie zgłasza wymaganych danych lub zgłasza nieprawdziwe dane mające wpływ na wymiar składek na Fundusz Pracy 
-lub udziela w tym zakresie nieprawdziwych wyjaśnień albo odmawia ich udzielenia 
-– podlega karze grzywny do 46 000 zł. 
-2. Sprawca nie podlega karze, jeżeli przed dniem rozpoczęcia kontroli w podmiocie kontrolowanym zaległe składki na 
-Fundusz Pracy zostały opłacone w wymaganej wysokości. 
-Art. 367. Kto, ze względu na płeć, wiek, rasę, pochodzenie etniczne, narodowość, religię, światopogląd, niepełno-
-sprawność, orientację seksualną, przekonania polityczne, przynależność związkową lub do or ganizacji pracodawców, od-
-mawia zatrudnienia kandydata na wolnym miejscu zatrudnienia lub miejscu przygotowania zawodowego, 
-podlega karze grzywny od 3000 zł do 30 000 zł. 
-Art. 368. 1. Środki z tytułu orzeczonych i wyegzekwowanych kar grzywien, o których mowa w art. 362–367, stanowią 
-przychód Funduszu Pracy. 
-2. Orzeczone i wyegzekwowane kary grzywien, o których mowa w art. 362–367, sądy przekazują bezpośrednio właści-
-wym ze względu na siedzibę lub miejsce zamieszkania ukaranego PUP na wyodrębniony rachunek ban kowy PUP albo 
-samorządu powiatu, w trybie i terminach określonych w przepisach dotyczących sposobu wykonywania budżetu państwa. 
-3. Orzekanie w  sprawach o  czyny, o  których mowa w  art. 362–367, następuje w  trybie przepisów ustawy z  dnia 
-24 sierpnia 2001  r. – Kodeks postępowania w  sprawach o  wykroczenia (Dz.  U. z  2024 r. poz.  977 i  1544 oraz z  2025 r. 
-poz. 620). 
+– 157 –
 
-  
-Dziennik Ustaw – 156 – Poz. 620 
- 
- 
-DZIAŁ XIII 
-Zmiany w przepisach 
-Art. 369. W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841) 
-w art. 833 § 11 otrzymuje brzmienie: 
-„§ 11. Przepisy art. 87 i art. 871 Kodeksu pracy stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków 
-aktywizacyjnych oraz stypendiów, wypłacanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach 
-zatrudnienia (Dz. U. poz. 620).”. 
-Art. 370. W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132) 
-w art. 9 § 11 otrzymuje brzmienie: 
-„§ 11. Przepis § 1 stosuje się odpowiednio do zas iłków dla bezrobotnych, dodatków aktywizacyjnych oraz sty-
-pendiów, wypłacanych na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia 
-(Dz. U. poz. 620).”. 
-Art. 371. W ustawie z  dnia 26  stycznia 1982  r. – Karta Nauczyciela (Dz.  U. z  2024 r. poz.  986 i  1871) w  art. 70c 
-w ust. 11 pkt 2 otrzymuje brzmienie: 
-„2) ze środków Krajowego Funduszu Szkoleniowego, o  którym mowa w  art. 125 ustawy z  dnia 20 marca 2025 r. 
-o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), na zasadach dotyczących kursów, lub”.
+Poz. 620
+
+Art. 374. W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340 i 368) wprowadza się następujące zmiany:
+1) w art. 14 w ust. 2 pkt 20 otrzymuje brzmienie: „20) wartość pracy osoby nielegalnie zatrudnionej w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) ustalona za każdy miesiąc, w którym zostało stwierdzone nielegalne zatrudnienie, w wysokości równowartości minimalnego wynagrodzenia za pracę obowiązującego w danym miesiącu na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), przy czym przychód powstaje na dzień stwierdzenia nielegalnego zatrudnienia;”;
+2) w art. 21 w ust. 1:
+a) pkt 102 i 102a otrzymują brzmienie: „102) zwrot kosztów otrzymany przez bezrobotnego lub poszukującego pracy na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia z tytułu:
+a) przejazdu do miejsca pracy,
+b) przejazdu na badania lekarskie lub psychologiczne, c) przejazdu do miejsca odbywania stażu, szkolenia, zajęć z zakresu poradnictwa zawodowego lub po-
+mocy w aktywnym poszukiwaniu pracy, d) przejazdu do miejsca wykonywania prac społecznie użytecznych, e) zakwaterowania w miejscu pracy lub miejscu odbywania stażu lub szkolenia, f) przejazdu w celu potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzają-
+cego nabycie wiedzy i umiejętności,
+g) przejazdu do miejsca działań w zakresie reintegracji społecznej; 102a) dochody (przychody) uzyskane z tytułu:
+a) świadczeń otrzymanych przez bezrobotnych i poszukujących pracy w ramach realizacji działań, o których mowa w art. 197 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, oraz przez uczestników projektów pilotażowych, o których mowa w art. 2 pkt 33 i art. 211 tej ustawy,
+b) specyficznych elementów wspierających zatrudnienie w rozumieniu w art. 2 pkt 41 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia otrzymanych przez bezrobotnych i poszukujących pracy w ramach programów specjalnych w rozumieniu art. 2 pkt 31 tej ustawy,
+c) świadczeń otrzymanych w ramach bonu na kształcenie ustawiczne lub bonu na zasiedlenie, o których mowa w art. 107 ust. 3 oraz art. 208 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+d) stypendiów otrzymanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz dodatków do stypendiów, o których mowa w art. 121 tej ustawy;”,
+b) pkt 118 otrzymuje brzmienie: „118) wartość nieodpłatnych świadczeń lub świadczeń częściowo odpłatnych oraz wartość świadczeń rzeczowych, z tytułu: a) opłat, o których mowa w art. 103 i art. 104 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, b) szkoleń, c) potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności,
+d) badań lekarskich lub psychologicznych, e) ubezpieczenia od następstw nieszczęśliwych wypadków, f) umorzenia pożyczek edukacyjnych, o których mowa w art. 111 ustawy z dnia 20 marca 2025 r. o rynku
+pracy i służbach zatrudnienia – otrzymanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;”,
+
+Dziennik Ustaw
+
+– 158 –
+
+Poz. 620
+
+c) pkt 121 i 121a otrzymują brzmienie:
+„121) środki na założenie lub przystąpienie do spółdzielni socjalnej, o których mowa w art. 161 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
+121a) dofinansowanie podjęcia działalności gospodarczej, o którym mowa w art. 147 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;”,
+d) pkt 151 otrzymuje brzmienie:
+„151) przychody pracownika z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz przychody pracownika w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;”,
+e) pkt 160 otrzymuje brzmienie:
+„160) kwoty składek na ubezpieczenia społeczne zwolnione z obowiązku ich opłacenia zgodnie z art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, kwoty składek na Fundusz Pracy zwolnione z obowiązku ich opłacenia zgodnie z art. 259 ust. 1 pkt 4 lit. o ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz kwoty składek na Fundusz Solidarnościowy zwolnione z obowiązku ich opłacenia zgodnie z art. 4 ust. 1a ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848).”;
+3) w art. 22j w ust. 10 zdanie pierwsze otrzymuje brzmienie:
+„Przez przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju, o których mowa w ust. 7 pkt 1 i ust. 8, rozumie się przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 255 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia w roku bezpośrednio poprzedzającym rok, w którym wystąpiło zdarzenie określone w ust. 9.”;
+4) w art. 23 w ust. 1 pkt 55c otrzymuje brzmienie:
+„55c) wypłaconych, dokonanych lub postawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz wypłaconego pracownikowi wynagrodzenia w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;”;
+5) w art. 26ha w ust. 5 pkt 5 otrzymuje brzmienie:
+„5) wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.”.
+Art. 375. W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933) wprowadza się następujące zmiany:
+1) w art. 44zzzb w ust. 3 pkt 5 otrzymuje brzmienie:
+„5) mogą przystąpić osoby, które ukończyły staż, o którym mowa w art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), jeżeli program stażu uwzględniał wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,”;
+2) w art. 92q w ust. 1 pkt 3 otrzymuje brzmienie:
+„3) osoby prawne, osoby fizyczne oraz publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia, instytucje szkoleniowe, organizacje pracodawców oraz związki zawodowe, o których mowa w art. 1 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440), prowadzące działalność edukacyjno-szkoleniową.”.
+Art. 376. W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2024 r. poz. 589, 1089 i 1230) wprowadza się następujące zmiany:
+1) w art. 29 uchyla się ust. 3c;
+2) w art. 39 w ust. 1 zdanie drugie otrzymuje brzmienie:
+„Przepisy art. 29 ust. 3–3be, 3d–3g oraz 6–14 stosuje się odpowiednio.”.
+
+Dziennik Ustaw
+
+– 159 –
+
+Poz. 620
+
+Art. 377. W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278 i 340) wprowadza się następujące zmiany:
+1) w art. 12 w ust. 1 pkt 13 otrzymuje brzmienie:
+„13) wartość pracy osoby nielegalnie zatrudnionej w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) ustalona za każdy miesiąc, w którym zostało stwierdzone nielegalne zatrudnienie w wysokości równowartości minimalnego wynagrodzenia za pracę obowiązującego w danym miesiącu na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), przy czym przychód powstaje na dzień stwierdzenia nielegalnego zatrudnienia;”;
+2) w art. 16 w ust. 1 pkt 57c otrzymuje brzmienie:
+„57c) wypłaconych, dokonanych lub postawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz wypłaconego pracownikowi wynagrodzenia w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;”;
+3) w art. 16j w ust. 10 zdanie pierwsze otrzymuje brzmienie:
+„Przez przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju, o których mowa w ust. 7 pkt 1 i ust. 8, rozumie się przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 255 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia w roku bezpośrednio poprzedzającym rok, w którym wystąpiło zdarzenie określone w ust. 9.”;
+4) w art. 18ee w ust. 5 pkt 5 otrzymuje brzmienie:
+„5) wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.”.
+Art. 378. W ustawie z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2020 r. poz. 1680) wprowadza się następujące zmiany:
+1) w art. 6 ust. 1 otrzymuje brzmienie:
+„1. Osobom spełniającym warunki do uzyskania statusu bezrobotnego i prawa do zasiłku dla bezrobotnych, określone w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), przysługuje świadczenie przedemerytalne, o którym mowa w art. 2 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2025 r. poz. 421 i 620), jeżeli posiadają okres uprawniający do emerytury wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, w tym co najmniej 10 lat były zatrudnione w pełnym wymiarze czasu pracy w zakładach wymienionych w załącznikach nr 2 i 3 do niniejszej ustawy, z zastrzeżeniem ust. 2 i 3.”;
+2) uchyla się art. 6a i art. 6b.

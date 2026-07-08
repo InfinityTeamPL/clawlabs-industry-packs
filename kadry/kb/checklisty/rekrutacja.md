@@ -28,8 +28,8 @@ _Od definiowania stanowiska do oferty przyjętej._
 
 ## Faza 1: Ogłoszenie
 
-### Wymogi prawne (od 2026)
-- [ ] **Widełki płacowe** lub min. stawka — obowiązkowo
+### Wymogi prawne (od 24.12.2025 — art. 18³ᶜᵃ KP, Dz.U. 2025 poz. 807)
+- [ ] **Informacja o wynagrodzeniu dla kandydata** (widełki lub kwota) — najpóźniej przed nawiązaniem stosunku pracy; dopuszczalne momenty: w ogłoszeniu, przed rozmową albo przed zawarciem umowy (dobra praktyka: od razu w ogłoszeniu)
 - [ ] **Neutralny język** — bez "dla mężczyzn/kobiet"
 - [ ] **Zakaz pytań o poprzednie wynagrodzenie** (nie w ogłoszeniu, nie na rozmowie)
 - [ ] **Klauzula RODO** — administrator, cel, retencja, link do pełnej klauzuli
@@ -98,7 +98,7 @@ _Od definiowania stanowiska do oferty przyjętej._
 
 ### Czego NIE pytamy
 - Wiek, stan cywilny, plany rodzinne
-- **Poprzednie wynagrodzenie** (zakaz od 2026)
+- **Poprzednie wynagrodzenie** (zakaz od 24.12.2025 — Dz.U. 2025 poz. 807)
 - Orientacja seksualna, wyznanie, poglądy polityczne
 - Pytania, które nie wiążą się z kompetencjami do pracy
 - "Czy zamierza Pani mieć dzieci" / "Ile Pani ma lat"

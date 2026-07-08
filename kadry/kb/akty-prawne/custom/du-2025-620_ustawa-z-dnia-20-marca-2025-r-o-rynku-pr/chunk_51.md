@@ -1,139 +1,118 @@
 ---
 act_eli: DU/2025/620
-chunk: 51/63
+chunk: 51/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 51/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 51/62
 
-Art. 346. Do zadań Komendanta Głównego OHP należy: 
-1) ustalanie kierunków działalności i strategii rozwoju OHP; 
-2) koordynowanie i nadzorowanie realizacji zadań OHP; 
-3) inicjowanie i nadzorowanie realizacji programów i projektów na rzecz młodzieży, w tym współfinansowanych z fun-
-duszy Unii Europejskiej; 
-4) koordynowanie realizacji zadań związanych z refundowaniem pracodawcom kosztów wynagrodzeń wypłacanych mło-
-docianym pracownikom zatrudnionym na podstawie umowy o pracę w celu przygotowania zawodowego oraz składek 
-na ubezpieczenia społeczne od refundowanych wynagrodzeń; 
-5) przedkładanie do akceptacji ministrowi właściwemu do spraw pracy rocznych planów pracy OHP i sporządzanie sprawo-
-zdania z ich wykonania, a  także udostępnianie informacji niezbędnych do sporządzenia okresowych  ocen w ramach 
-nadzoru i kontroli nad całością gospodarki finansowej OHP, zgodnie z  ustawą z dnia 27 sierpnia 2009 r. o finansach 
-publicznych; 
-6) zatwierdzanie rocznych planów pracy i planów finansowych podległych jednostek; 
-7) realizowanie polityki kadrowej oraz płacowej i tworzenie strategii rozwoju kadr w OHP; 
-8) nadzorowanie dysponowania środkami finansowymi oraz mieniem będącym w zarządzie OHP; 
-9) określanie w regulaminie organizacyjnym szczegółowej organizacji i zakresu działania komórek organizacyjnych Komendy 
-Głównej OHP; 
-10) akceptuje regulaminy organizacyjne jednostek, o których mowa w art. 344 ust. 3; 
-11) określanie wzorcowych struktur organizacyjnych jednostek OHP podległych Komendantowi Głównemu OHP; 
-12) inicjowanie i prowadzenie przedsięwzięć naukowo-badawczych i wdrożeniowych w obszarze rynku pracy, edukacji 
-oraz wychowania; 
-13) zawieranie porozumień z jednostkami administracji rządowej i samorządowej, stowarzyszeniami, fundacjami, organi-
-zacjami oraz innymi instytucjami i partnerami społecznymi działającymi na rynku pracy, edukacji oraz wychowania; 
-14) zawieranie porozumień i  umów z instytucjami i organizacjami zagranicznymi w  sprawach dotyczących współpracy 
-z OHP; 
-15) powoływanie w OHP zespołów zadaniowych, doradczych i opiniodawczych, określając ich nazwę, skład, zakres i tryb 
-działania. 
-Art. 347. 1. OHP działają zgodnie z rocznym planem pracy oraz planem finansowym jednostki, o którym mowa w usta-
-wie z dnia 27 sierpnia 2009 r. o finansach publicznych. 
-2. Komendant Główny OHP przedstawia ministrowi właściwemu do spraw pracy do  zatwierdzenia projekt rocznego 
-planu pracy na dany rok, nie później niż do dnia 30 listopada roku poprzedniego. Do dnia zatwierdzenia planu OHP działają 
-na podstawie projektu tego planu. 
-3. Komendant Główny OHP w terminie do dnia 30 marca każdego roku przedstawia ministrowi właściwemu do spraw 
-pracy do akceptacji sprawozdanie z realizacji planu pracy dotyczące roku poprzedniego. 
-4. Komendant Główny OHP przekazuje ministrowi właściwemu do spraw pracy do dnia 20.  każdego miesiąca mie-
-sięczną informację finansową o realizacji refundacji wynagrodzeń młodocianych pracowników za poprzedni miesiąc z wy-
-szczególnieniem refundacji, o których mowa w art. 348 ust. 1. 
-5. Komendant Główny OHP, w  celu zapewnienia realizacji młodzieży wsparcia i  efektywnego wykorzystania zaso-
-bów, monitoruje i  koordynuje wykorzystanie bazy dydaktyczno -wychowawczej i  mienia OHP, w  szczególności miejsc 
-umożliwiających młodzieży nieodpłatny pobyt całodobowy z zakwaterowaniem. 
-6. Minister właściwy do spraw pracy może powierzyć OHP dodatkowe zadania z zakresu określonego ustawą na rzecz 
-osób w wieku od 18. do 30. roku życia, o ile wymaga tego sytuacja na rynku pracy. 
-7. Środki Funduszu Pracy w  OHP przeznacza się na finansowanie zadań, o  których mowa w  art. 300 ust. 3 pkt 4, 8, 
-10–12, 14, 16, 24–27, 29 i 30 oraz ust. 5 pkt 12. 
+Art. 351. 1. Komendant Główny OHP, wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP odpowiednio do realizowanych zadań wynikających z ustawy jako administratorzy danych osobowych przetwarzają dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP, w celu realizacji zadań ustawowych, w tym weryfikacji uprawnień i danych, zapewnienia pomocy określonej w ustawie, prowadzenia postępowań kontrolnych, realizacji obowiązków sprawozdawczych i obowiązków w zakresie statystyki publicznej oraz określania planów dalszych działań. Dla celów sprawozdawczych, statystycznych oraz w celu określenia planów dalszych działań dane przetwarzane przez Komendanta Głównego OHP, wojewódzkich komendantów OHP, dyrektorów centrów kształcenia i wychowania OHP oraz dyrektorów ośrodków szkolenia zawodowego OHP w systemach teleinformatycznych podlegają pseudonimizacji lub anonimizacji.
+2. W celu realizacji zadań wynikających z ustawy wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP są administratorami danych osobowych osób ubiegających się o wsparcie lub korzystających ze wsparcia OHP. Wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP odpowiednio do realizowanych zadań wynikających z ustawy jako administratorzy danych osobowych gromadzą informacje lub dokumenty w sprawie form pomocy i wsparcia określonych w ustawie w formie dokumentów elektronicznych oraz dokumentów papierowych lub ich odwzorowań cyfrowych.
+3. Wojewódzki komendant OHP oraz dyrektor centrum kształcenia i wychowania OHP jako administratorzy danych przetwarzają następujące dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP:
+1) imię (imiona) i nazwisko;
+2) obywatelstwo albo obywatelstwa;
+3) numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4) adres do doręczeń i adres zamieszkania;
+5) wykształcenie;
 
-  
-Dziennik Ustaw – 148 – Poz. 620 
- 
- 
-Art. 348. 1. OHP mogą dokonywać z  Funduszu Pracy refundacji kosztów poniesionych przez pracodawcę n a wyna-
-grodzenia i składki na ubezpieczenia społeczne młodocianych pracowników zatrudnionych na podstawie umowy o  pracę 
-w celu przygotowania zawodowego z uwzględnieniem wykazu zawodów, o którym mowa w art. 32 ust. 1 pkt 23, do wyso-
-kości najniższych stawek określonych w przepisach wydanych na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 
-1974 r. – Kodeks pracy, obowiązujących w  okresie, za który jest dokonywana refundacja na podstawie umowy zawartej 
-z pracodawcą. 
-2. Refundacji, o której mowa w ust. 1, za młodocianych pracowników zatrudnionych w  OHP dokonują wojewódzkie 
-komendy OHP. Informacja o dokonanych refundacjach udzielana jest zgodnie z art. 347 ust. 4. 
-3. Refundacja, o której mowa w ust. 1, udzielana podmiotowi prowadzącemu działalność gospodarczą w rozumieniu 
-art. 2 pkt 17 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, stanowi pomoc 
-udzielaną zgodnie z warunkami dopuszczalności pomocy de minimis. 
-4. Komendant Główny OHP lub wojewódzki komendant OHP mogą prowadzić kontrole realizacji umów o refundację 
-wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wyna-
-grodzeń zawartych z pracodawcami w miejscu odbywania przygotowania zawodowego przez młodocianych pracowników 
-lub w siedzibie podmiotu działającego w imieniu pracodawcy w zakresie rozliczania tych umów. 
-5. Do kontroli, o której mowa w ust. 4, przepisy rozdziałów 1 –4 ustawy z dnia 15 lipca 2011 r. o kontroli w admini-
-stracji rządowej (Dz. U. z 2020 r. poz. 224) stosuje się odpowiednio. 
-6. Wniosek o zawarcie umowy o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na 
-ubezpieczenia społeczne od refundowanych wynagrodzeń złożony przez pracodawcę, który nie realizuje zaleceń pokontrol-
-nych Komendanta Głównego OHP lub wojewódzkiego komendanta OHP, pozostawia się bez rozpoznania. 
-7. W przypadku przeprowadzenia kontroli, o której mowa w ust. 4, przez wojewódzkiego komendanta OHP, przeka-
-zuje on Komendantowi Głównemu OHP w terminie do dnia 31 stycznia informację o realizacji w roku poprzednim kontroli, 
-o której mowa w ust. 4, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formal-
-nej zadań objętych nadzorem lub kontrolą. 
-8. Komendant Główny OHP prz ekazuje ministrowi właściwemu do spraw pracy w  terminie do dnia 28  lutego infor-
-mację o realizacji w roku poprzednim kontroli, o których mowa w ust. 4, wraz z wynikami i oceną, zawierającą w szczegól-
-ności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą. 
-Art. 349. 1. Pracodawca zatrudniający młodocianych pracowników może wystąpić z  wnioskiem o zawarcie umowy 
-o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowa-
-nych wynagrodzeń, zwanym dalej „wnioskiem o zawarcie umowy o refundację”, jeżeli spełnia łącznie następujące warunki: 
-1) zatrudnia młodocianych pracowników w zawodach określonych w wykazie zawodów, o którym mowa w art. 32 ust. 1 
-pkt 23; 
-2) posiada kwalifikacje instruktora praktycznej nauki zawodu określone  w przepisach wydanych na podstawie 
-art. 120 ust. 4 ustawy z  dnia 14 grudnia 2016 r. – Prawo oświatowe lub osoba prowadząca zakład pracy w  imieniu 
-pracodawcy, lub osoba zatrudniona u pracodawcy posiada te kwalifikacje. 
-2. Pracodawca zatrudniający wyłącznie młodocianych pracowników może wystąpić z  wnioskiem o zawarcie umowy 
-o refundację dotyczącym maksymalnie 3 młodocianych pracowników, a pracodawca zatrudniający także pracowników nie-
-będących młodocianymi pracownikami może wystąpić z  wnioskiem o zawarcie umowy o  refundację dotyczącym młodo-
-cianych pracowników w liczbie nieprzekraczającej trzykrotnej liczby zatrudnionych w przeliczeniu na pełny wymiar czasu 
-pracy na czas nieokreślony niebędących młodocianymi pracownikami. 
-3. Liczba młodocianych pracowników, o której mowa w ust. 2, może być zwiększona do maksymalnie 3 młodocianych 
-pracowników przypadających na jednego instruktora praktycznej nauki zawodu. 
-4. Właściwa wojewódzka komenda OHP rozpatruje wnioski o zawarcie umowy o refundację zgodnie z kolejnością ich 
-wpływu, do wyczerpania limitów środków Funduszu Pracy określonych w planie finansowym Funduszu Pracy na dany rok, 
-i w terminie 30 dni od dnia wpływu kompletnego wniosku o zawarcie umowy o refundację zawiadamia pracodawcę o spo-
-sobie jego rozpatrzenia. 
-5. W przypadku pozytywnego rozpatrzenia wniosku o zawarcie umowy o refundację wojewódzka komenda OHP za-
-wiera z pracodawcą umowę o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpie-
-czenia społeczne od refundowanych wynagrodzeń. 
-6. Za okres powtarzania roku nauki przez młodocianego pracownika nie przysługuje refundacja, o  której mowa 
-w art. 348 ust. 1. 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 149 – Poz. 620 
- 
- 
-7. Pracodawca może wystąpić z  wnioskiem o zawarcie umowy o  refundację pod warunkiem zadeklarowania zatrud-
-nienia na podstawie umowy o pracę przez okres co najmniej 6  miesięcy po zakończeniu przygotowania zawodowego każ-
-dego młodocianego pracownika, którego dotyczy wniosek o zawarcie umowy o refundację. 
-8. OHP pozostawia bez rozpoznania złożony przez pracodawcę wniosek o zawarcie umowy o refundację, jeżeli praco-
-dawca w okresie 24 miesięcy poprzedzających dzień złożenia tego wniosku, z przyczyn dotyczących zakładu pracy nie wy-
-wiązał się z deklaracji 6-miesięcznego zatrudnienia co najmniej 50 % młodocianych pracowników, którzy ukończyli w tym 
-czasie przygotowanie zawodowe. Zatrudnienie co najmniej 50 % młodocianych pracowników, którzy ukończyli w tym czasie 
-przygotowanie zawodowe, jest weryfikowane przez złożenie oświadczenia pracodawcy o zatrudnieniu młodocianych pracow-
-ników po zakończeniu przygotowania zawodowego przez okres co najmniej 6  miesięcy w okresie 24 miesięcy poprzedza-
-jących dzień złożenia tego wniosku. 
-9. Pracodawca, o którym mowa w  ust. 8, może wystąp ić z kolejnym wnioskiem o  zawarcie umowy o  refundację po 
-upływie 12 miesięcy, licząc od dnia złożenia wniosku, o którym mowa w ust. 8. 
-10. W przypadku gdy pracodawcą dla młodocianych pracowników zatrudnianych w celu przygotowania zawodowego 
-są OHP, składają one wniosek o przyznanie refundacji. Przepisów ust. 2–5 oraz 7–9 nie stosuje się. 
-Art. 350. Minister właściwy do spraw pracy określi, w  drodze rozporządzenia, szczegółowe warunki i  tryb refundo-
-wania pracodawcom ze środków Funduszu Pracy wynagrodzeń wypła canych młodocianym pracownikom oraz składek 
-na ubezpieczenia społeczne od refundowanych wynagrodzeń, w szczególności: 
-1) elementy wniosku o zawarcie umowy o refundację oraz rodzaje dołączanych do niego informacji, 
-2) terminy składania wniosku, 
-3) elementy opinii do wniosku złożonego przez pracodawcę o zawarcie umowy o refundację, 
-4) elementy wniosku OHP o przyznanie refundacji, 
-5) elementy umowy o refundację, 
-6) elementy wniosku o zwrot poniesionych kosztów przez pracodawcę 
-– mając na względzie zapewnienie młodocianym pracownikom właściwych warunków odbywania przygotowania zawodo-
-wego i konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
+– 150 –
+
+Poz. 620
+
+6) ukończone szkoły i szkolenia;
+7) szkoła, klasa i rodzaj oddziału, gdzie odbywa lub odbywała się ostatnio nauka;
+8) pracodawca, u którego odbywa się lub odbywało się ostatnio, lub zostało ukończone przygotowanie zawodowe młodocianych pracowników w formie:
+a) przyuczenia do wykonywania określonej pracy,
+b) nauki zawodu;
+9) zawody wyuczone, zawody wykonywane, kwalifikacje cząstkowe w rozumieniu art. 2 pkt 9 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji oraz zawód, w którym osoba ta chciałaby pracować;
+10) poziom znajomości języków obcych;
+11) posiadane uprawnienia zawodowe;
+12) rodzaj i stopień niepełnosprawności, jeżeli dotyczy;
+13) okresy zatrudnienia z podaniem nazwy pracodawcy, zajmowanego stanowiska pracy, wymiaru czasu pracy i podstawy wykonywania pracy;
+14) kierunki szkoleń, którymi osoba jest zainteresowana, oraz możliwości podejmowania pracy;
+15) informacja o oświadczeniu o wyrażeniu zgody lub jej braku na przetwarzanie danych osobowych wraz z ich zakresem na podstawie przepisów Unii Europejskiej o sieci EURES;
+16) numer rachunku płatniczego, jeżeli posiada;
+17) adres elektroniczny i numer telefonu osoby, jeżeli posiada;
+18) informacje o liczbie, rodzaju, zakresie i wartości, o ile możliwe jest jej ustalenie, pomocy udzielonej tej osobie przez OHP oraz jej przyjęciu albo odmowie jej przyjęcia;
+19) informacje o pomocy udzielonej przez:
+a) publiczne służby zatrudnienia w zakresie określonym w ustawie przekazywane przez ministra właściwego do spraw pracy lub te służby,
+b) jednostki organizacyjne pomocy społecznej w zakresie danych o przynależności do rodziny o dochodach nieprzekraczających dochodu uprawniającego do świadczeń z pomocy społecznej w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej,
+c) jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej w zakresie danych o przebywaniu w pieczy zastępczej lub opuszczaniu pieczy zastępczej, określonym w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, przekazywane przez ministra właściwego do spraw rodziny lub te jednostki;
+20) informacje gmin, podmiotów prowadzących szkoły lub organów systemu oświaty o nierealizowaniu obowiązku szkolnego lub obowiązku nauki w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+4. Dyrektor ośrodka szkolenia zawodowego OHP jako administrator danych przetwarza następujące dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP:
+1) imię (imiona) i nazwisko;
+2) numer PESEL, a w przypadku jego braku – datę i miejsce urodzenia, rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+3) adres do doręczeń i adres zamieszkania;
+4) wykształcenie;
+5) adres elektroniczny i numer telefonu, jeżeli je posiadają.
+5. Wojewódzcy komendanci OHP, dyrektorzy centrów kształcenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP, udostępniają Komendantowi Głównemu OHP dane, o których mowa w ust. 3 i 4, w zakresie niezbędnym do realizacji zadań, o których mowa w art. 342 ust. 2 pkt 1, 3, 5, 6 i 9.
+6. Wojewódzcy komendanci OHP oraz dyrektorzy centrów kształcenia i wychowania OHP jako administratorzy danych udostępniają dyrektorowi ośrodka szkolenia zawodowego OHP dane osobowe, o których mowa w ust. 3, w zakresie niezbędnym do realizacji zadań, o których mowa w art. 342 ust. 2 pkt 5.
+
+Dziennik Ustaw
+
+– 151 –
+
+Poz. 620
+
+7. Dane osobowe przetwarzane przez OHP, o których mowa w ust. 3 i 4, podlegają zabezpieczeniom polegającym co najmniej na:
+1) dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
+2) pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
+8. Spełnienie zabezpieczeń, o których mowa w ust. 7, zapewniają w przypadku pracowników:
+1) Komendy Głównej OHP – Komendant Główny OHP;
+2) wojewódzkiej komendy OHP – wojewódzki komendant OHP;
+3) centrum kształcenia i wychowania OHP – dyrektor centrum kształcenia i wychowania OHP;
+4) ośrodka szkolenia zawodowego OHP – dyrektor ośrodka szkolenia zawodowego OHP.
+9. Dane osobowe mogą być przetwarzane przez podmioty, o których mowa w ust. 8, które zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), w tym:
+1) posiadają możliwość identyfikacji osoby uzyskującej informacje oraz zakresu, daty i celu ich uzyskania;
+2) posiadają zabezpieczenia uniemożliwiające wykorzystanie informacji niezgodnie z celem ich uzyskania;
+3) zapewniają, że dostęp do danych osobowych jest nadzorowany i rejestrowany zgodnie z przepisami o ochronie danych osobowych.
+10. Dane osobowe osób fizycznych, o których mowa w ust. 3 i 4, są przetwarzane przez OHP przez okres 10 lat, licząc od końca roku kalendarzowego, w którym zakończono ubieganie się o wsparcie lub udzielanie wsparcia.
+11. Jeżeli w okresie, o którym mowa w ust. 10, zostanie wytoczone powództwo lub zostanie wszczęte postępowanie, okres przetwarzania, o którym mowa w ust. 10, przedłuża się do czasu prawomocnego zakończenia tego postępowania.
+12. Na wniosek Komendanta Głównego OHP, wojewódzkiego komendanta OHP, dyrektora centrum kształcenia i wychowania OHP oraz dyrektora ośrodka szkolenia zawodowego OHP, w celu zapewnienia dostępu do informacji niezbędnych do prawidłowej realizacji zadań OHP, udostępniane są nieodpłatnie następujące kategorie danych, w tym dane osobowe młodzieży, przetwarzane przez:
+1) ministra właściwego do spraw pracy i publiczne służby zatrudnienia – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1–6, 12–15, 17 i pkt 19 lit. a;
+2) ministra właściwego do spraw zabezpieczenia społecznego – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b;
+3) Państwową Inspekcję Pracy – informacje o realizacji zadań, o których mowa w art. 10 ust. 1 pkt 1 i 4 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, oraz kontroli przestrzegania przepisów o delegowaniu pracowników w ramach świadczenia usług;
+4) jednostki organizacyjne pomocy społecznej – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. b;
+5) jednostki organizacyjne wspierania rodziny i systemu pieczy zastępczej – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4 i pkt 19 lit. c;
+6) gminy, podmioty prowadzące szkoły lub organy systemu oświaty – dane osób fizycznych, o których mowa w ust. 3, w zakresie określonym w ust. 3 pkt 1, 3, 4, 6, 7 i 20;
+7) Zakład Ubezpieczeń Społecznych – dane określone w art. 50 ust. 14 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+13. W celu realizacji przez OHP zadań, o których mowa w art. 342 ust. 2 pkt 4, 5 i 7, gmina lub podmiot prowadzący szkoły obowiązani są przekazać do właściwej ze względu na teren działalności wojewódzkiej komendy OHP informacje o młodzieży nierealizującej obowiązku szkolnego lub obowiązku nauki, w zakresie określonym w art. 35 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+
+Dziennik Ustaw
+
+– 152 –
+
+Poz. 620
+
+14. Komendant Główny OHP, wojewódzki komendant OHP, dyrektor centrum kształcenia i wychowania OHP oraz dyrektor ośrodka szkolenia zawodowego OHP udostępniają na wniosek, w niezbędnym zakresie, przetwarzane dane osobowe osób fizycznych ubiegających się o wsparcie lub korzystających ze wsparcia OHP:
+1) ministrowi właściwemu do spraw pracy w celu realizacji jego zadań, o których mowa w art. 25 ust. 1, dane osób fizycznych, w zakresie określonym w ust. 3 pkt 1, 3, 15, 18 i pkt 19 lit. c;
+2) dyrektorowi WUP w celu realizacji zadań, o których mowa w art. 32 ust. 1 pkt 1–14, 20–22, 27 i 31, w tym weryfikacji prawa do świadczeń i udzielania pomocy, w zakresie określonym w ust. 3 pkt 1, 3, 15 i 18;
+3) dyrektorowi PUP w celu realizacji zadań, o których mowa w art. 38 ust. 1, w tym weryfikacji prawa do świadczeń i udzielania pomocy określonej w ustawie, w zakresie określonym w ust. 3 pkt 1, 3, 15, 18 i pkt 19 lit. c.
+15. Dane, o których mowa w ust. 14, są udostępniane na wniosek podmiotów, o których mowa w ust. 14, dotyczący określonej osoby fizycznej.
+16. W przypadku wniosków składanych z wykorzystaniem systemów teleinformatycznych przepis ust. 15 stosuje się wobec podmiotów, o których mowa w ust. 14, jeżeli spełniają łącznie następujące warunki:
+1) posiadają możliwość identyfikacji osoby uzyskującej informacje oraz zakresu, daty i celu ich uzyskania;
+2) posiadają zabezpieczenia, szczególnie środki techniczne i organizacyjne uniemożliwiające wykorzystanie informacji niezgodnie z celem ich uzyskania;
+3) zapewniają, że dostęp do danych osobowych jest nadzorowany i rejestrowany zgodnie z przepisami o ochronie danych osobowych;
+4) zapewniają, że przetwarzanie – udostępnianie danych osobowych odbywa się zgodnie z przepisami o ochronie danych osobowych.
+Art. 352. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe zadania OHP w zakresie kształcenia i wychowania oraz zatrudnienia i przeciwdziałania marginalizacji i wykluczeniu społecznemu młodzieży, strukturę i zadania wojewódzkich komend OHP, centrów kształcenia i wychowania OHP, ośrodków szkolenia zawodowego OHP oraz zadania kierowników wskazanych jednostek, mając na względzie zapewnienie efektywności i skuteczności realizacji zadań przez OHP.
+Art. 353. 1. Komendant Główny OHP może przeprowadzać w jednostkach OHP kontrole w zakresie realizacji zadań wynikających z ustawy, wydatkowania środków Funduszu Pracy oraz innych przepisów prawa.
+2. Do kontroli, o której mowa w ust. 1:
+1) przepisy rozdziałów 1 i 2, z wyjątkiem art. 48, oraz rozdziałów 3 i 4 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio;
+2) przepisy art. 348 ust. 8 stosuje się.
+
+DZIAŁ XI Nadzór i kontrola
+Art. 354. Wojewoda sprawuje nadzór, o którym mowa w art. 30 ust. 1, w szczególności przez: 1) badanie dokumentów i danych, niezbędnych do sprawowania nadzoru; 2) wykonywanie niezbędnych do celów nadzoru odpisów, wyciągów z dokumentów lub kserokopii oraz zestawień i obliczeń
+sporządzonych na podstawie dokumentów; 3) przeprowadzanie oględzin obiektów i pomieszczeń oraz obserwację przebiegu czynności objętych nadzorem; 4) żądanie od pracowników jednostki kontrolowanej udzielania informacji w formie ustnej i pisemnej w związku z czyn-
+nościami nadzorczymi; 5) wzywanie i przesłuchiwanie świadków; 6) zwracanie się o wydanie opinii przez biegłych i specjalistów z zakresu rynku pracy.
+Art. 355. 1. Wojewoda może przeprowadzać kontrolę w jednostkach kontrolowanych. 2. Do kontroli, o której mowa w ust. 1, przepisy rozdziałów 1 i 2, z wyjątkiem art. 48, oraz rozdziałów 3 i 4 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej stosuje się odpowiednio.
+
+Dziennik Ustaw
+
+– 153 –
+
+Poz. 620
+
+Art. 356. Wojewoda przekazuje ministrowi właściwemu do spraw pracy w terminie do dnia 31 stycznia informację o realizacji w roku poprzednim nadzoru, o którym mowa w art. 30 ust. 1, oraz kontroli, o której mowa w art. 355 ust. 1, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą.

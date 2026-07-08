@@ -113,7 +113,7 @@ _Poza urlopem wypoczynkowym (patrz `wymiar-i-naliczanie.md`)._
 
 **Art. 174 KP**
 
-- Na **pisemny wniosek** pracownika
+- Na **wniosek pracownika w postaci papierowej lub elektronicznej** (od 27.01.2026 — wcześniej forma pisemna)
 - Pracodawca **może** udzielić (nie musi)
 - **Nie wliczany do stażu pracy** (z wyjątkami)
 - Bezpłatny — brak świadczeń

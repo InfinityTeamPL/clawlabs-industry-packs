@@ -1,183 +1,74 @@
 ---
 act_eli: DU/2025/620
-chunk: 50/63
+chunk: 50/62
 title_short: "Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatr"
 version_date: latest
 ---
 
-# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 50/63
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia — chunk 50/62
 
-Art. 340. 1. Okresy zatrudnienia obywateli polskich w  byłej Niemieckiej Republice Demokratycznej i  byłej Czecho-
-słowackiej Republice Socjalistycznej na podstawie umów i  porozumień międzynarodowych przypadające przed dniem 
-1 grudnia 1991 r. są traktowane jak okresy zatrudnienia w Państwie Polskim w zakresie uprawnień pracowniczych. 
-2. Okres urlopu bezpłatnego udzielonego pracownikowi na okres skierowania do pracy za granicą na podstawie rozpo-
-rządzenia Rady Ministrów z dnia 27 grudnia 1974 r. w sprawie niektórych praw i obowiązków pracowników skierowanych 
-do pracy za granicą w celu realizacji budownictwa eksportowego i usług związanych z eksportem (Dz. U. z 1990 r. poz. 259, 
-z 1991 r. poz. 346 oraz z 1993 r. poz. 452), a także przypadający bezpośrednio po zakończeniu tego urlopu okres niezdol-
-ności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną – wlicza się do okresu pracy, od którego 
-zależą uprawnienia pracownicze, jeżeli pracownik podjął zatrudnienie u macierzystego pracodawcy w terminie przewidzia-
-nym w tym rozporządzeniu. 
-3. Okres zatrudnienia za granicą pracownika, który nie pozostawał w stosunku pracy przed skierowaniem do pracy za 
-granicą na podstawie rozporządzenia, o  którym mowa w ust. 2, jest traktowany jak okres zatrudnienia w  Rzeczypospolitej 
-Polskiej w zakresie uprawnień pracowniczych. Dotyczy to także pracownika, któremu udzielono urlopu bezpłatn ego na 
-okres skierowania do pracy za granicą, a który nie podjął pracy u macierzystego pracodawcy po zakończeniu pracy za gra-
-nicą lub podjął pracę u  macierzystego pracodawcy, lecz po upływie terminu przewidzianego w  rozporządzeniu, o którym 
-mowa w ust. 2. 
-4. Udokumentowane okresy zatrudnienia lub wykonywania innej pracy zarobkowej za granicą u pracodawców zagra-
-nicznych w państwach niewymienionych w art. 1 ust. 3 pkt 2 lit. a–d przebyte w okresie od dnia 1 listopada 2005 r. do dnia 
-25 sierpnia 2006 r. są zaliczane do okresu uprawniającego do zasiłku pod warunkiem opłacenia składki na Fundusz Pracy. 
-Przepisy dotyczące trybu opłacania składek na Fundusz Pracy przez osoby podejmujące zatrudnienie lub inną pracę zarob-
-kową za granicą u pracodawcy zagranicznego stosuje się odpowiednio. 
+Art. 346. Do zadań Komendanta Głównego OHP należy:
+1) ustalanie kierunków działalności i strategii rozwoju OHP;
+2) koordynowanie i nadzorowanie realizacji zadań OHP;
+3) inicjowanie i nadzorowanie realizacji programów i projektów na rzecz młodzieży, w tym współfinansowanych z funduszy Unii Europejskiej;
+4) koordynowanie realizacji zadań związanych z refundowaniem pracodawcom kosztów wynagrodzeń wypłacanych młodocianym pracownikom zatrudnionym na podstawie umowy o pracę w celu przygotowania zawodowego oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń;
+5) przedkładanie do akceptacji ministrowi właściwemu do spraw pracy rocznych planów pracy OHP i sporządzanie sprawozdania z ich wykonania, a także udostępnianie informacji niezbędnych do sporządzenia okresowych ocen w ramach nadzoru i kontroli nad całością gospodarki finansowej OHP, zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych;
+6) zatwierdzanie rocznych planów pracy i planów finansowych podległych jednostek;
+7) realizowanie polityki kadrowej oraz płacowej i tworzenie strategii rozwoju kadr w OHP;
+8) nadzorowanie dysponowania środkami finansowymi oraz mieniem będącym w zarządzie OHP;
+9) określanie w regulaminie organizacyjnym szczegółowej organizacji i zakresu działania komórek organizacyjnych Komendy Głównej OHP;
+10) akceptuje regulaminy organizacyjne jednostek, o których mowa w art. 344 ust. 3;
+11) określanie wzorcowych struktur organizacyjnych jednostek OHP podległych Komendantowi Głównemu OHP;
+12) inicjowanie i prowadzenie przedsięwzięć naukowo-badawczych i wdrożeniowych w obszarze rynku pracy, edukacji oraz wychowania;
+13) zawieranie porozumień z jednostkami administracji rządowej i samorządowej, stowarzyszeniami, fundacjami, organizacjami oraz innymi instytucjami i partnerami społecznymi działającymi na rynku pracy, edukacji oraz wychowania;
+14) zawieranie porozumień i umów z instytucjami i organizacjami zagranicznymi w sprawach dotyczących współpracy z OHP;
+15) powoływanie w OHP zespołów zadaniowych, doradczych i opiniodawczych, określając ich nazwę, skład, zakres i tryb działania.
+Art. 347. 1. OHP działają zgodnie z rocznym planem pracy oraz planem finansowym jednostki, o którym mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych.
+2. Komendant Główny OHP przedstawia ministrowi właściwemu do spraw pracy do zatwierdzenia projekt rocznego planu pracy na dany rok, nie później niż do dnia 30 listopada roku poprzedniego. Do dnia zatwierdzenia planu OHP działają na podstawie projektu tego planu.
+3. Komendant Główny OHP w terminie do dnia 30 marca każdego roku przedstawia ministrowi właściwemu do spraw pracy do akceptacji sprawozdanie z realizacji planu pracy dotyczące roku poprzedniego.
+4. Komendant Główny OHP przekazuje ministrowi właściwemu do spraw pracy do dnia 20. każdego miesiąca miesięczną informację finansową o realizacji refundacji wynagrodzeń młodocianych pracowników za poprzedni miesiąc z wyszczególnieniem refundacji, o których mowa w art. 348 ust. 1.
+5. Komendant Główny OHP, w celu zapewnienia realizacji młodzieży wsparcia i efektywnego wykorzystania zasobów, monitoruje i koordynuje wykorzystanie bazy dydaktyczno-wychowawczej i mienia OHP, w szczególności miejsc umożliwiających młodzieży nieodpłatny pobyt całodobowy z zakwaterowaniem.
+6. Minister właściwy do spraw pracy może powierzyć OHP dodatkowe zadania z zakresu określonego ustawą na rzecz osób w wieku od 18. do 30. roku życia, o ile wymaga tego sytuacja na rynku pracy.
+7. Środki Funduszu Pracy w OHP przeznacza się na finansowanie zadań, o których mowa w art. 300 ust. 3 pkt 4, 8, 10–12, 14, 16, 24–27, 29 i 30 oraz ust. 5 pkt 12.
 
-  
-Dziennik Ustaw – 144 – Poz. 620 
- 
- 
-DZIAŁ X 
-OHP 
-Art. 341. 1. OHP są państwową jednostką budżetową nadzorowaną przez ministra właściwego do spraw pracy. 
-2. W ramach nadzoru, o którym mowa w ust. 1, minister właściwy do spraw pracy w  szczególności akceptuje roczne 
-plany pracy i sprawozdania z wykonania planu pracy OHP za rok poprzedni. 
-3. OHP używają wizerunku orła ustalonego dla godła na zasadach określonych w  ustawie z dnia 31 stycznia 1980 r. 
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2025 r. poz. 299). 
-4. OHP realizują działania na rzecz młodzieży w wieku od 14. do 30. roku życia, zwanej dalej „młodzieżą”, w celu jej 
-wsparcia w wypełnieniu obowiązku szkolnego lub obowiązku nauki oraz podejmowaniu i  utrzymaniu zatrudnienia i roz-
-woju edukacyjno-zawodowego. 
-Art. 342. 1. OHP realizują działania na rzecz młodzieży, która w szczególności: 
-1) jest zagrożona ryzykiem przedwczesnego opuszczenia systemu edukacji rozumianego jako realizowanie obowiązku 
-szkolnego lub obowiązku nauki w ten sposób, że: 
-a) stwarza problemy wychowawcze w trakcie realizacji obowiązku szkolnego lub obowiązku nauki, 
-b) ma opóźnienia w cyklu kształcenia lub nie realizuje obowiązku szkolnego lub obowiązku nauki; 
-2) po spełnieniu obowiązku szkolnego lub obowiązku nauki nie uczy się i nie pracuje; 
-3) pochodzi z rodzin dysfunkcyjnych; 
-4) pochodzi z rodzin, w których panują warunki socjalno-bytowe lub środowiskowe wskazujące na potrzebę instytucjo-
-nalnego wsparcia materialnego, pedagogicznego lub psychologicznego; 
-5) potrzebuje wsparcia w podjęciu decyzji edukacyjno-zawodowej lub przygotowania do aktywnego zachowania na rynku 
-pracy. 
-2. Realizując działania na rzecz młodzieży w  zakresie kształcenia i wychowania oraz zatrudnienia i przeciwdziałania 
-marginalizacji i wykluczeniu społecznemu młodzieży, OHP w szczególności: 
-1) prowadzą działania środowiskowe mające na celu rozpoznanie problemów i  identyfikację młodzieży wymagającej 
-wsparcia oraz prowadzą jej rekrutację do objęcia wsparciem; 
-2) diagnozują indywidualne potrzeby młodzieży i planują dla niej formy wsparcia; 
-3) realizują działania wspierające rozwój osobisty i integrację społeczną młodzieży, w tym działania opiekuńcze, wycho-
-wawcze, profilaktyczne i socjalizacyjne; 
-4) ułatwiają młodzieży realizację obowiązku szkolnego lub obowiązku nauki do 18.  roku życia oraz umożliwiają jej 
-nabycie kwalifikacji zawodowych, w tym: 
-a) kierują do pracodawców lub zatrudniają w celu odbycia przygotowania zawodowego, 
-b) zapewniają pomoc wychowawców i pedagogów w okresie nauki; 
-5) umożliwiają młodzieży nabycie dodatkowej wiedzy i umiejętności potrzebnych na rynku pracy, oferując pozaszkolne 
-zajęcia edukacyjne lub kierując na szkolenia oraz kwalifikacyjne kursy zawodowe; 
-6) prowadzą pośrednictwo pracy oraz poradnictwo zawod owe na rzecz młodzieży zgodnie z  przepisami art. 81 i art. 87 
-ust. 1–4; 
-7) współpracują ze szkołami podstawowymi, ponadpodstawowymi, uczelniami, jednostkami samorządu terytorialnego, 
-stowarzyszeniami oraz fundacjami w  zakresie realizacji poradnictwa zawodo wego, w tym promowania uczenia się 
-przez całe życie oraz działań informacyjnych dotyczących wsparcia skierowanego do osób do 30. roku życia; 
-8) prowadzą ocenę skuteczności i efektywności działań realizowanych na rzecz młodzieży objętej wsparciem; 
-9) realizują działania dotyczące prowadzenia współpracy z organizacjami i instytucjami zagranicznymi oraz organizowa-
-nia międzynarodowej współpracy i wymiany młodzieży. 
-3. OHP prowadzą pośrednictwo pracy w ramach sieci EURES zgodnie z przepisami art. 86, art. 91 i art. 98. 
-4. Realizując działania, o  których mowa w  ust. 2 pkt 2–5 i 9, OHP mogą zapewnić młodzieży, w  ramach posiadanej 
-bazy lokalowej, nieodpłatnie pobyt całodobowy z zakwaterowaniem i wyżywieniem oraz opieką wychowawczą. 
+Dziennik Ustaw
 
-  
-Dziennik Ustaw – 145 – Poz. 620 
- 
- 
-5. W celu realizacji działań, o  których mowa w  ust. 2 pkt 4, OHP przekazują informację o  przewidywanej liczbie 
-miejsc nauki dla młodzieży objętej wsparciem do organów prowadzących szkoły i  placówki do dnia 30 września roku po-
-przedzającego rok budżetowy. 
-6. Kształcenie młodzieży w  OHP jest realizowane z uwzględnieniem jedności procesu dydaktycznego i  wychowaw-
-czego oraz respektowania indywidualnych potrzeb i możliwości uczestników. 
-7. Dobór formy, kierunku i poziomu kształcenia młodzieży w OHP odbywa się z uwzględnieniem: 
-1) wieku, wykształcenia, cech psychofizycznych i zainteresowań młodzieży; 
-2) dostępnej oferty kształcenia i szkolenia; 
-3) szans na uzyskanie zatrudnienia po zakończeniu kształcenia. 
-8. Młodzież na każdym etapie kształcenia w OHP może korzystać z informacji zawodowej, usług poradnictwa zawo-
-dowego oraz pośrednictwa pracy świadczonych przez jednostki OHP. 
-9. OHP mogą objąć wsparciem młodzież: 
-1) uczęszczającą do szkół podstawowych z oddziałami przysposabiającymi do pracy, jeżeli najpóźniej w roku rozpoczęcia 
-zajęć przewidzianych programem osoba objęta wsparciem OHP ukończy 14 lat; 
-2) uczęszczającą do szkół podstawowych dla dorosłych, jeżeli najpóźniej w roku rozpoczęcia zajęć przewidzianych pro-
-gramem osoba objęta wsparciem OHP ukończy 15 lat oraz ma opóźnienie w cyklu kształcenia lub nie rokuje ukończenia 
-szkoły podstawowej kształcącej dzieci i młodzież albo ma uwarunkowania psychofizyczne lub trudną sytuację życiową – 
-ograniczającą możliwość nauki w szkole podstawowej kształcącej dzieci i młodzież; 
-3) realizującą przygotowanie zawodowe młodocianych pracowników u pracodawców; 
-4) spełniającą obowiązek nauki przez uczęszczanie na kwalifikacyjne kursy zawodowe. 
-10. OHP mogą udzielić pomocy osobie, która przez okres co najmniej ostatnich 12  miesięcy przed ukończeniem 
-18. roku życia była objęta wsparciem opiekuńczo-wychowawczym OHP i nie uzyskała kwalifikacji zawodowych. W takim 
-przypadku OHP mogą udzielić pomocy w  formie pośrednictwa pracy i  poradnictwa zawodowego do ukończenia 30. roku 
-życia przez osobę objętą wsparciem oraz mogą zaproponować jej udział w szkoleniach, kwalifikacyjnych kursach zawodo-
-wych lub innych pozaszkolnych formach uzyskiwania wiedzy lub umiejętności w  celu zdobycia kwalifikacji zawodowych 
-lub zatrudnienia. 
-11. OHP w porozumieniu z osobą, o której mowa w ust. 10, mogą skierować ją do PUP, który w  uzgodnieniu z OHP 
-po zarejestrowaniu takiej osoby jako bezrobotnego kieruje ją do odpowiedniej formy pomocy. 
-12. Ośrodki szkolenia zawodowego OHP, centra kształcenia i  wychowania OHP oraz jednostki organizacyjne  OHP 
-podległe wojewódzkim komendantom OHP zapewniające uczestnikom dostęp do Internetu podejmują działania zabezpie-
-czające uczestników przed dostępem do treści, które mogą stanowić zagrożenie dla ich prawidłowego rozwoju, w szczegól-
-ności instalują i aktualizują oprogramowanie zabezpieczające. 
-13. Do ośrodków szkolenia zawodowego OHP, centrów kształcenia i wychowania OHP oraz jednostek organizacyjnych 
-OHP podległych wojewódzkim komendantom OHP przepisy ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci 
-Edukacyjnej (Dz. U. z 2024 r. poz. 1768) stosuje się odpowiednio, z  tym że przewidziane w  tych przepisach kompetencje 
-organu prowadzącego szkołę przysługują odpowiednio wojewódzkim komendantom OHP i Komendantowi Głównemu OHP. 
-Art. 343. 1. OHP, realizując działania na rzecz młodzieży, współpracują w szczególności: 
-1) ze szkołami i placówkami systemu oświaty, organami prowadzącymi szkoły i  kuratorami oświaty, publicznymi służ-
-bami zatrudnienia, jednostkami organizacyjnymi pomocy społecznej, związkami wyznaniowymi, jednostkami organi-
-zacyjnymi wspierania rodziny i  systemu pieczy zastępczej, kuratorami sądowymi, wymiarem sprawiedliwości, jed-
-nostkami samorządu terytorialnego oraz administracją rządową; 
-2) z pracodawcami i organizacjami pracodawców, organizacjami pozarządowymi oraz środowiskami lokalnymi zaangażo-
-wanymi w pracę z młodzieżą. 
-2. Podmioty, o których mowa w ust. 1 pkt 1, współpracują ze sobą w zakresie realizacji działań przez OHP. 
-Art. 344. 1. OHP wykonują swoje działania ustawowe pod zwierzchnictwem i nadzorem Komendanta Głównego OHP 
-przy pomocy Komendy Głównej OHP. 
-2. Komendant Główny OHP jest zwierzchnikiem i nadzoruje wojewódzkich komendantów OHP, dyrektorów centrów 
-kształcenia i wychowania OHP oraz dyrektorów ośrodków szkolenia zawodowego OHP. Komendant Główny OHP sprawuje 
-zwierzchnictwo oraz nadzór nad OHP. 
+– 148 –
 
-  
-Dziennik Ustaw – 146 – Poz. 620 
- 
- 
-3. Komendantowi Głównemu OHP podlegają: 
-1) wojewódzkie komendy OHP odpowiadające za realizację zadań OHP na terenie województwa; 
-2) centra kształcenia i wychowania OHP odpowiadające za kształcenie młodzieży o charakterze ponadwojewódzkim; 
-3) ośrodki szkolenia zawodowego OHP odpowiadające za organizację i prowadzenie szkoleń zawodowych o charakterze 
-ponadwojewódzkim. 
-4. Stanowisko Komendanta Głównego OHP może zajmować osoba: 
-1) korzystająca z pełni praw publicznych; 
-2) która nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe; 
-3) wobec której nie orzeczono prawomocnie zakazu, o  którym mowa w  art. 39 pkt 2 lub 2aa ustawy z  dnia 6 czerwca 
-1997 r. – Kodeks karny, lub zakazu pełnienia funkcji związanych z dysponowaniem środkami publicznymi. 
-5. Komendanta Głównego OHP powołuje i odwołuje minister właściwy do spraw pracy. 
-6. Komendant Główny OHP powołuje i odwołuje: 
-1) zastępców Komendanta Głównego OHP; 
-2) wojewódzkich komendantów OHP i ich zastępców; 
-3) dyrektorów centrów kształcenia i wychowania OHP; 
-4) dyrektorów ośrodków szkolenia zawodowego OHP. 
-7. Do osób, o których mowa w ust. 6, przepis ust. 4 stosuje się. 
-8. Do Komendanta Głównego OHP oraz osób wymienionych w ust. 6 przepisy art. 4, art. 5 ust. 1 pkt 2, art. 10 ust. 1 i 3 
-oraz art. 14 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące 
-funkcje publiczne (Dz. U. z 2025 r. poz. 499) stosuje się odpowiednio, z tym że oświadczenie majątkowe: 
-1) Komendant Główny OHP – składa ministrowi właściwemu do spraw pracy; 
-2) zastępcy Komendanta Głównego OHP, wojewódzcy komendanci OHP oraz ich zastę pcy, dyrektorzy centrów kształ-
-cenia i wychowania OHP oraz dyrektorzy ośrodków szkolenia zawodowego OHP – składają Komendantowi Głów-
-nemu OHP. 
-9. W przypadku, o którym mowa w ust. 6, Komendant Główny OHP pozyskuje nieodpłatnie dane z Krajowego Rejestru 
-Karnego w celu stwierdzenia okoliczności, o których mowa w ust. 4 pkt 2. 
-10. Komendant Główny OHP za uprzednią zgodą ministra właściwego do spraw pracy tworzy, łączy i likwiduje jednostki, 
-o których mowa w ust. 3. 
-11. Komendant Główny OHP może wydawać akty o charakterze wewnętrznym obejmujące funkcjonowanie Komendy 
-Głównej OHP oraz innych jednostek OHP. 
-Art. 345. 1. Czynności w sprawach z zakresu prawa pracy w stosunku do: 
-1) pracowników Komendy Głównej OHP – dokonuje Komendant Główny OHP; 
-2) wojewódzkich komendantów OHP i ich zastępców, dyrektorów centrów kształcenia i wychowania OHP oraz dyrekto-
-rów ośrodków szkolenia zawodowego OHP – dokonuje Komendant Główny OHP; 
-3) pracowników wojewódzkiej komendy OHP – dokonuje wojewódzki komendant OHP; 
-4) pracowników centrum kształcenia i wychowania OHP – dokonuje dyrektor centrum kształcenia i wychowania OHP; 
-5) pracowników ośrodka szkolenia zawodowego OHP – dokonuje dyrektor ośrodka szkolenia zawodowego OHP. 
-2. Pracodawcą dla pracowników Komendy Głównej OHP jest Komenda Główna OHP. 
-3. Pracownik OHP podczas pełnienia obowiązków służbowych lub w  związku z ich pełnieniem korzysta z  ochrony 
-przewidzianej dla  funkcjonariuszy publicznych na zasadach określonych w  ustawie z  dnia 6  czerwca 1997  r. – Kodeks 
-karny. 
+Poz. 620
 
-  
-Dziennik Ustaw – 147 – Poz. 620
+Art. 348. 1. OHP mogą dokonywać z Funduszu Pracy refundacji kosztów poniesionych przez pracodawcę na wynagrodzenia i składki na ubezpieczenia społeczne młodocianych pracowników zatrudnionych na podstawie umowy o pracę w celu przygotowania zawodowego z uwzględnieniem wykazu zawodów, o którym mowa w art. 32 ust. 1 pkt 23, do wysokości najniższych stawek określonych w przepisach wydanych na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, obowiązujących w okresie, za który jest dokonywana refundacja na podstawie umowy zawartej z pracodawcą.
+2. Refundacji, o której mowa w ust. 1, za młodocianych pracowników zatrudnionych w OHP dokonują wojewódzkie komendy OHP. Informacja o dokonanych refundacjach udzielana jest zgodnie z art. 347 ust. 4.
+3. Refundacja, o której mowa w ust. 1, udzielana podmiotowi prowadzącemu działalność gospodarczą w rozumieniu art. 2 pkt 17 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, stanowi pomoc udzielaną zgodnie z warunkami dopuszczalności pomocy de minimis.
+4. Komendant Główny OHP lub wojewódzki komendant OHP mogą prowadzić kontrole realizacji umów o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń zawartych z pracodawcami w miejscu odbywania przygotowania zawodowego przez młodocianych pracowników lub w siedzibie podmiotu działającego w imieniu pracodawcy w zakresie rozliczania tych umów.
+5. Do kontroli, o której mowa w ust. 4, przepisy rozdziałów 1–4 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224) stosuje się odpowiednio.
+6. Wniosek o zawarcie umowy o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń złożony przez pracodawcę, który nie realizuje zaleceń pokontrolnych Komendanta Głównego OHP lub wojewódzkiego komendanta OHP, pozostawia się bez rozpoznania.
+7. W przypadku przeprowadzenia kontroli, o której mowa w ust. 4, przez wojewódzkiego komendanta OHP, przekazuje on Komendantowi Głównemu OHP w terminie do dnia 31 stycznia informację o realizacji w roku poprzednim kontroli, o której mowa w ust. 4, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą.
+8. Komendant Główny OHP przekazuje ministrowi właściwemu do spraw pracy w terminie do dnia 28 lutego informację o realizacji w roku poprzednim kontroli, o których mowa w ust. 4, wraz z wynikami i oceną, zawierającą w szczególności ocenę poprawności merytorycznej i formalnej zadań objętych nadzorem lub kontrolą.
+Art. 349. 1. Pracodawca zatrudniający młodocianych pracowników może wystąpić z wnioskiem o zawarcie umowy o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń, zwanym dalej „wnioskiem o zawarcie umowy o refundację”, jeżeli spełnia łącznie następujące warunki:
+1) zatrudnia młodocianych pracowników w zawodach określonych w wykazie zawodów, o którym mowa w art. 32 ust. 1 pkt 23;
+2) posiada kwalifikacje instruktora praktycznej nauki zawodu określone w przepisach wydanych na podstawie art. 120 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe lub osoba prowadząca zakład pracy w imieniu pracodawcy, lub osoba zatrudniona u pracodawcy posiada te kwalifikacje.
+2. Pracodawca zatrudniający wyłącznie młodocianych pracowników może wystąpić z wnioskiem o zawarcie umowy o refundację dotyczącym maksymalnie 3 młodocianych pracowników, a pracodawca zatrudniający także pracowników niebędących młodocianymi pracownikami może wystąpić z wnioskiem o zawarcie umowy o refundację dotyczącym młodocianych pracowników w liczbie nieprzekraczającej trzykrotnej liczby zatrudnionych w przeliczeniu na pełny wymiar czasu pracy na czas nieokreślony niebędących młodocianymi pracownikami.
+3. Liczba młodocianych pracowników, o której mowa w ust. 2, może być zwiększona do maksymalnie 3 młodocianych pracowników przypadających na jednego instruktora praktycznej nauki zawodu.
+4. Właściwa wojewódzka komenda OHP rozpatruje wnioski o zawarcie umowy o refundację zgodnie z kolejnością ich wpływu, do wyczerpania limitów środków Funduszu Pracy określonych w planie finansowym Funduszu Pracy na dany rok, i w terminie 30 dni od dnia wpływu kompletnego wniosku o zawarcie umowy o refundację zawiadamia pracodawcę o sposobie jego rozpatrzenia.
+5. W przypadku pozytywnego rozpatrzenia wniosku o zawarcie umowy o refundację wojewódzka komenda OHP zawiera z pracodawcą umowę o refundację wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń.
+6. Za okres powtarzania roku nauki przez młodocianego pracownika nie przysługuje refundacja, o której mowa w art. 348 ust. 1.
+
+Dziennik Ustaw
+
+– 149 –
+
+Poz. 620
+
+7. Pracodawca może wystąpić z wnioskiem o zawarcie umowy o refundację pod warunkiem zadeklarowania zatrudnienia na podstawie umowy o pracę przez okres co najmniej 6 miesięcy po zakończeniu przygotowania zawodowego każdego młodocianego pracownika, którego dotyczy wniosek o zawarcie umowy o refundację.
+8. OHP pozostawia bez rozpoznania złożony przez pracodawcę wniosek o zawarcie umowy o refundację, jeżeli pracodawca w okresie 24 miesięcy poprzedzających dzień złożenia tego wniosku, z przyczyn dotyczących zakładu pracy nie wywiązał się z deklaracji 6-miesięcznego zatrudnienia co najmniej 50 % młodocianych pracowników, którzy ukończyli w tym czasie przygotowanie zawodowe. Zatrudnienie co najmniej 50 % młodocianych pracowników, którzy ukończyli w tym czasie przygotowanie zawodowe, jest weryfikowane przez złożenie oświadczenia pracodawcy o zatrudnieniu młodocianych pracowników po zakończeniu przygotowania zawodowego przez okres co najmniej 6 miesięcy w okresie 24 miesięcy poprzedzających dzień złożenia tego wniosku.
+9. Pracodawca, o którym mowa w ust. 8, może wystąpić z kolejnym wnioskiem o zawarcie umowy o refundację po upływie 12 miesięcy, licząc od dnia złożenia wniosku, o którym mowa w ust. 8.
+10. W przypadku gdy pracodawcą dla młodocianych pracowników zatrudnianych w celu przygotowania zawodowego są OHP, składają one wniosek o przyznanie refundacji. Przepisów ust. 2–5 oraz 7–9 nie stosuje się.
+Art. 350. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki i tryb refundowania pracodawcom ze środków Funduszu Pracy wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń, w szczególności:
+1) elementy wniosku o zawarcie umowy o refundację oraz rodzaje dołączanych do niego informacji,
+2) terminy składania wniosku,
+3) elementy opinii do wniosku złożonego przez pracodawcę o zawarcie umowy o refundację,
+4) elementy wniosku OHP o przyznanie refundacji,
+5) elementy umowy o refundację,
+6) elementy wniosku o zwrot poniesionych kosztów przez pracodawcę
+– mając na względzie zapewnienie młodocianym pracownikom właściwych warunków odbywania przygotowania zawodowego i konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
