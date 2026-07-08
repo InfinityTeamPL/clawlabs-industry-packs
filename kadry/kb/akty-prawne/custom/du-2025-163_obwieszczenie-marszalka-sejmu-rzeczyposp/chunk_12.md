@@ -1,0 +1,89 @@
+---
+act_eli: DU/2025/163
+chunk: 12/81
+title_short: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn"
+version_date: latest
+---
+
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn — chunk 12/81
+
+Art. 20. 1. Za przychody z  innych źródeł, o  których mowa w art. 10 ust. 1 pkt 9, uważa się w  szczególności: kwoty  
+wypłacone po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub członkowi  jego najbliż-
+szej rodziny, w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, kwoty uzyskane z tytułu zwrotu 
+z indywidualnego konta zabezpieczenia emerytalnego oraz wypłaty z  indywidualnego konta zabezpieczenia emerytalnego, 
+w tym także dokonane na rzecz osoby uprawnionej na wypadek śmierci  oszczędzającego, zasiłki pieniężne z ubezpieczenia 
+społecznego, alimenty, stypendia, świadczenia otrzymane z tytułu umowy o pomocy przy zbiorach, dotacje (subwencje) inne 
+niż wymienione w art. 14, dopłaty, nagrody i inne nieodpłatne świadczenia nienależące do przychodów określonych w art. 12–14 
+i art. 17. 
+1a. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również należne, choćby nie zostały 
+faktycznie otrzymane, przychody z działalności wytwórczej w rolnictwie w zakresie wyrobu wina przez producentów wina 
+w rozumieniu art. 2 pkt 23 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2023 r. poz. 550) będących rol-
+nikami wyrabiających mniej niż 100  hektolitrów wina w  ciągu roku podatkowego wyłącznie z winogron pochodzących 
+z upraw własnych winorośli. U  podatników opodatkowanych podatkiem od towarów i usług za przychód z  tej sprzedaży 
+uważa się przychód pomniejszony o należny podatek od towarów i usług. 
+1b. Za przychody z  innych źródeł, o  których mowa w art. 10 ust. 1 pkt 9, uważa się także przychody nieznajdujące  
+pokrycia w ujawnionych źródłach lub pochodzące ze źródeł nieujawnionych. 
+1ba. Za przychody  z innych źródeł,  o których mowa  w art. 10 ust. 1 pkt 9, uważa się również przychody osiągane  
+z działalności, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców. 
+
+  
+Dziennik Ustaw – 31 – Poz. 163 
+ 
+1bb. W razie przekroczenia limitu przychodu należnego określonego  w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – 
+Prawo przedsiębiorców uznaje się, że podatnik, poczynając od dnia złożenia wniosku o wpis do Centralnej Ewidencji i Informacji 
+o Działalności Gospodarczej, a jeżeli wniosek nie został złożony w terminie określonym w art. 5 ust. 4 ustawy z dnia 6 marca 
+2018 r. – Prawo przedsiębiorców – poczynając od dnia następującego po dniu, w którym nastąpił bezskuteczny upływ tego 
+terminu, uzyskuje przychody, o których mowa w art. 10 ust. 1 pkt 3.  
+1bc. Przychody osiągnięte  w okresie od dnia,  w którym przekroczono limit określony  w art. 5 ust. 1 ustawy z dnia 
+6 marca 2018 r. – Prawo przedsiębiorców, do dnia poprzedzającego dzień złożenia wniosku o wpis do Centralnej Ewidencji 
+i Informacji o Działalności Gospodarczej, a jeżeli wniosek nie został złożony w terminie określonym w art. 5 ust. 4 ustawy 
+z dnia 6 marca 2018 r. – Prawo przedsiębiorców – do dnia, w którym nastąpił bezskuteczny upływ tego terminu, zalicza się 
+do przychodów, o których mowa w ust. 1ba. 
+1c. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody ze sprzedaży 
+przetworzonych w sposób inny niż przemysłowy produktów roślinnych i zwierzęcych, z wyjątkiem przetworzonych produk-
+tów roślinnych i zwierzęcych uzyskanych w  ramach prowadzonych działów specjalnych produkcji rolnej oraz produktów 
+opodatkowanych podatkiem akcyzowym na podstawie odrębnych przepisów, jeże li: 
+1) (uchylony) 
+2) przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie 
+umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt 
+rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, 
+wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów i  kiermaszy; 
+3) (uchylony) 
+4) jest prowadzona ewidencja sprzedaży, o której mowa w ust. 1e; 
+5) ilość produktów roślinnych lub zwierzęcych pochodzących z własnej uprawy, hodowli lub chowu, użytych do produk-
+cji danego produktu stanowi co najmniej 50 % tego produktu, z wyłączeniem wody. 
+1d. Za produkt roślinny pochodzący z własnej uprawy uważa się również mąkę, kaszę, płatki, otręby, oleje i soki wytwo-
+rzone z surowców pochodzących z własnej uprawy. 
+1e. Podatnicy osiągający przychody, o  których mowa  w ust. 1c, są obowiązani prowadzić odrębnie za każdy rok 
+podatkowy ewidencję sprzedaży produktów roślinnych i zwierzęcych zawierającą co najmniej: numer kolejnego wpisu, datę 
+uzyskania przychodu, kwotę przychodu, przychód narastająco od początku roku oraz ilość i  rodzaj przetworzonych 
+produktów. Dzienne przychody są ewidencjonowane w dniu sprzedaży. 
+1ea. (uchylony) 
+1f. Ewidencję sprzedaży, o  której mowa w ust. 1e, należy posiadać w  miejscu sprzedaży przetworzonych produktów 
+roślinnych i zwierzęcych. 
+1g. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody z tytułu otrzy-
+mania lub postawienia do dyspozycji świadczenia, o  którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fun-
+dacji rodzinnej, oraz mienia w  związku z rozwiązaniem fundacji rodzinnej. Jeżeli przedmiotem tego świadczenia lub  tym 
+mieniem nie są pieniądze lub wartości pieniężne, przychód powstaje w ostatnim dniu miesiąca, w którym podatnik otrzymał 
+takie świadczenie lub mienie, a  w przypadku świadczenia lub mienia przysługującego za okres dłuższy niż miesiąc, przy-
+chód powstaje w ostatnim dniu każdego miesiąca, za który takie świadczenie lub mienie przysługuje.  
+1h. Za przychody z  innych źródeł, o  których mowa w  art. 10 ust. 1 pkt 9, uważa się również przychody z  tytułu gro-
+madzenia oszczędności na: 
+1) subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE, 
+2) subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi 
+na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej  
+– otrzymane przez beneficjenta OIPE w  rozumieniu art. 2 pkt 6 rozporządzenia 2019/1238, w  tym również osobę upraw-
+nioną do otrzymania środków zgromadzonych na tych subkontach po śmierci oszczędzającego w  rozumieniu art. 2 pkt 7 
+ustawy o OIPE. 
+2. Za zasiłki pieniężne z ubezpieczenia społecznego, o  których mowa w ust. 1, uważa się kwoty wypłacanych przez 
+zakład pracy lub organ rentowy zasiłków chorobowych, wyrównawczych, macierzyńskich, opiekuńczych oraz świadczeń 
+rehabilitacyjnych. 
+
+  
+Dziennik Ustaw – 32 – Poz. 163 
+ 
+3. (uchylony) 
+4. (uchylony) 
+Art. 20a. (uchylony) 
+Rozdział 3 
+Zwolnienia przedmiotowe

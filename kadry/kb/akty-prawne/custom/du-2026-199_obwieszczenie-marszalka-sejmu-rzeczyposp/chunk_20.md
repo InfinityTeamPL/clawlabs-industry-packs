@@ -1,0 +1,67 @@
+---
+act_eli: DU/2026/199
+chunk: 20/36
+title_short: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn"
+version_date: latest
+---
+
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn — chunk 20/36
+
+Art. 46. 1. Płatnik składek jest obowiązany według zasad wynikających z przepisów ustawy obliczać, potrącać z docho-
+dów ubezpieczonych, rozliczać oraz opłacać należne składki za każdy miesiąc kalendarzowy. 
+2. Rozliczenie składek, o  których mowa w ust. 1, oraz wypłaconych przez płatnika w  tym samym miesiącu zasiłków 
+oraz zasiłków rodzinnych i  pielęgnacyjnych podlegających rozliczeniu na poczet składek następu je w deklaracji rozlicze-
+niowej według ustalonego wzoru. Nie podlegają rozliczeniu w  deklaracji rozliczeniowej zasiłki wypłacone przez płatnika 
+bezpodstawnie. 
+3. Deklarację rozliczeniową o raz imienne raporty miesięczne  płatnik składek przekazuje bezpośredni o do wskazanej 
+przez Zakład jednostki organizacyjnej, z zastrzeżeniem art. 48d. 
+4. Deklaracja rozliczeniowa zawiera: 
+1) dane identyfikacyjne płatnika składek, a w szczególności dane, o których mowa w art. 35 ust. 1 pkt 2, nazwę skróconą 
+firmy, a w przypadku płatników składek – osób fizycznych – nazwisko i imię; 
+2) informacje o liczbie ubezpieczonych; 
+2a) informacje o uprawnieniu płatnika składek do wypłaty zasiłków; 
+3) zestawienie należnych składek na poszczególne rodzaje ubezpieczeń społecznych , z  uwzględnieniem podziału na 
+składki finansowane przez ubezpieczonego i  przez płatnika oraz budżet państwa i  Państwowy Fundusz Rehabilitacji 
+Osób Niepełnosprawnych; 
+3a) informacje o zastosowanych formach opodatkowania w poprzednim roku kalendarzowym, kwotę rocznego przychodu 
+z pozarolniczej działalności gospodarczej i rocznego dochodu z tej działalności, uzyskanych w poprzednim roku kalen-
+darzowym, w tym kwotę przychodu i dochodu uzyskanych w okresie obowiązywania danej formy opodatkowania, oraz 
+kwotę podstawy wymiaru składek na ubezpieczenia emerytalne i  rentowe ustaloną na dany rok kalendarzowy w przy-
+padku, o którym mowa w art. 18c ust. 9 pkt 2; 
+3b) informacje o obowiązujących w danym miesiącu formach opodatkowania; 
+3c) informacje o przychodach lub dochodach; 
+3d) informację o zmianie formy opodatkowania; 
+4) kwoty wypłaconych zasiłków oraz zasiłków finansowanych z  budżetu państwa, podlegających rozliczeniu w  ciężar 
+składek na ubezpieczenia społeczne oraz kwoty wynagrodzeń z tytułu niezdolności do pracy; 
+5) kwoty przysługujących płatnikowi wynagrodzeń w myśl art. 3 ust. 2; 
+6) zestawienie należnych składek na: 
+a) ubezpieczenie zdrowotne uwzględniając podział na podmioty, które finansują składki, 
+b) Fundusz Pracy, Fundusz Solidarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych; 
+6a) sumę należnych składek na Fundusz Emerytur Pomostowych; 
+6aa) informację o  kwocie różnicy między roczną składką na ubezpieczenie zdrowotne a  sumą składek na ubezpieczenie 
+zdrowotne za poszczególne miesiące roku kalendarzowego albo roku składkowego, o  którym mowa w art. 81 ust. 2 
+ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; 
+6ab) informację o kwocie należnego podatku dochodowego od osób fizycznych za dany rok kalendarzowy, w  przypadku 
+ubezpieczonych, o których mowa w art. 82 ust. 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowot-
+nej finansowanych ze środków publicznych; 
+6b) liczbę pracowników, za których jest opłacana składka na Fundusz Emerytur Pomostowych;  
+6c) liczbę stanowisk pracy w szczególnych warunkach lub o szczególnym charakterze; 
+7) zestawienie zbiorcze i wynikowe należnych składek i składek na ubezpieczenie zdrowotne oraz kwot do zapłaty; 
+8) dla osób, które w całości opłacają składki na ubezpieczenia z  własnych środków – tytuł ubezpieczenia, podstawę wy-
+miaru i ewentualne pomniejszenia wynikające z art. 19 ust. 1; 
+9) oświadczenie płatnika składek, że dane zawarte w deklaracji są zgodne ze stanem faktycznym, potwierdzone podpisem 
+płatnika składek lub osoby przez niego upoważnionej albo podpisem elektronicznym.  
+
+  
+Dziennik Ustaw – 54 – Poz. 199 
+ 
+5. Płatnicy składek zobowiązani do wykazywania w  dokumentach ubezpieczeniowych zasiłków oraz finansowanych 
+z budżetu państwa zasiłków i innych świadczeń, podlegających rozliczeniu w ciężar składek lub wynagrodzeń z tytułu nie-
+zdolności do pracy, przekazują do Zakładu: 
+1) w terminie do dnia 28  lutego 2001 r. informację zawierającą dane identyfikacyjne oraz dane o  tych zasiłkach, świad-
+czeniach lub wynagrodzeniach wypłaconych w okresie od dnia 1 grudnia 1999 r. do dnia 30 listopada 2000 r.; 
+2) w terminie do dnia 31 stycznia 2002 r. informację zawierającą dane identyfikacyjne oraz dane o tych zasiłkach, świad-
+czeniach lub wynagrodzeniach wypłaconych w okresie od dnia 1 grudnia 2000 r. do dnia 30 listopada 2001 r. 
+6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór informacji, o której 
+mowa w ust. 5, oraz sposób jej sporządzenia, przekazywania, a  także korygowania, kierując się potrzebą zapewnienia 
+prawidłowości i kompletności danych gromadzonych na kontach płatników składek i kontach ubezpieczonych.

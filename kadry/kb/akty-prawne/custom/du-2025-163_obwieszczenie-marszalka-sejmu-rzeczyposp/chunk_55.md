@@ -1,0 +1,111 @@
+---
+act_eli: DU/2025/163
+chunk: 55/81
+title_short: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn"
+version_date: latest
+---
+
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn — chunk 55/81
+
+Art. 30ca. 1. Podatek od osiągniętego przez podatnika w  ramach pozarolniczej działalności gospodarczej kwalifiko-
+wanego dochodu z kwalifikowanych praw własności intelektualnej wynosi 5 % podstawy opodatkowania. 
+2. Kwalifikowanymi prawami własności intelektualnej są: 
+1) patent, 
+2) prawo ochronne na wzór użytkowy, 
+ 
+40) W brzmieniu ustalonym  przez art. 1 pkt 7 ustawy, o której mowa w odnośniku  2; stosuje się do dochodów uzyskanych po dniu 
+31 grudnia 2024 r. na podstawie art. 6 ust. 3 ustawy, o której mowa w odnośniku 2. 
+
+  
+Dziennik Ustaw – 146 – Poz. 163 
+ 
+3) prawo z rejestracji wzoru przemysłowego, 
+4) prawo z rejestracji topografii układu scalonego, 
+5) dodatkowe prawo ochronne dla patentu na produkt leczniczy lub produkt ochrony roślin, 
+6) prawo z rejestracji produktu leczniczego i produktu leczniczego weterynaryjnego dopuszczonych do obrotu, 
+7) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. 
+poz. 213), 
+8) autorskie prawo do programu komputerowego 
+– podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych, 
+których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, 
+których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w  ramach prowadzonej przez 
+niego działalności badawczo-rozwojowej. 
+3. Podstawę opodatkowania stanowi suma kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej 
+osiągniętych w roku podatkowym. 
+4. Wysokość kwalifikowanego dochodu z  kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn 
+dochodu z  kwalifikowanego prawa własności intelekt ualnej osiągniętego w  roku podatkowym i  wskaźnika obliczonego 
+według wzoru: 
+(a + b) ∗ 1,3
+a + b + c + d 
+w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na:  
+a  – prowadzoną bezpośrednio przez podatnika działalnoś ć badawczo-rozwojową związaną z kwalifikowanym 
+prawem własności intelektualnej, 
+b  – nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, 
+innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, 
+c  – nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, 
+innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, 
+d  – nabycie przez podatnika kwalifikowanego prawa własności intelektualnej. 
+5. Do kosztów, o których mowa w ust. 4, nie zalicza się kosztów, które nie są bezpośrednio związane  z kwalifikowa-
+nym prawem własności intelektualnej, w  szczególności odsetek, opłat finans owych oraz kosztów zw iązanych z nierucho-
+mościami. 
+6. W przypadku gdy wartość wskaźnika, o  którym mowa  w ust. 4, jest większa od 1, przyjmuje się, że wartość ta 
+wynosi 1. 
+7. Dochodem (stratą) z kwalifikowanego prawa własności intelektualnej jest obliczony zgodnie  z art. 9 ust. 2 dochód 
+(strata) z pozarolniczej działalności gospodarczej w zakresie, w jakim został osiągnięty: 
+1) z opłat lub należności wynikających z umowy licencyjnej, która dotyczy kwalifikowanego prawa własności intelektualnej; 
+2) ze sprzedaży kwalifikowanego prawa własności intelektualnej; 
+3) z kwalifikowanego prawa własności intelektualnej uwzględnionego w cenie sprzedaży produktu lub usługi; 
+4) z odszkodowania za naruszenie praw wynikających z  kwalifikowanego prawa własności intelektualnej, jeżeli zostało 
+uzyskane w postępowaniu spornym, w tym postępowaniu sądowym albo arbitrażu. 
+8. Do ustalenia dochodów (strat), o których mowa w ust. 7 pkt 3, przepisy art. 23o i art. 23p stosuje się odpowiednio. 
+9. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności 
+intelektualnej, podatnik może obliczyć kwalifikowany dochód z  kwalifikowanego prawa własności intelektualnej zgodnie  
+z ust. 4–6 dla tego samego rodzaju produktu lub usługi lub dla tej samej grupy produktów lub usług, w  których zostało 
+wykorzystane kwalifikowane prawo własności intelektualnej. 
+9a. Od dochodu z  kwalifikowanego prawa własności intelektualnej podatnik może odliczyć koszty kwalifikowane 
+określone w art. 26e ust. 2–3b, które doprowadziły do wytworzenia, rozwinięcia lub ulepszenia przez podatnika tego prawa, 
+przy czym przepisy art. 26e ust. 1 zdanie drugie i ust. 3c–10 stosuje się odpowiednio. 
+
+  
+Dziennik Ustaw – 147 – Poz. 163 
+ 
+10. O wysokość straty z  kwalifikowanych praw własności intelektualnej poniesi onej w roku podatkowym obniża się 
+dochód osiągnięty w  najbliższych kolejno następujących po sobie 5  latach podatkowych z  tego samego kwalifikowanego 
+prawa własności intelektualnej, tego samego rodzaju produktu lub usługi lub tej samej grupy produktów lub usług, w których 
+zostało wykorzystane kwalifikowane prawo własności intelektualnej. 
+11. Podatnicy korzystający z opodatkowania zgodnie z ust. 1 są obowiązani do wykazania dochodu (straty) z kwalifiko-
+wanego prawa własności intelektualnej w zeznaniu za rok podatkowy, w którym osiągnięto ten dochód (poniesiono stratę). 
+12. Przepisy ust. 1–11 stosuje się odpowiednio do ekspektatywy uzyskania kwalifikowanego prawa własności intelek-
+tualnej w związku ze zgłoszeniem lub złożeniem wniosku o  uzyskanie takiego prawa oc hronnego do właściwego organu, 
+od dnia zgłoszenia lub złożenia wniosku. 
+13. W przypadku wycofania zgłoszenia lub wniosku, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia 
+lub odrzucenia wniosku o  rejestrację podatnik jest obowiązany opodatkować zg odnie z art. 27 lub art. 30c kwalifikowane 
+dochody z  prawa własności intelektualnej uzyskane w  okresie od dnia zgłoszenia lub złożenia wnios ku, o którym mowa 
+w ust. 12, do dnia wycofania wniosku lub zgłoszenia, odmowy udzielenia prawa ochronnego, odrzucen ia zgłoszenia lub 
+odrzucenia wniosku o rejestrację. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się podatek 
+zapłacony na podstawie ust. 1. 
+14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa włas-
+ności intelektualnej przysługującej podatnikowi na podstawie umowy, w  której zastrzeżono wyłączność korzystania przez 
+podatnika z tego prawa, pod warunkiem upr zedniego prowadzenia przez podatnika prac badawczo -rozwojowych, których 
+efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji.  
+Art. 30cb. 1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani: 
+1) wyodrębnić każde kwalifikowane prawo własności intelektualnej w prowadzonych księgach rachunkowych; 
+2) prowadzić księgi rachunkowe w sposób zapewniający ustalenie przychodów, kosztów uzyskania przychodów i dochodu 
+(straty), przypadających na każde kwalifikowane prawo własności intelektualnej; 
+3) wyodrębnić koszty, o  których mowa w art. 30ca ust. 4, przypadające na każde kwalifikowane prawo własności inte-
+lektualnej, w sposób zapewniający określenie kwalifikowanego dochodu; 
+4) dokonywać zapisów w  prowadzonych księgach rachunkowych w  sposób zapewniający ustalenie łącznego dochodu 
+z kwalifikowanych praw własności intelektualnej – w przypadku gdy podatnik wykorzystuje więcej niż jedno kwalifiko-
+wane prawo własności intelektualnej, a  w prowadzonych księgach rachun kowych nie jest możliwe spełnienie warun-
+ków, o których mowa w pkt 2 i 3; 
+5) dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie dochodu z kwalifiko-
+wanych praw własności intelektualnej w  odniesieniu do tego produktu lub t ej usługi albo do tych produktów lub tych 
+usług – w przypadku gdy podatnik wykorzystuje jedno kwalifikowane prawo własności intelektualnej lub większą liczbę 
+tych praw w  produkcie lub usłudze albo w  produktach lub usługach, a  w prowadzonych księgach rachun kowych nie 
+jest możliwe spełnienie warunków, o których mowa w pkt 2–4. 
+2. Podatnicy prowadzący podatkową księgę przychodów i rozchodów wykazują informacje, o których mowa w ust. 1, 
+w odrębnej ewidencji. 
+3. W przypadku gdy na podstawie ksiąg rachunkowych lub ewidencji, o której mowa w ust. 2, nie jest możliwe ustale-
+nie dochodu (straty) z kwalifikowanych praw własności intelektualnej, podatnik jest obowiązany do zapłaty podatku zgodnie 
+z art. 27 lub art. 30c. 
+Art. 30d. (uchylony)

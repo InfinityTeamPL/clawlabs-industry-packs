@@ -1,0 +1,108 @@
+---
+act_eli: DU/2025/163
+chunk: 52/81
+title_short: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn"
+version_date: latest
+---
+
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn — chunk 52/81
+
+Art. 30. 1. Od dochodów (przychodów) pobiera się zryczałtowany podatek dochodowy:  
+1) (uchylony) 
+1a) (uchylony) 
+1b) (uchylony) 
+1c) (uchylony) 
+2) z tytułu wygranych w  konkursach, grach i  zakładach wzajemnych lub nagród związanych ze sprzedażą premiową, 
+uzyskanych w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru 
+Gospodarczego – w wysokości 10 % wygranej lub nagrody; 
+3) (uchylony) 
+4) z tytułu świadczeń otrzymanych przez emerytów, rencistów lub osoby pobierające nauczycielskie świadczenie kom-
+pensacyjne, w związku z łączącym ich uprzednio z  zakładem pracy stosunkiem służbowym, stosunkiem pracy, pracy 
+nakładczej lub spółdzielczym stosunkiem pracy, w  tym od związków zawodowych, z  zastrzeżeniem art. 21 ust.  1 
+pkt 26 i 38 – w wysokości 10 % należności; 
+4a) z tytułu świadczeń pieniężnych otrzymywanych po zwolnieniu ze służby przez funkcjonariuszy służb mundurowych 
+oraz żołnierzy, w związku ze zwolnieniem tych osób ze służby stałej na podstawie odrębnych ustaw, przez okres roku  
+co miesiąc lub za okres roku jednorazowo albo co miesiąc przez okres trzech miesięcy – w wysokości 20 % należności; 
+4b) z tytułu świadczeń otrzymanych od banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji finanso-
+wych w rozumieniu odrębnych przepisów, w  związku z promocjami oferowanymi przez te podmioty – w wysokości 
+19 % świadczenia; 
+5) (uchylony) 
+5a) z tytułu, o którym mowa w art. 13 pkt 2 i 5–9, jeżeli kwota należności określona w umowie zawartej z osobą niebędącą 
+pracownikiem płatnika nie przekracza 200 zł – w wysokości 12 % przychodu; 
+6) (uchylony) 
+7) (uchylony) 
+7a) z tytułu gromadzenia oszczędności na więcej niż jednym indywidualnym koncie emerytalnym, w  rozumieniu przepi-
+sów o indywidualnych kontach emerytalnych – w wysokości 75 % uzyskanego dochodu na każdym indywidualnym 
+koncie emerytalnym; 
+7b) z tytułu gromadzenia oszczędności na więc ej niż jednym subkoncie OIPE w  rozumieniu art. 2 pkt 9 ustawy o  OIPE, 
+jeżeli przepisy ustawy o  OIPE nie przewidują takiej możliwości – w wysokości 75 % uzyskanego dochodu z  tytułu 
+gromadzenia oszczędności na każdym subkoncie OIPE; 
+8) (uchylony) 
+9) (uchylony) 
+10) (uchylony) 
+11) (uchylony) 
+12) (uchylony) 
+13) od jednorazowych odszkodowań za skrócenie okresu wypowiedzenia, wypł acanych żołnierzom zwalnianym  z zawo-
+dowej służby wojskowej na podstawie art. 14 ust. 2 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji tech-
+nicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej ( Dz. U. z 2022 r. poz. 161)39) – w wysokości 20 % 
+przychodu; 
+ 
+39) Ustawa utraciła moc z  dniem 23 kwietnia 2022 r. na podstawie art.  823 pkt 9 ustawy z  dnia 11 marca 2022 r. o obronie Ojczyzny 
+(Dz. U. poz. 655), która weszła w życie z dniem 23 kwietnia 2022 r. 
+
+  
+Dziennik Ustaw – 139 – Poz. 163 
+ 
+14) od kwoty wypłat z  indywidualnego konta zabezpieczenia emerytalnego, w  tym wypłat na rzecz osoby uprawnionej 
+na wypadek śmierci oszczędzającego dokonanych na podstawie art. 34a ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. 
+o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. 
+poz. 707) – w wysokości 10 % przychodu; 
+14a) od kwoty świadczeń z  tytułu gromadzenia oszczędności na subkoncie w  rozumieniu art.  2 pkt 23 rozporządzenia 
+2019/1238, prowadzonym z godnie z  przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska 
+państwa członkowskiego Unii Europejskiej – w wysokości 10 % przychodu; 
+15) z tytułu odszkodowań przyznanych na podstawie przepisów o  zakazie konkurencji, jeżeli zobowiązaną d o zapłaty 
+odszkodowania jest spółka, w której Skarb Państwa, jednostka samorządu terytorialnego, związek jednostek samorządu 
+terytorialnego, państwowa osoba prawna lub komunalna osoba prawna dysponują  bezpośrednio lub pośrednio więk -
+szością głosów na zgro madzeniu wspólników albo na walnym zgromadzeniu,  w tym także na podstawie poro zumień 
+z innymi osobami, w  części, w  której wysokość odszkodowania  przekracza wysokość wynagrodzenia otrzymanego 
+przez podatnika z tytułu umowy o pracę lub umowy o świadczenie usług wiążącej go ze spółką w okresie sześciu miesięcy 
+poprzedzających pierwszy miesiąc wypłaty odszkodowania – w wysokości 70 % tej części należnego odszkodowania; 
+16) z tytułu odpraw lub odszkodowań za skrócenie okresu wypowiedzenia umowy o pracę, której przedmiotem są czynności 
+związane z zarządzaniem, lub umowy o świadczenie usług zarządzania, zawartych ze spółką, o której mowa w pkt 15, 
+lub rozwiązania ich przed upływem terminu, na który zostały zawarte, w części, w jakiej wysokość odpraw lub odszko-
+dowań przekracza trzykrotność miesięcznego wynagrodzenia otrzymanego przez podatnika z tytułu zawartej umowy – 
+w wysokości 70 % należnej odprawy lub odszkodowania; 
+17) z tytułu uzyskania przychodów, o których mowa w art. 20 ust. 1g – w wysokości: 
+a) 10 % przychodów uzyskanych przez osobę będącą w  stosunku do fundatora osobą zaliczoną do I  lub II grupy 
+podatkowej w rozumieniu przepisów ustawy z  dnia 28 lipca 1983 r. o podatku od spadków i  darowizn, w części 
+odpowiadającej proporcji, o  której mowa w  art. 27 ust. 4 ustawy z  dnia 26 stycznia 2023 r. o fundacji rodzinnej, 
+według stanu na dzień uzyskania przychodu, 
+b) 15 % przychodów – w zakresie przychodów, które nie podlegają opodatkowaniu na podstawie lit. a. 
+1a. (uchylony) 
+1b. (uchylony) 
+1c. (uchylony) 
+1d. (uchylony) 
+2. (uchylony) 
+3. Zryczałtowany podatek, o którym mowa w ust. 1 pkt 2, 4–4b, 5a oraz 13–17, pobiera się bez pomniejszania przy-
+chodu o koszty uzyskania. 
+3a. Dochodem, o którym mowa w ust. 1 pkt 7a, jest różnica między kwotą stanowiącą wartość środków zgromadzonych 
+na indywidualnym koncie emerytalnym a sumą wpłat na indywidualne konto emerytalne. Dochodu tego nie pomniejsza się 
+o straty z kapitałów pieniężnych i praw majątkowych poniesionych w roku podatkowym oraz w latach poprzednich. 
+3b. Dochodem, o którym mowa w ust. 1 pkt 7b, jest różnica między kwotą stanowiącą wartość środków zgromadzonych 
+na subkoncie OIPE w  rozumieniu art. 2 pkt 9 ustawy o  OIPE a sumą wpłat na to subkonto. Dochodu tego nie pomniejsza 
+się o straty z innych źródeł poniesione w roku podatkowym oraz latach poprzednich. 
+4. (uchylony) 
+5. (uchylony) 
+6. (uchylony) 
+7. (uchylony) 
+8. Dochodów (przychodów), o których mowa w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określo-
+nych w art. 27. 
+9. Przepisy ust. 1 pkt 2, 4‒4b, 5a, 7a , 7b, 14a i 17 stosuje się z uwzględnieniem umów o unikaniu podwójnego opo-
+datkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z umowy o uni-
+kaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warun-
+kiem udokumentowania przez podatnika jego miejsca zamieszkania dla celów podatkowych certyfikatem rezydencji.  
+10. Do przychodów (dochodów) opodatkowanych zryczałtowanym podatkie m, o  którym mowa  w ust. 1, przepisu  
+art. 21 ust. 1 pkt 148 i 152–154 nie stosuje się. 
+
+  
+Dziennik Ustaw – 140 – Poz. 163

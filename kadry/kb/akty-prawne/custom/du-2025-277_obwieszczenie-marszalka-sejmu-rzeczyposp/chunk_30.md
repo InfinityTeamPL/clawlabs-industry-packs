@@ -1,0 +1,29 @@
+---
+act_eli: DU/2025/277
+chunk: 30/30
+title_short: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn"
+version_date: latest
+---
+
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks pracy — chunk 30/30
+
+Art. 3045. § 1. Wykonywanie pracy lub innych zajęć zarobkowych przez dziecko do ukończenia przez nie 16 roku życia jest dozwolone wyłącznie na rzecz podmiotu prowadzącego działalność kulturalną, artystyczną, sportową lub reklamową i wymaga uprzedniej zgody przedstawiciela ustawowego lub opiekuna tego dziecka, a także zezwolenia właściwego inspektora pracy.
+§ 2. Właściwy inspektor pracy wydaje zezwolenie, o którym mowa w § 1, na wniosek podmiotu określonego w tym przepisie.
+§ 3. Właściwy inspektor pracy odmawia wydania zezwolenia, jeżeli wykonywanie pracy lub innych zajęć zarobkowych w zakresie przewidzianym w § 1:
+1) powoduje zagrożenie dla życia, zdrowia i rozwoju psychofizycznego dziecka;
+2) zagraża wypełnianiu obowiązku szkolnego przez dziecko.
+§ 4. Podmiot, o którym mowa w § 1, dołącza do wniosku o wydanie zezwolenia:
+1) pisemną zgodę przedstawiciela ustawowego lub opiekuna dziecka na wykonywanie przez dziecko pracy lub innych zajęć zarobkowych;
+2) opinię poradni psychologiczno-pedagogicznej dotyczącą braku przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych;
+3) orzeczenie lekarza stwierdzające brak przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych;
+4) jeżeli dziecko podlega obowiązkowi szkolnemu – opinię dyrektora szkoły, do której dziecko uczęszcza, dotyczącą możliwości wypełniania przez dziecko tego obowiązku w czasie wykonywania przez nie pracy lub innych zajęć zarobkowych.
+§ 5. Zezwolenie, o którym mowa w § 1, powinno zawierać:
+1) dane osobowe dziecka i jego przedstawiciela ustawowego lub opiekuna;
+2) oznaczenie podmiotu prowadzącego działalność w zakresie przewidzianym w § 1;
+3) określenie rodzaju pracy lub innych zajęć zarobkowych, które może wykonywać dziecko;
+4) określenie dopuszczalnego okresu wykonywania przez dziecko pracy lub innych zajęć zarobkowych;
+5) określenie dopuszczalnego dobowego wymiaru czasu pracy lub innych zajęć zarobkowych;
+6) inne niezbędne ustalenia, wymagane ze względu na dobro dziecka lub rodzaj, charakter albo warunki wykonywania pracy lub innych zajęć zarobkowych przez dziecko.
+§ 6. Na wniosek przedstawiciela ustawowego lub opiekuna dziecka właściwy inspektor pracy cofa wydane zezwolenie.
+§ 7. Właściwy inspektor pracy cofa wydane zezwolenie z urzędu, jeżeli stwierdzi, że warunki pracy dziecka nie odpowiadają warunkom określonym w wydanym zezwoleniu.
+Art. 305. (uchylony)

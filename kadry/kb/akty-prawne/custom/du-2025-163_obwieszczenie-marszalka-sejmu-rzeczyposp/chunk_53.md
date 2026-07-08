@@ -1,0 +1,157 @@
+---
+act_eli: DU/2025/163
+chunk: 53/81
+title_short: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn"
+version_date: latest
+---
+
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn — chunk 53/81
+
+Art. 30a. 1. Od uzyskanych dochodów (przychodów) pobiera się 19  % zryczałtowany podatek dochodowy, z zastrze-
+żeniem art. 52a: 
+1) z odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej; 
+2) z odsetek i dyskonta od papierów wartościowych, z wyjątkiem odsetek stanowiących dochód z wykupu przez emitenta 
+obligacji, o którym mowa w pkt 2a; 
+2a) od dochodu z wykupu przez emitenta obligacji, od których są należne świadczenia okresowe; 
+3) z odsetek lub innych przychodów od środków pieniężnych zgromadzonych na rachunku podatnika lub  w innych for-
+mach oszczędzania, przechowywania lub inwestowania, prowadzonych przez podmiot  uprawniony na pods tawie od-
+rębnych przepisów, z zastrzeżeniem art. 14 ust. 2 pkt 5; 
+4) z dywidend i innych przychodów z tytułu udziału w zyskach osób prawnych; 
+5) ze świadczeń otrzymanych z dochodów funduszu kapitałowego, jeżeli statut przewiduje wypłaty z tych dochodów jego 
+uczestnikom bez umarzania, odkupywania, wykupywania albo unicestwiania w inny sposób tytułów uczestnictwa w takim 
+funduszu; 
+5a) od dochodu z tytułu umów ubezpieczenia, o którym mowa w art. 24 ust. 15a; 
+6) od kwot wypłacanych po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub spadko-
+biercy: 
+a) w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, 
+b) z subkonta, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych; 
+7) od dochodu członka pracowniczego funduszu emerytalnego z  tytułu przeniesienia akcji złożonych na rachunku iloś -
+ciowym do aktywów tego funduszu; 
+8) z tytułu zbycia prawa poboru akcji nowej emisji przez pracowniczy fundusz emerytalny w  imieniu członka funduszu; 
+9) od kwot jednorazowo wypłacanych przez otwarty fundusz emerytalny członkowi funduszu, któremu rachunek fundu-
+szu otwarto w związku ze śmiercią jego współmałżonka; 
+9a) od kwot jednorazowo wypłacanych przez Zakład Ubezpieczeń Społecznych z  subkonta, o  którym mowa  w art. 40a 
+ustawy z dnia 13 października 1998  r. o systemie ubezpieczeń społecznych, w  związku ze śmiercią współ małżonka 
+ubezpieczonego; 
+10) od dochodu oszczędzającego na indywidualnym koncie emerytalnym z  tytułu zwrotu albo częściowego zwrotu, 
+w rozumieniu przepisów o indywidualnych kontach emerytalnych, środków zgromadzonych na tym koncie;  
+10a) od dochodu z tytułu zwrotu środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE; 
+11) od dochodu uczestnika pracowniczego programu emerytalnego z  tytułu zwrotu środków zgromadzonych w  ramach 
+programu, w rozumieniu przepisów o pracowniczych programach emerytalnych; 
+11a) od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego w  związku z wypłatą dokonaną na podstawie  
+art. 98 ustawy o pracowniczych planach kapitałowych – w zakresie, w jakim uczestnik pracowniczego planu kapitałowego 
+nie dokonał zwrotu wypłaconych środków w terminie wynikającym z umowy zawartej z wybraną instytucją finansową; 
+11b) od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty środków, o których mowa w art. 99 ust. 1 
+pkt 2 ustawy o pracowniczych planach kapitałowych – jeżeli wypłata będzie wypłacana w  mniejszej ilości rat niż 
+120 miesięcznych rat, albo z  tytułu wypłaty jednorazowej – w przypadku określonym w art. 99 ust. 2 ustawy o pra-
+cowniczych planach kapitałowych; 
+11c) od dochodu małżonka lub byłego małżonka uczestnika pracowniczego planu kapitałowego z tytułu zwrotu dokonanego 
+na podstawie art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych; 
+11d) od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego z  tytułu zwrotu zgromadzonych środków 
+dokonanego na podstawie art. 105 ustawy o pracowniczych planach kapitałowych; 
+11e) od dochodu małżonka lub byłego małżonka, z  tytułu wypłaty 75 % środków, które zostały mu przekazane w  formie 
+wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o  których 
+mowa w art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych, dokonanej po osiągnięciu p rzez niego 60 roku 
+życia – jeżeli wypłata ta nastąpi w  wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku 
+lokaty terminowej albo nastąpi zmiana umowy takiego rachunku; 
+
+  
+Dziennik Ustaw – 141 – Poz. 163 
+ 
+11f) od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty 75 % środków zgromadzonych na rachunku 
+w pracowniczym planie kapitałowym, które zostały przekazane w formie wypłaty transferowej na rachunek terminowej 
+lokaty oszczędnościowej lub rachunek lokaty terminowej, o  których mowa w art. 102 ust. 3 ustawy o pracowniczych 
+planach kapitałowych – jeżeli wypłata ta nastąpi w  wyniku likwidacji rachunku terminowej lokaty oszczędnościowej 
+lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;  
+12) od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach 
+z Funduszu Ubezpieczeń Społecznych; 
+13) od dochodu z  tytułu otrzymania składników majątku w  związku z  likwidacją spółki niebędącej osobą prawną, 
+wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, w wyniku otrzymania 
+których Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tych składników majątku.  
+2. Przepisy ust. 1 pkt 1–5, 10a i  11a–11f stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, 
+których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu 
+podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z  taką umową jest możliwe pod warunkiem 
+udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.  
+2a. Od dochodów (przychodów) z tytułu należności, o których mowa w ust. 1 pkt 2, 2a, 4 lub 5, przekazanych na rzecz 
+podatników uprawnionych z papierów wartościowych zapisanych na rachunkach zbiorczych, których tożsamość nie została 
+płatnikowi ujawniona w trybie przewidzianym w ustawie, o której mowa w art. 5a pkt 11, podatek, o którym mowa w ust. 1, 
+płatnik pobiera według stawki określonej w  ust. 1 od łącznej wartości dochodów (przychodów) przekazanych przez niego 
+na rzecz wszystkich takich podatników za pośrednictwem posiadacza rachunku zbiorczego.  
+3. (uchylony) 
+4. Jeżeli nie jest możliwa identyfikacja papierów wartościowych, przy ustalaniu dyskonta lub dochodu z wykupu przez 
+emitenta obligacji, o  którym mowa w  ust. 1 pkt 2a, przyjmuje się, że każdorazowo przychód został osiągnięty z  papierów 
+wartościowych nabytych najwcześniej (FIFO). Przepis ten stosuje się odrębnie do każdego rachunku inwestycyjnego. 
+5. (uchylony) 
+6. Zryczałtowany podatek, o  którym mowa w ust. 1 pkt 1, 2, 3 –5, 6, 8 i  9, pobiera się bez pomniejszania przychodu 
+o koszty uzyskania, z zastrzeżeniem art. 24 ust. 5 pkt 1 i 4, ust. 5a, 5d i 5e. 
+6a. Zryczałtowany podatek, obliczony zgodnie z ust. 1 pkt 4, od przychodów uzyskiwanych przez komplementariusza 
+z tytułu udziału w zyskach spółki, o której mowa w art. 5a pkt 28 lit. c, pomniejsza się o kwotę odpowiadającą iloczynowi 
+procentowego udziału komplementariusza w zysku tej spółki i podatku należnego od dochodu tej spółki, obliczonego zgod-
+nie z art. 19 ustawy o podatku dochodowym od osób prawnych, za rok podatkowy, z  którego przychód z  tytułu udziału 
+w zysku został uzyskany. 
+6b. Kwota pomniejszenia, o  którym mowa  w ust. 6a, nie może przekroczyć kwoty podatku obliczonego zgodnie  
+z ust. 1 pkt 4. 
+6c. Przepisy ust. 6a i 6b stosuje się również w przypadku, gdy przychód z tytułu udziału w zysku spółki, o której mowa 
+w art. 5a pkt 28 lit. c, za dany rok podatkowy zostanie uzyskany przez komplementariusza w innym roku niż rok następujący 
+po danym roku podatkowym, jednak nie dłużej niż przez 5  kolejnych lat podatkowych, licząc od końca roku podatkowego 
+następującego po roku, w którym zysk został osiągnięty. 
+6d. Przepis ust. 6c stosuje się odpowiednio do podatku dochodowego od przychodów (dochodów) komplementariusza  
+z likwidacji spółki, o której mowa w art. 5a pkt 28 lit. c, albo z jego wystąpienia z takiej spółki. 
+6e. W przypadku komplementariusza uzyskującego przychody z  tytułu prawa do udziału w zysku w więcej niż jednej 
+spółce, o której mowa w art. 5a pkt 28 lit. c, pomniejszenie, o którym mowa w ust. 6a, przysługuje w odniesieniu do podatku 
+od przychodów uzyskiwanych odrębnie z każdej z tych spółek. 
+7. Dochodów (przychodów), o których mowa w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach okreś-
+lonych w art. 27. 
+8. Dochodem, o którym mowa w ust. 1 pkt 10, jest różnica między kwotą stanowiącą wartość środków zgromadzonych 
+na indywidualnym koncie emerytalnym a sumą wpłat na indywidualne konto emerytalne. 
+8a. Dochodem przy całkowitym zwrocie, który został poprzedzony zwrotami częściowymi, jest różnica pomiędzy 
+wartością środków zgromadzonych na indywidualnym koncie emerytalnym na dzień całkowitego zwrotu a  sumą wpłat na 
+indywidualne konto emerytalne pomniejszoną o koszty częściowych zwrotów. 
+
+  
+Dziennik Ustaw – 142 – Poz. 163 
+ 
+8b. W przypadku częściowego zwrotu dochodem jest kwota zwrotu pomniejszona o koszty przypadające na ten zwrot. 
+Za koszt, o  którym mowa w  zdaniu pierwszym, uważa się iloczyn kwoty zwrotu i  wskaźnika stanowiącego udział sumy 
+wpłat na indywidualne konto emerytalne do wartości środków zgromadzonych na tym koncie.  
+8c. Przy kolejnym częściowym zwrocie przepisy  ust. 8a i 8b stosuje się o dpowiednio, z tym że do ustalenia wartości 
+środków zgromadzonych na indywidualnym koncie emerytalnym bierze się aktualny stan środków na tym koncie.  
+8d. Dochodu, o którym mowa w ust. 8–8c, nie pomniejsza się o  straty z kapitałów pieniężnych i  praw majątkowych 
+poniesionych w roku podatkowym oraz w latach poprzednich. 
+8e. Przepisy ust. 8–8d stosuje się odpowiednio do określania dochodu, o którym mowa w ust. 1 pkt 11. 
+8f. Dochodem, o którym mowa w ust. 1 pkt 10a, jest różnica między kwotą stanowiącą wartość śr odków zgromadzo-
+nych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE a sumą wpłat dokonanych na to subkonto. Dochodu tego 
+nie pomniejsza się o straty z innych źródeł poniesione w roku podatkowym oraz latach poprzednich. 
+9. Podatnicy, o których mowa w art. 3 ust. 1, uzyskujący poza granicami Rzeczypospolitej Polskiej przychody (dochody) 
+określone w ust. 1 pkt 1–5, od zryczałtowanego podatku obliczonego zgodnie  z ust. 1, od tych przychodów (dochodów), 
+odliczają kwotę równą podatkowi zapłaconemu za granicą, jednakże odliczenie to nie może przekroczyć kwoty podatku 
+obliczonego od tych przychodów (dochodów) przy zastosowaniu stawki 19  %. 
+10. (uchylony) 
+11. Kwoty zryczałtowanego podatku obliczonego od przychodów (dochodów), o których mowa w ust. 1 pkt 1–5, uzyska-
+nych poza granicami Rzeczypospolitej Polskiej oraz kwotę podatku zapłaconego za granicą,  o której mowa w ust. 9, podat-
+nicy są obowiązani wykazać w zeznaniu podatkowym, o którym mowa w art. 45 ust. 1 lub 1a. 
+12. Dochód, o którym mowa w ust. 1 pkt 11a, stanowi kwota niedokonanego w terminie zwrotu wypłaconych środków 
+pomniejszona o  koszt nabycia odkupionych jednostek uczestnictwa lub umorzonych jednostek rozrachunkowych, przy -
+padających na ten niedokonany zwrot. Za koszt, o którym mowa w zdaniu pierwszym, uważa się sumę wydatków na nabycie 
+odkupionych jednostek uczestnictwa albo sumę wpłat na umorzone jednostki rozrachunkowe, z  których dokonano wypłaty 
+w trybie art. 98 ustawy o pracowniczych planach kapitałowych, ustaloną w  takiej proporcji, jaką stanowiła kwota nie -
+dokonanego zwrotu do wartości wypłaconych środków. Dochód powstaje w  dniu następującym po dniu, w którym upłynął 
+termin zwrotu wypłaconych środków określony w umowie, o której mowa w art. 98 ust. 1 ustawy o pracowniczych planach 
+kapitałowych. 
+13. Dochód, o którym mowa w ust. 1 pkt 11b, stanowi kwota wypłaty z  dokonanego odkupienia jednostek uczestnic-
+twa lub umorzenia jednostek rozrachunkowych, pomniejszona o  wydatki na nabycie odkupionych jednostek uczestnictwa 
+lub wpłaty na umorzone jednostki rozrachunkowe, z których dokonano wypłaty. 
+14. Dochód, o którym mowa w ust. 1 pkt 11c, stanowi kwota zwrotu z dokonanego odkupienia jednostek uczestnictwa 
+lub umorzenia jednostek rozrachunkowych, pomniejszona o  wydatki na nab ycie odkupionych jednostek uczestnictwa lub 
+wpłaty na umorzone jednostki rozrachunkowe, z których dokonano zwrotu. 
+15. Dochód, o którym mowa w ust. 1 pkt 11d, stanowi kwota zwrotu z dokonanego odkupienia jednostek uczestnictwa 
+lub umorzenia jednostek rozra chunkowych, pomniejszona o  wydatki na nabycie odkupionych jednostek uczestnictwa lub 
+wpłaty na umorzone jednostki rozrachunkowe, z których dokonano zwrotu. 
+16. Dochód, o  którym mowa  w ust. 1 pkt 11e, stanowi kwota wypłaty pomniejszona o  koszty przypadające  na tę 
+wypłatę stanowiące 75 % wydatków na nabycie odkupionych jednostek uczestnictwa lub 75 % wpłat na umorzone jednostki 
+rozrachunkowe, z  których środki pieniężne zostały przekazane w  formie wypłaty transferowej na rachunek terminowej 
+lokaty oszczędnościowej lub rachunek lokaty terminowej. 
+17. Dochód, o którym mowa w ust. 1 pkt 11f, stanowi kwota wypłaty pomniejszona o koszty przypadające na tę wypłatę 
+stanowiące wydatki na nabycie odkupionych jednostek uczestnictwa lub wpłaty na umorzone jednostki rozrachunkowe, 
+z których środki pieniężne zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej 
+lub rachunek lokaty terminowej.
