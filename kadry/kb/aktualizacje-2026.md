@@ -1,6 +1,6 @@
 # Zmiany w prawie pracy 2026 — przegląd roku
 
-_Stan na 2026-07-08 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
+_Stan na 2026-07-13 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
 
 ## 📓 Notatki weryfikacyjne (po sesjach testowych)
 - **2026-06-08** — `notatki/2026-06-08-weryfikacja-kp-staz-ppk.md`
@@ -122,6 +122,7 @@ _Stan na 2026-07-08 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 
 ## 📌 Inne aktualne fakty 2026 (dodane w audycie 8.07.2026)
 
+- **Elektronizacja wniosków o zasiłki** od **1.07.2026** (ustawa z 13.02.2026, **Dz.U. 2026 poz. 441**, nowelizacja art. 61b ustawy zasiłkowej) — wniosek o zasiłek u pracodawcy w postaci papierowej **lub elektronicznej**, elektroniczne kopie (skany) załączników równoważne oryginałom, dokument elektroniczny z podpisem = własnoręczny podpis. Zmiana proceduralna (forma), nie zmienia kwot/zasad wyliczania. Szczegóły: `wynagrodzenia/zasilki-zus-2026.md` | Akt: `akty-prawne/custom/du-2026-441_*`
 - **Zasiłek pogrzebowy: 7 000 zł** od 1.01.2026 (wzrost z 4 000 zł; Dz.U. 2025 poz. 718) — kwota zależy od DATY ŚMIERCI, nie wniosku. Szczegóły + stawki ZUS przedsiębiorcy 2026: `wynagrodzenia/zasilki-zus-2026.md`
 - **Ustawa o rynku pracy i służbach zatrudnienia** (Dz.U. 2025 poz. 620, od 1.06.2025) ZASTĄPIŁA ustawę o promocji zatrudnienia (uchylona — NOT_IN_FORCE): `rynek-pracy-sluzby-zatrudnienia-2025.md`
 - **Uzupełniający urlop macierzyński dla wcześniaków** (art. 180² KP, od 19.03.2025, Dz.U. 2024 poz. 1871): `kodeks-pracy/05-uprawnienia-rodzicielskie.md`
@@ -129,10 +130,17 @@ _Stan na 2026-07-08 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - **Ochrona sygnalistów** (Dz.U. 2024 poz. 928, od 25.09.2024): `kodeks-pracy/12-ochrona-sygnalistow.md`
 - **Składka zdrowotna przedsiębiorcy**: zapowiadana obniżka (model dwuskładnikowy) została ZAWETOWANA — od 1.02.2026 podstawa wraca do 100% płacy min., min. składka 432,54 zł. Nie obiecuj klientom „nadchodzącej obniżki".
 
+## 🗓️ OGŁOSZONE, ale JESZCZE NIE OBOWIĄZUJĄ (akty w Dz.U. z odroczonym wejściem w życie)
+
+### Praca w upałach — maksymalne temperatury (od 11.01.2027)
+- **Rozporządzenie z 9.07.2026 zmieniające ogólne przepisy BHP (Dz.U. 2026 poz. 927)** — dodaje § 30a: **35 °C w pomieszczeniach**, **32 °C na otwartej przestrzeni przy pracach ciężkich** (powyżej — pracy wykonywać nie wolno); przy 28 °C / 25 °C obowiązek rozwiązań technicznych lub organizacyjnych.
+- ⚠️ **Wchodzi w życie dopiero 11.01.2027** — do tej daty NIE ma ustawowej „maksymalnej temperatury w pracy". Nie mów klientowi, że limit 35 °C już obowiązuje.
+- Szczegóły: `bhp/temperatura-upaly-2027.md` | Akt: `akty-prawne/custom/du-2026-927_*`
+
 ## 🔭 Co śledzimy (do aktualizacji bazy)
 
 - [ ] **UC127** — ustawa wdrażająca resztę dyrektywy 2023/970 (raportowanie luki płacowej) — spodziewana ~2027
-- [ ] **Nowela antymobbingowa** — Sejm uchwalił 19.06.2026, w Senacie; po ogłoszeniu w Dz.U. i upływie vacatio legis → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
+- [ ] **Nowela antymobbingowa** (Sejm druk 2289) — Sejm uchwalił 19.06.2026, Senat przyjął bez poprawek 8.07.2026, **przekazano Prezydentowi do podpisu 9.07.2026** (na 13.07.2026 NIEPODPISANA, brak Dz.U. — wciąż PROJEKT, nie prawo). Wejście: 3 miesiące od ogłoszenia + 6 mies. vacatio legis dla pracodawców na politykę antymobbingową. Po podpisie i ogłoszeniu w Dz.U. → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
 - [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661; nowy TJ scali je w jedno)
 - [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h** (nieuchwalona; związki chcą 5 200 zł); finalizacja rozporządzeniem ~wrzesień 2026
 - [ ] **PPK — ponowny autozapis 1.03.2027** (rezygnacje tracą ważność; wznowienie wpłat dla 18–55 lat) — zebrać nowe rezygnacje do 28.02.2027
@@ -156,4 +164,6 @@ Przy każdej rozmowie z nowym klientem **sprawdza ten plik pierwszy** — żeby 
 - [Dz.U. 2025 poz. 1661 — układy zbiorowe](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2025+1661)
 - [Dz.U. 2025 poz. 1242 — płaca minimalna 2026](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2025+1242)
 - [Dz.U. 2025 poz. 621 — zatrudnianie cudzoziemców](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2025+621)
+- [Dz.U. 2026 poz. 441 — elektronizacja wniosków o zasiłki (od 1.07.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+441)
+- [Dz.U. 2026 poz. 927 — praca w upałach / § 30a BHP (od 11.01.2027)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+927)
 - [ZUS — zmiany w kontroli zwolnień od 13.04.2026](https://www.zus.pl/-/zmiany-w-kontroli-i-wykorzystywaniu-zwolnie%C5%84-od-pracy-od-13-kwietnia-2026-r.)

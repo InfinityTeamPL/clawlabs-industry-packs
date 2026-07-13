@@ -1,6 +1,6 @@
 # Zasiłki ZUS i składki 2026 — pogrzebowy, chorobowy, macierzyński, składki przedsiębiorcy
 
-_Stan: 2026-07-08. Zasiłek pogrzebowy 7000 zł obowiązuje od 1.01.2026 (ustawa z 9.05.2025, Dz.U. 2025 poz. 718). Składki ZUS i podstawa wymiaru zasiłków — kwoty na rok 2026._
+_Stan: 2026-07-13. Zasiłek pogrzebowy 7000 zł obowiązuje od 1.01.2026 (ustawa z 9.05.2025, Dz.U. 2025 poz. 718). Składki ZUS i podstawa wymiaru zasiłków — kwoty na rok 2026. Elektronizacja wniosków o zasiłki od 1.07.2026 (Dz.U. 2026 poz. 441)._
 
 ## Zasiłek pogrzebowy — 7000 zł od 1.01.2026
 
@@ -76,6 +76,20 @@ Szczegóły urlopów i zasiłku macierzyńskiego (w tym 9-tygodniowa nieprzenosz
 
 ---
 
+## Składanie wniosków o zasiłki — elektronizacja od 1.07.2026
+
+**Podstawa prawna:** ustawa z 13 lutego 2026 r. o zmianie ustawy zasiłkowej (**Dz.U. 2026 poz. 441**), która znowelizowała **art. 61b ustawy zasiłkowej**. **Obowiązuje od 1.07.2026.** Tekst w bazie: `akty-prawne/custom/du-2026-441_*/chunk_01.md`.
+
+Co się zmieniło:
+- **Wniosek o zasiłek** można złożyć w **postaci papierowej albo elektronicznej**, gdy płatnikiem zasiłku jest **płatnik składek (pracodawca)**. Gdy płatnikiem jest **ZUS** — papierowo albo dokumentem elektronicznym z podpisem kwalifikowanym, zaufanym lub osobistym, przez elektroniczną skrzynkę podawczą ZUS (PUE/eZUS) lub adres do doręczeń elektronicznych.
+- Do wniosku można dołączyć **elektroniczne kopie dokumentów (skany)** — traktowane na równi z oryginałami lub kopiami potwierdzonymi za zgodność z oryginałem.
+- **Dokument elektroniczny z podpisem = dokument z własnoręcznym podpisem** pod względem skutków prawnych (art. 61b ust. 5a). Przy wątpliwościach co do zgodności kopii z oryginałem płatnik zasiłku może zażądać oryginału (ust. 5b).
+- Doprecyzowano wszczynanie postępowania o **zasiłek chorobowy** oraz o **zasiłek opiekuńczy** (opieka nad chorym członkiem rodziny) na podstawie zaświadczenia lekarskiego lub wniosku.
+
+**Janino:** to zmiana **proceduralna** (forma składania wniosków), nie zmienia wysokości ani zasad wyliczania zasiłków. Pracownik może dziś złożyć wniosek o zasiłek u pracodawcy elektronicznie, a skany załączników są ważne jak oryginały.
+
+---
+
 ## Składki ZUS przedsiębiorcy 2026
 
 Bazą jest **prognozowane przeciętne wynagrodzenie miesięczne na 2026 r. = 9 420 zł**.
@@ -105,6 +119,7 @@ Bazą jest **prognozowane przeciętne wynagrodzenie miesięczne na 2026 r. = 9 4
 ## Źródła
 - [Ustawa z 9.05.2025 (Dz.U. 2025 poz. 718) — zasiłek pogrzebowy 7000 zł](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000718) — tekst w bazie: `akty-prawne/custom/du-2025-718_*`
 - [Ustawa zasiłkowa — t.j. Dz.U. 2025 poz. 501 (art. 36–47 — podstawa wymiaru)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000501) — tekst w bazie: `akty-prawne/custom/du-2025-501_*`
+- [Ustawa z 13.02.2026 (Dz.U. 2026 poz. 441) — elektronizacja wniosków o zasiłki od 1.07.2026](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+441) — tekst w bazie: `akty-prawne/custom/du-2026-441_*`
 - [ZUS — nowe wysokości składek na ubezpieczenia społeczne w 2026 r.](https://www.zus.pl)
 - [Infor.pl — składki ZUS przedsiębiorców w 2026 r. (zwykłe, preferencyjne, Mały ZUS Plus)](https://ksiegowosc.infor.pl/zus-kadry/skladki/7500894,skladki-zus-przedsiebiorcow-w-2026-r-zwykle-preferencyjne-maly-zus-plus-kwoty-i-minimalne-podstawy-wymiaru.html)
 - [PIT.pl — ZUS 2026: składki w górę](https://www.pit.pl/aktualnosci/zus-2026-skladki-w-gore-w-2026-roku-ile-zaplaca-przedsiebiorcy)
