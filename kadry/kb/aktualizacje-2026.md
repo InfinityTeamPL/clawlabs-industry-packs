@@ -1,6 +1,6 @@
 # Zmiany w prawie pracy 2026 — przegląd roku
 
-_Stan na 2026-07-13 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
+_Stan na 2026-07-20 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do poz. 956 z 16.07.2026 — brak nowych aktów z zakresu prawa pracy po 13.07.2026). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
 
 ## 📓 Notatki weryfikacyjne (po sesjach testowych)
 - **2026-06-08** — `notatki/2026-06-08-weryfikacja-kp-staz-ppk.md`
@@ -140,9 +140,9 @@ _Stan na 2026-07-13 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 ## 🔭 Co śledzimy (do aktualizacji bazy)
 
 - [ ] **UC127** — ustawa wdrażająca resztę dyrektywy 2023/970 (raportowanie luki płacowej) — spodziewana ~2027
-- [ ] **Nowela antymobbingowa** (Sejm druk 2289) — Sejm uchwalił 19.06.2026, Senat przyjął bez poprawek 8.07.2026, **przekazano Prezydentowi do podpisu 9.07.2026** (na 13.07.2026 NIEPODPISANA, brak Dz.U. — wciąż PROJEKT, nie prawo). Wejście: 3 miesiące od ogłoszenia + 6 mies. vacatio legis dla pracodawców na politykę antymobbingową. Po podpisie i ogłoszeniu w Dz.U. → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
+- [ ] **Nowela antymobbingowa** (Sejm druk 2289) — Sejm uchwalił 19.06.2026, Senat przyjął bez poprawek 8.07.2026, **przekazano Prezydentowi do podpisu 9.07.2026** (na 20.07.2026 nadal NIEPODPISANA, brak Dz.U. — wciąż PROJEKT, nie prawo; ostatni etap w wykazie Sejmu to „przekazano Prezydentowi", nowszych pozycji brak). Wejście: 3 miesiące od ogłoszenia + 6 mies. vacatio legis dla pracodawców na politykę antymobbingową. Po podpisie i ogłoszeniu w Dz.U. → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
 - [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661; nowy TJ scali je w jedno)
-- [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h** (nieuchwalona; związki chcą 5 200 zł); finalizacja rozporządzeniem ~wrzesień 2026
+- [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem)
 - [ ] **PPK — ponowny autozapis 1.03.2027** (rezygnacje tracą ważność; wznowienie wpłat dla 18–55 lat) — zebrać nowe rezygnacje do 28.02.2027
 - [ ] Limity składek ZUS 2027 (publikacja ~grudzień 2026)
 

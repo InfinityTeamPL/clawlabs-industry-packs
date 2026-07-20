@@ -1,6 +1,6 @@
 # Płaca minimalna 2026
 
-_Stan: 2026-07-08. Podstawa: rozporządzenie Rady Ministrów z 11.09.2025 r. (Dz.U. 2025 poz. 1242, ELI DU/2025/1242), obowiązuje od 1.01.2026._
+_Stan: 2026-07-20. Podstawa: rozporządzenie Rady Ministrów z 11.09.2025 r. (Dz.U. 2025 poz. 1242, ELI DU/2025/1242), obowiązuje od 1.01.2026._
 
 ## Kluczowe kwoty 2026
 
@@ -20,6 +20,19 @@ _Stan: 2026-07-08. Podstawa: rozporządzenie Rady Ministrów z 11.09.2025 r. (Dz
 ### Zmiana roczna 2025 → 2026
 - Minimalne wynagrodzenie: wzrost z 4 666 zł (2025) do 4 806 zł (2026) → +140 zł
 - Stawka godzinowa: wzrost z 30,50 zł (2025) do 31,40 zł (2026) → +0,90 zł/h
+
+---
+
+## Płaca minimalna 2027 — stan na 20.07.2026 (jeszcze NIE ustalona)
+
+**Kwoty na 2027 r. nie ma jeszcze w Dzienniku Ustaw.** Aktualny stan procedury z ustawy o minimalnym wynagrodzeniu za pracę:
+
+- **Propozycja Rady Ministrów: 4 950 zł brutto miesięcznie i 32,30 zł brutto za godzinę** (wzrost o ok. 3% wobec 2026 r.) — przedstawiona Radzie Dialogu Społecznego do negocjacji w czerwcu 2026 r.
+- **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** — strona związkowa żądała co najmniej **5 200 zł**, strona pracodawców popierała propozycję rządu. Brak uzgodnienia RDS oznacza, że kwotę ustala samodzielnie Rada Ministrów.
+- **Termin: rozporządzenie Rady Ministrów do 15 września 2026 r.**, wejście w życie od 1.01.2027.
+- **Gwarancja dolnego progu:** kwoty ustalone przez Radę Ministrów **nie mogą być niższe od tych przedstawionych wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Mogą być wyższe.
+
+**Janino — jak o tym mówić:** „Na dziś obowiązuje 4 806 zł. Na 2027 rząd zaproponował 4 950 zł (32,30 zł/h), ale Rada Dialogu Społecznego nie doszła do porozumienia 9 lipca, więc stawkę ustali rozporządzeniem sam rząd — do 15 września. Kwota nie będzie niższa niż 4 950 zł, ostateczną poznamy po publikacji w Dzienniku Ustaw." **Nie podawaj 4 950 zł jako kwoty pewnej ani 5 200 zł jako obowiązującej** — 5 200 zł to postulat związków, nie przepis.
 
 ---
 
@@ -163,3 +176,5 @@ Dla nadgodzin +100% (niedziela, święto, noc): 28,61 × 2 = **57,22 zł/h brutt
 - [Ustawa o minimalnym wynagrodzeniu za pracę](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001679)
 - [Infor.pl — płaca minimalna 2026](https://www.infor.pl/twoje-pieniadze/zarobki/7484898,placa-minimalna-i-stawka-godzinowa-na-2026-rok-zatwierdzone-oto-wyliczenia-brutto-i-netto-sprawdz-ile-dostaniesz-na-reke.html)
 - [PIP Gdańsk — minimalne wynagrodzenie 2026](https://gdansk.pip.gov.pl/aktualnosci/od-stycznia-2026-r-wynagrodzenie-minimalne-w-gore)
+- [rp.pl — RDS bez porozumienia ws. płacy minimalnej 2027 (posiedzenie plenarne 9.07.2026)](https://www.rp.pl/praca-emerytury-i-renty/art44799621-placa-minimalna-przedsiebiorcy-i-zwiazkowcy-bez-porozumienia-zdecyduje-rzad)
+- [PulsHR — negocjacje w RDS zakończone fiaskiem](https://www.pulshr.pl/wynagrodzenia/nie-ma-zgody-w-sprawie-placy-minimalnej-rozmowy-zakonczone-fiaskiem,120396.html)
