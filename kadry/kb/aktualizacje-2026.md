@@ -1,6 +1,6 @@
 # Zmiany w prawie pracy 2026 — przegląd roku
 
-_Stan na 2026-07-20 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do poz. 956 z 16.07.2026 — brak nowych aktów z zakresu prawa pracy po 13.07.2026). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
+_Stan na 2026-07-28 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do poz. 1000 z 24.07.2026 — z zakresu prawa pracy i ubezpieczeń doszła jedna pozycja: **poz. 989**, nowelizacja ustawy o PPK, wejście 7.08.2026). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
 
 ## 📓 Notatki weryfikacyjne (po sesjach testowych)
 - **2026-06-08** — `notatki/2026-06-08-weryfikacja-kp-staz-ppk.md`
@@ -43,9 +43,10 @@ _Stan na 2026-07-20 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - **Kwota zmniejszająca podatek (PIT-2):** 3 600 zł/rok = 300 zł/mies.
 
 ### PPK
-- **Składka pracownika:** 2% (min) – 4% (max), domyślnie 2%
+- **Składka pracownika:** 2% (min) – 4% (max), domyślnie 2%; obniżka do 0,5–2% możliwa przy wynagrodzeniu ≤ 1,2× płacy min. (2026: ≤ 5 767,20 zł)
 - **Składka pracodawcy:** 1,5% (min) – 4% (max)
 - **Wpłata powitalna:** 250 zł; **dopłata roczna:** 240 zł
+- Pełna notatka (terminy umów, autozapis 2027, sankcje, wezwania PFR od 7.08.2026): `wynagrodzenia/ppk-2026.md`
 
 ### Wynagrodzenie chorobowe / zasiłek
 - **Pierwsze 33 dni** w roku — pracodawca, **80% podstawy** (14 dni dla > 50 lat)
@@ -128,9 +129,19 @@ _Stan na 2026-07-20 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - **Uzupełniający urlop macierzyński dla wcześniaków** (art. 180² KP, od 19.03.2025, Dz.U. 2024 poz. 1871): `kodeks-pracy/05-uprawnienia-rodzicielskie.md`
 - **Kontrola trzeźwości** (art. 22¹ᶜ–22¹ʰ KP, od 21.02.2023): `bhp/kontrola-trzezwosci.md`
 - **Ochrona sygnalistów** (Dz.U. 2024 poz. 928, od 25.09.2024): `kodeks-pracy/12-ochrona-sygnalistow.md`
+- **Ustawa o PPK — nowy tekst jednolity: Dz.U. 2026 poz. 192** (obwieszczenie Marszałka Sejmu z 13.02.2026). To jego należy cytować; akt pierwotny z 2018 r. (`du-2018-2215_*`) zostaje w bazie tylko do celów historycznych. ⚠️ Jeden fragment tekstu jednolitego jest już nieaktualny: **art. 8 ust. 5** — zmieniony przez Dz.U. 2026 poz. 989 od 7.08.2026. Szczegóły: `wynagrodzenia/ppk-2026.md`
 - **Składka zdrowotna przedsiębiorcy**: zapowiadana obniżka (model dwuskładnikowy) została ZAWETOWANA — od 1.02.2026 podstawa wraca do 100% płacy min., min. składka 432,54 zł. Nie obiecuj klientom „nadchodzącej obniżki".
 
 ## 🗓️ OGŁOSZONE, ale JESZCZE NIE OBOWIĄZUJĄ (akty w Dz.U. z odroczonym wejściem w życie)
+
+### PPK — wezwania PFR przez profil informacyjny ZUS (od 7.08.2026) 🆕
+- **Ustawa z 29.05.2026 o zmianie ustawy o PPK oraz ustawy covidowej (Dz.U. 2026 poz. 989)**, ogłoszona 23.07.2026, w życie **7.08.2026** (14 dni od ogłoszenia)
+- Nowe brzmienie **art. 8 ust. 5** ustawy o PPK: wezwanie PFR do zawarcia umowy o zarządzanie PPK (dla pracodawców, którzy nie zawarli jej w terminie) idzie **na profil informacyjny ZUS (PUE/eZUS)**, a nie listem. Termin na reakcję bez zmian: **30 dni od otrzymania wezwania**
+- **Nowy art. 8 ust. 5ad — fikcja doręczenia:** wezwanie skuteczne w dniu odbioru na profilu **albo po 14 dniach od udostępnienia, jeśli nieodebrane**. Pracodawca musi realnie monitorować profil płatnika
+- Uchylono **art. 31zy¹⁵ ustawy covidowej** (dawał tę możliwość tylko czasowo, na czas epidemii) — rozwiązanie stało się trwałe
+- **Przepis przejściowy (art. 3):** wezwania wysłane pisemnie przed 7.08.2026 → stare zasady
+- ⚠️ Nowelizacja **NIE zmienia** wysokości wpłat, terminów zapisu do PPK ani zasad rezygnacji
+- Szczegóły: `wynagrodzenia/ppk-2026.md` | Akt: `akty-prawne/custom/du-2026-989_*`
 
 ### Praca w upałach — maksymalne temperatury (od 11.01.2027)
 - **Rozporządzenie z 9.07.2026 zmieniające ogólne przepisy BHP (Dz.U. 2026 poz. 927)** — dodaje § 30a: **35 °C w pomieszczeniach**, **32 °C na otwartej przestrzeni przy pracach ciężkich** (powyżej — pracy wykonywać nie wolno); przy 28 °C / 25 °C obowiązek rozwiązań technicznych lub organizacyjnych.
@@ -140,10 +151,10 @@ _Stan na 2026-07-20 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 ## 🔭 Co śledzimy (do aktualizacji bazy)
 
 - [ ] **UC127** — ustawa wdrażająca resztę dyrektywy 2023/970 (raportowanie luki płacowej) — spodziewana ~2027
-- [ ] **Nowela antymobbingowa** (Sejm druk 2289) — Sejm uchwalił 19.06.2026, Senat przyjął bez poprawek 8.07.2026, **przekazano Prezydentowi do podpisu 9.07.2026** (na 20.07.2026 nadal NIEPODPISANA, brak Dz.U. — wciąż PROJEKT, nie prawo; ostatni etap w wykazie Sejmu to „przekazano Prezydentowi", nowszych pozycji brak). Wejście: 3 miesiące od ogłoszenia + 6 mies. vacatio legis dla pracodawców na politykę antymobbingową. Po podpisie i ogłoszeniu w Dz.U. → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
+- [ ] **Nowela antymobbingowa** (Sejm druk 2289) — Sejm uchwalił 19.06.2026, Senat nie zajął stanowiska 8.07.2026, **przekazano Prezydentowi do podpisu 9.07.2026**. Na **28.07.2026 nadal NIEPODPISANA, brak Dz.U.** — wciąż PROJEKT, nie prawo (ostatni etap w wykazie procesu legislacyjnego to „przekazano Prezydentowi"; skan Dz.U. do poz. 1000 z 24.07.2026 nie zawiera żadnej nowelizacji KP). Konstytucyjny termin na podpis to 21 dni od przedstawienia → **rozstrzygnięcie spodziewane ok. 30.07.2026**, sprawdzić w przyszłym tygodniu. Wejście: 3 miesiące od ogłoszenia + 6 mies. vacatio legis dla pracodawców na politykę antymobbingową. Po podpisie i ogłoszeniu w Dz.U. → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
 - [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661; nowy TJ scali je w jedno)
 - [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem)
-- [ ] **PPK — ponowny autozapis 1.03.2027** (rezygnacje tracą ważność; wznowienie wpłat dla 18–55 lat) — zebrać nowe rezygnacje do 28.02.2027
+- [ ] **PPK — autozapis 2027** (co 4 lata, art. 23 ust. 5–6 ustawy o PPK): **do 28.02.2027** pracodawca *informuje* uczestników, którzy złożyli rezygnację, o wznowieniu wpłat; **od 1.04.2027** wpłaty są wznawiane, chyba że uczestnik złoży ponowną deklarację rezygnacji. ⚠️ Skorygowano wcześniejszy zapis „autozapis 1.03.2027 / zebrać rezygnacje do 28.02.2027" — ustawa mówi o wznowieniu wpłat **od 1 kwietnia**, a koniec lutego to termin obowiązku informacyjnego, nie termin na zbieranie rezygnacji (ponowna rezygnacja działa od miesiąca złożenia — art. 23 ust. 4). Szczegóły: `wynagrodzenia/ppk-2026.md`
 - [ ] Limity składek ZUS 2027 (publikacja ~grudzień 2026)
 
 ## Jak Janina używa tego pliku
@@ -166,4 +177,6 @@ Przy każdej rozmowie z nowym klientem **sprawdza ten plik pierwszy** — żeby 
 - [Dz.U. 2025 poz. 621 — zatrudnianie cudzoziemców](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2025+621)
 - [Dz.U. 2026 poz. 441 — elektronizacja wniosków o zasiłki (od 1.07.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+441)
 - [Dz.U. 2026 poz. 927 — praca w upałach / § 30a BHP (od 11.01.2027)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+927)
+- [Dz.U. 2026 poz. 192 — tekst jednolity ustawy o PPK](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+192)
+- [Dz.U. 2026 poz. 989 — PPK, wezwania PFR przez profil ZUS (od 7.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+989)
 - [ZUS — zmiany w kontroli zwolnień od 13.04.2026](https://www.zus.pl/-/zmiany-w-kontroli-i-wykorzystywaniu-zwolnie%C5%84-od-pracy-od-13-kwietnia-2026-r.)
