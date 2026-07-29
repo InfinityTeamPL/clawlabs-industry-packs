@@ -9,6 +9,33 @@ Wszystkie istotne zmiany w paczkach branżowych. Format: [Keep a Changelog](http
 ### kadry
 - (in progress) testowanie Janiny na żywej VM — iteracje SOUL/IDENTITY/KB po rozmowach testowych
 
+### bogumil
+- (in progress) pierwsza wersja KB do walidacji — brak VM, brak snapshotu
+
+---
+
+## [bogumil/0.1.0] — 2026-04-28
+
+Pierwsze wdrożenie paczki IT i cyberbezpieczeństwa. Bogumił — agent AI dla polskich SMB bez działu IT.
+
+### Added
+- 8 plików KB:
+  - `monitoring/domena-ssl-uptime.md` — WHOIS PL, progi alertów, popularne rejestry PL, grace period
+  - `monitoring/raport-tygodniowy.md` — format cotygodniowego raportu, 4 przykłady
+  - `incydenty/phishing.md` — 3 scenariusze reakcji, RODO Art. 33, prewencja
+  - `incydenty/ransomware.md` — natychmiastowe kroki, No More Ransom, UODO
+  - `incydenty/podejrzane-logowanie.md` — email/serwer/Windows, Event 4625/4624
+  - `windows/health-check.md` — 8 komend PowerShell przez desktop bridge, tryb bez desktop app
+  - `checklisty/onboarding-klienta.md` — 5-krokowa sekwencja, szablon memory/firma.md
+  - `checklisty/audyt-miesięczny.md` — pełna lista kontrolna, progi eskalacji, format raportu
+- Runtime manifest: `clawlabspro/src/lib/industry-packs/bogumil.ts`
+- Zarejestrowany w `clawlabspro/src/lib/industry-packs/index.ts`
+
+### Decyzje projektowe v1
+- Monitoring domeny/SSL/uptime + incydenty defensywne — bez pentestingu
+- Desktop bridge (172.17.0.1:3001) opcjonalny — core wartość działa bez niego
+- RODO Art. 33 (72h do UODO) flagowany przy każdym incydencie z potencjalnym naruszeniem danych
+
 ---
 
 ## [kadry/0.1.0] — 2026-04-21
