@@ -1,6 +1,6 @@
 # Zmiany w prawie pracy 2026 — przegląd roku
 
-_Stan na 2026-07-28 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do poz. 1000 z 24.07.2026 — z zakresu prawa pracy i ubezpieczeń doszła jedna pozycja: **poz. 989**, nowelizacja ustawy o PPK, wejście 7.08.2026). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
+_Stan na 2026-08-10 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do **poz. 1072 z 7.08.2026**). W tym tygodniu dwie nowe pozycje: (1) 🔴 **NOWELA ANTYMOBBINGOWA JEST W Dz.U. — poz. 1046 z 4.08.2026, wchodzi w życie 5.11.2026**, regulaminy do dostosowania do 5.05.2027; (2) **Dz.U. 2026 poz. 1072** — obywatele Wenezueli, Gruzji i Kolumbii nie mogą pracować w ruchu bezwizowym mimo zezwolenia na pracę (od 22.08.2026). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
 
 ## 📓 Notatki weryfikacyjne (po sesjach testowych)
 - **2026-06-08** — `notatki/2026-06-08-weryfikacja-kp-staz-ppk.md`
@@ -115,9 +115,12 @@ _Stan na 2026-07-28 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - Artykuły z lat 2023–2024 zapowiadające „pełne oskładkowanie od 2025/2026" są **NIEAKTUALNE**
 - Obowiązują dotychczasowe zasady (zbieg tytułów, minimalna podstawa) — szczegóły: `wynagrodzenia/oskladkowanie-zlecen-fakty.md`
 
-### Mobbing — nowelizacja WCIĄŻ w procesie legislacyjnym
-- Zaostrzenie (polityka antymobbingowa, zadośćuczynienie min. 6× minimalnego wynagrodzenia) — **projekt, nie prawo**
-- Przed cytowaniem sprawdzić aktualny etap procesu legislacyjnego (RCL/Sejm)
+### Mobbing — ustawa OGŁOSZONA, ale do 4.11.2026 NIE OBOWIĄZUJE
+- **Nowela jest w Dz.U.: poz. 1046 z 4.08.2026.** Wchodzi w życie **5.11.2026** (art. 6 — po upływie 3 miesięcy od ogłoszenia). Do 4.11.2026 włącznie stosuje się **starą definicję z art. 94³ § 2 KP** (uporczywe i długotrwałe nękanie) i **nie ma ustawowego minimum zadośćuczynienia** za mobbing
+- Poprawna odpowiedź Janiny: „ustawa jest już ogłoszona w Dz.U. i wejdzie w życie 5 listopada 2026 — dziś nadal stosujemy definicję z art. 94³ § 2 KP, ale warto już przygotować regulamin, bo na jego dostosowanie jest czas do 5 maja 2027"
+- ❌ Nie mów, że nowela „czeka na podpis Prezydenta" ani „czeka na ogłoszenie" — te etapy są za nami (podpis 30.07.2026, ogłoszenie 4.08.2026)
+- ⚠️ **Próg 10 pracowników dotyczy TYLKO obowiązku ujęcia reguł w regulaminie** (nowy art. 94³ᵃ § 1 KP). Sam obowiązek przeciwdziałania mobbingowi (art. 94³ § 1 KP) wiąże **każdego pracodawcę, niezależnie od liczby zatrudnionych** — i przed, i po 5.11.2026
+- Szczegóły: `kodeks-pracy/07-mobbing-dyskryminacja.md` | Akt: `akty-prawne/custom/du-2026-1046_*`
 
 ---
 
@@ -132,10 +135,38 @@ _Stan na 2026-07-28 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - **Ustawa o PPK — nowy tekst jednolity: Dz.U. 2026 poz. 192** (obwieszczenie Marszałka Sejmu z 13.02.2026). To jego należy cytować; akt pierwotny z 2018 r. (`du-2018-2215_*`) zostaje w bazie tylko do celów historycznych. ⚠️ Jeden fragment tekstu jednolitego jest już nieaktualny: **art. 8 ust. 5** — zmieniony przez Dz.U. 2026 poz. 989 od 7.08.2026. Szczegóły: `wynagrodzenia/ppk-2026.md`
 - **Składka zdrowotna przedsiębiorcy**: zapowiadana obniżka (model dwuskładnikowy) została ZAWETOWANA — od 1.02.2026 podstawa wraca do 100% płacy min., min. składka 432,54 zł. Nie obiecuj klientom „nadchodzącej obniżki".
 
+## 🤖 AI w rekrutacji i zarządzaniu pracownikami (dodane w audycie 3.08.2026) 🆕
+
+Nowy obszar w bazie — pełna notatka: `ai-w-hr-2026.md`. Najkrócej:
+
+- **Obowiązki dla AI wysokiego ryzyka w HR (rekrutacja, filtrowanie CV, ocena, awanse, zwolnienia — zał. III pkt 4 AI Act) NIE zaczęły obowiązywać 2.08.2026.** Rozporządzenie **(UE) 2026/1744** („Digital Omnibus on AI", opublikowane w Dz. Urz. UE 24.07.2026, w mocy od 27.07.2026) przesunęło je na **2.12.2027** (systemy samodzielne) i **2.08.2028** (AI wbudowana w produkty, zał. I). To samo dotyczy obowiązku informowania pracowników z art. 26 ust. 7 AI Act.
+- **Ale zakazy obowiązują już teraz.** Od **2.02.2025** obowiązuje **zakaz wykorzystywania AI do wnioskowania o emocjach osoby fizycznej w miejscu pracy** (art. 5 ust. 1 lit. f AI Act; wyjątek tylko względy medyczne lub bezpieczeństwa) — sankcja do 35 mln EUR / 7% obrotu. Od 2.02.2025 działa też obowiązek kompetencji AI u personelu (art. 4, złagodzony przez omnibus).
+- **Od 2.08.2026 obowiązuje art. 50 AI Act** (przejrzystość) — tego terminu omnibus NIE przesunął: chatbot rekrutacyjny/kadrowy musi być rozpoznawalny jako AI, treści generowane przez AI mają być oznaczane maszynowo (dla systemów już na rynku okres przejściowy na znakowanie z art. 50 ust. 2 do 2.12.2026).
+- **Polska ustawa z 3.07.2026 o systemach sztucznej inteligencji (Dz.U. 2026 poz. 1003)**, ogłoszona 27.07.2026 — nie tworzy nowych obowiązków merytorycznych, tylko wykonuje AI Act: powołuje **Komisję Rozwoju i Bezpieczeństwa Sztucznej Inteligencji (KRiBSI)** jako organ nadzoru rynku. Wejście w życie (art. 127): **28.07.2026** (art. 125 ust. 4), **11.08.2026** (zasadnicza część), **28.10.2026** (art. 8–18 i rozdz. 3–5, 8, 9 — czyli kontrola, postępowania i **kary**). Akt: `akty-prawne/custom/du-2026-1003_*`
+- **RODO obowiązuje niezależnie** i to ono jest dziś realnym ograniczeniem: art. 22 (zakaz decyzji wyłącznie zautomatyzowanych o istotnym skutku — np. automatyczne odrzucenie CV bez człowieka), art. 13–14 (obowiązek informacyjny), art. 35 (DPIA) + zakaz dyskryminacji z art. 11³ i 18³ᵃ KP.
+
 ## 🗓️ OGŁOSZONE, ale JESZCZE NIE OBOWIĄZUJĄ (akty w Dz.U. z odroczonym wejściem w życie)
 
-### PPK — wezwania PFR przez profil informacyjny ZUS (od 7.08.2026) 🆕
-- **Ustawa z 29.05.2026 o zmianie ustawy o PPK oraz ustawy covidowej (Dz.U. 2026 poz. 989)**, ogłoszona 23.07.2026, w życie **7.08.2026** (14 dni od ogłoszenia)
+### 🔴 Nowela antymobbingowa — KP + KPC (od 5.11.2026) 🆕 NAJWAŻNIEJSZA ZMIANA TEGO ROKU
+- **Ustawa z 19.06.2026 o zmianie ustawy — Kodeks pracy oraz ustawy — Kodeks postępowania cywilnego (Dz.U. 2026 poz. 1046)**, ogłoszona **4.08.2026**, w życie **5.11.2026** (art. 6: 3 miesiące od ogłoszenia)
+- **Nowa definicja (art. 94³ § 2):** mobbing = zachowania polegające na **uporczywym nękaniu pracownika**. Znika „długotrwałość" i wymóg skutku; **cel sprawcy nieistotny** (§ 7); zachowania incydentalne to nie mobbing (§ 3); sprawcą może być też **zleceniobiorca/B2B** (§ 8); rozliczanie z pracy i krytyka we właściwej formie mobbingiem nie są (§ 9)
+- **Zadośćuczynienie min. 6× minimalne wynagrodzenie** (2026: **28 836 zł**) — art. 94³ § 11; **regres pracodawcy wobec sprawcy** — § 12
+- **Nowy art. 94³ᵃ:** pracodawca zatrudniający **co najmniej 10 pracowników** ustala reguły, procedury i **częstotliwość działań** w regulaminie (uzgodnienie ze związkami/przedstawicielami, 30 dni); te same treści wchodzą do obowiązkowej treści regulaminu pracy (art. 104¹ § 1 pkt 10)
+- **Dyskryminacja:** nowa **dyskryminacja przez założenie i przez skojarzenie** (art. 18³ᵃ § 4¹); **zadośćuczynienie min. 1× płaca minimalna, przy wielokrotnym naruszeniu min. 3×** (art. 18³ᵈ); ochrona przed odwetem obejmuje też **osobę wspierającą** (art. 18³ᵉ § 3); ciężar dowodu na pracodawcy wprost w KP (art. 18³ᶠ)
+- **KPC:** sprawy o mobbing/dobra osobiste/równe traktowanie → **sądy rejonowe** (art. 461 § 1¹); **nowy art. 477⁶ᵃ — zakaz oddalenia powództwa** tylko dlatego, że roszczenie należało oprzeć na innej podstawie
+- ⏰ **TERMIN DLA PRACODAWCÓW: 5.05.2027** (art. 4 — 6 miesięcy od wejścia w życie) na dostosowanie regulaminu pracy albo wydanie regulaminu z art. 94³ᵃ
+- **Przepis międzyczasowy (art. 3):** nowe zasady stosuje się do nękania, które **zaczęło się przed 5.11.2026 i trwa po tej dacie**
+- Szczegóły: `kodeks-pracy/07-mobbing-dyskryminacja.md` | Akt: `akty-prawne/custom/du-2026-1046_*`
+
+### Cudzoziemcy — koniec pracy w ruchu bezwizowym dla 3 państw (od 22.08.2026) 🆕
+- **Rozporządzenie MRPiPS z 31.07.2026 (Dz.U. 2026 poz. 1072)**, ogłoszone 7.08.2026, w życie **22.08.2026** (14 dni od ogłoszenia), podstawa: art. 3 ust. 4 ustawy DU/2025/621
+- Obywatele **Wenezueli, Gruzji i Kolumbii** z zezwoleniem na pracę **nie mogą wykonywać pracy w czasie pobytu bezwizowego** — potrzebny inny tytuł pobytowy
+- **Przejściowo (§ 2):** kto rozpoczął pracę przed 22.08.2026, kontynuuje ją do końca okresu pobytu bezwizowego
+- ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** (Armenia, Białoruś, Mołdawia, Ukraina)
+- Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akt: `akty-prawne/custom/du-2026-1072_*`
+
+### ✅ PPK — wezwania PFR przez profil informacyjny ZUS — **JUŻ OBOWIĄZUJE od 7.08.2026**
+- **Ustawa z 29.05.2026 o zmianie ustawy o PPK oraz ustawy covidowej (Dz.U. 2026 poz. 989)**, ogłoszona 23.07.2026, **weszła w życie 7.08.2026** (14 dni od ogłoszenia) — na 10.08.2026 to już prawo obowiązujące
 - Nowe brzmienie **art. 8 ust. 5** ustawy o PPK: wezwanie PFR do zawarcia umowy o zarządzanie PPK (dla pracodawców, którzy nie zawarli jej w terminie) idzie **na profil informacyjny ZUS (PUE/eZUS)**, a nie listem. Termin na reakcję bez zmian: **30 dni od otrzymania wezwania**
 - **Nowy art. 8 ust. 5ad — fikcja doręczenia:** wezwanie skuteczne w dniu odbioru na profilu **albo po 14 dniach od udostępnienia, jeśli nieodebrane**. Pracodawca musi realnie monitorować profil płatnika
 - Uchylono **art. 31zy¹⁵ ustawy covidowej** (dawał tę możliwość tylko czasowo, na czas epidemii) — rozwiązanie stało się trwałe
@@ -151,10 +182,14 @@ _Stan na 2026-07-28 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 ## 🔭 Co śledzimy (do aktualizacji bazy)
 
 - [ ] **UC127** — ustawa wdrażająca resztę dyrektywy 2023/970 (raportowanie luki płacowej) — spodziewana ~2027
-- [ ] **Nowela antymobbingowa** (Sejm druk 2289) — Sejm uchwalił 19.06.2026, Senat nie zajął stanowiska 8.07.2026, **przekazano Prezydentowi do podpisu 9.07.2026**. Na **28.07.2026 nadal NIEPODPISANA, brak Dz.U.** — wciąż PROJEKT, nie prawo (ostatni etap w wykazie procesu legislacyjnego to „przekazano Prezydentowi"; skan Dz.U. do poz. 1000 z 24.07.2026 nie zawiera żadnej nowelizacji KP). Konstytucyjny termin na podpis to 21 dni od przedstawienia → **rozstrzygnięcie spodziewane ok. 30.07.2026**, sprawdzić w przyszłym tygodniu. Wejście: 3 miesiące od ogłoszenia + 6 mies. vacatio legis dla pracodawców na politykę antymobbingową. Po podpisie i ogłoszeniu w Dz.U. → uaktualnić `kodeks-pracy/07-mobbing-dyskryminacja.md` na stan obowiązujący
-- [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661; nowy TJ scali je w jedno)
+- [x] ~~Nowela antymobbingowa — podpis Prezydenta~~ → **PODPISANA 30.07.2026**
+- [x] ~~Nowela antymobbingowa — ogłoszenie w Dz.U.~~ → **OGŁOSZONA 4.08.2026, Dz.U. 2026 poz. 1046**; akt pobrany do bazy, notatka `kodeks-pracy/07-mobbing-dyskryminacja.md` przepisana (audyt 10.08.2026)
+- [ ] **Nowela antymobbingowa — WEJŚCIE W ŻYCIE 5.11.2026** ⏰ *najbliższy twardy termin*. W tygodniu 2–8.11.2026: przenieść opis z sekcji „ogłoszone, ale jeszcze nie obowiązują" do „co już obowiązuje", przepisać nagłówki w notatce mobbingowej na czas teraźniejszy, usunąć instrukcje „do 4.11.2026". Drugi termin: **5.05.2027** — koniec 6-miesięcznego okresu na dostosowanie regulaminów (art. 4 ustawy); przygotować wtedy checklistę/wzór regulaminu z art. 94³ᵃ
+- [ ] **Nowy tekst jednolity KPC** — nowela 1046 zmienia art. 47, 461 i dodaje art. 477⁶ᵃ; sprawdzić przy najbliższym obwieszczeniu
+- [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661/473 ani noweli antymobbingowej 1046; nowy TJ scali je w jedno)
 - [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem)
 - [ ] **PPK — autozapis 2027** (co 4 lata, art. 23 ust. 5–6 ustawy o PPK): **do 28.02.2027** pracodawca *informuje* uczestników, którzy złożyli rezygnację, o wznowieniu wpłat; **od 1.04.2027** wpłaty są wznawiane, chyba że uczestnik złoży ponowną deklarację rezygnacji. ⚠️ Skorygowano wcześniejszy zapis „autozapis 1.03.2027 / zebrać rezygnacje do 28.02.2027" — ustawa mówi o wznowieniu wpłat **od 1 kwietnia**, a koniec lutego to termin obowiązku informacyjnego, nie termin na zbieranie rezygnacji (ponowna rezygnacja działa od miesiąca złożenia — art. 23 ust. 4). Szczegóły: `wynagrodzenia/ppk-2026.md`
+- [ ] **AI Act — powołanie KRiBSI i start kar.** Przewodniczącego Komisji Sejm powołuje do ok. **11.10.2026** (2 mies. od wejścia ustawy w życie), pierwsze posiedzenie do ok. 11.11.2026; **przepisy o kontroli i karach wchodzą 28.10.2026**. Sprawdzić wtedy, czy KRiBSI wydał wytyczne dotyczące HR. Kolejny twardy termin: **2.12.2026** — koniec okresu przejściowego na znakowanie treści z art. 50 ust. 2 AI Act. Notatka: `ai-w-hr-2026.md`
 - [ ] Limity składek ZUS 2027 (publikacja ~grudzień 2026)
 
 ## Jak Janina używa tego pliku
@@ -179,4 +214,10 @@ Przy każdej rozmowie z nowym klientem **sprawdza ten plik pierwszy** — żeby 
 - [Dz.U. 2026 poz. 927 — praca w upałach / § 30a BHP (od 11.01.2027)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+927)
 - [Dz.U. 2026 poz. 192 — tekst jednolity ustawy o PPK](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+192)
 - [Dz.U. 2026 poz. 989 — PPK, wezwania PFR przez profil ZUS (od 7.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+989)
+- [Dz.U. 2026 poz. 1003 — ustawa o systemach sztucznej inteligencji (od 11.08.2026, kary od 28.10.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1003)
+- [Dz.U. 2026 poz. 1046 — nowela antymobbingowa KP + KPC (ogłoszona 4.08.2026, w życie 5.11.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1046)
+- [Dz.U. 2026 poz. 1072 — praca cudzoziemców w ruchu bezwizowym (od 22.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1072)
+- [Rozporządzenie (UE) 2024/1689 — AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
+- [Rozporządzenie (UE) 2026/1744 — Digital Omnibus on AI (przesunięcie obowiązków high-risk na 2.12.2027)](https://eur-lex.europa.eu/eli/reg/2026/1744/oj)
+- [Sejm — proces legislacyjny druku 2289 (nowela antymobbingowa)](https://api.sejm.gov.pl/sejm/term10/processes/2289)
 - [ZUS — zmiany w kontroli zwolnień od 13.04.2026](https://www.zus.pl/-/zmiany-w-kontroli-i-wykorzystywaniu-zwolnie%C5%84-od-pracy-od-13-kwietnia-2026-r.)

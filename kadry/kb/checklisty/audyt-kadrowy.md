@@ -167,6 +167,8 @@ _Janina przy wchodzeniu do nowego klienta lub raz w roku — systematyczny przeg
 - [ ] **Procedura rozpatrywania** — komisja, terminy, dokumentacja
 - [ ] **Szkolenia antymobbingowe** — dla kadry + pracowników (co 2-3 lata)
 - [ ] **Równe traktowanie w rekrutacji** — widełki, neutralne ogłoszenia
+- [ ] 🆕 **Regulamin z art. 94³ᵃ KP (od 5.11.2026)** — czy firma zatrudnia **co najmniej 10 pracowników**? Jeśli tak, musi mieć **reguły, procedury i częstotliwość działań** (godność i dobra osobiste, równe traktowanie, dyskryminacja, mobbing) w regulaminie pracy, układzie zbiorowym albo w odrębnym regulaminie. **Termin: 5.05.2027** (art. 4 ustawy Dz.U. 2026 poz. 1046). Pamiętaj o uzgodnieniu ze związkami/przedstawicielami pracowników (30 dni) i o wejściu w życie 2 tygodnie po podaniu do wiadomości
+- [ ] 🆕 **Częstotliwość działań wskazana wprost** — ustawa wymaga określenia, jak często (szkolenia, ankiety, przeglądy), a nie tylko „że"
 
 ### Symptomy problemu (sprawdzamy)
 - [ ] **Rotacja w zespole** — nietypowa?

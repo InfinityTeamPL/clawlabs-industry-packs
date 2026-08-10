@@ -1,8 +1,8 @@
 # Mobbing i dyskryminacja — KP art. 11³-11⁹, 94³, 183¹-183⁷
 
-_Stan: 2026-07-08. Nowelę antymobbingową Sejm uchwalił 19.06.2026, jest w Senacie — JESZCZE NIE OBOWIĄZUJE (wejście ~6 mies. po ogłoszeniu w Dz.U.). Poniżej opisano PRAWO OBOWIĄZUJĄCE; nadchodzące zmiany w ramce na końcu sekcji roszczeń._
+_Stan: 2026-08-10. Nowela antymobbingowa została **OGŁOSZONA w Dz.U. 4.08.2026 — ustawa z 19.06.2026 o zmianie ustawy Kodeks pracy oraz ustawy Kodeks postępowania cywilnego, Dz.U. 2026 poz. 1046**. Wejście w życie: **5 listopada 2026** (po upływie 3 miesięcy od ogłoszenia, art. 6 ustawy). **Do 4.11.2026 włącznie obowiązuje stan opisany niżej w częściach „PRAWO OBOWIĄZUJĄCE"**; pełny opis nowych przepisów — w sekcji „Nowela Dz.U. 2026 poz. 1046" na końcu pliku. Akt: `akty-prawne/custom/du-2026-1046_*`._
 
-## Mobbing — definicja (art. 94³ § 2 KP)
+## Mobbing — definicja (art. 94³ § 2 KP) — PRAWO OBOWIĄZUJĄCE do 4.11.2026
 
 > Mobbing oznacza działania lub zachowania dotyczące pracownika lub skierowane przeciwko pracownikowi, **polegające na uporczywym i długotrwałym nękaniu lub zastraszaniu** pracownika, wywołujące u niego zaniżoną ocenę przydatności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie pracownika, izolowanie go lub wyeliminowanie z zespołu.
 
@@ -57,7 +57,7 @@ Sąd bada czy pracodawca:
 - **Wysokość:** ustala sąd; **obecnie (stan obowiązujący) BRAK minimum** w przepisach (tylko „odpowiednia" suma)
 - Nie wymaga rozwiązania umowy
 
-> 📌 **Nadchodząca nowela antymobbingowa (uchwalona przez Sejm 19.06.2026, w Senacie — jeszcze NIE obowiązuje).** Po wejściu w życie (ok. 6 mies. vacatio legis) wprowadzi: (1) **uproszczoną definicję mobbingu — bez wymogu wykazania celu/zamiaru sprawcy** (łatwiej dochodzić roszczeń), (2) **minimalne odszkodowanie/zadośćuczynienie nie niższe niż 6× minimalne wynagrodzenie** (6 × 4 806 = **28 836 zł** w 2026), nie tylko za rozstrój zdrowia, (3) **obowiązek określenia standardów i procedur antymobbingowych** w regulaminie pracy lub obwieszczeniu + działania prewencyjne i wsparcie ofiar. Janino: do dnia wejścia w życie NIE prezentuj tych zasad jako obowiązujących — śledź podpis Prezydenta i publikację w Dz.U.
+> 📌 **Nowela antymobbingowa jest już w Dz.U. (poz. 1046 z 4.08.2026), ale wchodzi w życie dopiero 5.11.2026.** Do 4.11.2026 obowiązuje stan opisany wyżej: brak ustawowego minimum zadośćuczynienia, definicja z „uporczywym i długotrwałym nękaniem". Pełny opis nowych przepisów (z kwotami i terminami) — sekcja „Nowela Dz.U. 2026 poz. 1046" na końcu pliku. **Janino: do 5.11.2026 nie prezentuj nowych zasad jako obowiązujących**, ale uprzedzaj klienta, że termin jest znany i pewny (akt jest ogłoszony), a na dostosowanie regulaminu jest czas do **5.05.2027**.
 
 ### 2. Rozwiązanie umowy bez wypowiedzenia (art. 55 § 1¹)
 - Pracownik może rozwiązać UoP przez pracodawcę z winy pracodawcy
@@ -128,6 +128,71 @@ Niepożądane zachowanie, którego celem lub skutkiem jest **naruszenie godnośc
 
 ---
 
+## 🆕 Nowela Dz.U. 2026 poz. 1046 — co zmienia się OD 5 LISTOPADA 2026
+
+**Ustawa z 19 czerwca 2026 r. o zmianie ustawy — Kodeks pracy oraz ustawy — Kodeks postępowania cywilnego (Dz.U. 2026 poz. 1046)**, ogłoszona **4.08.2026**, wchodzi w życie **5.11.2026** (art. 6: „po upływie 3 miesięcy od dnia ogłoszenia"). Podpisał Prezydent K. Nawrocki. Pełny tekst: `akty-prawne/custom/du-2026-1046_*`.
+
+### Nowa definicja mobbingu (art. 94³ § 2–10 KP)
+
+> **§ 2. Mobbing oznacza zachowania polegające na uporczywym nękaniu pracownika.**
+
+- **Znika przesłanka „długotrwałości"** i przesłanka skutku (zaniżona ocena przydatności zawodowej, poniżenie, izolacja). Zostaje sama **uporczywość nękania**.
+- **§ 3 — uporczywość** = nękanie **powtarzalne, nawracające lub stałe**. Zachowania **incydentalne mobbingiem nie są**, choćby naruszały dobra osobiste.
+- **§ 4 — otwarty katalog przejawów** (samodzielnie lub łącznie, gdy przyjmują postać uporczywego nękania): upokarzanie; uwłaczanie; zastraszanie; zaniżanie oceny przydatności zawodowej; nieuzasadniona krytyka, poniżanie lub ośmieszanie; utrudnianie funkcjonowania w środowisku pracy (efekty pracy, zadania, wykorzystanie kompetencji, komunikacja, dostęp do informacji); izolowanie lub eliminowanie z zespołu.
+- **§ 5** — zachowania mogą mieć elementy fizyczne, werbalne lub pozawerbalne.
+- **§ 6** — mobbingiem jest także **nakazanie lub zachęcanie** do takich zachowań.
+- **§ 7 — cel nie jest wymagany:** mobbing zachodzi, **choćby celem zachowań nie było uporczywe nękanie**. To najważniejsza zmiana dowodowa dla pracownika.
+- **§ 8 — od kogo:** pracodawca, przełożony, osoba na równorzędnym stanowisku, podwładny, inny pracownik oraz **osoby wykonujące pracę na innej podstawie niż stosunek pracy** (zlecenie, B2B); zarówno pojedyncza osoba, jak i grupa.
+- **§ 9 — co mobbingiem NIE jest:** uzasadnione i wyrażone we właściwej formie zachowania, **w szczególności rozliczanie z powierzonej pracy lub jej krytyka**.
+- **§ 10** — ocena jest zindywidualizowana, uwzględnia okoliczności konkretnego przypadku i sytuację pracownika.
+
+### Zadośćuczynienie i regres (art. 94³ § 11–12 KP)
+
+- **§ 11:** pracownik, który doznał mobbingu, może dochodzić od pracodawcy **zadośćuczynienia nie niższego niż SZEŚCIOKROTNOŚĆ minimalnego wynagrodzenia** albo odszkodowania. Przy płacy minimalnej 2026 (4 806 zł) daje to **28 836 zł minimum**; kwota rośnie automatycznie z płacą minimalną (2027: min. 6 × 4 950 zł = 29 700 zł, o ile RM ustali stawkę na poziomie propozycji).
+- **Nie ma już wymogu rozstroju zdrowia** ani rozwiązania umowy przez pracownika.
+- **§ 12 — regres:** pracodawca, który wypłacił zadośćuczynienie lub odszkodowanie, **może dochodzić wyrównania od osoby, od której pochodziły zachowania**, w wysokości odpowiadającej stopniowi winy tej osoby i pracodawcy.
+
+### Obowiązki pracodawcy — prewencja i REGULAMIN (art. 94³ § 1, art. 94³ᵃ, art. 94 pkt 2b–2c, art. 104¹ § 1 pkt 10 KP)
+
+- **art. 94³ § 1 (nowe brzmienie):** pracodawca ma **systematycznie przeciwdziałać mobbingowi**, w szczególności przez: działania **prewencyjne**, **wykrywanie** mobbingu, **właściwe reagowanie**, **działania naprawcze** oraz **wsparcie osób dotkniętych**. Ten obowiązek — jak dotąd — **wiąże KAŻDEGO pracodawcę, bez progu zatrudnienia**.
+- **art. 94³ᵃ § 1 — NOWY PRÓG 10 PRACOWNIKÓW (dotyczy tylko formy, nie samego obowiązku):** pracodawca zatrudniający **co najmniej 10 pracowników** ustala **reguły, procedury oraz częstotliwość działań** w obszarach przeciwdziałania: naruszaniu godności i innych dóbr osobistych, naruszaniu zasady równego traktowania, dyskryminacji oraz mobbingowi — **w regulaminie**, o ile nie są one określone w układzie zbiorowym pracy lub w regulaminie pracy.
+  - **§ 2–5 — tryb uzgodnienia:** treść regulaminu uzgadnia się z zakładową organizacją związkową (a przy wielu — ze wszystkimi; przy braku porozumienia — z organizacjami reprezentatywnymi zrzeszającymi po ≥ 5 % pracowników). Jeżeli **w 30 dni** od przedstawienia projektu nie dojdzie do uzgodnienia, **pracodawca ustala treść sam**, uwzględniając poczynione ustalenia. Gdy nie ma związków — uzgadnia z **przedstawicielami pracowników** wyłonionymi w trybie przyjętym u pracodawcy.
+  - **§ 6:** do regulaminu stosuje się odpowiednio art. 104³ KP (wejście w życie po 2 tygodniach od podania do wiadomości).
+- **art. 104¹ § 1 pkt 10:** te same reguły i procedury stają się **obowiązkową treścią regulaminu pracy** — chyba że pracodawca wydał odrębny regulamin z art. 94³ᵃ.
+- **art. 94 pkt 2b–2c:** pracodawca ma przeciwdziałać **wszelkiemu nierównemu traktowaniu, dyskryminacji oraz mobbingowi**, a także **naruszaniu godności i innych dóbr osobistych** pracownika — w szczególności w obszarach zdrowia, sfery osobistej i reputacji, komunikacji w miejscu pracy, pozycji w zespole, efektów pracy i jej oceny oraz statusu zawodowego i kwalifikacji.
+- ⚠️ **TERMIN DLA PRACODAWCÓW: 5 maja 2027** — art. 4 ustawy daje **6 miesięcy od dnia wejścia w życie** (czyli od 5.11.2026) na dostosowanie regulaminu pracy albo wydanie odrębnego regulaminu z art. 94³ᵃ § 1.
+
+### Zmiany w przepisach o dyskryminacji (art. 18³ᵃ–18³ᵍ KP)
+
+- **art. 18³ᵃ § 4¹ — dwie nowe postacie dyskryminacji:** **dyskryminacja przez założenie** (przyczyna była mylnie wiązana z pracownikiem) i **dyskryminacja przez skojarzenie** (z uwagi na powiązanie z osobą, której przyczyna dotyczy — np. rodzic dziecka z niepełnosprawnością).
+- **art. 18³ᵃ § 2** — niejednakowe traktowanie jest dopuszczalne, **gdy jest obiektywnie uzasadnione**.
+- **art. 18³ᵃ § 5 pkt 2 — molestowanie**: każde niepożądane zachowanie, którego celem lub skutkiem jest naruszenie godności i stworzenie zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery; elementy fizyczne, werbalne lub pozawerbalne.
+- **art. 18³ᵈ — ZADOŚĆUCZYNIENIE ZAMIAST/OBOK ODSZKODOWANIA:** **nie niższe niż minimalne wynagrodzenie** (2026: 4 806 zł), a przy **wielokrotnym naruszeniu** — **nie niższe niż trzykrotność** minimalnego wynagrodzenia (2026: **14 418 zł**), przy czym sąd ocenia rozmiar krzywdy i zasądza kwotę odpowiednio wyższą. **§ 3 definiuje „wielokrotne naruszenie"**: naruszenia powtarzalne z tej samej przyczyny, z wielu przyczyn albo naruszenie jednokrotne z wielu przyczyn jednocześnie.
+- **art. 18³ᵉ — ochrona przed odwetem (rozszerzona):** skorzystanie z uprawnień z tytułu naruszenia przepisów prawa pracy nie może być podstawą **jakiegokolwiek niekorzystnego traktowania** ani przyczyną wypowiedzenia/rozwiązania umowy; pokrzywdzonemu przysługuje **zadośćuczynienie nie niższe niż minimalne wynagrodzenie** lub odszkodowanie. **§ 3 — ta sama ochrona dla osoby, która udzieliła wsparcia** koledze korzystającemu z tych uprawnień (świadek!). **§ 4 — wyjątek:** ochrona nie przysługuje temu, kto **wiedział, że do naruszenia nie doszło**.
+- **art. 18³ᶠ — ciężar dowodu wprost w KP:** osoba zarzucająca naruszenie **uprawdopodobnia** fakt; po uprawdopodobnieniu **pracodawca musi wykazać, że nie dopuścił się naruszenia**. Dotyczy też postępowań prowadzonych **na podstawie wewnętrznych procedur pracodawcy**, nie tylko sądowych.
+- **art. 18³ᵍ** — obowiązek systematycznego przeciwdziałania naruszaniu zasady równego traktowania (prewencja, wykrywanie, reagowanie, działania naprawcze, wsparcie) — lustrzany do art. 94³ § 1.
+
+### Zmiany procesowe (KPC — art. 2 noweli)
+
+- **art. 47 § 2 pkt 1 lit. d KPC** — sprawy o **naruszenie dóbr osobistych i roszczenia z tym związane** rozpoznaje w I instancji sąd w składzie **jednego sędziego i dwóch ławników**.
+- **art. 461 § 1¹ KPC** — do **sądów rejonowych**, bez względu na wartość przedmiotu sporu i majątkowy/niemajątkowy charakter sprawy, należą m.in. sprawy **o ochronę dóbr osobistych, mobbing i naruszenie zasady równego traktowania** (oraz odwołania od decyzji PIP z art. 11 ust. 1 pkt 7a ustawy o PIP).
+- **NOWY art. 477⁶ᵃ KPC** — w sprawach o zadośćuczynienie/odszkodowanie z tytułu naruszenia dóbr osobistych, równego traktowania lub mobbingu **nie wolno oddalić powództwa tylko dlatego, że stan faktyczny uzasadnia roszczenie z innego tytułu** niż wskazany przez pracownika. Koniec z przegranymi „bo to była dyskryminacja, a nie mobbing".
+
+### Przepisy przejściowe
+
+- **art. 3** — nowe przepisy KP stosuje się także do **wielokrotnego naruszenia zasady równego traktowania** i **uporczywego nękania**, które **rozpoczęły się przed 5.11.2026 i trwały po tej dacie**. Zachowanie ciągnące się z 2026 na 2027 rok będzie więc oceniane po nowemu.
+- **art. 5** — do **postępowań sądowych wszczętych i niezakończonych** przed 5.11.2026 stosuje się **dotychczasowe** przepisy KPC.
+
+### Co Janina robi z tym u klienta (plan na jesień 2026)
+
+1. **Do 5.11.2026** — audyt: czy jest regulamin pracy, ilu pracowników (próg **10**), czy istnieje polityka antymobbingowa i kanał zgłoszeń.
+2. **Projekt regulaminu** z regułami, procedurami i **częstotliwością działań** (ustawa wymaga wskazania częstotliwości — np. szkolenia co 12 miesięcy, ankieta co 6 miesięcy).
+3. **Uzgodnienie** ze związkami albo przedstawicielami pracowników — pamiętać o **30 dniach** i o tym, że regulamin wchodzi w życie **2 tygodnie** po podaniu do wiadomości.
+4. **Termin ostateczny: 5.05.2027.**
+5. Uprzedzić zarząd o **regresie wobec sprawcy** (art. 94³ § 12) i o tym, że mobbing może pochodzić także od **zleceniobiorcy/B2B** — procedury muszą obejmować współpracowników spoza etatu.
+
+---
+
 ## Praktyka Janiny
 
 ### Zgłoszenie mobbingu — pierwsze kroki
@@ -146,9 +211,13 @@ Niepożądane zachowanie, którego celem lub skutkiem jest **naruszenie godnośc
 
 ### Zapytania pracownicy: "Czy X to mobbing?"
 Nie odpowiadaj tak/nie. Odpowiedz:
-> "Mobbing ma 4 cechy — uporczywość, długotrwałość, działanie skierowane przeciwko, skutek psychiczny. Z tego co opowiadasz, [wskazanie jakie cechy pasują i jakie nie]. Żeby to formalnie ocenić, potrzebujemy zespołu w firmie lub radcy prawnego. Mogę pomóc Ci to zgłosić we właściwy sposób."
+> **Do 4.11.2026:** „Mobbing ma 4 cechy — uporczywość, długotrwałość, działanie skierowane przeciwko, skutek psychiczny. Z tego co opowiadasz, [wskazanie jakie cechy pasują i jakie nie]. Żeby to formalnie ocenić, potrzebujemy zespołu w firmie lub radcy prawnego. Mogę pomóc Ci to zgłosić we właściwy sposób."
+>
+> **Od 5.11.2026:** „Mobbing to uporczywe nękanie — powtarzalne, nawracające lub stałe. Nie trzeba już wykazywać, że trwało długo ani że sprawca miał taki cel; nie liczą się zachowania incydentalne, a zwykłe rozliczanie z pracy czy krytyka wyrażona we właściwej formie mobbingiem nie są. Z tego co opowiadasz, [wskazanie]. Żeby to formalnie ocenić, potrzebujemy zespołu w firmie lub radcy prawnego."
 
 ## Źródła
 - [Kodeks Pracy art. 11²-11⁹, 94³, 18³ᵃ-18³ᵈ](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141)
+- [Dz.U. 2026 poz. 1046 — nowela antymobbingowa (ogłoszona 4.08.2026, w życie 5.11.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1046)
+- [Sejm — proces legislacyjny druku 2289](https://api.sejm.gov.pl/sejm/term10/processes/2289)
 - [PIP — mobbing](https://www.pip.gov.pl/pl/porady-prawne/mobbing)
 - [Rzecznik Praw Obywatelskich — dyskryminacja](https://bip.brpo.gov.pl)

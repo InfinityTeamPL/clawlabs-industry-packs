@@ -1,6 +1,15 @@
 # Zatrudnianie cudzoziemców w Polsce — przewodnik kadrowej
 
-_Stan: 2026-07-08. Podstawa: ustawa z 20.03.2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium RP (Dz.U. 2025 poz. 621, ELI DU/2025/621), obowiązuje od **1.06.2025**; ustawa o cudzoziemcach (DU/2025/1079); praca.gov.pl._
+_Stan: 2026-08-10. Podstawa: ustawa z 20.03.2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium RP (Dz.U. 2025 poz. 621, ELI DU/2025/621), obowiązuje od **1.06.2025**; ustawa o cudzoziemcach (DU/2025/1079); praca.gov.pl._
+
+## 🆕 Od 22.08.2026 — zezwolenie na pracę NIE wystarczy przy pobycie bezwizowym (3 państwa)
+
+**Rozporządzenie MRPiPS z 31.07.2026 (Dz.U. 2026 poz. 1072)**, ogłoszone 7.08.2026, wchodzi w życie **22.08.2026** (14 dni od ogłoszenia). Wydane na podstawie **art. 3 ust. 4 ustawy DU/2025/621**.
+
+- Obywatele **Wenezueli, Gruzji i Kolumbii** — nawet gdy mają **zezwolenie na pracę** — **nie mogą wykonywać pracy w czasie pobytu w Polsce w ramach ruchu bezwizowego**. Muszą mieć tytuł pobytowy inny niż ruch bezwizowy (wiza krajowa, zezwolenie na pobyt czasowy itp.).
+- **Przepis przejściowy (§ 2):** kto z tych trzech państw **rozpoczął pracę przed 22.08.2026** w ramach ruchu bezwizowego i ma zezwolenie na pracę, **może ją kontynuować na dotychczasowych zasadach do końca okresu pobytu bezwizowego**.
+- ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** o powierzeniu pracy (Armenia, Białoruś, Mołdawia, Ukraina — patrz niżej). To dwie różne listy.
+- Akt: `akty-prawne/custom/du-2026-1072_*`
 
 ## ⚠️ Od 1.06.2025 NOWA ustawa — stare procedury nieaktualne
 

@@ -1,6 +1,8 @@
 # Orzecznictwo SN — Mobbing i dyskryminacja — przeslanki, ciezar dowodu
 
-_Stan: 2026-07-08. Wybór najważniejszych tez Sądu Najwyższego (Izba Pracy i Ubezpieczeń Społecznych)._
+_Stan: 2026-08-10. Wybór najważniejszych tez Sądu Najwyższego (Izba Pracy i Ubezpieczeń Społecznych)._
+
+> 🔴 **UWAGA — zmiana stanu prawnego od 5.11.2026 (Dz.U. 2026 poz. 1046).** Tezy dotyczące **długotrwałości** nękania oraz wymogu **celu/skutku** odnoszą się do brzmienia art. 94³ § 2 KP obowiązującego **do 4.11.2026**. Od 5.11.2026 mobbing to „zachowania polegające na uporczywym nękaniu pracownika" — **bez przesłanki długotrwałości** i **bez wymogu celu sprawcy** (nowy art. 94³ § 7). Aktualne pozostają tezy o obiektywnym wzorcu oceny, o tym, że korzystanie z uprawnień kierowniczych i krytyka pracy nie są mobbingiem (potwierdzone ustawowo w nowym § 9), oraz o indywidualnej ocenie okoliczności (nowy § 10). Przy zdarzeniach po 5.11.2026 **nie powołuj tez o „długotrwałości" jako obowiązującego wymogu**. Szczegóły: `kodeks-pracy/07-mobbing-dyskryminacja.md`.
 
 > ⚠️ **Orzecznictwo to wskazówka interpretacyjna, nie źródło prawa.** Linia orzecznicza bywa niejednolita, a każdą sprawę sąd ocenia indywidualnie na tle konkretnego stanu faktycznego. Cytuj sygnaturę i tezę jako argument, nie jako gwarancję wyniku. W sprawach spornych kieruj do radcy prawnego.
 
