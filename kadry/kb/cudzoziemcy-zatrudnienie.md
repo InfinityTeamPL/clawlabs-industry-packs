@@ -1,15 +1,39 @@
 # Zatrudnianie cudzoziemców w Polsce — przewodnik kadrowej
 
-_Stan: 2026-08-10. Podstawa: ustawa z 20.03.2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium RP (Dz.U. 2025 poz. 621, ELI DU/2025/621), obowiązuje od **1.06.2025**; ustawa o cudzoziemcach (DU/2025/1079); praca.gov.pl._
+_Stan: 2026-08-17. Podstawa: ustawa z 20.03.2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium RP (Dz.U. 2025 poz. 621, ELI DU/2025/621), obowiązuje od **1.06.2025**; ustawa o cudzoziemcach (DU/2013/1650, tekst jednolity Dz.U. 2025 poz. 1079); praca.gov.pl._
 
-## 🆕 Od 22.08.2026 — zezwolenie na pracę NIE wystarczy przy pobycie bezwizowym (3 państwa)
+## 🔴 Gruzja, Kolumbia, Wenezuela — koniec ruchu bezwizowego do pracy (sierpień 2026)
+
+Dwa osobne rozporządzenia z sierpnia 2026 domykają tę samą lukę z dwóch stron. **Mają różne daty — nie mylić ich.**
+
+### Krok 1: od 15.08.2026 — wiza jest potrzebna do samego WJAZDU do pracy 🆕
+
+**Rozporządzenie MSZ z 10.08.2026 (Dz.U. 2026 poz. 1086)**, ogłoszone i w życie 12.08.2026; sam wyjątek od zwolnienia wizowego stosuje się **od 15.08.2026** (§ 3). Podstawa: **art. 58b ust. 1 ustawy o cudzoziemcach**.
+
+- Obywatele **Gruzji, Republiki Kolumbii i Boliwariańskiej Republiki Wenezueli** **wjeżdżający do Polski w związku z powierzeniem im pracy** (w rozumieniu art. 2 pkt 9 ustawy DU/2025/621) **przestali być zwolnieni z obowiązku wizowego** — muszą mieć **wizę**.
+- ⚠️ Wyjątek dotyczy **celu wjazdu, nie obywatelstwa jako takiego**: wjazd turystyczny czy rodzinny obywatela tych państw nadal może odbywać się bezwizowo. Wjazd „do pracy" — już nie.
+- **Przepis przejściowy (§ 4):** kto **przekroczył granicę RP przed 15.08.2026**, jest rozliczany według **przepisów dotychczasowych**.
+- Akt: `akty-prawne/custom/du-2026-1086_*`
+
+### Krok 2: od 22.08.2026 — zezwolenie na pracę NIE wystarczy przy pobycie bezwizowym
 
 **Rozporządzenie MRPiPS z 31.07.2026 (Dz.U. 2026 poz. 1072)**, ogłoszone 7.08.2026, wchodzi w życie **22.08.2026** (14 dni od ogłoszenia). Wydane na podstawie **art. 3 ust. 4 ustawy DU/2025/621**.
 
 - Obywatele **Wenezueli, Gruzji i Kolumbii** — nawet gdy mają **zezwolenie na pracę** — **nie mogą wykonywać pracy w czasie pobytu w Polsce w ramach ruchu bezwizowego**. Muszą mieć tytuł pobytowy inny niż ruch bezwizowy (wiza krajowa, zezwolenie na pobyt czasowy itp.).
 - **Przepis przejściowy (§ 2):** kto z tych trzech państw **rozpoczął pracę przed 22.08.2026** w ramach ruchu bezwizowego i ma zezwolenie na pracę, **może ją kontynuować na dotychczasowych zasadach do końca okresu pobytu bezwizowego**.
-- ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** o powierzeniu pracy (Armenia, Białoruś, Mołdawia, Ukraina — patrz niżej). To dwie różne listy.
 - Akt: `akty-prawne/custom/du-2026-1072_*`
+
+### Co to znaczy dla pracodawcy — praktycznie
+
+| Sytuacja | Jak jest |
+|---|---|
+| Rekrutujesz obywatela Gruzji/Kolumbii/Wenezueli **teraz**, ma przyjechać do pracy | Musi mieć **wizę** — wjazd bezwizowy „do pracy" odpada od 15.08.2026. Samo zezwolenie na pracę nie otworzy mu granicy |
+| Pracownik z tych państw **już jest w Polsce**, wjechał przed 15.08.2026, pracuje na zezwoleniu w ruchu bezwizowym | Wjazd rozliczany po staremu (§ 4 poz. 1086); pracę może kontynuować **do końca okresu pobytu bezwizowego** (§ 2 poz. 1072), o ile zaczął ją przed 22.08.2026 |
+| Pracownik z tych państw wjechał przed 15.08.2026, ale pracę chce **zacząć po 22.08.2026** | ❌ Nie w ruchu bezwizowym — przejściówka z poz. 1072 chroni tylko pracę **rozpoczętą przed** 22.08.2026. Potrzebny inny tytuł pobytowy |
+| Chcesz przedłużyć współpracę po upływie pobytu bezwizowego | Potrzebna **wiza krajowa albo zezwolenie na pobyt czasowy** — ruch bezwizowy przestaje być ścieżką dla pracy |
+
+- ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** o powierzeniu pracy (Armenia, Białoruś, Mołdawia, Ukraina — patrz niżej). To trzy różne listy: oświadczeniowa, wizowa (poz. 1086) i „zakaz pracy w ruchu bezwizowym" (poz. 1072).
+- ℹ️ Tego samego dnia wyszło **Dz.U. 2026 poz. 1085** — obowiązek wizowy dla obywateli Gruzji z **paszportami dyplomatycznymi i służbowymi** (też od 15.08.2026). Dla zatrudniania pracowników bez znaczenia. Akt: `akty-prawne/custom/du-2026-1085_*`
 
 ## ⚠️ Od 1.06.2025 NOWA ustawa — stare procedury nieaktualne
 
@@ -110,7 +134,13 @@ Dawny pułap „do 30 000 zł" z ustawy o promocji zatrudnienia jest **nieaktual
 ## Przykłady praktyczne
 
 **Q: Klient chce zatrudnić Gruzina na oświadczenie, „bo zawsze tak robił".**
-A: Od 1.12.2025 nie ma Gruzji na liście oświadczeniowej. Potrzebne **zezwolenie na pracę** (wojewoda, przez praca.gov.pl) albo inna podstawa pobytowo-zawodowa. Oświadczenie wpisane przed 1.12.2025 działa do końca swojego okresu.
+A: Od 1.12.2025 nie ma Gruzji na liście oświadczeniowej. Potrzebne **zezwolenie na pracę** (wojewoda, przez praca.gov.pl) albo inna podstawa pobytowo-zawodowa. Oświadczenie wpisane przed 1.12.2025 działa do końca swojego okresu. Do tego od **15.08.2026** Gruzin jadący do pracy musi mieć **wizę** (Dz.U. 2026 poz. 1086) — bezwizowo do pracy już nie wjedzie.
+
+**Q: Mam zezwolenie na pracę dla Kolumbijczyka, kupił bilet na wrzesień. Wystarczy?**
+A: Nie. Od **15.08.2026** wjazd w związku z powierzeniem pracy jest dla obywateli Kolumbii, Gruzji i Wenezueli **objęty obowiązkiem wizowym** — zezwolenie na pracę nie zastępuje wizy. Musi najpierw uzyskać wizę; przy jej wydawaniu oceniane jest ryzyko migracyjne. A od **22.08.2026** nawet gdyby wjechał bezwizowo, **nie wolno mu wykonywać pracy** w czasie pobytu bezwizowego (Dz.U. 2026 poz. 1072).
+
+**Q: Wenezuelczyk wjechał 10.08.2026 bezwizowo i pracuje u nas na zezwoleniu od 12.08. Musimy go odsyłać?**
+A: Nie. Wjechał **przed 15.08.2026**, więc wjazd rozliczamy po staremu (§ 4 poz. 1086), a pracę **rozpoczął przed 22.08.2026**, więc może ją kontynuować **do końca okresu pobytu bezwizowego** (§ 2 poz. 1072). Zaplanujcie jednak zawczasu wizę krajową albo zezwolenie na pobyt czasowy — po upływie pobytu bezwizowego dalsza praca bez nich będzie nielegalna.
 
 **Q: Umowa z Ukrainką po polsku, ona słabo czyta po polsku. Wystarczy ustnie przetłumaczyć?**
 A: Nie. Przed podpisaniem trzeba jej dać **pisemną wersję zrozumiałą** (np. po ukraińsku) i przechowywać ją razem z umową (art. 5 ust. 2). Do tego powiadomienie przez praca.gov.pl w 7 dni od rozpoczęcia pracy.
@@ -122,6 +152,9 @@ A: Nie — praca bez wymaganego zezwolenia/oświadczenia to nielegalne powierzen
 - [Praca.gov.pl — wnioski elektroniczne (zezwolenia, oświadczenia, powiadomienia)](https://www.praca.gov.pl)
 - [Ustawa z 20.03.2025 (Dz.U. 2025 poz. 621)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621) — tekst lokalnie: `akty-prawne/custom/du-2025-621_*/chunk_01–17.md`
 - [Rozporządzenie MRPiPS z 21.11.2025 — państwa „oświadczeniowe" (Dz.U. 2025 poz. 1617)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001617)
+- [Rozporządzenie MSZ z 10.08.2026 — obowiązek wizowy przy wjeździe do pracy: Gruzja, Kolumbia, Wenezuela (Dz.U. 2026 poz. 1086, od 15.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1086)
+- [Rozporządzenie MRPiPS z 31.07.2026 — zakaz pracy w ruchu bezwizowym (Dz.U. 2026 poz. 1072, od 22.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1072)
+- [Rozporządzenie MSZ z 10.08.2026 — paszporty dyplomatyczne i służbowe Gruzji (Dz.U. 2026 poz. 1085, od 15.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1085)
 - [Zielona Linia — zmiany od 1.12.2025](https://zielonalinia.gov.pl/wazne-zmiany-w-zasadach-zatrudniania-cudzoziemcow-wchodza-w-zycie-1-grudnia-2025-r/)
 - [PSZ — powiadomienie o powierzeniu pracy obywatelowi Ukrainy](https://psz.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/dla-cudzoziemcow/powierzenie-pracy-ukraina)
 - [UDSC — pobyt cudzoziemców](https://www.gov.pl/web/udsc)

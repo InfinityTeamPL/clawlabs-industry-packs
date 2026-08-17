@@ -1,10 +1,11 @@
 # Zmiany w prawie pracy 2026 — przegląd roku
 
-_Stan na 2026-08-10 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do **poz. 1072 z 7.08.2026**). W tym tygodniu dwie nowe pozycje: (1) 🔴 **NOWELA ANTYMOBBINGOWA JEST W Dz.U. — poz. 1046 z 4.08.2026, wchodzi w życie 5.11.2026**, regulaminy do dostosowania do 5.05.2027; (2) **Dz.U. 2026 poz. 1072** — obywatele Wenezueli, Gruzji i Kolumbii nie mogą pracować w ruchu bezwizowym mimo zezwolenia na pracę (od 22.08.2026). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
+_Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do **poz. 1095 z 13.08.2026** — ostatnia pozycja rocznika na dzień audytu). W tym tygodniu jedna nowa zmiana kadrowa: **Dz.U. 2026 poz. 1086** — obywatele Gruzji, Kolumbii i Wenezueli wjeżdżający do pracy **potrzebują wizy od 15.08.2026**; domyka to zmianę z poz. 1072, która od 22.08.2026 zakazuje im pracy w ruchu bezwizowym. Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
 
 ## 📓 Notatki weryfikacyjne (po sesjach testowych)
 - **2026-06-08** — `notatki/2026-06-08-weryfikacja-kp-staz-ppk.md`
 - **2026-06-08** — `notatki/2026-06-08-dwie-umowy-ten-sam-pracobiorca.md` — 4 pytania: urlop, staż art. 154¹ § 2 KP, nadgodziny/odpoczynek łączny, ZFŚS raz (nie podwójnie) — weryfikacja art. 36, 39, 41, 101², 186⁴², 186⁵, 186⁸ KP + nowelizacja stażowa du-2025/1423 + odprawy 2026 (CAP 72 090 zł) + PPK po ustaniu. Po sesji testowej z Cezarym.
+- **2026-08-17** — `notatki/2026-08-17-placa-minimalna-2027-propozycja-rzadu.md` (notatka własna Janiny na VM) — płaca minimalna 2027 to **PROPOZYCJA** 4 950 zł / 32,30 zł/h, a **nie** opublikowane rozporządzenie. W umowach stosować formułę „nie mniej niż płaca minimalna obowiązująca w danym roku", nie wpisywać stałej kwoty.
 
 ## ⚡ AKTUALNE STAWKI 2026
 
@@ -54,7 +55,7 @@ _Stan na 2026-08-10 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 
 ---
 
-## ✅ Co JUŻ OBOWIĄZUJE (stan na 8.07.2026) — 8 dużych zmian
+## ✅ Co JUŻ OBOWIĄZUJE (stan na 17.08.2026) — 9 dużych zmian
 
 ### 1. Reforma PIP — inspektor przekształca B2B/zlecenie w etat (od 8.07.2026) 🆕
 - **Ustawa z 11.03.2026 o zmianie ustawy o PIP (Dz.U. 2026 poz. 473)** — w mocy od DZIŚ (8.07.2026)
@@ -101,6 +102,16 @@ _Stan na 2026-08-10 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - Pełna elektronizacja (praca.gov.pl), likwidacja testu rynku pracy, surowsze sankcje
 - Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akt: `akty-prawne/custom/du-2025-621_*`
 
+### 9. Wiza wymagana przy wjeździe do pracy — Gruzja, Kolumbia, Wenezuela (od 15.08.2026) 🆕
+- **Rozporządzenie MSZ z 10.08.2026 (Dz.U. 2026 poz. 1086)**, ogłoszone i w życie 12.08.2026; **wyjątek od zwolnienia wizowego stosuje się od 15.08.2026** (§ 3). Podstawa: art. 58b ust. 1 ustawy o cudzoziemcach
+- Obywatele **Gruzji, Kolumbii i Wenezueli wjeżdżający do Polski w związku z powierzeniem im pracy** (art. 2 pkt 9 ustawy DU/2025/621) **stracili zwolnienie z obowiązku wizowego** — do pracy wjeżdżają **tylko na wizie**
+- ⚠️ Kryterium to **cel wjazdu**, nie samo obywatelstwo — wjazd turystyczny/rodzinny obywatela tych państw nadal może być bezwizowy
+- ⚠️ **Zezwolenie na pracę nie zastępuje wizy.** To dwie różne rzeczy: zezwolenie legalizuje pracę, wiza — wjazd i pobyt
+- **Przejściowo (§ 4):** kto przekroczył granicę RP **przed 15.08.2026**, jest rozliczany według przepisów dotychczasowych
+- Razem z poz. 1072 (od 22.08.2026 zakaz pracy w ruchu bezwizowym) domyka to lukę z dwóch stron: **wjazd** i **wykonywanie pracy**
+- Tego samego dnia: **Dz.U. 2026 poz. 1085** — obowiązek wizowy dla Gruzinów z paszportami dyplomatycznymi/służbowymi (dla kadr bez znaczenia)
+- Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akty: `akty-prawne/custom/du-2026-1086_*`, `du-2026-1085_*`
+
 ---
 
 ## 🚫 ANTY-HALUCYNACJE — czego NIE twierdzić (częste błędy z internetu)
@@ -109,6 +120,13 @@ _Stan na 2026-08-10 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - Termin transpozycji dyrektywy 2023/970 minął 7.06.2026, ale Polska wdrożyła **tylko etap rekrutacyjny** (poz. 807, od 24.12.2025)
 - Raportowanie luki płacowej (firmy 150+/100+), prawo pracownika do informacji o średnich wynagrodzeniach, struktury wynagrodzeń = **projekt UC127, spodziewany ~2027**
 - Janina NIE może mówić, że firmy już muszą raportować lukę płacową. Poprawna odpowiedź: „etap rekrutacyjny obowiązuje od 24.12.2025, raportowanie luki płacowej — dopiero po uchwaleniu ustawy z projektu UC127 (ok. 2027)"
+
+### Płaca minimalna 2027 — kwota 4 950 zł NIE jest jeszcze przesądzona 🆕
+- Część serwisów (m.in. rp.pl, GazetaPrawna, Infor) pisze w sierpniu 2026, że „rozporządzenie zostało już opublikowane w Dzienniku Ustaw". **To nieprawda.** Na **17.08.2026** rocznik Dz.U. 2026 kończy się na **poz. 1095 (13.08.2026)** i **nie ma w nim** rozporządzenia RM o minimalnym wynagrodzeniu na 2027 r. Dziennikarze opisują **projekt** skierowany do publikacji na RCL, nie akt ogłoszony
+- Poprawna odpowiedź Janiny: „rząd przyjął propozycję **4 950 zł / 32,30 zł/h**, ale rozporządzenie nie zostało jeszcze ogłoszone w Dz.U. — ustawowy termin dla Rady Ministrów to **15.09.2026**. Pewne jest tylko, że kwota **nie będzie niższa niż 4 950 zł**, bo RM nie może zejść poniżej kwoty przedstawionej wcześniej do negocjacji w RDS"
+- ❌ Nie podawaj 4 950 zł jako kwoty obowiązującej ani nie powołuj się na „rozporządzenie z Dz.U." — dopóki nie ma numeru pozycji, nie ma aktu
+- ❌ **Nie mów, że „negocjacje w RDS trwają"** — zakończyły się **9.07.2026 bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy poparli propozycję rządu). Etap negocjacyjny jest ZAMKNIĘTY; teraz kwotę ustala **jednostronnie Rada Ministrów rozporządzeniem**
+- ⚠️ Ogólna reguła: **doniesienie prasowe o „opublikowaniu" nie zastępuje pozycji w Dz.U.** Zawsze sprawdzaj ISAP/api.sejm.gov.pl. Jeśli podajesz numer projektu z wykazu prac RM (np. „RD…"), musisz go mieć potwierdzony w gov.pl/RCL — inaczej go nie podawaj
 
 ### Pełne oskładkowanie umów zleceń — PORZUCONE
 - Rada Ministrów **uchwałą z 29.01.2025** (rewizja KPO) oficjalnie wycofała się z pełnego ozusowania zleceń
@@ -158,11 +176,12 @@ Nowy obszar w bazie — pełna notatka: `ai-w-hr-2026.md`. Najkrócej:
 - **Przepis międzyczasowy (art. 3):** nowe zasady stosuje się do nękania, które **zaczęło się przed 5.11.2026 i trwa po tej dacie**
 - Szczegóły: `kodeks-pracy/07-mobbing-dyskryminacja.md` | Akt: `akty-prawne/custom/du-2026-1046_*`
 
-### Cudzoziemcy — koniec pracy w ruchu bezwizowym dla 3 państw (od 22.08.2026) 🆕
+### Cudzoziemcy — koniec pracy w ruchu bezwizowym dla 3 państw (etap II, od 22.08.2026)
 - **Rozporządzenie MRPiPS z 31.07.2026 (Dz.U. 2026 poz. 1072)**, ogłoszone 7.08.2026, w życie **22.08.2026** (14 dni od ogłoszenia), podstawa: art. 3 ust. 4 ustawy DU/2025/621
 - Obywatele **Wenezueli, Gruzji i Kolumbii** z zezwoleniem na pracę **nie mogą wykonywać pracy w czasie pobytu bezwizowego** — potrzebny inny tytuł pobytowy
 - **Przejściowo (§ 2):** kto rozpoczął pracę przed 22.08.2026, kontynuuje ją do końca okresu pobytu bezwizowego
 - ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** (Armenia, Białoruś, Mołdawia, Ukraina)
+- Etap I tej samej zmiany (obowiązek wizowy przy wjeździe, poz. 1086) **już obowiązuje od 15.08.2026** — patrz poz. 9 w sekcji „Co JUŻ OBOWIĄZUJE" wyżej
 - Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akt: `akty-prawne/custom/du-2026-1072_*`
 
 ### ✅ PPK — wezwania PFR przez profil informacyjny ZUS — **JUŻ OBOWIĄZUJE od 7.08.2026**
@@ -187,9 +206,10 @@ Nowy obszar w bazie — pełna notatka: `ai-w-hr-2026.md`. Najkrócej:
 - [ ] **Nowela antymobbingowa — WEJŚCIE W ŻYCIE 5.11.2026** ⏰ *najbliższy twardy termin*. W tygodniu 2–8.11.2026: przenieść opis z sekcji „ogłoszone, ale jeszcze nie obowiązują" do „co już obowiązuje", przepisać nagłówki w notatce mobbingowej na czas teraźniejszy, usunąć instrukcje „do 4.11.2026". Drugi termin: **5.05.2027** — koniec 6-miesięcznego okresu na dostosowanie regulaminów (art. 4 ustawy); przygotować wtedy checklistę/wzór regulaminu z art. 94³ᵃ
 - [ ] **Nowy tekst jednolity KPC** — nowela 1046 zmienia art. 47, 461 i dodaje art. 477⁶ᵃ; sprawdzić przy najbliższym obwieszczeniu
 - [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661/473 ani noweli antymobbingowej 1046; nowy TJ scali je w jedno)
-- [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem)
+- [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem). ✅ **Sprawdzone 17.08.2026: rozporządzenia NADAL NIE MA w Dz.U.** (rocznik kończy się na poz. 1095 z 13.08.2026), mimo że prasa pisze inaczej — patrz sekcja „Anty-halucynacje". Sprawdzić ponownie w tygodniu 7–15.09.2026
 - [ ] **PPK — autozapis 2027** (co 4 lata, art. 23 ust. 5–6 ustawy o PPK): **do 28.02.2027** pracodawca *informuje* uczestników, którzy złożyli rezygnację, o wznowieniu wpłat; **od 1.04.2027** wpłaty są wznawiane, chyba że uczestnik złoży ponowną deklarację rezygnacji. ⚠️ Skorygowano wcześniejszy zapis „autozapis 1.03.2027 / zebrać rezygnacje do 28.02.2027" — ustawa mówi o wznowieniu wpłat **od 1 kwietnia**, a koniec lutego to termin obowiązku informacyjnego, nie termin na zbieranie rezygnacji (ponowna rezygnacja działa od miesiąca złożenia — art. 23 ust. 4). Szczegóły: `wynagrodzenia/ppk-2026.md`
 - [ ] **AI Act — powołanie KRiBSI i start kar.** Przewodniczącego Komisji Sejm powołuje do ok. **11.10.2026** (2 mies. od wejścia ustawy w życie), pierwsze posiedzenie do ok. 11.11.2026; **przepisy o kontroli i karach wchodzą 28.10.2026**. Sprawdzić wtedy, czy KRiBSI wydał wytyczne dotyczące HR. Kolejny twardy termin: **2.12.2026** — koniec okresu przejściowego na znakowanie treści z art. 50 ust. 2 AI Act. Notatka: `ai-w-hr-2026.md`
+- [ ] **Cudzoziemcy — wejście w życie poz. 1072 (22.08.2026)** ⏰. W tygodniu 24–30.08.2026 przenieść opis do „co już obowiązuje" i sprawdzić, czy MSZ/MRPiPS nie dołożyły kolejnych państw do wykazu (oba rozporządzenia są aktami otwartymi na nowelizację)
 - [ ] Limity składek ZUS 2027 (publikacja ~grudzień 2026)
 
 ## Jak Janina używa tego pliku
@@ -217,6 +237,8 @@ Przy każdej rozmowie z nowym klientem **sprawdza ten plik pierwszy** — żeby 
 - [Dz.U. 2026 poz. 1003 — ustawa o systemach sztucznej inteligencji (od 11.08.2026, kary od 28.10.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1003)
 - [Dz.U. 2026 poz. 1046 — nowela antymobbingowa KP + KPC (ogłoszona 4.08.2026, w życie 5.11.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1046)
 - [Dz.U. 2026 poz. 1072 — praca cudzoziemców w ruchu bezwizowym (od 22.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1072)
+- [Dz.U. 2026 poz. 1086 — obowiązek wizowy przy wjeździe do pracy: Gruzja, Kolumbia, Wenezuela (od 15.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1086)
+- [Dz.U. 2026 poz. 1085 — obowiązek wizowy: gruzińskie paszporty dyplomatyczne i służbowe (od 15.08.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1085)
 - [Rozporządzenie (UE) 2024/1689 — AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 - [Rozporządzenie (UE) 2026/1744 — Digital Omnibus on AI (przesunięcie obowiązków high-risk na 2.12.2027)](https://eur-lex.europa.eu/eli/reg/2026/1744/oj)
 - [Sejm — proces legislacyjny druku 2289 (nowela antymobbingowa)](https://api.sejm.gov.pl/sejm/term10/processes/2289)
