@@ -1,12 +1,20 @@
 # Zatrudnianie osób z niepełnosprawnością — uprawnienia, dofinansowania PFRON, wpłaty
 
-_Stan: 2026-07-08. Kwoty dofinansowania SODiR obowiązują od okresu 07/2024. Wskaźniki i limity potwierdź na dzień użycia._
+_Stan: 2026-08-24 (nowy tekst jednolity ustawy — Dz.U. 2026 poz. 884). Kwoty dofinansowania SODiR obowiązują od okresu 07/2024. Wskaźniki i limity potwierdź na dzień użycia._
 
 ## Podstawa prawna
 
-**Ustawa z 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych** (tekst jednolity: obwieszczenie Marszałka Sejmu z 7.12.2023, Dz.U. 2024 poz. 44, ELI **DU/2024/44**). Pełny tekst w bazie: `akty-prawne/custom/du-2024-44_*`.
+**Ustawa z 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych** (tekst jednolity: obwieszczenie Marszałka Sejmu z **19.06.2026**, **Dz.U. 2026 poz. 884**, ELI **DU/2026/884**). Pełny tekst w bazie: `akty-prawne/custom/du-2026-884_*`.
 
-**Uwaga:** kwoty dofinansowania z art. 26a w tekście w bazie (2400/1350/500 zł) to brzmienie **sprzed** podwyżki od 1.07.2024 — używaj aktualnych kwot z sekcji niżej.
+⚠️ Poprzedni tekst jednolity **Dz.U. 2024 poz. 44 wygasł** (status ISAP: „wygaśnięcie aktu”) — katalog `du-2024-44_*` zostaje w bazie tylko archiwalnie, **nie cytuj z niego brzmienia przepisów**.
+
+**Kwoty dofinansowania w tekście w bazie są już aktualne.** Nowy tekst jednolity (Dz.U. 2026 poz. 884) zawiera w art. 26a ust. 1 kwoty **2760 / 1550 / 575 zł** — zgodne z tym, co wypłaca PFRON. (Stary t.j. Dz.U. 2024 poz. 44 miał tam jeszcze 2400/1350/500 zł — kolejny powód, żeby z niego nie cytować.)
+
+### Nowelizacja z 17.07.2026 (Dz.U. 2026 poz. 1102) — dla pracodawcy NIC się nie zmienia ⚠️
+
+Ustawa z 17 lipca 2026 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (**Dz.U. 2026 poz. 1102**, ogłoszona 18.08.2026, w życiu od **19.08.2026**) dotyczy wyłącznie **gospodarowania przez PFRON sprzętem z rezerwy strategicznej** — do 31.12.2028 Fundusz może nieodpłatnie przekazywać osobom z niepełnosprawnością i ich rodzinom sprzęt, urządzenia, pojazdy i oprogramowanie udostępnione mu w ramach rezerwy. Uchyla też art. 47a i art. 47b — ale dopiero **od 1.01.2029** (art. 5).
+
+❌ Nowelizacja **nie zmienia**: wskaźnika 6 %, wysokości wpłat na PFRON, kwot dofinansowania z art. 26a, uprawnień pracowniczych z art. 15–19 ani zasad ewidencji i SODiR. Gdy klient pyta „co się zmieniło w ustawie o rehabilitacji” — dla pracodawcy **nic**.
 
 ---
 
@@ -102,7 +110,7 @@ Stopień niepełnosprawności to **dane o zdrowiu** — szczególna kategoria z 
 ---
 
 ## Źródła
-- [Ustawa o rehabilitacji — TJ Dz.U. 2024 poz. 44](https://eli.gov.pl/eli/DU/2024/44/ogl) — tekst w bazie: `akty-prawne/custom/du-2024-44_*`
+- [Ustawa o rehabilitacji — t.j. **Dz.U. 2026 poz. 884**](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+884) — tekst w bazie: `akty-prawne/custom/du-2026-884_*` (poprzedni t.j. Dz.U. 2024 poz. 44 wygasł)
 - [PFRON — wysokość dofinansowania do wynagrodzeń](https://www.pfron.org.pl/pracodawcy/dofinansowanie-wynagrodzen/wysokosc-dofinansowania-do-wynagrodzen-pracownikow-niepelnosprawnych/) (2760/1550/575 zł; schorzenia szczególne +1380/+1035/+690)
 - [PFRON — dofinansowanie wynagrodzeń (zasady)](https://www.pfron.org.pl/pracodawcy/dofinansowanie-wynagrodzen/)
 - [PFRON — termin składania wniosku o dofinansowanie](https://www.pfron.org.pl/pracodawcy/dofinansowanie-wynagrodzen/termin-skladania-wniosku-o-dofinansowanie-do-wynagrodzen-pracownikow-niepelnosprawnych/)

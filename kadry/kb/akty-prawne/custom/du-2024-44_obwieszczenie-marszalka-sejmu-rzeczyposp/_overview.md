@@ -20,6 +20,11 @@ chunks_count: TBD
 **Ostatnia zmiana:**   
 **Wersja tekstu:** aktualna na dziś
 
+
+> ⚠️ **TEN TEKST JEDNOLITY JUŻ NIE OBOWIĄZUJE (status ISAP: „wygaśnięcie aktu”).**
+> Aktualny tekst jednolity ustawy o rehabilitacji zawodowej i spolecznej oraz zatrudnianiu osob niepelnosprawnych to **Dz.U. 2026 poz. 884 (obwieszczenie Marszalka Sejmu z 19.06.2026)**, ELI `DU/2026/884` — w bazie: `akty-prawne/custom/du-2026-884_*`.
+> Ten katalog zostaje wyłącznie do celów historycznych. **Nie cytuj z niego brzmienia przepisów.**
+
 ## Co to jest
 
 Akt prawny w bazie ISAP. Pobrany z oficjalnego API Sejmu.

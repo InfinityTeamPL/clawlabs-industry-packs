@@ -1,6 +1,6 @@
 # Zmiany w prawie pracy 2026 — przegląd roku
 
-_Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do **poz. 1095 z 13.08.2026** — ostatnia pozycja rocznika na dzień audytu). W tym tygodniu jedna nowa zmiana kadrowa: **Dz.U. 2026 poz. 1086** — obywatele Gruzji, Kolumbii i Wenezueli wjeżdżający do pracy **potrzebują wizy od 15.08.2026**; domyka to zmianę z poz. 1072, która od 22.08.2026 zakazuje im pracy w ruchu bezwizowym. Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
+_Stan na 2026-08-24 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/api.sejm.gov.pl; skan Dz.U. 2026 do **poz. 1116 z 21.08.2026** oraz M.P. 2026 do **poz. 854 z 21.08.2026** — ostatnie pozycje roczników na dzień audytu). W tym tygodniu: (1) **wszedł w życie 22.08.2026** zakaz pracy w ruchu bezwizowym dla obywateli Gruzji, Kolumbii i Wenezueli (Dz.U. 2026 poz. 1072); (2) **od 1.09.2026 spadają limity dorabiania** do emerytury i renty (M.P. 2026 poz. 839); (3) podmieniono trzy nieaktualne teksty jednolite w bazie (ustawa zasiłkowa, PIT, ustawa o rehabilitacji). Aktualizacje śledzimy w ISAP, PIP i Ministerstwie Rodziny._
 
 ## 📓 Notatki weryfikacyjne (po sesjach testowych)
 - **2026-06-08** — `notatki/2026-06-08-weryfikacja-kp-staz-ppk.md`
@@ -14,6 +14,7 @@ _Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - **Stawka godzinowa zlecenie/usługi:** **31,40 zł brutto**
 - **Przeciętne wynagrodzenie 2026 (prognoza):** ~9 420 zł brutto
 - **Limit 30-krotności (rocznie):** **282 600 zł** — powyżej nie pobiera się składek emerytalno-rentowych
+- **Limity dorabiania emeryta/rencisty (kwartalne!):** do 31.08.2026 — 6 694,10 zł / 12 431,80 zł; **od 1.09.2026 — 6 463,20 zł / 12 003,10 zł** (M.P. 2026 poz. 839). Szczegóły: `wynagrodzenia/dorabianie-emeryci-rencisci.md`
 
 ### ZUS pracownik (od wynagrodzenia brutto)
 | Składka | Pracownik | Pracodawca |
@@ -55,7 +56,7 @@ _Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 
 ---
 
-## ✅ Co JUŻ OBOWIĄZUJE (stan na 17.08.2026) — 9 dużych zmian
+## ✅ Co JUŻ OBOWIĄZUJE (stan na 24.08.2026) — 10 dużych zmian
 
 ### 1. Reforma PIP — inspektor przekształca B2B/zlecenie w etat (od 8.07.2026) 🆕
 - **Ustawa z 11.03.2026 o zmianie ustawy o PIP (Dz.U. 2026 poz. 473)** — w mocy od DZIŚ (8.07.2026)
@@ -112,6 +113,15 @@ _Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - Tego samego dnia: **Dz.U. 2026 poz. 1085** — obowiązek wizowy dla Gruzinów z paszportami dyplomatycznymi/służbowymi (dla kadr bez znaczenia)
 - Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akty: `akty-prawne/custom/du-2026-1086_*`, `du-2026-1085_*`
 
+### 10. Zakaz pracy w ruchu bezwizowym — Gruzja, Kolumbia, Wenezuela (od 22.08.2026) 🆕
+- **Rozporządzenie MRPiPS z 31.07.2026 (Dz.U. 2026 poz. 1072)**, ogłoszone 7.08.2026, **weszło w życie 22.08.2026** (14 dni od ogłoszenia), podstawa: art. 3 ust. 4 ustawy DU/2025/621
+- Obywatele **Wenezueli, Gruzji i Kolumbii** — nawet z **zezwoleniem na pracę** — **nie mogą wykonywać pracy w czasie pobytu bezwizowego**. Potrzebny inny tytuł pobytowy: wiza krajowa albo zezwolenie na pobyt czasowy
+- **Przejściowo (§ 2):** kto **rozpoczął pracę przed 22.08.2026** w ruchu bezwizowym i ma zezwolenie na pracę, kontynuuje ją **do końca okresu pobytu bezwizowego**
+- ⚠️ Kto wjechał wcześniej, ale pracę chce **zacząć po 22.08.2026** — przejściówka go **nie chroni**
+- ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** (Armenia, Białoruś, Mołdawia, Ukraina). To trzy różne listy: oświadczeniowa, wizowa (poz. 1086) i „zakaz pracy w ruchu bezwizowym” (poz. 1072)
+- Razem z poz. 1086 (wiza przy wjeździe, od 15.08.2026) domyka lukę z dwóch stron: **wjazd** i **wykonywanie pracy**
+- Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akt: `akty-prawne/custom/du-2026-1072_*`
+
 ---
 
 ## 🚫 ANTY-HALUCYNACJE — czego NIE twierdzić (częste błędy z internetu)
@@ -140,6 +150,17 @@ _Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - ⚠️ **Próg 10 pracowników dotyczy TYLKO obowiązku ujęcia reguł w regulaminie** (nowy art. 94³ᵃ § 1 KP). Sam obowiązek przeciwdziałania mobbingowi (art. 94³ § 1 KP) wiąże **każdego pracodawcę, niezależnie od liczby zatrudnionych** — i przed, i po 5.11.2026
 - Szczegóły: `kodeks-pracy/07-mobbing-dyskryminacja.md` | Akt: `akty-prawne/custom/du-2026-1046_*`
 
+### Ustawa o rehabilitacji — nowela z 17.07.2026 NIE zmienia obowiązków pracodawcy 🆕
+- **Dz.U. 2026 poz. 1102** (ogłoszona 18.08.2026, obowiązuje od 19.08.2026) dotyczy wyłącznie **gospodarowania przez PFRON sprzętem z rezerwy strategicznej** (nieodpłatne przekazywanie osobom z niepełnosprawnością i ich rodzinom, do 31.12.2028). Uchylenie art. 47a i 47b wchodzi w życie dopiero **1.01.2029**
+- ❌ Nie zmieniła się: wysokość wpłat na PFRON, wskaźnik 6 %, kwoty dofinansowania z art. 26a (2760/1550/575 zł), uprawnienia pracownicze z art. 15–19, zasady SODiR
+- Poprawna odpowiedź Janiny na pytanie „co się zmieniło w ustawie o rehabilitacji”: **dla pracodawcy nic** — zmiana dotyczy wewnętrznej gospodarki PFRON. Szczegóły: `niepelnosprawni-pfron.md`
+
+### Limity dorabiania emeryta/rencisty — nie podawaj kwoty bez daty 🆕
+- Progi 70 % i 130 % zmieniają się **co kwartał**: od 1 marca, 1 czerwca, 1 września i 1 grudnia. Kwota bez daty obowiązywania jest odpowiedzią błędną
+- ❌ Nie mów „limit wynosi 6 694,10 zł” po 31.08.2026 — **od 1.09.2026 to 6 463,20 zł** (M.P. 2026 poz. 839)
+- ❌ Nie mów, że limity dotyczą „emerytów” ogólnie — emeryta po **60 (K) / 65 (M)** roku życia **nie dotyczą w ogóle** (art. 103 ust. 2), podobnie jak obowiązek zgłoszeniowy pracodawcy (art. 127 ust. 1a)
+- ⚠️ Do przychodu wlicza się także **zasiłki chorobowy/macierzyński/opiekuńczy i wynagrodzenie chorobowe** (art. 104 ust. 6) — nie tylko „gołe” wynagrodzenie. Szczegóły: `wynagrodzenia/dorabianie-emeryci-rencisci.md`
+
 ---
 
 ## 📌 Inne aktualne fakty 2026 (dodane w audycie 8.07.2026)
@@ -152,6 +173,10 @@ _Stan na 2026-08-17 (audyt aktualności: wszystkie pozycje zweryfikowane w ISAP/
 - **Ochrona sygnalistów** (Dz.U. 2024 poz. 928, od 25.09.2024): `kodeks-pracy/12-ochrona-sygnalistow.md`
 - **Ustawa o PPK — nowy tekst jednolity: Dz.U. 2026 poz. 192** (obwieszczenie Marszałka Sejmu z 13.02.2026). To jego należy cytować; akt pierwotny z 2018 r. (`du-2018-2215_*`) zostaje w bazie tylko do celów historycznych. ⚠️ Jeden fragment tekstu jednolitego jest już nieaktualny: **art. 8 ust. 5** — zmieniony przez Dz.U. 2026 poz. 989 od 7.08.2026. Szczegóły: `wynagrodzenia/ppk-2026.md`
 - **Składka zdrowotna przedsiębiorcy**: zapowiadana obniżka (model dwuskładnikowy) została ZAWETOWANA — od 1.02.2026 podstawa wraca do 100% płacy min., min. składka 432,54 zł. Nie obiecuj klientom „nadchodzącej obniżki".
+- **Trzy teksty jednolite podmienione w bazie (audyt 24.08.2026)** 🆕 — stare wersje miały w ISAP status „wygaśnięcie aktu” i zostają tylko archiwalnie (oznaczone `NOT_IN_FORCE`, **nie cytować z nich brzmienia przepisów**):
+  - **ustawa zasiłkowa** — nowy t.j. **Dz.U. 2026 poz. 854** (zawiera już elektronizację wniosków z poz. 441) zamiast Dz.U. 2025 poz. 501,
+  - **ustawa o PIT** — nowy t.j. **Dz.U. 2026 poz. 592** zamiast Dz.U. 2025 poz. 163,
+  - **ustawa o rehabilitacji zawodowej** — nowy t.j. **Dz.U. 2026 poz. 884** zamiast Dz.U. 2024 poz. 44 (nowy tekst ma już aktualne kwoty dofinansowania 2760/1550/575 zł).
 
 ## 🤖 AI w rekrutacji i zarządzaniu pracownikami (dodane w audycie 3.08.2026) 🆕
 
@@ -176,13 +201,14 @@ Nowy obszar w bazie — pełna notatka: `ai-w-hr-2026.md`. Najkrócej:
 - **Przepis międzyczasowy (art. 3):** nowe zasady stosuje się do nękania, które **zaczęło się przed 5.11.2026 i trwa po tej dacie**
 - Szczegóły: `kodeks-pracy/07-mobbing-dyskryminacja.md` | Akt: `akty-prawne/custom/du-2026-1046_*`
 
-### Cudzoziemcy — koniec pracy w ruchu bezwizowym dla 3 państw (etap II, od 22.08.2026)
-- **Rozporządzenie MRPiPS z 31.07.2026 (Dz.U. 2026 poz. 1072)**, ogłoszone 7.08.2026, w życie **22.08.2026** (14 dni od ogłoszenia), podstawa: art. 3 ust. 4 ustawy DU/2025/621
-- Obywatele **Wenezueli, Gruzji i Kolumbii** z zezwoleniem na pracę **nie mogą wykonywać pracy w czasie pobytu bezwizowego** — potrzebny inny tytuł pobytowy
-- **Przejściowo (§ 2):** kto rozpoczął pracę przed 22.08.2026, kontynuuje ją do końca okresu pobytu bezwizowego
-- ⚠️ Nie mylić z listą państw uprawnionych do **oświadczeń** (Armenia, Białoruś, Mołdawia, Ukraina)
-- Etap I tej samej zmiany (obowiązek wizowy przy wjeździe, poz. 1086) **już obowiązuje od 15.08.2026** — patrz poz. 9 w sekcji „Co JUŻ OBOWIĄZUJE" wyżej
-- Szczegóły: `cudzoziemcy-zatrudnienie.md` | Akt: `akty-prawne/custom/du-2026-1072_*`
+### 💰 Niższe limity dorabiania do emerytury i renty (od 1.09.2026) 🆕
+- **Komunikat Prezesa ZUS z 18.08.2026 (M.P. 2026 poz. 839)**, ogłoszony 20.08.2026, podstawa: art. 104 ust. 10 pkt 1 ustawy emerytalnej
+- Od **1.09.2026**: próg 70 % = **6 463,20 zł**, próg 130 % = **12 003,10 zł**. Do 31.08.2026 obowiązują wyższe kwoty (6 694,10 zł i 12 431,80 zł, M.P. 2026 poz. 499)
+- Limity **spadają** (o 230,90 zł i 428,70 zł), bo przeciętne wynagrodzenie za II kwartał 2026 (**9 233,13 zł**) jest niższe niż za I kwartał — w I kwartale zawyżają je premie i nagrody roczne
+- Przekroczenie progu 70 % → **zmniejszenie** świadczenia o kwotę przekroczenia (nie więcej niż 989,41 zł / 742,10 zł / 841,05 zł); przekroczenie 130 % → **zawieszenie** wypłaty
+- Dotyczy **wcześniejszych emerytów, rencistów i pobierających rentę socjalną**; **nie dotyczy** emerytów po 60 (K) / 65 (M) roku życia — ci zarabiają bez ograniczeń (art. 103 ust. 2)
+- 🔴 **Obowiązek pracodawcy:** zawiadomienie ZUS o zatrudnieniu emeryta/rencisty i wysokości przychodu (art. 127 ust. 2) oraz zawiadomienie o łącznym przychodzie za rok ubiegły **do końca lutego** (§ 5 ust. 2 rozporządzenia MPiPS z 22.07.1992, Dz.U. 1992 nr 58 poz. 290)
+- Szczegóły: `wynagrodzenia/dorabianie-emeryci-rencisci.md`
 
 ### ✅ PPK — wezwania PFR przez profil informacyjny ZUS — **JUŻ OBOWIĄZUJE od 7.08.2026**
 - **Ustawa z 29.05.2026 o zmianie ustawy o PPK oraz ustawy covidowej (Dz.U. 2026 poz. 989)**, ogłoszona 23.07.2026, **weszła w życie 7.08.2026** (14 dni od ogłoszenia) — na 10.08.2026 to już prawo obowiązujące
@@ -206,10 +232,13 @@ Nowy obszar w bazie — pełna notatka: `ai-w-hr-2026.md`. Najkrócej:
 - [ ] **Nowela antymobbingowa — WEJŚCIE W ŻYCIE 5.11.2026** ⏰ *najbliższy twardy termin*. W tygodniu 2–8.11.2026: przenieść opis z sekcji „ogłoszone, ale jeszcze nie obowiązują" do „co już obowiązuje", przepisać nagłówki w notatce mobbingowej na czas teraźniejszy, usunąć instrukcje „do 4.11.2026". Drugi termin: **5.05.2027** — koniec 6-miesięcznego okresu na dostosowanie regulaminów (art. 4 ustawy); przygotować wtedy checklistę/wzór regulaminu z art. 94³ᵃ
 - [ ] **Nowy tekst jednolity KPC** — nowela 1046 zmienia art. 47, 461 i dodaje art. 477⁶ᵃ; sprawdzić przy najbliższym obwieszczeniu
 - [ ] **Nowy tekst jednolity KP** — obwieszczenie Marszałka (obecny TJ DU/2025/277 nie zawiera nowelizacji 807/1423/25/1661/473 ani noweli antymobbingowej 1046; nowy TJ scali je w jedno)
-- [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem). ✅ **Sprawdzone 17.08.2026: rozporządzenia NADAL NIE MA w Dz.U.** (rocznik kończy się na poz. 1095 z 13.08.2026), mimo że prasa pisze inaczej — patrz sekcja „Anty-halucynacje". Sprawdzić ponownie w tygodniu 7–15.09.2026
+- [ ] **Płaca minimalna 2027** — propozycja RM **4 950 zł / 32,30 zł/h**. **9.07.2026 negocjacje w Radzie Dialogu Społecznego zakończyły się bez porozumienia** (związki żądały min. 5 200 zł, pracodawcy popierali propozycję rządu) → stawkę ustali **Rada Ministrów rozporządzeniem, termin ustawowy do 15.09.2026**. Ustawowa gwarancja: kwota ustalona przez RM **nie może być niższa niż przedstawiona wcześniej do negocjacji**, czyli **nie mniej niż 4 950 zł / 32,30 zł/h**. Do czasu ogłoszenia rozporządzenia w Dz.U. to nadal PROPOZYCJA — nie podawaj klientowi jako kwoty pewnej (poza dolnym progiem). ✅ **Sprawdzone 24.08.2026: rozporządzenia NADAL NIE MA w Dz.U.** — rocznik 2026 kończy się na **poz. 1116 z 21.08.2026**, a wyszukiwanie po tytule w api.sejm.gov.pl nie zwraca żadnego rozporządzenia RM o minimalnym wynagrodzeniu na 2027 r. Ustawowy termin dla Rady Ministrów: **15.09.2026** — sprawdzić ponownie w tygodniu 7–15.09.2026
 - [ ] **PPK — autozapis 2027** (co 4 lata, art. 23 ust. 5–6 ustawy o PPK): **do 28.02.2027** pracodawca *informuje* uczestników, którzy złożyli rezygnację, o wznowieniu wpłat; **od 1.04.2027** wpłaty są wznawiane, chyba że uczestnik złoży ponowną deklarację rezygnacji. ⚠️ Skorygowano wcześniejszy zapis „autozapis 1.03.2027 / zebrać rezygnacje do 28.02.2027" — ustawa mówi o wznowieniu wpłat **od 1 kwietnia**, a koniec lutego to termin obowiązku informacyjnego, nie termin na zbieranie rezygnacji (ponowna rezygnacja działa od miesiąca złożenia — art. 23 ust. 4). Szczegóły: `wynagrodzenia/ppk-2026.md`
 - [ ] **AI Act — powołanie KRiBSI i start kar.** Przewodniczącego Komisji Sejm powołuje do ok. **11.10.2026** (2 mies. od wejścia ustawy w życie), pierwsze posiedzenie do ok. 11.11.2026; **przepisy o kontroli i karach wchodzą 28.10.2026**. Sprawdzić wtedy, czy KRiBSI wydał wytyczne dotyczące HR. Kolejny twardy termin: **2.12.2026** — koniec okresu przejściowego na znakowanie treści z art. 50 ust. 2 AI Act. Notatka: `ai-w-hr-2026.md`
-- [ ] **Cudzoziemcy — wejście w życie poz. 1072 (22.08.2026)** ⏰. W tygodniu 24–30.08.2026 przenieść opis do „co już obowiązuje" i sprawdzić, czy MSZ/MRPiPS nie dołożyły kolejnych państw do wykazu (oba rozporządzenia są aktami otwartymi na nowelizację)
+- [x] ~~Cudzoziemcy — wejście w życie poz. 1072 (22.08.2026)~~ → **WESZŁO W ŻYCIE 22.08.2026**; opis przeniesiony do sekcji „Co JUŻ OBOWIĄZUJE” jako poz. 10 (audyt 24.08.2026). Sprawdzone przy okazji: **do poz. 1116 z 21.08.2026 nie ma w Dz.U. kolejnych rozporządzeń dokładających państwa** do wykazu wizowego ani do zakazu pracy w ruchu bezwizowym
+- [ ] **Limity dorabiania emerytów/rencistów — progi od 1.12.2026** ⏰. Komunikat Prezesa ZUS ukazuje się do **14. dnia roboczego drugiego miesiąca kwartału** (art. 104 ust. 10 pkt 1), czyli ok. **połowy listopada 2026**. Wtedy zaktualizować tabelę w `wynagrodzenia/dorabianie-emeryci-rencisci.md` i wpis w „AKTUALNE STAWKI”
+- [ ] **Umowa Polska–Albania o zabezpieczeniu społecznym.** Ustawa ratyfikacyjna **Dz.U. 2026 poz. 1100** (obowiązuje od 2.09.2026) upoważnia Prezydenta do ratyfikacji umowy podpisanej 23.02.2026 — **sama umowa jeszcze NIE obowiązuje**. Dopiero po ratyfikacji i wejściu w życie będzie miała znaczenie dla oddelegowań i sumowania okresów. ❌ Do tego czasu nie mówić klientom, że „jest umowa z Albanią”
+- [ ] **Ustawa o osobistych kontach inwestycyjnych** (Dz.U. 2026 poz. 1098, od **1.01.2027**) — co do zasady poza zakresem kadr (nowy produkt inwestycyjny, zmiany w PIT i prawie bankowym). Na 24.08.2026 z listy aktów zmienianych **nie wynika**, by dotykała IKE/IKZE, PPE ani PPK — sprawdzić ponownie przed 1.01.2027
 - [ ] Limity składek ZUS 2027 (publikacja ~grudzień 2026)
 
 ## Jak Janina używa tego pliku
@@ -243,3 +272,9 @@ Przy każdej rozmowie z nowym klientem **sprawdza ten plik pierwszy** — żeby 
 - [Rozporządzenie (UE) 2026/1744 — Digital Omnibus on AI (przesunięcie obowiązków high-risk na 2.12.2027)](https://eur-lex.europa.eu/eli/reg/2026/1744/oj)
 - [Sejm — proces legislacyjny druku 2289 (nowela antymobbingowa)](https://api.sejm.gov.pl/sejm/term10/processes/2289)
 - [ZUS — zmiany w kontroli zwolnień od 13.04.2026](https://www.zus.pl/-/zmiany-w-kontroli-i-wykorzystywaniu-zwolnie%C5%84-od-pracy-od-13-kwietnia-2026-r.)
+- [M.P. 2026 poz. 839 — progi 70 %/130 % dla dorabiających emerytów i rencistów (od 1.09.2026)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=MP+2026+839)
+- [Dz.U. 2026 poz. 854 — tekst jednolity ustawy zasiłkowej (zastąpił Dz.U. 2025 poz. 501)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+854)
+- [Dz.U. 2026 poz. 884 — tekst jednolity ustawy o rehabilitacji zawodowej (zastąpił Dz.U. 2024 poz. 44)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+884)
+- [Dz.U. 2026 poz. 592 — tekst jednolity ustawy o PIT (zastąpił Dz.U. 2025 poz. 163)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+592)
+- [Dz.U. 2026 poz. 1102 — nowela ustawy o rehabilitacji (rezerwa strategiczna PFRON; bez zmian dla pracodawców)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1102)
+- [Dz.U. 1992 nr 58 poz. 290 — rozporządzenie o zawieszaniu i zmniejszaniu emerytury i renty (§ 5 — zawiadomienia do końca lutego)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920580290)

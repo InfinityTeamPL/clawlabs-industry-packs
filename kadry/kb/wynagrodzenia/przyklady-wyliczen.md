@@ -105,6 +105,6 @@ Przykład: pensja **6 000 zł** stała, 10 dni choroby (te same co w pkt e).
 ## Źródła
 - [Kodeks pracy (art. 87–91, 151¹, 92)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141)
 - [Rozporządzenie MPiPS z 29.05.1996 r. (sposób ustalania wynagrodzenia)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960620289)
-- [Ustawa zasiłkowa — t.j. Dz.U. 2025 poz. 501](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000501) — tekst w bazie: `akty-prawne/custom/du-2025-501_*`
+- [Ustawa zasiłkowa — t.j. **Dz.U. 2026 poz. 854**](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+854) — tekst w bazie: `akty-prawne/custom/du-2026-854_*` (poprzedni t.j. Dz.U. 2025 poz. 501 wygasł)
 - [Infor.pl — wyliczenia brutto/netto 2026](https://www.infor.pl/twoje-pieniadze/zarobki/)
 - Powiązane w bazie: `wynagrodzenia/placa-minimalna-2026.md`, `wynagrodzenia/skladniki-i-potracenia.md`, `wynagrodzenia/zasilki-zus-2026.md`

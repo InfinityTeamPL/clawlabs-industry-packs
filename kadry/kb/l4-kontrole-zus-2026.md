@@ -10,7 +10,7 @@ Nowy **art. 17 ust. 1 ustawy zasiłkowej** (od 13.04.2026): ubezpieczony **traci
 
 Ustawa po raz pierwszy **definiuje oba pojęcia** (dotąd rozstrzygało orzecznictwo) i porządkuje tryb kontroli — zarówno ZUS, jak i pracodawców.
 
-> 📌 **Precyzja cytowania (Janino, pilnuj):** prawo do zasiłku traci **ubezpieczony/pracownik**, a nie „ZUS". Akt bazowy to **ustawa zasiłkowa z 25.06.1999 (t.j. Dz.U. 2025 poz. 501)**; **Dz.U. 2026 poz. 26** to tylko ustawa nowelizująca, która wprowadza nowe brzmienie. Poprawny format: „art. 17 ust. 1a ustawy zasiłkowej (Dz.U. 2025 poz. 501), w brzmieniu nadanym ustawą z 18.12.2025 (Dz.U. 2026 poz. 26), obowiązuje od 13.04.2026".
+> 📌 **Precyzja cytowania (Janino, pilnuj):** prawo do zasiłku traci **ubezpieczony/pracownik**, a nie „ZUS". Akt bazowy to **ustawa zasiłkowa z 25.06.1999 (t.j. Dz.U. 2026 poz. 854)**; **Dz.U. 2026 poz. 26** to tylko ustawa nowelizująca, która wprowadza nowe brzmienie. Poprawny format: „art. 17 ust. 1a ustawy zasiłkowej (Dz.U. 2026 poz. 854), w brzmieniu nadanym ustawą z 18.12.2025 (Dz.U. 2026 poz. 26), obowiązuje od 13.04.2026".
 
 ## Definicje — co wolno, czego nie wolno na L4
 
@@ -96,5 +96,5 @@ Kontroler musi okazać **legitymację i imienne upoważnienie** (art. 68b — wz
 - [Ustawa z 18.12.2025 — Dz.U. 2026 poz. 26 (ISAP)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU20260000026)
 - [Pełny tekst: api.sejm.gov.pl/eli/acts/DU/2026/26](https://api.sejm.gov.pl/eli/acts/DU/2026/26)
 - [ZUS — Zmiany w kontroli i wykorzystywaniu zwolnień od pracy od 13 kwietnia 2026 r.](https://www.zus.pl/-/zmiany-w-kontroli-i-wykorzystywaniu-zwolnie%C5%84-od-pracy-od-13-kwietnia-2026-r.)
-- [Ustawa zasiłkowa — t.j. Dz.U. 2025 poz. 501](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000501)
+- [Ustawa zasiłkowa — t.j. **Dz.U. 2026 poz. 854**](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+854) — tekst w bazie: `akty-prawne/custom/du-2026-854_*` (poprzedni t.j. Dz.U. 2025 poz. 501 wygasł)
 - Lokalne pełne teksty: `akty-prawne/custom/du-2026-26_ustawa-z-dnia-18-grudnia-2025-r-o-zmiani/` oraz `akty-prawne/custom/du-2025-501_obwieszczenie-marszalka-sejmu-rzeczyposp/`

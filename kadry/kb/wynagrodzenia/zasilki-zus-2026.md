@@ -1,6 +1,6 @@
 # Zasiłki ZUS i składki 2026 — pogrzebowy, chorobowy, macierzyński, składki przedsiębiorcy
 
-_Stan: 2026-07-13. Zasiłek pogrzebowy 7000 zł obowiązuje od 1.01.2026 (ustawa z 9.05.2025, Dz.U. 2025 poz. 718). Składki ZUS i podstawa wymiaru zasiłków — kwoty na rok 2026. Elektronizacja wniosków o zasiłki od 1.07.2026 (Dz.U. 2026 poz. 441)._
+_Stan: 2026-08-24 (aktualizacja odesłań do nowego tekstu jednolitego ustawy zasiłkowej — Dz.U. 2026 poz. 854). Zasiłek pogrzebowy 7000 zł obowiązuje od 1.01.2026 (ustawa z 9.05.2025, Dz.U. 2025 poz. 718). Składki ZUS i podstawa wymiaru zasiłków — kwoty na rok 2026. Elektronizacja wniosków o zasiłki od 1.07.2026 (Dz.U. 2026 poz. 441)._
 
 ## Zasiłek pogrzebowy — 7000 zł od 1.01.2026
 
@@ -31,7 +31,7 @@ Analogiczne 7 000 zł wprowadzono w ustawach o służbach mundurowych (Policja, 
 
 ## Podstawa wymiaru zasiłku chorobowego i macierzyńskiego
 
-**To ustawa z 25.06.1999 o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa** (tekst jednolity Dz.U. 2025 poz. 501). Tekst w bazie: `akty-prawne/custom/du-2025-501_*` (art. 36–47 → chunk_04.md).
+**To ustawa z 25.06.1999 o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa** (tekst jednolity **Dz.U. 2026 poz. 854**, obwieszczenie Marszałka Sejmu z 19.06.2026 — zastąpił t.j. Dz.U. 2025 poz. 501, który wygasł). Tekst w bazie: `akty-prawne/custom/du-2026-854_*` (art. 36–47 → chunk_04.md i chunk_05.md).
 
 ### Reguła podstawowa (art. 36 ust. 1)
 Podstawę wymiaru zasiłku pracownika stanowi **przeciętne miesięczne wynagrodzenie wypłacone za okres 12 miesięcy kalendarzowych** poprzedzających miesiąc, w którym powstała niezdolność do pracy — **po potrąceniu 13,71 %** (część składek emerytalnej, rentowej i chorobowej finansowana przez pracownika).
@@ -118,7 +118,7 @@ Bazą jest **prognozowane przeciętne wynagrodzenie miesięczne na 2026 r. = 9 4
 
 ## Źródła
 - [Ustawa z 9.05.2025 (Dz.U. 2025 poz. 718) — zasiłek pogrzebowy 7000 zł](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000718) — tekst w bazie: `akty-prawne/custom/du-2025-718_*`
-- [Ustawa zasiłkowa — t.j. Dz.U. 2025 poz. 501 (art. 36–47 — podstawa wymiaru)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000501) — tekst w bazie: `akty-prawne/custom/du-2025-501_*`
+- [Ustawa zasiłkowa — t.j. **Dz.U. 2026 poz. 854** (art. 36–47 — podstawa wymiaru)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+854) — tekst w bazie: `akty-prawne/custom/du-2026-854_*`. Poprzedni t.j. Dz.U. 2025 poz. 501 **wygasł** — nie cytować
 - [Ustawa z 13.02.2026 (Dz.U. 2026 poz. 441) — elektronizacja wniosków o zasiłki od 1.07.2026](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+441) — tekst w bazie: `akty-prawne/custom/du-2026-441_*`
 - [ZUS — nowe wysokości składek na ubezpieczenia społeczne w 2026 r.](https://www.zus.pl)
 - [Infor.pl — składki ZUS przedsiębiorców w 2026 r. (zwykłe, preferencyjne, Mały ZUS Plus)](https://ksiegowosc.infor.pl/zus-kadry/skladki/7500894,skladki-zus-przedsiebiorcow-w-2026-r-zwykle-preferencyjne-maly-zus-plus-kwoty-i-minimalne-podstawy-wymiaru.html)
