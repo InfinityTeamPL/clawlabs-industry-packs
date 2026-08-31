@@ -1,6 +1,6 @@
 # Zasiłki ZUS i składki 2026 — pogrzebowy, chorobowy, macierzyński, składki przedsiębiorcy
 
-_Stan: 2026-08-24 (aktualizacja odesłań do nowego tekstu jednolitego ustawy zasiłkowej — Dz.U. 2026 poz. 854). Zasiłek pogrzebowy 7000 zł obowiązuje od 1.01.2026 (ustawa z 9.05.2025, Dz.U. 2025 poz. 718). Składki ZUS i podstawa wymiaru zasiłków — kwoty na rok 2026. Elektronizacja wniosków o zasiłki od 1.07.2026 (Dz.U. 2026 poz. 441)._
+_Stan: 2026-09-01 (dodany wskaźnik waloryzacji podstawy świadczenia rehabilitacyjnego na IV kw. 2026 — M.P. 2026 poz. 858). Zasiłek pogrzebowy 7000 zł obowiązuje od 1.01.2026 (ustawa z 9.05.2025, Dz.U. 2025 poz. 718). Składki ZUS i podstawa wymiaru zasiłków — kwoty na rok 2026. Elektronizacja wniosków o zasiłki od 1.07.2026 (Dz.U. 2026 poz. 441)._
 
 ## Zasiłek pogrzebowy — 7000 zł od 1.01.2026
 
@@ -9,15 +9,15 @@ _Stan: 2026-08-24 (aktualizacja odesłań do nowego tekstu jednolitego ustawy za
 **Podstawa prawna:** ustawa z 9 maja 2025 r. o zmianie ustawy o emeryturach i rentach z FUS oraz niektórych innych ustaw (Dz.U. 2025 poz. 718), która nadała nowe brzmienie **art. 80 ustawy emerytalnej**. Tekst w bazie: `akty-prawne/custom/du-2025-718_*/chunk_01.md`.
 
 ### Kluczowa zasada — liczy się DATA ŚMIERCI, nie data wniosku
-Art. 80 ust. 7: *„Zasiłek pogrzebowy przysługuje w wysokości obowiązującej w dniu śmierci osoby, której koszty pogrzebu zostały poniesione."* Potwierdza to przepis przejściowy — **art. 13 ustawy nowelizującej**: nową kwotę stosuje się do zasiłków po osobach, których **śmierć nastąpiła od dnia wejścia w życie** ustawy.
+Art. 80 ust. 7: *„Zasiłek pogrzebowy przysługuje w wysokości obowiązującej w dniu śmierci osoby, której koszty pogrzebu zostały poniesione.”* Potwierdza to przepis przejściowy — **art. 13 ustawy nowelizującej**: nową kwotę stosuje się do zasiłków po osobach, których **śmierć nastąpiła od dnia wejścia w życie** ustawy.
 
 - **Śmierć od 1.01.2026** → **7 000 zł**
 - **Śmierć do 31.12.2025** → **4 000 zł** — nawet jeśli wniosek składany jest w 2026 r.
 
-Janino: gdy klient pyta „zmarł w grudniu, wniosek złożę w styczniu — dostanę 7000?" — **nie**, decyduje data zgonu, więc 4 000 zł.
+Janino: gdy klient pyta „zmarł w grudniu, wniosek złożę w styczniu — dostanę 7000?” — **nie**, decyduje data zgonu, więc 4 000 zł.
 
 ### Waloryzacja od 1 marca
-Kwota podlega waloryzacji **od 1 marca**, jeżeli wskaźnik waloryzacji (średnioroczny wskaźnik cen towarów i usług konsumpcyjnych z poprzedniego roku, ogłaszany przez GUS) jest **wyższy niż 105** — czyli gdy inflacja przekroczyła **5 %**. Waloryzacja = kwota × wskaźnik / 100, zaokrąglenie do pełnych złotych w górę. Prezes ZUS ogłasza kwotę komunikatem w „Monitorze Polskim" co najmniej 7 dni roboczych przed terminem (art. 80 ust. 2–6).
+Kwota podlega waloryzacji **od 1 marca**, jeżeli wskaźnik waloryzacji (średnioroczny wskaźnik cen towarów i usług konsumpcyjnych z poprzedniego roku, ogłaszany przez GUS) jest **wyższy niż 105** — czyli gdy inflacja przekroczyła **5 %**. Waloryzacja = kwota × wskaźnik / 100, zaokrąglenie do pełnych złotych w górę. Prezes ZUS ogłasza kwotę komunikatem w „Monitorze Polskim” co najmniej 7 dni roboczych przed terminem (art. 80 ust. 2–6).
 
 ### Kto, ile, kiedy
 - **Wniosek:** do 12 miesięcy od dnia śmierci (Z-12), do ZUS.
@@ -53,6 +53,20 @@ Dla pełnego etatu podstawa **nie może być niższa niż płaca minimalna po od
 ### Te same zasady dla innych świadczeń (art. 47)
 Art. 36–42 i 45 stosuje się **odpowiednio** do zasiłku **macierzyńskiego, opiekuńczego, wyrównawczego i świadczenia rehabilitacyjnego**. Podstawy **nie ustala się na nowo**, gdy przerwa między zasiłkami była krótsza niż miesiąc kalendarzowy (art. 43).
 
+### Waloryzacja podstawy przy świadczeniu rehabilitacyjnym (art. 19 ust. 2–3)
+
+Świadczenie rehabilitacyjne wynosi **90 % podstawy** przez pierwsze 3 miesiące, **75 %** za pozostały okres, a w okresie **ciąży — 100 %** (art. 19 ust. 1).
+
+Podstawa wymiaru zasiłku chorobowego przyjęta do obliczenia świadczenia rehabilitacyjnego **podlega waloryzacji**. O tym, jaki wskaźnik zastosować, decyduje **kwartał, w którym przypada pierwszy dzień okresu, na który przyznano świadczenie** (art. 19 ust. 2 pkt 1–4) — a nie data wniosku ani data zakończenia zasiłku chorobowego.
+
+Prezes ZUS ogłasza wskaźnik w „Monitorze Polskim” **do ostatniego dnia każdego kwartału**, ze skutkiem **na kwartał następny** (art. 19 ust. 3).
+
+| Okres świadczenia rozpoczyna się w | Wskaźnik waloryzacji | Ogłoszenie |
+|---|---|---|
+| **IV kwartale 2026** | **100,4 %** | obwieszczenie Prezesa ZUS z 18.08.2026, **M.P. 2026 poz. 858** |
+
+⏰ Wskaźnik na **I kwartał 2027** zostanie ogłoszony **do 31.12.2026** — wtedy dopisać kolejny wiersz.
+
 **Przykład.** Pracownik ze stałym wynagrodzeniem 6 000 zł brutto, chory w lipcu 2026:
 1. Przeciętne z 12 mies. = 6 000 zł.
 2. Po odliczeniu 13,71 %: 6 000 − 822,60 = **5 177,40 zł** — to podstawa miesięczna.
@@ -68,7 +82,7 @@ Art. 36–42 i 45 stosuje się **odpowiednio** do zasiłku **macierzyńskiego, o
 | Zasiłek chorobowy (od 34. / 15. dnia) | **80 %** | płaci **ZUS** |
 | Choroba w ciąży, wypadek przy pracy / choroba zawodowa, badania dla kandydata na dawcę | **100 %** | także za pierwsze 33/14 dni |
 | Zasiłek opiekuńczy | **80 %** | art. 35 ustawy zasiłkowej |
-| Zasiłek macierzyński — pełny wniosek „z góry" (macierzyński + rodzicielski) | **81,5 %** | — |
+| Zasiłek macierzyński — pełny wniosek „z góry” (macierzyński + rodzicielski) | **81,5 %** | — |
 | Zasiłek macierzyński — sam urlop macierzyński | **100 %** | — |
 | Zasiłek rodzicielski — osobno | **70 %** | — |
 
@@ -120,6 +134,8 @@ Bazą jest **prognozowane przeciętne wynagrodzenie miesięczne na 2026 r. = 9 4
 - [Ustawa z 9.05.2025 (Dz.U. 2025 poz. 718) — zasiłek pogrzebowy 7000 zł](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000718) — tekst w bazie: `akty-prawne/custom/du-2025-718_*`
 - [Ustawa zasiłkowa — t.j. **Dz.U. 2026 poz. 854** (art. 36–47 — podstawa wymiaru)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+854) — tekst w bazie: `akty-prawne/custom/du-2026-854_*`. Poprzedni t.j. Dz.U. 2025 poz. 501 **wygasł** — nie cytować
 - [Ustawa z 13.02.2026 (Dz.U. 2026 poz. 441) — elektronizacja wniosków o zasiłki od 1.07.2026](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+441) — tekst w bazie: `akty-prawne/custom/du-2026-441_*`
+- [M.P. 2026 poz. 858 — wskaźnik waloryzacji podstawy świadczenia rehabilitacyjnego w IV kw. 2026 (100,4 %)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=MP+2026+858)
+- [Dz.U. 2026 poz. 1123 — zasiłek opiekuńczy obejmie punkty opieki dziennej i oddziały przedszkolne dopiero od 1.01.2028](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1123) — szczegóły: `wynagrodzenia/dofinansowanie-opieki-nad-dziecmi.md`
 - [ZUS — nowe wysokości składek na ubezpieczenia społeczne w 2026 r.](https://www.zus.pl)
 - [Infor.pl — składki ZUS przedsiębiorców w 2026 r. (zwykłe, preferencyjne, Mały ZUS Plus)](https://ksiegowosc.infor.pl/zus-kadry/skladki/7500894,skladki-zus-przedsiebiorcow-w-2026-r-zwykle-preferencyjne-maly-zus-plus-kwoty-i-minimalne-podstawy-wymiaru.html)
 - [PIT.pl — ZUS 2026: składki w górę](https://www.pit.pl/aktualnosci/zus-2026-skladki-w-gore-w-2026-roku-ile-zaplaca-przedsiebiorcy)

@@ -1,6 +1,6 @@
 # Baza wiedzy Janiny Kadrowej
 
-_Stan: 2026-07-08. Rok 2026._
+_Stan: 2026-09-01. Rok 2026._
 
 ## Co to jest
 
@@ -16,6 +16,7 @@ kadry/
 ├── reforma-pip-2026.md            # PIP przekształca B2B w etat (od 8.07.2026)
 ├── l4-kontrole-zus-2026.md        # nowe zasady L4 i kontroli ZUS (od 13.04.2026)
 ├── kontrola-pip-checklist.md      # jak przygotować się do kontroli PIP
+├── ai-w-hr-2026.md                # AI w rekrutacji i ocenie pracowników (AI Act + ustawa poz. 1003 + RODO)
 ├── cudzoziemcy-zatrudnienie.md    # zatrudnianie cudzoziemców (nowa ustawa od 1.06.2025)
 ├── rynek-pracy-sluzby-zatrudnienia-2025.md  # nowa ustawa od 1.06.2025 (promocja zatrudnienia UCHYLONA)
 ├── zfss.md                        # Zakładowy Fundusz Świadczeń Socjalnych (odpis 2026, kryterium socjalne)
@@ -31,7 +32,7 @@ kadry/
 ├── procedury/                     # kary-porzadkowe.md, zwolnienia-grupowe.md
 ├── rodo/                          # RODO dla HR — podstawy prawne + klauzule
 ├── wzory-umow/                    # szablony umów i pism kadrowych
-├── wynagrodzenia/                 # płaca minimalna, składki, potrącenia; zasilki-zus-2026, przyklady-wyliczen, oskladkowanie-zlecen-fakty
+├── wynagrodzenia/                 # płaca minimalna, składki, potrącenia; zasilki-zus-2026, przyklady-wyliczen, oskladkowanie-zlecen-fakty, dofinansowanie-opieki-nad-dziecmi
 ├── bhp/                           # szkolenia, badania, wypadki, kontrola-trzezwosci
 ├── urlopy/                        # wymiar, naliczanie, rodzaje
 ├── checklisty/                    # onboarding/offboarding/rekrutacja/audyt

@@ -1,6 +1,6 @@
 # Zakładowy Fundusz Świadczeń Socjalnych (ZFŚS) — kiedy trzeba, ile odpis, jak nie wpaść na ZUS
 
-_Stan: 2026-07-08. Kwota odpisu podstawowego dotyczy 2026 r. Zmiana z Dz.U. 2026 poz. 25 (reprezentacja załogi) obowiązuje od 27.01.2026._
+_Stan: 2026-09-01. Kwota odpisu podstawowego dotyczy 2026 r. Zmiana z Dz.U. 2026 poz. 25 (reprezentacja załogi) obowiązuje od 27.01.2026. Nowa definicja działalności socjalnej (Dz.U. 2026 poz. 1123) wchodzi dopiero 1.01.2028 — patrz sekcja na końcu._
 
 ## Podstawa prawna
 
@@ -12,7 +12,7 @@ _Stan: 2026-07-08. Kwota odpisu podstawowego dotyczy 2026 r. Zmiana z Dz.U. 2026
 
 ## Kto ma obowiązek tworzyć Fundusz
 
-Liczy się stan zatrudnienia **na dzień 1 stycznia** danego roku, w **przeliczeniu na pełne etaty** (nie „liczba głów"):
+Liczy się stan zatrudnienia **na dzień 1 stycznia** danego roku, w **przeliczeniu na pełne etaty** (nie „liczba głów”):
 
 | Zatrudnienie na 1 stycznia | Obowiązek |
 |---|---|
@@ -53,9 +53,9 @@ Niedotrzymanie terminu = naruszenie ustawy zagrożone **karą grzywny**, o któr
 
 ## Kryterium socjalne — najważniejsza pułapka
 
-**Przyznanie świadczeń i wysokość dopłat ZAWSZE zależy od sytuacji życiowej, rodzinnej i materialnej** osoby uprawnionej (art. 8 ust. 1). To jest **obowiązkowe** — Fundusz nie służy do wypłat „każdemu po równo".
+**Przyznanie świadczeń i wysokość dopłat ZAWSZE zależy od sytuacji życiowej, rodzinnej i materialnej** osoby uprawnionej (art. 8 ust. 1). To jest **obowiązkowe** — Fundusz nie służy do wypłat „każdemu po równo”.
 
-**Dlaczego to jest krytyczne dla kadr:** świadczenia z ZFŚS przyznane **z uwzględnieniem kryterium socjalnego** są zwolnione ze składek ZUS, a częściowo także z PIT (limity z ustawy o PIT). Jeśli pracodawca da **wszystkim tyle samo, bez różnicowania dochodem** — ZUS i US potraktują to jako zwykły przychód: **składki + pełny PIT**, z odsetkami. „Wczasy pod gruszą" czy paczki świąteczne rozdane ryczałtem to klasyczny błąd.
+**Dlaczego to jest krytyczne dla kadr:** świadczenia z ZFŚS przyznane **z uwzględnieniem kryterium socjalnego** są zwolnione ze składek ZUS, a częściowo także z PIT (limity z ustawy o PIT). Jeśli pracodawca da **wszystkim tyle samo, bez różnicowania dochodem** — ZUS i US potraktują to jako zwykły przychód: **składki + pełny PIT**, z odsetkami. „Wczasy pod gruszą” czy paczki świąteczne rozdane ryczałtem to klasyczny błąd.
 
 **Dokumentowanie dochodu:** pracodawca zbiera **oświadczenie** o sytuacji (art. 8 ust. 1a) i może żądać udokumentowania. Dane o zdrowiu z takich wniosków przetwarzają **wyłącznie osoby z pisemnym upoważnieniem**, w tajemnicy (art. 8 ust. 1b); przegląd danych **min. raz w roku** i usuwanie zbędnych (art. 8 ust. 1d).
 
@@ -77,7 +77,7 @@ Firma **< 50 etatów**, która nie tworzy Funduszu, może wypłacać **świadcze
 
 Zasady wydawania świadczeń określa **regulamin ZFŚS** (art. 8 ust. 2). Uzgadnia się go ze związkami, a gdy **związków nie ma** — z przedstawicielami załogi.
 
-**Nowość (ustawa z 4.12.2025, Dz.U. 2026 poz. 25):** przepisy mówią teraz o **pracownikach wybranych przez załogę** (liczba mnoga) zamiast jednego przedstawiciela — dotyczy to uzgadniania regulaminu ZFŚS oraz zapisów regulaminu wynagradzania o odpisie / nietworzeniu Funduszu. Szczegóły i checklist: `kodeks-pracy/10-e-wnioski-ekwiwalent-2026.md` (sekcja „(c) Zmiana w ustawie o ZFŚS").
+**Nowość (ustawa z 4.12.2025, Dz.U. 2026 poz. 25):** przepisy mówią teraz o **pracownikach wybranych przez załogę** (liczba mnoga) zamiast jednego przedstawiciela — dotyczy to uzgadniania regulaminu ZFŚS oraz zapisów regulaminu wynagradzania o odpisie / nietworzeniu Funduszu. Szczegóły i checklist: `kodeks-pracy/10-e-wnioski-ekwiwalent-2026.md` (sekcja „(c) Zmiana w ustawie o ZFŚS”).
 
 **Praktyka:** firma bez związków przy najbliższej zmianie regulaminu powinna przeprowadzić **wybór przedstawicieli załogi (nie jednej osoby)** i udokumentować uzgodnienie.
 
@@ -89,7 +89,7 @@ Zasady wydawania świadczeń określa **regulamin ZFŚS** (art. 8 ust. 2). Uzgad
 
 **Przykład 2 (odpis):** 60 etatów w warunkach normalnych, 1 stycznia 2026 r. Roczny odpis podstawowy: 60 × 2943,23 zł = **176 593,80 zł**. Do 31 maja 2026 na rachunek Funduszu trzeba przelać ≥ 75% = **132 445,35 zł**, resztę do 30 września 2026.
 
-**Przykład 3 (błąd na ZUS):** Pracodawca wypłaca z Funduszu 800 zł „na święta" **każdemu tak samo**, bez pytania o dochód. ZUS uzna to za przychód oskładkowany, bo pominięto kryterium socjalne — dopłata składek + odsetki. Poprawnie: różnicować kwoty progami dochodu na podstawie oświadczeń.
+**Przykład 3 (błąd na ZUS):** Pracodawca wypłaca z Funduszu 800 zł „na święta” **każdemu tak samo**, bez pytania o dochód. ZUS uzna to za przychód oskładkowany, bo pominięto kryterium socjalne — dopłata składek + odsetki. Poprawnie: różnicować kwoty progami dochodu na podstawie oświadczeń.
 
 ---
 
@@ -111,8 +111,22 @@ Zasady wydawania świadczeń określa **regulamin ZFŚS** (art. 8 ust. 2). Uzgad
 
 ---
 
+## 🗓️ Nowa definicja działalności socjalnej — dopiero od 1.01.2028
+
+**Ustawa z 31.07.2026 (Dz.U. 2026 poz. 1123**, ogłoszona 25.08.2026, art. 8) zmienia **art. 2 pkt 1** ustawy o ZFŚS. Zmiana wchodzi w życie **1.01.2028** — do 31.12.2027 obowiązuje brzmienie dotychczasowe.
+
+- **Dziś (do 31.12.2027):** działalność socjalna obejmuje m.in. opiekę nad dziećmi **w żłobkach, klubach dziecięcych, sprawowaną przez dziennego opiekuna lub nianię, w przedszkolach oraz innych formach wychowania przedszkolnego**.
+- **Od 1.01.2028:** w miejsce „dziennego opiekuna” pojawia się **punkt opieki dziennej**, a katalog rozszerza się o **oddziały przedszkolne w szkołach podstawowych**. Opieka niani zostaje.
+
+❌ Nie mów klientowi w 2026 r., że z ZFŚS można dofinansować „punkt opieki dziennej” — taka forma opieki jeszcze nie istnieje.
+
+Szczegóły podatkowo-składkowe dofinansowania opieki nad dziećmi (limit 1000 zł z art. 21 ust. 1 pkt 67b PIT, wyłączenie składkowe § 2 ust. 1 pkt 19 rozporządzenia składkowego): `wynagrodzenia/dofinansowanie-opieki-nad-dziecmi.md`.
+
+---
+
 ## Źródła
 - [Ustawa o ZFŚS — TJ Dz.U. 2024 poz. 288](https://eli.gov.pl/eli/DU/2024/288/ogl) — tekst w bazie: `akty-prawne/custom/du-2024-288_*`
+- [Dz.U. 2026 poz. 1123 — nowa definicja działalności socjalnej od 1.01.2028](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=DU+2026+1123) — tekst w bazie: `akty-prawne/custom/du-2026-1123_*`
 - [Ustawa z 4.12.2025, Dz.U. 2026 poz. 25](https://eli.gov.pl/eli/DU/2026/25/ogl) — reprezentacja załogi; tekst w bazie: `akty-prawne/custom/du-2026-25_*`
 - [Odpis na ZFŚS 2026 — prawo.pl](https://www.prawo.pl/kadry/odpis-na-zfss-2026-r,1540752.html) (podstawa 7848,60 zł, odpis 2943,23 zł)
 - [Odpisy na ZFŚS — wskaźniki Gofin](https://wskazniki.gofin.pl/wskaznik/110/odpisy-na-zfss)
